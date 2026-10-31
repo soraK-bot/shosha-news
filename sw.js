@@ -1,6 +1,6 @@
 /* 商社就活ニュース 簡易サービスワーカー
    画面の枠組みはキャッシュして素早く開き、ニュースデータ(news.json)は常に最新を取りに行く。 */
-var CACHE = "shosha-news-v5";
+var CACHE = "shosha-news-v6";
 var SHELL = ["./", "./index.html", "./manifest.webmanifest", "./icon.svg"];
 
 self.addEventListener("install", function(e){
