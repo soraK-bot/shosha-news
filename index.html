@@ -129,22 +129,140 @@
     padding-block:0 32px;line-height:1.7}
 
   @media (prefers-reduced-motion:reduce){*{transition:none!important}}
+
+  /* ===== Phase A 追加分 ===== */
+  :root{--danger:#b5462f}
+  @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--danger:#e3937a}}
+  :root[data-theme="dark"]{--danger:#e3937a}
+
+  /* 下部メニュー分の余白を確保 */
+  main{padding-bottom:calc(78px + env(safe-area-inset-bottom,0px))}
+  .view[hidden]{display:none!important}
+
+  /* 記事カードの操作ボタン */
+  .card .actions{display:flex;align-items:center;gap:8px;margin-top:2px;flex-wrap:wrap}
+  .act{border:1px solid var(--line);background:var(--surface-2);color:var(--fg);
+    border-radius:9px;padding:6px 12px;font-size:.82rem;font-weight:500;cursor:pointer;
+    font-family:inherit;display:inline-flex;align-items:center;gap:5px}
+  .act:hover{border-color:var(--accent)}
+  .act:focus-visible{outline:2px solid var(--accent-ink);outline-offset:1px}
+  .act.saved{background:var(--accent);border-color:var(--accent);color:#fff}
+  .act .ic{font-size:.95rem;line-height:1}
+  .card .saved-in{font-size:.74rem;color:var(--muted);display:flex;gap:6px;flex-wrap:wrap;
+    align-items:center}
+  .card .saved-in b{color:var(--accent-ink);font-weight:600}
+  .memo-dot{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--accent-ink)}
+
+  /* 「準備中」カード */
+  .soon{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);
+    padding:26px 18px;text-align:center;color:var(--muted);margin-top:8px}
+  .soon h2{font-family:var(--font-display);color:var(--fg);font-size:1.05rem;margin:0 0 8px}
+  .soon p{margin:4px 0;font-size:.9rem;line-height:1.7}
+
+  /* スクラップ一覧 */
+  .panel-head{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:2px 0 14px}
+  .pbtn{border:1px solid var(--line);background:var(--surface-2);color:var(--fg);
+    border-radius:10px;padding:8px 14px;font-size:.86rem;font-weight:600;cursor:pointer;
+    font-family:inherit;display:inline-flex;align-items:center;gap:6px}
+  .pbtn.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+  .pbtn:focus-visible{outline:2px solid var(--accent-ink);outline-offset:1px}
+  .pbtn.ghost{background:transparent}
+  .pbtn.danger{color:var(--danger);border-color:var(--danger)}
+
+  .scrap-card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);
+    padding:15px;display:flex;align-items:center;justify-content:space-between;gap:12px;
+    cursor:pointer;min-width:0}
+  .scrap-card:hover{border-color:var(--accent)}
+  .scrap-card .sc-name{font-family:var(--font-display);font-weight:700;font-size:1rem;
+    min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .scrap-card .sc-count{flex:0 0 auto;font-size:.8rem;color:var(--muted);
+    font-variant-numeric:tabular-nums}
+  .scrap-card.system{border-style:dashed}
+
+  .detail-head{display:flex;align-items:center;gap:10px;margin:0 0 14px}
+  .detail-head h2{font-family:var(--font-display);font-size:1.1rem;margin:0;flex:1;
+    min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .iconbtn{border:1px solid var(--line);background:var(--surface-2);color:var(--fg);
+    border-radius:9px;width:38px;height:38px;flex:0 0 auto;cursor:pointer;font-size:1rem;
+    display:inline-flex;align-items:center;justify-content:center;font-family:inherit}
+  .iconbtn:focus-visible{outline:2px solid var(--accent-ink);outline-offset:1px}
+
+  .hint{font-size:.78rem;color:var(--muted);line-height:1.7;margin:10px 2px 0}
+
+  /* 下部タブバー */
+  .tabbar{position:fixed;left:0;right:0;bottom:0;z-index:25;
+    background:var(--surface);border-top:1px solid var(--line);
+    display:flex;
+    padding-bottom:env(safe-area-inset-bottom,0px);
+    padding-left:env(safe-area-inset-left,0px);
+    padding-right:env(safe-area-inset-right,0px)}
+  .tabbar button{flex:1;background:none;border:0;cursor:pointer;font-family:inherit;
+    color:var(--muted);padding:9px 2px 8px;display:flex;flex-direction:column;
+    align-items:center;gap:3px;font-size:.68rem;font-weight:500}
+  .tabbar button .ti{width:23px;height:23px;display:block}
+  .tabbar button[aria-current="true"]{color:var(--accent-ink)}
+  .tabbar button:focus-visible{outline:2px solid var(--accent-ink);outline-offset:-3px}
+
+  /* ボトムシート（記事の保存・メモ / バックアップ） */
+  .sheet-host{position:fixed;inset:0;z-index:40;display:flex;align-items:flex-end;
+    justify-content:center}
+  .sheet-host[hidden]{display:none!important}
+  .sheet-bg{position:absolute;inset:0;background:rgba(10,14,20,.5)}
+  .sheet{position:relative;background:var(--bg);width:100%;max-width:var(--maxw);
+    max-height:90vh;overflow-y:auto;border-radius:18px 18px 0 0;
+    padding:16px max(16px,env(safe-area-inset-left,0px))
+      calc(20px + env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-right,0px));
+    animation:slideup .22s ease}
+  @keyframes slideup{from{transform:translateY(100%)}to{transform:translateY(0)}}
+  @media (prefers-reduced-motion:reduce){.sheet{animation:none}}
+  .sheet .grip{width:40px;height:4px;border-radius:2px;background:var(--line);
+    margin:0 auto 14px}
+  .sheet h3{font-family:var(--font-display);font-size:1.02rem;margin:0 0 4px;line-height:1.45}
+  .sheet .s-src{font-size:.76rem;color:var(--muted);margin:0 0 16px}
+  .sheet .s-sec{margin:0 0 18px}
+  .sheet .s-sec > .lbl{font-size:.82rem;font-weight:700;color:var(--fg);display:block;
+    margin:0 0 9px;font-family:var(--font-display)}
+  .scrap-opts{display:flex;flex-direction:column;gap:8px}
+  .opt{display:flex;align-items:center;gap:10px;background:var(--surface);
+    border:1px solid var(--line);border-radius:10px;padding:10px 12px;cursor:pointer}
+  .opt input{width:19px;height:19px;flex:0 0 auto;accent-color:var(--accent)}
+  .opt span{font-size:.9rem;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .newscrap{display:flex;gap:8px;margin-top:4px}
+  .newscrap input{flex:1;min-width:0;border:1px solid var(--line);border-radius:10px;
+    padding:9px 11px;font-size:.9rem;font-family:inherit;background:var(--surface);color:var(--fg)}
+  .newscrap input:focus{outline:2px solid var(--accent-ink);outline-offset:-1px}
+  .memo-field{margin-bottom:12px}
+  .memo-field label{font-size:.8rem;color:var(--muted);display:block;margin:0 0 5px}
+  .memo-field textarea{width:100%;border:1px solid var(--line);border-radius:10px;
+    padding:10px 12px;font-size:.92rem;font-family:inherit;background:var(--surface);
+    color:var(--fg);resize:vertical;min-height:58px;line-height:1.6}
+  .memo-field textarea:focus{outline:2px solid var(--accent-ink);outline-offset:-1px}
+  .sheet-actions{display:flex;gap:10px;margin-top:6px}
+  .sheet-actions .pbtn{flex:1;justify-content:center;padding:12px}
+  .backup-area{width:100%;border:1px solid var(--line);border-radius:10px;padding:11px;
+    font-size:.82rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;
+    background:var(--surface);color:var(--fg);min-height:120px;resize:vertical;line-height:1.5}
+  .toast{position:fixed;left:50%;bottom:calc(86px + env(safe-area-inset-bottom,0px));
+    transform:translateX(-50%);background:var(--fg);color:var(--bg);padding:9px 16px;
+    border-radius:10px;font-size:.84rem;z-index:50;opacity:0;transition:opacity .2s;
+    pointer-events:none;max-width:88%;text-align:center}
+  .toast.show{opacity:.96}
 </style>
 
 <header>
   <div class="head-inner">
     <div class="brand">
-      <h1>商社就活ニュース</h1>
+      <h1 id="viewTitle">商社就活ニュース</h1>
       <span class="meta" id="meta"></span>
     </div>
-    <div class="search">
+    <div class="search" id="searchBox">
       <svg viewBox="0 0 24 24" fill="none" stroke="#5b6472" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4-4"/></svg>
       <input id="q" type="search" placeholder="キーワードで検索（社名・事業・メディア）" autocomplete="off">
     </div>
   </div>
 </header>
 
-<div class="filters">
+<div class="filters" id="filters">
   <div class="wrap">
     <div class="chip-row" id="companyRow" role="group" aria-label="会社で絞り込み"></div>
     <div class="tag-wrap"><div class="chip-row tag-row" id="tagRow" role="group" aria-label="タグで絞り込み"></div></div>
@@ -152,11 +270,54 @@
 </div>
 
 <main>
-  <div class="count" id="count"></div>
-  <div class="list" id="list"></div>
+  <section id="view-news" class="view">
+    <div class="count" id="count"></div>
+    <div class="list" id="list"></div>
+    <footer id="foot"></footer>
+  </section>
+
+  <section id="view-scraps" class="view" hidden>
+    <div id="scrapsPanel"></div>
+  </section>
+
+  <section id="view-digest" class="view" hidden>
+    <div class="soon">
+      <h2>週次ダイジェスト（準備中）</h2>
+      <p>毎週の重要ニュースを、冒頭に全社の上位5件、その下に会社別で自動表示します。</p>
+      <p>次の段階（B）で追加します。</p>
+    </div>
+  </section>
+
+  <section id="view-companies" class="view" hidden>
+    <div class="soon">
+      <h2>個社研究（準備中）</h2>
+      <p>各社の基本情報・経営理念・採用スローガン・中期経営計画などをまとめて見られるページです。</p>
+      <p>次の次の段階（C）で追加します。</p>
+    </div>
+  </section>
 </main>
 
-<footer id="foot"></footer>
+<nav class="tabbar" id="tabbar" aria-label="メニュー">
+  <button data-view="news" aria-current="true">
+    <svg class="ti" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 5h16v14H4z"/><path d="M8 9h8M8 13h8M8 17h5"/></svg>
+    ニュース
+  </button>
+  <button data-view="scraps">
+    <svg class="ti" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M6 4h12v16l-6-4-6 4z"/></svg>
+    スクラップ
+  </button>
+  <button data-view="digest">
+    <svg class="ti" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 6h16M4 12h16M4 18h10"/></svg>
+    ダイジェスト
+  </button>
+  <button data-view="companies">
+    <svg class="ti" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 20V8l6-4 6 4v12M4 20h12M9 20v-4h2v4M8 11h.5M12 11h.5M8 14h.5M12 14h.5"/><path d="M16 20h4V12l-4-2"/></svg>
+    企業
+  </button>
+</nav>
+
+<div class="sheet-host" id="sheetHost" hidden></div>
+<div class="toast" id="toast" role="status"></div>
 
 <script id="fallback" type="application/json">
 {"updated_at":"2026-10-31T02:00:00+00:00","sample":true,"companies":[{"id":"mitsubishi","name":"三菱商事","category":"総合"},{"id":"mitsui","name":"三井物産","category":"総合"},{"id":"itochu","name":"伊藤忠商事","category":"総合"},{"id":"sumitomo","name":"住友商事","category":"総合"},{"id":"marubeni","name":"丸紅","category":"総合"},{"id":"toyotatsusho","name":"豊田通商","category":"総合"},{"id":"sojitz","name":"双日","category":"総合"},{"id":"kanematsu","name":"兼松","category":"専門"},{"id":"benichu","name":"伊藤忠丸紅鉄鋼","category":"専門"},{"id":"nagase","name":"長瀬産業","category":"専門"},{"id":"metalone","name":"メタルワン","category":"専門"},{"id":"jfeshoji","name":"JFE商事","category":"専門"}],"tags":["決算","業績予想","株主還元","投資","M&A","提携","資源","脱炭素","DX","新規事業","海外","食料","人事","サステナ","就活"],"articles":[{"id":"s01","title":"三菱商事、2026年3月期の純利益見通しを上方修正 資源高が追い風","url":"https://news.google.com/","source":"日本経済新聞","published":"2026-10-31T01:10:00+00:00","company_ids":["mitsubishi"],"tags":["決算","業績予想","資源"],"summary":"三菱商事が通期の最終利益予想を引き上げた。原油・LNGなど資源価格の上昇が利益を押し上げる見通し。"},{"id":"s02","title":"三菱商事と三井物産、洋上風力で協業 脱炭素電源を共同開発へ","url":"https://news.google.com/","source":"NHK","published":"2026-10-30T23:30:00+00:00","company_ids":["mitsubishi","mitsui"],"tags":["提携","脱炭素","新規事業"],"summary":"両社が再生可能エネルギー分野で合弁会社を設立。国内外の洋上風力と水素事業の拡大を狙う。"},{"id":"s03","title":"伊藤忠商事、ローソンのDXを強化 生成AIで需要予測を本格導入","url":"https://news.google.com/","source":"産経新聞","published":"2026-10-30T08:00:00+00:00","company_ids":["itochu"],"tags":["DX","食料","新規事業"],"summary":"伊藤忠がローソンの店舗運営に生成AIを導入。発注や在庫の最適化で食品ロス削減を図る。"},{"id":"s04","title":"住友商事、北米の銅鉱山権益を追加取得 EV向け需要を見込む","url":"https://news.google.com/","source":"ロイター","published":"2026-10-29T12:00:00+00:00","company_ids":["sumitomo"],"tags":["投資","資源","海外"],"summary":"住友商事が北米の銅鉱山の権益を買い増し。EVや送電網向けの銅需要拡大に対応する。"},{"id":"s05","title":"丸紅、インドで大型太陽光発電所を稼働 再エネ事業を拡大","url":"https://news.google.com/","source":"日経","published":"2026-10-29T06:30:00+00:00","company_ids":["marubeni"],"tags":["脱炭素","海外","投資"],"summary":"丸紅がインドで太陽光発電所の稼働を開始。アジアでの再生可能エネルギー事業を強化する。"},{"id":"s06","title":"伊藤忠商事、2026年3月期は過去最高益へ 非資源が牽引","url":"https://news.google.com/","source":"ブルームバーグ","published":"2026-10-28T22:00:00+00:00","company_ids":["itochu"],"tags":["決算","業績予想","株主還元"],"summary":"伊藤忠が通期で過去最高益となる見通し。生活消費分野など非資源事業が利益を支える。"},{"id":"s07","title":"双日、航空機リース事業を強化 欧州企業と提携","url":"https://news.google.com/","source":"時事通信","published":"2026-10-28T10:00:00+00:00","company_ids":["sojitz"],"tags":["提携","海外","新規事業"],"summary":"双日が欧州の航空関連企業と提携し、航空機リース事業を拡大。アジア路線の需要回復を取り込む。"},{"id":"s08","title":"豊田通商、アフリカでEV充電網を整備 現地企業と合弁","url":"https://news.google.com/","source":"日刊自動車新聞","published":"2026-10-27T09:00:00+00:00","company_ids":["toyotatsusho"],"tags":["脱炭素","海外","提携"],"summary":"豊田通商がアフリカでEV充電インフラを整備。現地企業と合弁会社を設立し電動化を支援する。"},{"id":"s09","title":"三井物産、米国の医療データ事業に出資 ヘルスケアを成長領域に","url":"https://news.google.com/","source":"日本経済新聞","published":"2026-10-27T01:00:00+00:00","company_ids":["mitsui"],"tags":["投資","海外","DX","新規事業"],"summary":"三井物産が米医療データ企業に出資。ヘルスケアを次の収益柱に育てる方針。"},{"id":"s10","title":"メタルワン、電磁鋼板の供給体制を拡充 EVモーター需要に対応","url":"https://news.google.com/","source":"鉄鋼新聞","published":"2026-10-26T07:00:00+00:00","company_ids":["metalone"],"tags":["投資","資源"],"summary":"鉄鋼商社のメタルワンがEVモーター向け電磁鋼板の供給を強化。国内外で加工拠点を増やす。"},{"id":"s11","title":"長瀬産業、半導体材料の新工場を国内に建設 生成AI需要を追う","url":"https://news.google.com/","source":"化学工業日報","published":"2026-10-25T05:00:00+00:00","company_ids":["nagase"],"tags":["投資","DX","新規事業"],"summary":"長瀬産業が半導体材料の新工場を国内に建設。データセンター向けの需要増に備える。"},{"id":"s12","title":"兼松、食品トレーサビリティでDX事業を開始 農業分野に参入","url":"https://news.google.com/","source":"日経産業新聞","published":"2026-10-24T08:00:00+00:00","company_ids":["kanematsu"],"tags":["DX","食料","新規事業"],"summary":"兼松が食品の流通管理をデジタル化する新事業を開始。農業分野への参入を進める。"},{"id":"s13","title":"JFE商事、東南アジアで建材流通を拡大 現地商社を買収","url":"https://news.google.com/","source":"鉄鋼新聞","published":"2026-10-23T10:00:00+00:00","company_ids":["jfeshoji"],"tags":["M&A","海外","投資"],"summary":"JFE商事が東南アジアの建材流通企業を買収。成長市場での鋼材販売網を広げる。"},{"id":"s14","title":"伊藤忠丸紅鉄鋼、脱炭素鋼材の取引を本格化 グリーンスチール供給","url":"https://news.google.com/","source":"鉄鋼新聞","published":"2026-10-22T06:00:00+00:00","company_ids":["benichu"],"tags":["脱炭素","資源","新規事業"],"summary":"伊藤忠丸紅鉄鋼がCO2排出を抑えたグリーンスチールの取引を拡大。製造業の脱炭素需要に応える。"},{"id":"s15","title":"総合商社5社、初任給を引き上げ 人材獲得競争が激化","url":"https://news.google.com/","source":"東洋経済","published":"2026-10-21T09:00:00+00:00","company_ids":["mitsubishi","mitsui","itochu","sumitomo","marubeni"],"tags":["就活","人事"],"summary":"大手総合商社が相次いで初任給を引き上げ。優秀な人材の確保に向けた競争が強まっている。"},{"id":"s16","title":"三菱商事、社長交代を発表 次期社長に専務が昇格","url":"https://news.google.com/","source":"共同通信","published":"2026-10-20T07:00:00+00:00","company_ids":["mitsubishi"],"tags":["人事"],"summary":"三菱商事が社長交代を発表。来春に専務が新社長に就任し、経営体制を刷新する。"}]}
@@ -168,6 +329,8 @@
   var DATA = null;
   var state = { scope:"all", tag:null, q:"" };
   var companyMap = {};
+  var currentView = "news";
+  var scrapView = { mode:"list", scrapId:null };  // list | detail | backup
 
   function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){
     return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
@@ -188,9 +351,91 @@
     catch(e){ return {companies:[],tags:[],articles:[]}; }
   }
 
+  /* =========================================================
+     保存データ（スクラップ＆メモ）: iPhone内の localStorage に保存
+     ========================================================= */
+  var STORE_KEY = "shosha_store_v1";
+  var STORE = { v:1, scraps:[], items:{} };
+  var storageOK = true;
+
+  function loadStore(){
+    try{
+      var raw = localStorage.getItem(STORE_KEY);
+      if(raw){ var p=JSON.parse(raw); if(p && typeof p==="object"){
+        STORE = { v:1, scraps:p.scraps||[], items:p.items||{} };
+      }}
+    }catch(e){ storageOK=false; }
+  }
+  function saveStore(){
+    try{ localStorage.setItem(STORE_KEY, JSON.stringify(STORE)); }
+    catch(e){ storageOK=false; toast("保存できませんでした（端末の設定をご確認ください）"); }
+  }
+  function uid(){ return "x"+Date.now().toString(36)+Math.random().toString(36).slice(2,6); }
+
+  function emptyMemo(){ return {opinion:"",talk:"",question:"",other:""}; }
+  function memoHasText(m){ return !!(m && (m.opinion||m.talk||m.question||m.other)); }
+
+  function getItem(id){ return STORE.items[id]||null; }
+  function ensureItem(art){
+    if(!STORE.items[art.id]){
+      STORE.items[art.id] = {
+        art:{id:art.id,title:art.title,url:art.url,source:art.source,
+             published:art.published,company_ids:art.company_ids||[],
+             tags:art.tags||[],summary:art.summary||""},
+        scraps:[], memo:emptyMemo(), savedAt:new Date().toISOString()
+      };
+    } else {
+      STORE.items[art.id].art = {id:art.id,title:art.title,url:art.url,source:art.source,
+        published:art.published,company_ids:art.company_ids||[],tags:art.tags||[],summary:art.summary||""};
+    }
+    return STORE.items[art.id];
+  }
+  function cleanupItem(id){
+    var it=STORE.items[id];
+    if(it && it.scraps.length===0 && !memoHasText(it.memo)) delete STORE.items[id];
+  }
+  function createScrap(name){
+    var s={id:uid(),name:name||"無題のスクラップ",created:new Date().toISOString()};
+    STORE.scraps.push(s); saveStore(); return s.id;
+  }
+  function renameScrap(id,name){
+    var s=STORE.scraps.find(function(x){return x.id===id;}); if(s){s.name=name;saveStore();}
+  }
+  function deleteScrap(id){
+    STORE.scraps = STORE.scraps.filter(function(x){return x.id!==id;});
+    Object.keys(STORE.items).forEach(function(k){
+      var it=STORE.items[k];
+      it.scraps = it.scraps.filter(function(sid){return sid!==id;});
+      cleanupItem(k);
+    });
+    saveStore();
+  }
+  function scrapName(id){ var s=STORE.scraps.find(function(x){return x.id===id;}); return s?s.name:""; }
+  function scrapCount(id){
+    return Object.keys(STORE.items).filter(function(k){
+      return STORE.items[k].scraps.indexOf(id)>=0; }).length;
+  }
+  function itemsInScrap(id){
+    return Object.keys(STORE.items).map(function(k){return STORE.items[k];})
+      .filter(function(it){return it.scraps.indexOf(id)>=0;})
+      .sort(function(a,b){return new Date(b.art.published)-new Date(a.art.published);});
+  }
+  function memoOnlyItems(){
+    return Object.keys(STORE.items).map(function(k){return STORE.items[k];})
+      .filter(function(it){return it.scraps.length===0 && memoHasText(it.memo);})
+      .sort(function(a,b){return new Date(b.art.published)-new Date(a.art.published);});
+  }
+
+  function toast(msg){
+    var t=document.getElementById("toast");
+    t.textContent=msg; t.classList.add("show");
+    clearTimeout(t._t); t._t=setTimeout(function(){t.classList.remove("show");},2200);
+  }
+
   function boot(data){
     DATA = data || loadFallback();
     (DATA.companies||[]).forEach(function(c){ companyMap[c.id]=c; });
+    loadStore();
     renderChrome();
     render();
   }
@@ -329,12 +574,354 @@
       a.tags.forEach(function(tag){
         var b=document.createElement("button");
         b.className="htag"; b.textContent="#"+tag;
-        b.onclick=function(){ state.tag=tag; window.scrollTo({top:0,behavior:"smooth"}); render(); };
+        b.onclick=function(){ goNews(); state.tag=tag; window.scrollTo({top:0,behavior:"smooth"}); render(); };
         ht.appendChild(b);
       });
       el.appendChild(ht);
     }
+
+    // 保存・メモの操作
+    var it=getItem(a.id);
+    var actions=document.createElement("div"); actions.className="actions";
+    var btn=document.createElement("button"); btn.className="act";
+    var saved = it && it.scraps.length>0;
+    if(saved){ btn.classList.add("saved"); btn.innerHTML='<span class="ic">★</span>保存済み'; }
+    else { btn.innerHTML='<span class="ic">☆</span>保存・メモ'; }
+    btn.onclick=function(){ openSheet(a); };
+    actions.appendChild(btn);
+    if(it && memoHasText(it.memo)){
+      var m=document.createElement("span"); m.className="saved-in";
+      m.innerHTML='<span class="memo-dot"></span>メモあり';
+      actions.appendChild(m);
+    }
+    el.appendChild(actions);
+
+    if(saved){
+      var si=document.createElement("div"); si.className="saved-in";
+      si.innerHTML="保存先: "+it.scraps.map(function(sid){return '<b>'+esc(scrapName(sid))+'</b>';}).join("、");
+      el.appendChild(si);
+    }
     return el;
+  }
+
+  /* 保存済みスナップショットからカードを描く（フィードから消えても表示できる） */
+  function cardFromItem(it){ return card(it.art); }
+
+  /* =========================================================
+     ビュー切り替え（下部メニュー）
+     ========================================================= */
+  var VIEW_TITLES = {news:"商社就活ニュース",scraps:"スクラップ",digest:"週次ダイジェスト",companies:"個社研究"};
+
+  function setView(v){
+    currentView=v;
+    ["news","scraps","digest","companies"].forEach(function(name){
+      document.getElementById("view-"+name).hidden = (name!==v);
+    });
+    document.getElementById("viewTitle").textContent = VIEW_TITLES[v];
+    // ニュース画面だけ 検索・絞り込みを表示
+    var onNews = (v==="news");
+    document.getElementById("searchBox").hidden = !onNews;
+    document.getElementById("filters").hidden = !onNews;
+    // タブの選択状態
+    document.querySelectorAll("#tabbar button").forEach(function(b){
+      b.setAttribute("aria-current", b.getAttribute("data-view")===v ? "true":"false");
+    });
+    try{ location.hash = v; }catch(e){}
+    window.scrollTo({top:0});
+    if(v==="news") render();
+    if(v==="scraps") renderScraps();
+  }
+  function goNews(){ if(currentView!=="news") setView("news"); }
+
+  document.querySelectorAll("#tabbar button").forEach(function(b){
+    b.addEventListener("click",function(){ setView(b.getAttribute("data-view")); });
+  });
+
+  /* =========================================================
+     スクラップ画面
+     ========================================================= */
+  function renderScraps(){
+    var panel=document.getElementById("scrapsPanel");
+    panel.innerHTML="";
+    if(scrapView.mode==="detail"){ renderScrapDetail(panel); return; }
+    if(scrapView.mode==="backup"){ renderBackup(panel); return; }
+
+    // 一覧
+    var head=document.createElement("div"); head.className="panel-head";
+    var add=document.createElement("button"); add.className="pbtn primary";
+    add.innerHTML="＋ 新しいスクラップ";
+    add.onclick=function(){
+      openInputSheet("スクラップの名前を入力","",function(name){
+        createScrap((name||"").trim()||"無題のスクラップ"); renderScraps();
+      });
+    };
+    var bk=document.createElement("button"); bk.className="pbtn ghost";
+    bk.innerHTML="バックアップ";
+    bk.onclick=function(){ scrapView.mode="backup"; renderScraps(); };
+    head.appendChild(add); head.appendChild(bk);
+    panel.appendChild(head);
+
+    if(!storageOK){
+      var warn=document.createElement("div"); warn.className="soon";
+      warn.innerHTML="<p>この端末ではデータを保存できない設定になっています。プライベートブラウズを解除するか、ホーム画面に追加したアプリから開いてください。</p>";
+      panel.appendChild(warn);
+    }
+
+    if(STORE.scraps.length===0 && memoOnlyItems().length===0){
+      var e=document.createElement("div"); e.className="soon";
+      e.innerHTML="<h2>まだスクラップがありません</h2>"+
+        "<p>「ニュース」画面で記事の「☆ 保存・メモ」を押すと、ここに保存できます。</p>"+
+        "<p>用途ごとに名前を付けて、複数のスクラップを使い分けられます。</p>";
+      panel.appendChild(e);
+    }
+
+    var list=document.createElement("div"); list.className="list";
+    STORE.scraps.forEach(function(s){
+      var c=document.createElement("div"); c.className="scrap-card"; c.tabIndex=0;
+      c.innerHTML='<span class="sc-name">'+esc(s.name)+'</span><span class="sc-count">'+scrapCount(s.id)+' 件</span>';
+      c.onclick=function(){ scrapView={mode:"detail",scrapId:s.id}; renderScraps(); };
+      c.onkeydown=function(ev){ if(ev.key==="Enter"){c.click();} };
+      list.appendChild(c);
+    });
+    var mo=memoOnlyItems();
+    if(mo.length){
+      var c=document.createElement("div"); c.className="scrap-card system"; c.tabIndex=0;
+      c.innerHTML='<span class="sc-name">メモのみ（スクラップ未分類）</span><span class="sc-count">'+mo.length+' 件</span>';
+      c.onclick=function(){ scrapView={mode:"detail",scrapId:"__memo__"}; renderScraps(); };
+      c.onkeydown=function(ev){ if(ev.key==="Enter"){c.click();} };
+      list.appendChild(c);
+    }
+    panel.appendChild(list);
+  }
+
+  function renderScrapDetail(panel){
+    var isMemo = scrapView.scrapId==="__memo__";
+    var head=document.createElement("div"); head.className="detail-head";
+    var back=document.createElement("button"); back.className="iconbtn"; back.innerHTML="←";
+    back.setAttribute("aria-label","戻る");
+    back.onclick=function(){ scrapView={mode:"list",scrapId:null}; renderScraps(); };
+    var h=document.createElement("h2");
+    h.textContent = isMemo ? "メモのみ（未分類）" : scrapName(scrapView.scrapId);
+    head.appendChild(back); head.appendChild(h);
+
+    if(!isMemo){
+      var ren=document.createElement("button"); ren.className="iconbtn"; ren.innerHTML="✎";
+      ren.setAttribute("aria-label","名前を変更");
+      ren.onclick=function(){
+        openInputSheet("新しい名前",scrapName(scrapView.scrapId),function(name){
+          renameScrap(scrapView.scrapId,(name||"").trim()||"無題のスクラップ"); renderScraps();
+        });
+      };
+      var del=document.createElement("button"); del.className="iconbtn"; del.innerHTML="🗑";
+      del.setAttribute("aria-label","削除"); del.style.color="var(--danger)";
+      del.onclick=function(){
+        confirmLine("このスクラップを削除しますか？（記事のメモは残ります）",function(){
+          deleteScrap(scrapView.scrapId); scrapView={mode:"list",scrapId:null}; renderScraps();
+          toast("スクラップを削除しました");
+        });
+      };
+      head.appendChild(ren); head.appendChild(del);
+    }
+    panel.appendChild(head);
+
+    var items = isMemo ? memoOnlyItems() : itemsInScrap(scrapView.scrapId);
+    if(items.length===0){
+      var e=document.createElement("div"); e.className="soon";
+      e.innerHTML="<p>この中にはまだ記事がありません。</p>";
+      panel.appendChild(e);
+      return;
+    }
+    var list=document.createElement("div"); list.className="list";
+    items.forEach(function(it){ list.appendChild(cardFromItem(it)); });
+    panel.appendChild(list);
+  }
+
+  /* =========================================================
+     バックアップ（コピー／貼り付けで復元）
+     ========================================================= */
+  function renderBackup(panel){
+    var head=document.createElement("div"); head.className="detail-head";
+    var back=document.createElement("button"); back.className="iconbtn"; back.innerHTML="←";
+    back.setAttribute("aria-label","戻る");
+    back.onclick=function(){ scrapView={mode:"list",scrapId:null}; renderScraps(); };
+    var h=document.createElement("h2"); h.textContent="バックアップ";
+    head.appendChild(back); head.appendChild(h);
+    panel.appendChild(head);
+
+    panel.insertAdjacentHTML("beforeend",
+      '<p class="hint">スマホを買い替えたときや、データが消えたときのための控えです。'+
+      '下の文字を全部コピーして、メモアプリなどに保存しておいてください。</p>');
+
+    var ta=document.createElement("textarea"); ta.className="backup-area"; ta.readOnly=true;
+    ta.value=JSON.stringify(STORE);
+    panel.appendChild(ta);
+
+    var row=document.createElement("div"); row.className="sheet-actions";
+    var copy=document.createElement("button"); copy.className="pbtn primary"; copy.textContent="コピーする";
+    copy.onclick=function(){
+      var done=function(){ toast("コピーしました"); };
+      if(navigator.clipboard && navigator.clipboard.writeText){
+        navigator.clipboard.writeText(ta.value).then(done).catch(function(){ ta.select(); toast("長押しでコピーしてください"); });
+      } else { ta.select(); toast("長押しでコピーしてください"); }
+    };
+    row.appendChild(copy);
+    panel.appendChild(row);
+
+    panel.insertAdjacentHTML("beforeend",
+      '<p class="hint" style="margin-top:22px">控えから戻すとき: 保存しておいた文字を下の欄に貼り付けて「読み込む」を押してください。'+
+      '<br><b>今の内容は上書きされます。</b></p>');
+    var imp=document.createElement("textarea"); imp.className="backup-area";
+    imp.placeholder="ここにバックアップの文字を貼り付け";
+    panel.appendChild(imp);
+    var row2=document.createElement("div"); row2.className="sheet-actions";
+    var load=document.createElement("button"); load.className="pbtn danger"; load.textContent="読み込む（上書き）";
+    load.onclick=function(){
+      var val=imp.value.trim(); if(!val){ toast("貼り付けてください"); return; }
+      var parsed; try{ parsed=JSON.parse(val); }catch(e){ toast("うまく読み取れませんでした"); return; }
+      if(!parsed || typeof parsed!=="object" || !("items" in parsed)){ toast("バックアップの形式ではありません"); return; }
+      confirmLine("今の保存内容を、貼り付けた内容で上書きします。よろしいですか？",function(){
+        STORE={v:1,scraps:parsed.scraps||[],items:parsed.items||{}}; saveStore();
+        scrapView={mode:"list",scrapId:null}; renderScraps(); toast("読み込みました");
+      });
+    };
+    row2.appendChild(load);
+    panel.appendChild(row2);
+  }
+
+  /* =========================================================
+     ボトムシート（記事の保存・メモ）
+     ========================================================= */
+  var sheetHost=document.getElementById("sheetHost");
+
+  function closeSheet(){ sheetHost.hidden=true; sheetHost.innerHTML=""; }
+
+  function openSheet(art){
+    var it=getItem(art.id);
+    var checked = it ? it.scraps.slice() : [];
+    var memo = it ? Object.assign(emptyMemo(), it.memo) : emptyMemo();
+
+    sheetHost.innerHTML="";
+    var bg=document.createElement("div"); bg.className="sheet-bg"; bg.onclick=closeSheet;
+    var sheet=document.createElement("div"); sheet.className="sheet";
+    sheetHost.appendChild(bg); sheetHost.appendChild(sheet);
+
+    sheet.innerHTML='<div class="grip"></div>'+
+      '<h3>'+esc(art.title)+'</h3>'+
+      '<p class="s-src">'+esc(art.source||"")+'</p>';
+
+    // スクラップ選択
+    var sec1=document.createElement("div"); sec1.className="s-sec";
+    sec1.innerHTML='<span class="lbl">スクラップに保存</span>';
+    var opts=document.createElement("div"); opts.className="scrap-opts"; opts.id="scrapOpts";
+    sec1.appendChild(opts);
+    function drawOpts(){
+      opts.innerHTML="";
+      if(STORE.scraps.length===0){
+        opts.insertAdjacentHTML("beforeend",'<p class="hint" style="margin:0">まだスクラップがありません。下で新しく作れます。</p>');
+      }
+      STORE.scraps.forEach(function(s){
+        var lab=document.createElement("label"); lab.className="opt";
+        var cb=document.createElement("input"); cb.type="checkbox"; cb.value=s.id;
+        cb.checked = checked.indexOf(s.id)>=0;
+        cb.onchange=function(){
+          if(cb.checked){ if(checked.indexOf(s.id)<0) checked.push(s.id); }
+          else { checked=checked.filter(function(x){return x!==s.id;}); }
+        };
+        var sp=document.createElement("span"); sp.textContent=s.name;
+        lab.appendChild(cb); lab.appendChild(sp); opts.appendChild(lab);
+      });
+    }
+    drawOpts();
+    var ns=document.createElement("div"); ns.className="newscrap";
+    var nsin=document.createElement("input"); nsin.type="text"; nsin.placeholder="新しいスクラップ名";
+    var nsb=document.createElement("button"); nsb.className="pbtn"; nsb.textContent="作成";
+    nsb.onclick=function(){
+      var nm=nsin.value.trim(); if(!nm) return;
+      var id=createScrap(nm); checked.push(id); nsin.value=""; drawOpts();
+    };
+    ns.appendChild(nsin); ns.appendChild(nsb);
+    sec1.appendChild(ns);
+    sheet.appendChild(sec1);
+
+    // メモ 4欄
+    var sec2=document.createElement("div"); sec2.className="s-sec";
+    sec2.innerHTML='<span class="lbl">メモ</span>';
+    var fields=[["opinion","自分の意見"],["talk","面接で話せる一言"],["question","逆質問のネタ"],["other","その他（自由記述）"]];
+    var tas={};
+    fields.forEach(function(f){
+      var wrap=document.createElement("div"); wrap.className="memo-field";
+      var lb=document.createElement("label"); lb.textContent=f[1];
+      var id="memo_"+f[0]; lb.setAttribute("for",id);
+      var ta=document.createElement("textarea"); ta.id=id; ta.value=memo[f[0]]||"";
+      tas[f[0]]=ta;
+      wrap.appendChild(lb); wrap.appendChild(ta); sec2.appendChild(wrap);
+    });
+    sheet.appendChild(sec2);
+
+    // 操作ボタン
+    var acts=document.createElement("div"); acts.className="sheet-actions";
+    var cancel=document.createElement("button"); cancel.className="pbtn ghost"; cancel.textContent="閉じる";
+    cancel.onclick=closeSheet;
+    var save=document.createElement("button"); save.className="pbtn primary"; save.textContent="保存";
+    save.onclick=function(){
+      var m={opinion:tas.opinion.value.trim(),talk:tas.talk.value.trim(),
+             question:tas.question.value.trim(),other:tas.other.value.trim()};
+      var willSave = checked.length>0 || memoHasText(m);
+      if(!willSave){
+        // 既存があれば解除扱い
+        if(STORE.items[art.id]){ STORE.items[art.id].scraps=[]; STORE.items[art.id].memo=emptyMemo(); cleanupItem(art.id); saveStore(); }
+        closeSheet(); refreshCurrent(); toast("保存を解除しました"); return;
+      }
+      var item=ensureItem(art);
+      item.scraps = checked.slice();
+      item.memo = m;
+      cleanupItem(art.id);
+      saveStore(); closeSheet(); refreshCurrent(); toast("保存しました");
+    };
+    acts.appendChild(cancel); acts.appendChild(save);
+    sheet.appendChild(acts);
+
+    sheetHost.hidden=false;
+  }
+
+  /* 画面上の見た目を、現在のビューに合わせて更新 */
+  function refreshCurrent(){
+    if(currentView==="news") render();
+    else if(currentView==="scraps") renderScraps();
+  }
+
+  /* =========================================================
+     自前の入力・確認（alert/prompt/confirm は環境により無効なため）
+     ========================================================= */
+  function openInputSheet(label,initial,onOk){
+    sheetHost.innerHTML="";
+    var bg=document.createElement("div"); bg.className="sheet-bg"; bg.onclick=closeSheet;
+    var sheet=document.createElement("div"); sheet.className="sheet";
+    sheet.innerHTML='<div class="grip"></div><h3>'+esc(label)+'</h3>';
+    var wrap=document.createElement("div"); wrap.className="newscrap"; wrap.style.marginTop="2px";
+    var inp=document.createElement("input"); inp.type="text"; inp.value=initial||"";
+    wrap.appendChild(inp); sheet.appendChild(wrap);
+    var acts=document.createElement("div"); acts.className="sheet-actions"; acts.style.marginTop="16px";
+    var no=document.createElement("button"); no.className="pbtn ghost"; no.textContent="やめる"; no.onclick=closeSheet;
+    var ok=document.createElement("button"); ok.className="pbtn primary"; ok.textContent="決定";
+    ok.onclick=function(){ var v=inp.value; closeSheet(); onOk(v); };
+    inp.addEventListener("keydown",function(ev){ if(ev.key==="Enter") ok.click(); });
+    acts.appendChild(no); acts.appendChild(ok); sheet.appendChild(acts);
+    sheetHost.appendChild(bg); sheetHost.appendChild(sheet); sheetHost.hidden=false;
+    setTimeout(function(){ try{inp.focus();}catch(e){} },60);
+  }
+  function confirmLine(msg,onYes){
+    // confirm はアーティファクト/一部環境で無効のため自前のミニシート
+    sheetHost.innerHTML="";
+    var bg=document.createElement("div"); bg.className="sheet-bg"; bg.onclick=function(){closeSheet();};
+    var sheet=document.createElement("div"); sheet.className="sheet";
+    sheet.innerHTML='<div class="grip"></div><h3>確認</h3><p class="s-src" style="font-size:.9rem;color:var(--fg)">'+esc(msg)+'</p>';
+    var acts=document.createElement("div"); acts.className="sheet-actions";
+    var no=document.createElement("button"); no.className="pbtn ghost"; no.textContent="やめる"; no.onclick=closeSheet;
+    var yes=document.createElement("button"); yes.className="pbtn danger"; yes.textContent="実行する";
+    yes.onclick=function(){ closeSheet(); onYes(); };
+    acts.appendChild(no); acts.appendChild(yes); sheet.appendChild(acts);
+    sheetHost.appendChild(bg); sheetHost.appendChild(sheet); sheetHost.hidden=false;
   }
 
   // 検索入力
@@ -348,7 +935,7 @@
   // フッター
   document.getElementById("foot").innerHTML=
     "見出し・出典・元記事へのリンクを表示します。記事タップで元記事（別タブ）に移動します。<br>"+
-    "個人の就活準備用。ニュースは Google ニュース等から自動収集しています。";
+    "保存したスクラップとメモは、この端末の中だけに保存されます。";
 
   // データ読み込み: GitHub Pages では data/news.json を読む。失敗時はサンプル。
   function init(){
@@ -359,6 +946,12 @@
       .catch(function(){ boot(loadFallback()); });
   }
   init();
+
+  // 起動時のビュー（ハッシュから復元。ただし不正値はニュース）
+  (function(){
+    var h=(location.hash||"").replace("#","");
+    if(["scraps","digest","companies"].indexOf(h)>=0){ setTimeout(function(){ setView(h); },0); }
+  })();
 
   // PWA（GitHub Pages のときだけ登録。artifact ドメインでは登録しない）
   if("serviceWorker" in navigator && location.protocol==="https:" &&
