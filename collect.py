@@ -254,6 +254,8 @@ def build():
 
     new_count = 0
     summarized = 0
+    # この回の取得で、各ニュース(aid)を何社のメディアが報じたかを数える
+    run_sources = {}
 
     for c in COMPANIES:
         print(f"取得中: {c['name']}")
@@ -262,6 +264,10 @@ def build():
             text = item["title"] + " " + item["desc"]
             tags = auto_tags(text)
             companies_ids = [item["primary"]] + detect_extra_companies(text, item["primary"])
+
+            src = (item.get("source") or "").strip()
+            if src:
+                run_sources.setdefault(aid, set()).add(src)
 
             if aid in by_id:
                 # 既存：会社の関連付けとタグだけ更新（要約は再生成しない=コスト節約）
@@ -282,8 +288,15 @@ def build():
                     "company_ids": sorted(set(companies_ids)),
                     "tags": sorted(set(tags)),
                     "summary": summary,
+                    "source_count": 1,
                 }
                 new_count += 1
+
+    # この回で報じたメディア数を各記事に反映（週次ダイジェストの重要度に使う）
+    for aid, srcs in run_sources.items():
+        if aid in by_id:
+            prev = by_id[aid].get("source_count", 1) or 1
+            by_id[aid]["source_count"] = max(len(srcs), prev)
 
     # 並べ替え（新しい順）＆上限
     articles = sorted(by_id.values(), key=lambda a: a["published"], reverse=True)
