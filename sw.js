@@ -1,6 +1,6 @@
 /* 商社就活ニュース 簡易サービスワーカー
    画面の枠組みはキャッシュして素早く開き、ニュースデータ(news.json)は常に最新を取りに行く。 */
-var CACHE = "shosha-news-v4";
+var CACHE = "shosha-news-v5";
 var SHELL = ["./", "./index.html", "./manifest.webmanifest", "./icon.svg"];
 
 self.addEventListener("install", function(e){
@@ -15,8 +15,8 @@ self.addEventListener("activate", function(e){
 
 self.addEventListener("fetch", function(e){
   var url = new URL(e.request.url);
-  // ニュースデータは常にネット優先（最新を表示）
-  if(url.pathname.indexOf("news.json") >= 0){
+  // ニュース・企業データは常にネット優先（最新を表示）
+  if(url.pathname.indexOf("news.json") >= 0 || url.pathname.indexOf("companies.json") >= 0){
     e.respondWith(fetch(e.request).catch(function(){ return caches.match(e.request); }));
     return;
   }
