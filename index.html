@@ -271,6 +271,40 @@
   .card .rankline{display:flex;align-items:center;gap:8px}
   .mediacount{font-size:.72rem;color:var(--muted);font-variant-numeric:tabular-nums}
 
+  /* 個社研究 */
+  .co-list-sec{margin:0 0 6px}
+  .co-list-sec h2{font-family:var(--font-display);font-size:.98rem;margin:18px 2px 11px;
+    color:var(--muted);font-weight:700}
+  .co-card{background:var(--surface);border:1px solid var(--line);border-left:5px solid var(--cc,var(--accent));
+    border-radius:var(--r);padding:14px 15px;display:flex;align-items:center;justify-content:space-between;
+    gap:12px;cursor:pointer;min-width:0}
+  .co-card:hover{border-color:var(--cc,var(--accent))}
+  .co-card .co-nm{font-family:var(--font-display);font-weight:700;font-size:1.04rem;min-width:0}
+  .co-card .co-sc{font-size:.76rem;color:var(--muted);margin-top:2px;
+    overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .co-card .co-go{flex:0 0 auto;color:var(--cc,var(--accent));font-size:1.2rem;font-weight:700}
+
+  .co-hero{background:var(--cc,var(--accent));color:#fff;border-radius:16px;
+    padding:18px 16px;margin:2px 0 6px;position:relative;overflow:hidden}
+  .co-hero .co-cat{font-size:.72rem;font-weight:700;background:rgba(255,255,255,.22);
+    border-radius:5px;padding:2px 9px;display:inline-block;margin-bottom:8px;font-family:var(--font-display)}
+  .co-hero h2{font-family:var(--font-display);font-size:1.5rem;margin:0;letter-spacing:.02em}
+  .co-hero .co-scale{font-size:.84rem;opacity:.92;margin-top:6px;font-variant-numeric:tabular-nums}
+  .co-asof{font-size:.72rem;color:var(--muted);margin:10px 2px 2px}
+
+  .co-sec{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);
+    padding:15px;margin-top:12px}
+  .co-sec > h3{font-family:var(--font-display);font-size:1rem;margin:0 0 12px;
+    padding-bottom:8px;border-bottom:2px solid var(--cc,var(--accent));display:inline-block}
+  .co-kv{display:grid;grid-template-columns:auto 1fr;gap:9px 14px;font-size:.9rem}
+  .co-kv dt{color:var(--muted);white-space:nowrap}
+  .co-kv dd{margin:0;min-width:0;word-break:break-word}
+  .co-phi-title{font-family:var(--font-display);font-weight:700;font-size:.96rem;margin:0 0 6px;
+    color:var(--cc,var(--accent))}
+  .co-phi-body{font-size:.92rem;line-height:1.75;margin:0}
+  .co-src{font-size:.68rem;color:var(--muted);margin-top:11px;opacity:.85}
+  .co-news-empty{font-size:.86rem;color:var(--muted);padding:6px 2px}
+
   .toast{position:fixed;left:50%;bottom:calc(86px + env(safe-area-inset-bottom,0px));
     transform:translateX(-50%);background:var(--fg);color:var(--bg);padding:9px 16px;
     border-radius:10px;font-size:.84rem;z-index:50;opacity:0;transition:opacity .2s;
@@ -314,11 +348,7 @@
   </section>
 
   <section id="view-companies" class="view" hidden>
-    <div class="soon">
-      <h2>個社研究（準備中）</h2>
-      <p>各社の基本情報・経営理念・採用スローガン・中期経営計画などをまとめて見られるページです。</p>
-      <p>次の次の段階（C）で追加します。</p>
-    </div>
+    <div id="companiesPanel"></div>
   </section>
 </main>
 
@@ -348,10 +378,15 @@
 {"updated_at":"2026-10-31T02:00:00+00:00","sample":true,"companies":[{"id":"mitsubishi","name":"三菱商事","category":"総合"},{"id":"mitsui","name":"三井物産","category":"総合"},{"id":"itochu","name":"伊藤忠商事","category":"総合"},{"id":"sumitomo","name":"住友商事","category":"総合"},{"id":"marubeni","name":"丸紅","category":"総合"},{"id":"toyotatsusho","name":"豊田通商","category":"総合"},{"id":"sojitz","name":"双日","category":"総合"},{"id":"kanematsu","name":"兼松","category":"専門"},{"id":"benichu","name":"伊藤忠丸紅鉄鋼","category":"専門"},{"id":"nagase","name":"長瀬産業","category":"専門"},{"id":"metalone","name":"メタルワン","category":"専門"},{"id":"jfeshoji","name":"JFE商事","category":"専門"}],"tags":["決算","業績予想","株主還元","投資","M&A","提携","資源","脱炭素","DX","新規事業","海外","食料","人事","サステナ","就活"],"articles":[{"id":"s01","title":"三菱商事、2026年3月期の純利益見通しを上方修正 資源高が追い風","url":"https://news.google.com/","source":"日本経済新聞","published":"2026-10-31T01:10:00+00:00","company_ids":["mitsubishi"],"tags":["決算","業績予想","資源"],"summary":"三菱商事が通期の最終利益予想を引き上げた。原油・LNGなど資源価格の上昇が利益を押し上げる見通し。","source_count":4},{"id":"s02","title":"三菱商事と三井物産、洋上風力で協業 脱炭素電源を共同開発へ","url":"https://news.google.com/","source":"NHK","published":"2026-10-30T23:30:00+00:00","company_ids":["mitsubishi","mitsui"],"tags":["提携","脱炭素","新規事業"],"summary":"両社が再生可能エネルギー分野で合弁会社を設立。国内外の洋上風力と水素事業の拡大を狙う。","source_count":3},{"id":"s03","title":"伊藤忠商事、ローソンのDXを強化 生成AIで需要予測を本格導入","url":"https://news.google.com/","source":"産経新聞","published":"2026-10-30T08:00:00+00:00","company_ids":["itochu"],"tags":["DX","食料","新規事業"],"summary":"伊藤忠がローソンの店舗運営に生成AIを導入。発注や在庫の最適化で食品ロス削減を図る。","source_count":2},{"id":"s04","title":"住友商事、北米の銅鉱山権益を追加取得 EV向け需要を見込む","url":"https://news.google.com/","source":"ロイター","published":"2026-10-29T12:00:00+00:00","company_ids":["sumitomo"],"tags":["投資","資源","海外"],"summary":"住友商事が北米の銅鉱山の権益を買い増し。EVや送電網向けの銅需要拡大に対応する。","source_count":2},{"id":"s05","title":"丸紅、インドで大型太陽光発電所を稼働 再エネ事業を拡大","url":"https://news.google.com/","source":"日経","published":"2026-10-29T06:30:00+00:00","company_ids":["marubeni"],"tags":["脱炭素","海外","投資"],"summary":"丸紅がインドで太陽光発電所の稼働を開始。アジアでの再生可能エネルギー事業を強化する。","source_count":1},{"id":"s06","title":"伊藤忠商事、2026年3月期は過去最高益へ 非資源が牽引","url":"https://news.google.com/","source":"ブルームバーグ","published":"2026-10-28T22:00:00+00:00","company_ids":["itochu"],"tags":["決算","業績予想","株主還元"],"summary":"伊藤忠が通期で過去最高益となる見通し。生活消費分野など非資源事業が利益を支える。","source_count":3},{"id":"s07","title":"双日、航空機リース事業を強化 欧州企業と提携","url":"https://news.google.com/","source":"時事通信","published":"2026-10-28T10:00:00+00:00","company_ids":["sojitz"],"tags":["提携","海外","新規事業"],"summary":"双日が欧州の航空関連企業と提携し、航空機リース事業を拡大。アジア路線の需要回復を取り込む。","source_count":1},{"id":"s08","title":"豊田通商、アフリカでEV充電網を整備 現地企業と合弁","url":"https://news.google.com/","source":"日刊自動車新聞","published":"2026-10-27T09:00:00+00:00","company_ids":["toyotatsusho"],"tags":["脱炭素","海外","提携"],"summary":"豊田通商がアフリカでEV充電インフラを整備。現地企業と合弁会社を設立し電動化を支援する。","source_count":1},{"id":"s09","title":"三井物産、米国の医療データ事業に出資 ヘルスケアを成長領域に","url":"https://news.google.com/","source":"日本経済新聞","published":"2026-10-27T01:00:00+00:00","company_ids":["mitsui"],"tags":["投資","海外","DX","新規事業"],"summary":"三井物産が米医療データ企業に出資。ヘルスケアを次の収益柱に育てる方針。","source_count":2},{"id":"s10","title":"メタルワン、電磁鋼板の供給体制を拡充 EVモーター需要に対応","url":"https://news.google.com/","source":"鉄鋼新聞","published":"2026-10-26T07:00:00+00:00","company_ids":["metalone"],"tags":["投資","資源"],"summary":"鉄鋼商社のメタルワンがEVモーター向け電磁鋼板の供給を強化。国内外で加工拠点を増やす。","source_count":1},{"id":"s11","title":"長瀬産業、半導体材料の新工場を国内に建設 生成AI需要を追う","url":"https://news.google.com/","source":"化学工業日報","published":"2026-10-25T05:00:00+00:00","company_ids":["nagase"],"tags":["投資","DX","新規事業"],"summary":"長瀬産業が半導体材料の新工場を国内に建設。データセンター向けの需要増に備える。","source_count":1},{"id":"s12","title":"兼松、食品トレーサビリティでDX事業を開始 農業分野に参入","url":"https://news.google.com/","source":"日経産業新聞","published":"2026-10-24T08:00:00+00:00","company_ids":["kanematsu"],"tags":["DX","食料","新規事業"],"summary":"兼松が食品の流通管理をデジタル化する新事業を開始。農業分野への参入を進める。","source_count":1},{"id":"s13","title":"JFE商事、東南アジアで建材流通を拡大 現地商社を買収","url":"https://news.google.com/","source":"鉄鋼新聞","published":"2026-10-23T10:00:00+00:00","company_ids":["jfeshoji"],"tags":["M&A","海外","投資"],"summary":"JFE商事が東南アジアの建材流通企業を買収。成長市場での鋼材販売網を広げる。","source_count":1},{"id":"s14","title":"伊藤忠丸紅鉄鋼、脱炭素鋼材の取引を本格化 グリーンスチール供給","url":"https://news.google.com/","source":"鉄鋼新聞","published":"2026-10-22T06:00:00+00:00","company_ids":["benichu"],"tags":["脱炭素","資源","新規事業"],"summary":"伊藤忠丸紅鉄鋼がCO2排出を抑えたグリーンスチールの取引を拡大。製造業の脱炭素需要に応える。","source_count":1},{"id":"s15","title":"総合商社5社、初任給を引き上げ 人材獲得競争が激化","url":"https://news.google.com/","source":"東洋経済","published":"2026-10-21T09:00:00+00:00","company_ids":["mitsubishi","mitsui","itochu","sumitomo","marubeni"],"tags":["就活","人事"],"summary":"大手総合商社が相次いで初任給を引き上げ。優秀な人材の確保に向けた競争が強まっている。","source_count":5},{"id":"s16","title":"三菱商事、社長交代を発表 次期社長に専務が昇格","url":"https://news.google.com/","source":"共同通信","published":"2026-10-20T07:00:00+00:00","company_ids":["mitsubishi"],"tags":["人事"],"summary":"三菱商事が社長交代を発表。来春に専務が新社長に就任し、経営体制を刷新する。","source_count":2}]}
 </script>
 
+<script id="companies-fallback" type="application/json">
+{"as_of":"2026年10月","companies":[{"id":"itochu","name":"伊藤忠商事","category":"総合","color":"#005bac","scale":"純利益 9,002億円（2026/3期）","basic":[["設立","1949年12月"],["本社","東京（北青山）／大阪"],["従業員数","単体 4,215名"],["資本金","2,534億円"],["2026年3月期 決算","収益 約14.8兆円／純利益 9,002億円"],["事業分野","繊維・機械・金属・エネルギー・化学品・食料・住生活・情報金融 など8部門"]],"basic_src":"公式サイト・決算開示","recruit":[["初任給（総合職）","学卒 36.0万円／院卒 40.0万円"],["採用人数","総合職 120名程度"],["勤務地","国内各地・海外"],["求める人物像","公式サイトに明示的な記載なし（三方よしの精神を体現する人材）"]],"recruit_src":"就活情報サイト等（公式記載のない項目を含む）","philosophy_title":"三方よし","philosophy_body":"売り手よし、買い手よし、世間よし。（2020年に企業理念として制定）","philosophy_src":"公式サイト","plan_title":"2026年度経営計画 ※中期経営計画は廃止し単年度計画へ移行","plan":[["連結純利益","9,500億円"],["ROE","約15%"],["総還元性向","64%（累進配当＋自己株式取得）"]],"plan_src":"公式IR資料"},{"id":"mitsui","name":"三井物産","category":"総合","color":"#003f98","scale":"純利益 8,339億円（2026/3期）","basic":[["設立","1947年7月"],["本社","東京（大手町）"],["従業員数","連結 55,463名／単体 5,333名"],["資本金","3,441億円"],["2026年3月期 決算","収益 約14.0兆円／純利益 8,339億円"],["事業分野","金属資源・エネルギー・機械インフラ・化学品・鉄鋼製品・生活産業・次世代機能推進 など"]],"basic_src":"公式サイト・決算開示","recruit":[["初任給（総合職）","Global：学卒 34.0万円／院卒 37.5万円（Regionalは各1万円低）"],["採用人数","142名（2025年度実績／予定110〜140名）"],["勤務地","Global（全国・海外）／Regional（採用地域中心）"],["求める人物像","公式サイトに明示的な記載なし"]],"recruit_src":"公式採用サイト","philosophy_title":"経営理念（MVV）","philosophy_body":"Mission「世界中の未来をつくる」／Vision「360° business innovators」／Values「変革を行動で」「多様性を力に」「個から成長を」「真摯に誠実に」","philosophy_src":"公式サイト","plan_title":"中期経営計画2029（2026年公表／テーマ「信頼とイノベーションで未来をつくる」）","plan":[["数値目標","要確認（公式PDFで公表）"]],"plan_src":"公式IR資料"},{"id":"mitsubishi","name":"三菱商事","category":"総合","color":"#c8102e","scale":"純利益 8,005億円（2026/3期）","basic":[["設立","1950年4月（創立1954年7月）"],["本社","東京（丸の内）"],["従業員数","連結 63,037名／単体 4,456名"],["資本金","2,138億円"],["2026年3月期 決算","収益 約18.9兆円／純利益 8,005億円"],["事業分野","エネルギー&パワーソリューション・マテリアルソリューション・金属資源・社会インフラ・モビリティ・食品産業・S.L.C. の7グループ"]],"basic_src":"公式サイト・決算開示","recruit":[["初任給（総合職）","学卒 35.0万円／院卒 38.5万円（2026年度）"],["採用人数","総合職 130名"],["勤務地","本店（東京）ほか国内外。入社時は原則首都圏"],["求める人物像","社会課題解決への高い志、構想力、関係者を巻き込む実行力、高い倫理観（人材育成方針より）"]],"recruit_src":"就活情報サイト等（初任給は公式記載なし）","philosophy_title":"三綱領","philosophy_body":"所期奉公（事業を通じ社会に貢献）／処事光明（公明正大・透明）／立業貿易（全世界的視野での事業展開）","philosophy_src":"公式サイト","plan_title":"経営戦略2027「総合力をエンジンに未来を創る」（2027年度まで）","plan":[["ROE","12%以上（2027年度）"],["営業収益CF","年平均成長率10%以上"],["投資計画","更新 約1兆円＋拡張・新規 約3兆円以上"],["株主還元","累進配当＋機動的な自己株式取得"]],"plan_src":"公式IR資料"},{"id":"sumitomo","name":"住友商事","category":"総合","color":"#009944","scale":"純利益 6,003億円（2026/3期）","basic":[["設立","1919年12月"],["本社","東京（大手町）"],["従業員数","連結 82,488名／単体 5,056名"],["資本金","2,216億円"],["2026年3月期 決算","収益 約7.3兆円／純利益 6,003億円"],["事業分野","鉄鋼・自動車・輸送機建機・都市総合開発・メディアデジタル・ライフスタイル・資源化学品・エネルギートランスフォーメーション"]],"basic_src":"公式サイト・決算開示","recruit":[["初任給（総合職）","学卒 32.5万円／院卒 36.0万円（2025年度）"],["採用人数","要確認"],["勤務地","東京・大阪・名古屋ほか国内外"],["求める人物像","公式サイトに明示的な記載なし"]],"recruit_src":"就活情報サイト等（公式記載のない項目を含む）","philosophy_title":"住友の事業精神","philosophy_body":"「信用を重んじ確実を旨とする」「自利利他公私一如」。スローガン「100年を拓く、挑戦を。」","philosophy_src":"公式サイト","plan_title":"中期経営計画2026","plan":[["数値目標","要確認（公式PDFで公表）"]],"plan_src":"公式IR資料"},{"id":"marubeni","name":"丸紅","category":"総合","color":"#0068b7","scale":"純利益 5,438億円（2026/3期）","basic":[["設立","1949年12月"],["本社","東京（大手町）"],["従業員数","連結 52,658名／単体 4,225名"],["資本金","2,637億円"],["2026年3月期 決算","収益 約8.3兆円／純利益 5,438億円"],["事業分野","ライフスタイル・食料アグリ・金属・エネルギー化学品・電力インフラ・金融リース不動産・エアロスペースモビリティ・情報ソリューション"]],"basic_src":"公式サイト・決算開示","recruit":[["初任給（総合職）","学卒 33.0万円／院卒 36.5万円"],["採用人数","採用予定は未定（近年130名規模）"],["勤務地","国内各地・海外"],["求める人物像","公式サイトに明示的な記載なし（社是の精神を重視）"]],"recruit_src":"就活情報サイト等（公式記載のない項目を含む）","philosophy_title":"社是「正・新・和」","philosophy_body":"1949年の設立時の訓示に由来。在り姿として「Global crossvalue platform」を掲げる。","philosophy_src":"公式サイト","plan_title":"中期経営戦略 GC2027（2025〜2027年度）","plan":[["連結純利益","6,200億円以上（2027年度）"],["ROE","15%"],["総還元性向","約40%（年間配当100円基点の累進配当）"]],"plan_src":"公式IR資料"},{"id":"toyotatsusho","name":"豊田通商","category":"総合","color":"#d7000f","scale":"純利益 3,705億円（2026/3期）","basic":[["設立","1948年7月"],["本社","名古屋／東京"],["従業員数","連結 69,517名／単体 3,292名"],["資本金","649億円"],["2026年3月期 決算","収益 約11.6兆円／純利益 3,705億円"],["事業分野","金属・グローバル部品ロジスティクス・自動車・機械エネルギープラント・化学品エレクトロニクス・食料生活産業・アフリカ など"]],"basic_src":"公式サイト・決算開示","recruit":[["初任給（総合職）","33.0万円（2026年度／公式未確認）"],["採用人数","要確認"],["勤務地","名古屋・東京ほか国内外"],["求める人物像","公式サイトに明示的な記載なし"]],"recruit_src":"就活情報サイト等（公式記載のない項目を含む）","philosophy_title":"ミッション","philosophy_body":"「未来の子どもたちに、より良い地球を届ける」","philosophy_src":"公式サイト","plan_title":"中期経営計画（2026年3月期〜2028年3月期）","plan":[["当期利益","4,500億円（2028年3月期）"],["ROE","15%以上"],["総還元性向","40%以上（累進配当＋自己株式取得）"]],"plan_src":"公式IR資料"},{"id":"sojitz","name":"双日","category":"総合","color":"#003a5d","scale":"純利益 1,036億円（2026/3期）","basic":[["設立","2003年4月"],["本社","東京（内幸町）"],["従業員数","連結 26,789名／単体 2,519名"],["資本金","1,603億円"],["2026年3月期 決算","収益 約2.76兆円／純利益 1,036億円"],["事業分野","自動車・航空社会インフラ・エネルギーヘルスケア・化学・生活産業アグリ・リテール など"]],"basic_src":"公式サイト・決算開示","recruit":[["初任給（総合職）","学卒 30.5万円／院卒 34.0万円"],["採用人数","近年200名規模（2023年 209名）"],["勤務地","国内各地・海外"],["求める人物像","社会と人に向き合い、困難を乗り越えてやり抜く個性・人間力"]],"recruit_src":"就活情報サイト等（公式記載のない項目を含む）","philosophy_title":"Sojitz Group Statement","philosophy_body":"2030年の目指す姿として「事業や人材を創造し続ける総合商社」を掲げる。","philosophy_src":"公式サイト","plan_title":"中期経営計画2026「Set for Next Stage」","plan":[["当期利益","1,200億円超（3ヵ年平均）"],["ROE","12%超（3ヵ年平均）"],["投資実行","6,000億円超"]],"plan_src":"公式IR資料"},{"id":"kanematsu","name":"兼松","category":"専門","color":"#0054a6","scale":"純利益 325億円（2026/3期）","basic":[["設立","1889年（創業）／1918年 株式会社化"],["本店","東京（丸の内）"],["従業員数","連結 8,604名"],["資本金","277億円"],["2026年3月期 決算","売上 約1.07兆円／純利益 325億円"],["事業分野","食料・電子デバイス・鉄鋼素材プラント・車両航空・ICTソリューションの5分野"]],"basic_src":"公式サイト・決算開示","recruit":[["初任給（プロフェッショナル職）","29.0万円"],["採用人数","プロフェッショナル職 35〜40名程度"],["勤務地","国内各地・海外"],["求める人物像","要確認"]],"recruit_src":"就活情報サイト等（公式記載のない項目を含む）","philosophy_title":"企業理念","philosophy_body":"要確認（公式サイト参照）","philosophy_src":"公式サイト","plan_title":"中期ビジョン「integration 1.0」（2025年3月期〜2027年3月期）","plan":[["当期利益","350億円（2027年3月期）"],["ROE","16〜18%"],["総還元性向","30〜35%（年間配当105円）"]],"plan_src":"公式IR資料"},{"id":"nagase","name":"長瀬産業","category":"専門","color":"#c8161d","scale":"純利益 331億円（2026/3期）","basic":[["設立","1917年（創業1832年）"],["本社","東京（大手町）／大阪"],["従業員数","連結 7,756名／単体 942名"],["資本金","97億円"],["2026年3月期 決算","売上 約9,728億円／純利益 331億円"],["事業分野","化学品・合成樹脂・電子材料・化粧品・健康食品 など（注力：化学・フード・半導体・ライフサイエンス）"]],"basic_src":"公式サイト・決算開示","recruit":[["初任給","要確認"],["採用人数","2025年 46名 ほか"],["勤務地","東京・大阪ほか国内外"],["求める人物像","要確認"]],"recruit_src":"就活情報サイト等（公式記載のない項目を含む）","philosophy_title":"経営理念","philosophy_body":"「『ひと』と『地球』のウェルビーイングに貢献する企業を目指す」","philosophy_src":"公式サイト","plan_title":"中期経営計画「Walk the Talk 2028」（2026〜2028年度）","plan":[["営業利益","500億円以上（2028年度）"],["ROE","9.0%以上（2028年度）"],["総還元性向","100%を目指す"]],"plan_src":"公式IR資料"},{"id":"benichu","name":"伊藤忠丸紅鉄鋼","category":"専門","color":"#00a0e9","scale":"非上場（鉄鋼トレード大手）","basic":[["設立","2001年（伊藤忠・丸紅の鉄鋼部門統合、出資50:50）"],["本社","東京（中央区）"],["従業員数","単体 約1,000名／連結 1万名超"],["資本金","要確認"],["決算","非公開（非上場）"],["事業分野","鉄鋼製品の総合トレード（3つの事業の柱）"]],"basic_src":"就活情報サイト等（非公式。詳細は公式サイト参照）","recruit":[["初任給","非公開／要確認"],["採用人数","非公開／要確認"],["勤務地","国内各地・海外"],["求める人物像","要確認"]],"recruit_src":"公式採用サイト参照","philosophy_title":"企業理念","philosophy_body":"要確認（公式サイト参照）","philosophy_src":"公式サイト","plan_title":"中期経営計画","plan":[["数値目標","非公開／要確認"]],"plan_src":"—"},{"id":"metalone","name":"メタルワン","category":"専門","color":"#003f8e","scale":"非上場（三菱商事・双日のJV）","basic":[["設立","2003年1月"],["本社","東京（丸の内・JPタワー）"],["従業員数","連結 約10,000名／単体 998名"],["資本金","1,000億円"],["決算","非公開（非上場）"],["事業分野","鉄鋼製品の売買・事業会社経営・新規事業"]],"basic_src":"就活情報サイト等（詳細は公式サイト参照）","recruit":[["初任給","非公開／要確認"],["採用人数","非公開／要確認"],["勤務地","国内・海外（G職の約5人に1人が海外駐在）"],["求める人物像","要確認"]],"recruit_src":"公式採用サイト参照","philosophy_title":"使命","philosophy_body":"「世界の産業、人々の暮らしを支える」","philosophy_src":"公式サイト","plan_title":"中期経営計画","plan":[["数値目標","非公開／要確認"]],"plan_src":"—"},{"id":"jfeshoji","name":"JFE商事","category":"専門","color":"#0068b7","scale":"非上場（JFEホールディングス子会社）","basic":[["設立","1954年"],["本社","東京（大手町）"],["従業員数","1,001名"],["資本金","145億円"],["決算","非公開（JFEホールディングス子会社）"],["事業分野","鉄鋼製品・鉄鋼原料・資機材の国内取引／輸出入／外国間取引"]],"basic_src":"就活情報サイト等（詳細は公式サイト参照）","recruit":[["初任給","非公開／要確認"],["採用人数","非公開／要確認"],["勤務地","国内20拠点・海外20ヵ国58拠点"],["求める人物像","要確認"]],"recruit_src":"公式採用サイト参照","philosophy_title":"使命","philosophy_body":"「企業と企業、人と人を繋げ、世界を切り拓く」（公式の明確な理念表記はなし）","philosophy_src":"公式サイト","plan_title":"中期経営計画","plan":[["数値目標","非公開／要確認"]],"plan_src":"—"}]}
+</script>
+
 <script>
 (function(){
   "use strict";
   var DATA = null;
+  var COMPANIES = null;
   var state = { scope:"all", tag:null, q:"" };
   var companyMap = {};
   var currentView = "news";
@@ -734,6 +769,124 @@
   }
 
   /* =========================================================
+     個社研究
+     ========================================================= */
+  var companyView = { mode:"list", id:null };  // list | detail
+
+  function loadCompaniesFallback(){
+    try{ return JSON.parse(document.getElementById("companies-fallback").textContent); }
+    catch(e){ return {as_of:"",companies:[]}; }
+  }
+  function companyById(id){
+    return (COMPANIES.companies||[]).find(function(c){ return c.id===id; }) || null;
+  }
+
+  function renderCompanies(){
+    var panel=document.getElementById("companiesPanel");
+    panel.innerHTML="";
+    if(!COMPANIES){ panel.innerHTML='<div class="co-news-empty">読み込み中…</div>'; return; }
+    if(companyView.mode==="detail"){ renderCompanyDetail(panel); return; }
+
+    var list=COMPANIES.companies||[];
+    ["総合","専門"].forEach(function(cat){
+      var group=list.filter(function(c){ return c.category===cat; });
+      if(group.length===0) return;
+      var sec=document.createElement("div"); sec.className="co-list-sec";
+      sec.innerHTML='<h2>'+(cat==="総合"?"総合商社":"専門商社")+'</h2>';
+      var wrap=document.createElement("div"); wrap.className="list";
+      group.forEach(function(c){
+        var card=document.createElement("div"); card.className="co-card"; card.tabIndex=0;
+        card.style.setProperty("--cc", c.color||"var(--accent)");
+        var left=document.createElement("div"); left.style.minWidth="0";
+        left.innerHTML='<div class="co-nm">'+esc(c.name)+'</div>'+
+          '<div class="co-sc">'+esc(c.scale||"")+'</div>';
+        var go=document.createElement("span"); go.className="co-go"; go.textContent="›";
+        card.appendChild(left); card.appendChild(go);
+        card.onclick=function(){ companyView={mode:"detail",id:c.id}; window.scrollTo({top:0}); renderCompanies(); };
+        card.onkeydown=function(ev){ if(ev.key==="Enter") card.click(); };
+        wrap.appendChild(card);
+      });
+      sec.appendChild(wrap);
+      panel.appendChild(sec);
+    });
+  }
+
+  function kvSection(title, rows){
+    var sec=document.createElement("div"); sec.className="co-sec";
+    sec.innerHTML='<h3>'+esc(title)+'</h3>';
+    var dl=document.createElement("dl"); dl.className="co-kv";
+    rows.forEach(function(r){
+      var dt=document.createElement("dt"); dt.textContent=r[0];
+      var dd=document.createElement("dd"); dd.textContent=r[1];
+      dl.appendChild(dt); dl.appendChild(dd);
+    });
+    sec.appendChild(dl);
+    return sec;
+  }
+  function srcLine(sec, label){
+    if(!label || label==="—") return;
+    var p=document.createElement("div"); p.className="co-src"; p.textContent="出典: "+label;
+    sec.appendChild(p);
+  }
+
+  function renderCompanyDetail(panel){
+    var c=companyById(companyView.id);
+    if(!c){ companyView={mode:"list",id:null}; renderCompanies(); return; }
+
+    // 戻る
+    var head=document.createElement("div"); head.className="detail-head";
+    var back=document.createElement("button"); back.className="iconbtn"; back.innerHTML="←";
+    back.setAttribute("aria-label","一覧に戻る");
+    back.onclick=function(){ companyView={mode:"list",id:null}; window.scrollTo({top:0}); renderCompanies(); };
+    var h=document.createElement("h2"); h.textContent="個社研究";
+    head.appendChild(back); head.appendChild(h);
+    panel.appendChild(head);
+
+    // ブランドカラーを detail 全体に適用
+    var root=document.createElement("div");
+    root.style.setProperty("--cc", c.color||"var(--accent)");
+
+    // ヒーロー
+    var hero=document.createElement("div"); hero.className="co-hero";
+    hero.innerHTML='<span class="co-cat">'+esc(c.category==="総合"?"総合商社":"専門商社")+'</span>'+
+      '<h2>'+esc(c.name)+'</h2>'+
+      '<div class="co-scale">'+esc(c.scale||"")+'</div>';
+    root.appendChild(hero);
+
+    var asof=document.createElement("div"); asof.className="co-asof";
+    asof.textContent="情報確認日: "+(COMPANIES.as_of||"");
+    root.appendChild(asof);
+
+    // 1. 基本情報
+    var s1=kvSection("基本情報", c.basic||[]); srcLine(s1, c.basic_src); root.appendChild(s1);
+    // 2. 採用情報
+    var s2=kvSection("採用情報", c.recruit||[]); srcLine(s2, c.recruit_src); root.appendChild(s2);
+    // 3. 経営理念
+    var s3=document.createElement("div"); s3.className="co-sec";
+    s3.innerHTML='<h3>経営理念</h3>'+
+      '<p class="co-phi-title">'+esc(c.philosophy_title||"")+'</p>'+
+      '<p class="co-phi-body">'+esc(c.philosophy_body||"")+'</p>';
+    srcLine(s3, c.philosophy_src); root.appendChild(s3);
+    // 4. 中期経営計画
+    var s4=kvSection(c.plan_title||"中期経営計画", c.plan||[]); srcLine(s4, c.plan_src); root.appendChild(s4);
+    // 5. この会社の最新ニュース
+    var s5=document.createElement("div"); s5.className="co-sec";
+    s5.innerHTML='<h3>この会社の最新ニュース</h3>';
+    var news=(DATA.articles||[]).filter(function(a){ return (a.company_ids||[]).indexOf(c.id)>=0; })
+      .sort(function(x,y){ return new Date(y.published)-new Date(x.published); }).slice(0,5);
+    if(news.length===0){
+      s5.insertAdjacentHTML("beforeend",'<div class="co-news-empty">直近のニュースはまだありません。</div>');
+    } else {
+      var nl=document.createElement("div"); nl.className="list"; nl.style.marginTop="4px";
+      news.forEach(function(a){ nl.appendChild(card(a)); });
+      s5.appendChild(nl);
+    }
+    root.appendChild(s5);
+
+    panel.appendChild(root);
+  }
+
+  /* =========================================================
      ビュー切り替え（下部メニュー）
      ========================================================= */
   var VIEW_TITLES = {news:"商社就活ニュース",scraps:"スクラップ",digest:"週次ダイジェスト",companies:"個社研究"};
@@ -757,6 +910,7 @@
     if(v==="news") render();
     if(v==="scraps") renderScraps();
     if(v==="digest") renderDigest();
+    if(v==="companies") renderCompanies();
   }
   function goNews(){ if(currentView!=="news") setView("news"); }
 
@@ -1016,6 +1170,7 @@
     if(currentView==="news") render();
     else if(currentView==="scraps") renderScraps();
     else if(currentView==="digest") renderDigest();
+    else if(currentView==="companies") renderCompanies();
   }
 
   /* =========================================================
@@ -1065,13 +1220,25 @@
     "見出し・出典・元記事へのリンクを表示します。記事タップで元記事（別タブ）に移動します。<br>"+
     "保存したスクラップとメモは、この端末の中だけに保存されます。";
 
+  // 企業データの読み込み（失敗時は埋め込みのサンプル）
+  function loadCompanies(done){
+    if(location.protocol==="file:"){ COMPANIES=loadCompaniesFallback(); done(); return; }
+    fetch("./data/companies.json",{cache:"no-store"})
+      .then(function(r){ if(!r.ok) throw 0; return r.json(); })
+      .then(function(j){ COMPANIES = (j && j.companies && j.companies.length) ? j : loadCompaniesFallback(); done(); })
+      .catch(function(){ COMPANIES=loadCompaniesFallback(); done(); });
+  }
+
   // データ読み込み: GitHub Pages では data/news.json を読む。失敗時はサンプル。
   function init(){
-    if(location.protocol==="file:"){ boot(loadFallback()); return; }
+    var newsData=null;
+    function ready(){ if(newsData!==null && COMPANIES!==null) boot(newsData); }
+    loadCompanies(function(){ ready(); });
+    if(location.protocol==="file:"){ newsData=loadFallback(); ready(); return; }
     fetch("./data/news.json",{cache:"no-store"})
       .then(function(r){ if(!r.ok) throw 0; return r.json(); })
-      .then(function(j){ boot(j); })
-      .catch(function(){ boot(loadFallback()); });
+      .then(function(j){ newsData=j; ready(); })
+      .catch(function(){ newsData=loadFallback(); ready(); });
   }
   init();
 
