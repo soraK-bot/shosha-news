@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T05:57:21.864157+00:00",
+  "updated_at": "2026-10-31T10:23:37.792930+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -104,7 +104,8 @@
       "tags": [
         "決算"
       ],
-      "summary": "豊田通商 2026年9月中間決算【会見全文】：記者会見録 中日BIZナビ"
+      "summary": "豊田通商 2026年9月中間決算【会見全文】：記者会見録 中日BIZナビ",
+      "source_count": 1
     },
     {
       "id": "0d8927410a85ff2d",
@@ -118,7 +119,8 @@
       "tags": [
         "DX"
       ],
-      "summary": "丸紅系、AIで駐車場の出庫時間を予測 LOGISTICS TODAY"
+      "summary": "丸紅系、AIで駐車場の出庫時間を予測 LOGISTICS TODAY",
+      "source_count": 1
     },
     {
       "id": "6f11e9e3dfecdf95",
@@ -132,7 +134,8 @@
       "tags": [
         "投資"
       ],
-      "summary": "豊田通商、バングラ子会社に追加出資（時事通信） Yahoo!ニュース"
+      "summary": "豊田通商、バングラ子会社に追加出資（時事通信） Yahoo!ニュース",
+      "source_count": 1
     },
     {
       "id": "5d1e60b0c25ed28e",
@@ -147,7 +150,8 @@
         "人事",
         "決算"
       ],
-      "summary": "NTT次期社長候補、本命・対抗「2人の実名」公開！島田一強体制を継ぐのは誰か？・三井物産CFOが新中計で「2030年度純利益1.4兆円超」を掲げた真意を激白・『映画ちいかわ』大ヒットでも東宝は減収減益も… ダイヤモンド・オンライン"
+      "summary": "NTT次期社長候補、本命・対抗「2人の実名」公開！島田一強体制を継ぐのは誰か？・三井物産CFOが新中計で「2030年度純利益1.4兆円超」を掲げた真意を激白・『映画ちいかわ』大ヒットでも東宝は減収減益も… ダイヤモンド・オンライン",
+      "source_count": 1
     },
     {
       "id": "38eaa663a5465c35",
@@ -173,7 +177,8 @@
         "itochu"
       ],
       "tags": [],
-      "summary": "電通総研、伊藤忠グループによる公開買付けに賛同を表明 ニュースメディアVOIX"
+      "summary": "電通総研、伊藤忠グループによる公開買付けに賛同を表明 ニュースメディアVOIX",
+      "source_count": 1
     },
     {
       "id": "d34edc2360a62ec1",
@@ -185,7 +190,8 @@
         "sumitomo"
       ],
       "tags": [],
-      "summary": "東北経済の現在地と、今後の成長を考える 住友商事グローバルリサーチ"
+      "summary": "東北経済の現在地と、今後の成長を考える 住友商事グローバルリサーチ",
+      "source_count": 1
     },
     {
       "id": "ae447a4a43dde3ba",
@@ -199,7 +205,8 @@
       "tags": [
         "海外"
       ],
-      "summary": "中国景気状況 －2026年10月－ 住友商事グローバルリサーチ"
+      "summary": "中国景気状況 －2026年10月－ 住友商事グローバルリサーチ",
+      "source_count": 1
     },
     {
       "id": "c396a99a13b57e68",
@@ -211,7 +218,8 @@
         "itochu"
       ],
       "tags": [],
-      "summary": "伊藤忠商事[8001]：株式会社電通総研の株式（証券コード：4812）に対する公開買付けの開始に関するお知らせ 2026年10月30日(適時開示) ：日経会社情報DIGITAL 日本経済新聞"
+      "summary": "伊藤忠商事[8001]：株式会社電通総研の株式（証券コード：4812）に対する公開買付けの開始に関するお知らせ 2026年10月30日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "97e4029d59f8e37b",
@@ -223,7 +231,23 @@
         "sumitomo"
       ],
       "tags": [],
-      "summary": "台湾景気状況 －2026年10月－ 住友商事グローバルリサーチ"
+      "summary": "台湾景気状況 －2026年10月－ 住友商事グローバルリサーチ",
+      "source_count": 1
+    },
+    {
+      "id": "ea7421e5117a3691",
+      "title": "◎豊田通商、バングラ子会社に追加出資",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95emhnaFhFdzd5MDNCeVBfVUNXUnZqZ3FzLVJrVlJHSEV5eTRQN0FQMGM3d0JseDF4LTJxak9wNkpmbUtxRk50MGZaQkgwRzVQRWx4WQ?oc=5",
+      "source": "時事通信ニュース",
+      "published": "2026-10-30T05:05:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "◎豊田通商、バングラ子会社に追加出資 時事通信ニュース",
+      "source_count": 1
     },
     {
       "id": "c383878ecc3863aa",
@@ -235,7 +259,8 @@
         "toyotatsusho"
       ],
       "tags": [],
-      "summary": "北海道稚内市で「わくわくワークフェス2026」に出展 豊田通商株式会社"
+      "summary": "北海道稚内市で「わくわくワークフェス2026」に出展 豊田通商株式会社",
+      "source_count": 1
     },
     {
       "id": "5f5e9dce277e19b1",
@@ -249,7 +274,8 @@
       "tags": [
         "DX"
       ],
-      "summary": "デジタル・AI戦略「DAIS」特設サイトを開設 Sumitomo Corporation"
+      "summary": "デジタル・AI戦略「DAIS」特設サイトを開設 Sumitomo Corporation",
+      "source_count": 1
     },
     {
       "id": "963cd8b23b4ebd5b",
@@ -263,7 +289,36 @@
       "tags": [
         "人事"
       ],
-      "summary": "手話で注文するカフェ「shuwa²」、伊藤忠ユニダス社長が明かす事業構想 AdverTimes.（アドタイ） by 宣伝会議"
+      "summary": "手話で注文するカフェ「shuwa²」、伊藤忠ユニダス社長が明かす事業構想 AdverTimes.（アドタイ） by 宣伝会議",
+      "source_count": 1
+    },
+    {
+      "id": "f58b8c479a974161",
+      "title": "豊田通商(株)【8015】：今の株価の理由は？値動きの背景をAIが解説",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HM25zelkzLWdvaHFWNEFBZTUxX2VXZ2w3LUJnejN4aGJCc1BORFNPYU90TGl1Ni00M2Z0SlExa0kybGxxcVpiYjlZeDdva1B3Vy1TTEN6UlhyMjNFNm9Z?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-10-30T03:08:08+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "豊田通商(株)【8015】：今の株価の理由は？値動きの背景をAIが解説 Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "55f3057e3dd6981a",
+      "title": "いつもとは違う地図",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kVWJEdUpRV0lsTFJtc3FNMHlBQjlRNWRpNFJ0NHNvNnViUE5hZzJ5NVJXdk9vdHhPQU9hMzBQQ2k5Z3ZudmVWM0F6T1ZpZ2pURGVqY3BvZTVFYWVBUUJ4NXNjNUE?oc=5",
+      "source": "住友商事グローバルリサーチ",
+      "published": "2026-10-30T01:18:01+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "いつもとは違う地図 住友商事グローバルリサーチ",
+      "source_count": 1
     },
     {
       "id": "9ea9fdd87ff442a5",
@@ -275,7 +330,8 @@
         "toyotatsusho"
       ],
       "tags": [],
-      "summary": "豊田通商[8015]：特定子会社の異動に関するお知らせ 2026年10月30日(適時開示) ：日経会社情報DIGITAL 日本経済新聞"
+      "summary": "豊田通商[8015]：特定子会社の異動に関するお知らせ 2026年10月30日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "c70405d454b1a95a",
@@ -287,7 +343,8 @@
         "toyotatsusho"
       ],
       "tags": [],
-      "summary": "東京本社を移転へ 八重洲、30年度めど 豊田通商（中部経済新聞） Yahoo!ニュース豊田通商、東京本社を移転 2030年度に、品川から八重洲へ：ニュース 中日BIZナビ豊田通商が東京・八重洲に本社移転 30年度メド、名古屋本社は存続 日本経済新聞"
+      "summary": "東京本社を移転へ 八重洲、30年度めど 豊田通商（中部経済新聞） Yahoo!ニュース豊田通商、東京本社を移転 2030年度に、品川から八重洲へ：ニュース 中日BIZナビ豊田通商が東京・八重洲に本社移転 30年度メド、名古屋本社は存続 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "a9eace9f39beb848",
@@ -303,7 +360,8 @@
         "投資",
         "提携"
       ],
-      "summary": "電通総研の岩本浩久社長「伊藤忠グループと連携、投資を加速」 日本経済新聞"
+      "summary": "電通総研の岩本浩久社長「伊藤忠グループと連携、投資を加速」 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "0dff11329598d020",
@@ -315,7 +373,8 @@
         "sumitomo"
       ],
       "tags": [],
-      "summary": "JR九州と住友商事、蓄電所「でんきの駅」 長崎県にも 日本経済新聞"
+      "summary": "JR九州と住友商事、蓄電所「でんきの駅」 長崎県にも 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "b029da822b342612",
@@ -327,7 +386,8 @@
         "toyotatsusho"
       ],
       "tags": [],
-      "summary": "東京本社を移転へ 八重洲、30年度めど 豊田通商 ｄメニューニュース"
+      "summary": "東京本社を移転へ 八重洲、30年度めど 豊田通商 ｄメニューニュース",
+      "source_count": 2
     },
     {
       "id": "840c7ca253e150e0",
@@ -342,7 +402,8 @@
         "投資",
         "決算"
       ],
-      "summary": "三井物産CFOが新中計で「2030年度純利益1.4兆円超」を掲げた真意を激白、「苦しい手前の3年間」を乗り切る“即効性”の投資とは？ ダイヤモンド・オンライン"
+      "summary": "三井物産CFOが新中計で「2030年度純利益1.4兆円超」を掲げた真意を激白、「苦しい手前の3年間」を乗り切る“即効性”の投資とは？ ダイヤモンド・オンライン",
+      "source_count": 1
     },
     {
       "id": "33bd31c745920ce2",
@@ -356,7 +417,21 @@
       "tags": [
         "資源"
       ],
-      "summary": "来たるべき大量廃棄に備えよ AGCも住商も「掘る」、未来の資源囲い込み 日経ビジネス電子版"
+      "summary": "来たるべき大量廃棄に備えよ AGCも住商も「掘る」、未来の資源囲い込み 日経ビジネス電子版",
+      "source_count": 1
+    },
+    {
+      "id": "085e14a7a6c37b66",
+      "title": "豊田通商、東京本社を移転 2030年度に、品川から八重洲へ：ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uU184SHJqbExUWDZGMU9kZGNNTXhxYVRFMS1ZcC1Oc0pJUGl1TVhkLWl2TnUxNXpFdThIU3M3VnZoM1R3TnQ0cUdBb0lNU3phczZteTBvRUF3Q041Zl9R?oc=5",
+      "source": "中日BIZナビ",
+      "published": "2026-10-29T13:40:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "豊田通商、東京本社を移転 2030年度に、品川から八重洲へ：ニュース 中日BIZナビ",
+      "source_count": 1
     },
     {
       "id": "fcc25a177ea85d0f",
@@ -368,7 +443,8 @@
         "toyotatsusho"
       ],
       "tags": [],
-      "summary": "豊田通商、東京本社を移転（時事通信） Yahoo!ニュース"
+      "summary": "豊田通商、東京本社を移転（時事通信） Yahoo!ニュース",
+      "source_count": 1
     },
     {
       "id": "25b5bfd233827229",
@@ -380,7 +456,21 @@
         "toyotatsusho"
       ],
       "tags": [],
-      "summary": "豊田通商、東京本社を移転＝2030年めど(時事通信) Yahoo!ファイナンス"
+      "summary": "豊田通商、東京本社を移転＝2030年めど(時事通信) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "fd6519d448888060",
+      "title": "豊田通商が東京・八重洲に本社移転 30年度メド、名古屋本社は存続",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IcU1nZFZZVnFVOXFxWWZDaC1xQ09RNVRsZHR5WW12d1FDcTBIc2xIOGtRcFdJWWNJSk55TWoyYmlEcFJPTFZONGZ2MnE2RUxLRWpnQ2wtLUNNaGRCTkxBU1VLRFZZVjVCQmhMUg?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-10-29T09:27:08+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "豊田通商が東京・八重洲に本社移転 30年度メド、名古屋本社は存続 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "ca9b0a57f6021734",
@@ -432,7 +522,8 @@
       "tags": [
         "DX"
       ],
-      "summary": "三菱商事(株)【8058】：今の株価の理由は？値動きの背景をAIが解説 Yahoo!ファイナンス"
+      "summary": "三菱商事(株)【8058】：今の株価の理由は？値動きの背景をAIが解説 Yahoo!ファイナンス",
+      "source_count": 1
     },
     {
       "id": "46eb25b7e39003f4",
@@ -446,7 +537,8 @@
       "tags": [
         "提携"
       ],
-      "summary": "東京本社を移転～多様なパートナーとの接点を広げ、新たな価値創造を加速する拠点へ～ | 豊田通商株式会社 豊田通商株式会社"
+      "summary": "東京本社を移転～多様なパートナーとの接点を広げ、新たな価値創造を加速する拠点へ～ | 豊田通商株式会社 豊田通商株式会社",
+      "source_count": 1
     },
     {
       "id": "b097264dd11ad9f0",
@@ -460,7 +552,8 @@
       "tags": [
         "決算"
       ],
-      "summary": "【決算速報】豊田通商、上期最終が40％増益で着地・7-9月期も43％増益(株探ニュース) Yahoo!ファイナンス"
+      "summary": "【決算速報】豊田通商、上期最終が40％増益で着地・7-9月期も43％増益(株探ニュース) Yahoo!ファイナンス",
+      "source_count": 1
     },
     {
       "id": "09ca7e02cb133a89",
@@ -474,7 +567,8 @@
       "tags": [
         "投資"
       ],
-      "summary": "「八重洲一丁目北地区第一種市街地再開発事業」においてオフィスフロアを取得決定、豊田通商と賃貸借契約を締結 PR TIMES"
+      "summary": "「八重洲一丁目北地区第一種市街地再開発事業」においてオフィスフロアを取得決定、豊田通商と賃貸借契約を締結 PR TIMES",
+      "source_count": 1
     },
     {
       "id": "660f5053e816d6e4",
@@ -488,7 +582,34 @@
       "tags": [
         "決算"
       ],
-      "summary": "豊田通商、上期最終が40％増益で着地・7-9月期も43％増益 株探"
+      "summary": "豊田通商、上期最終が40％増益で着地・7-9月期も43％増益 株探",
+      "source_count": 1
+    },
+    {
+      "id": "663909f8b20f7002",
+      "title": "豊田通商",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQmM0NzdSMEt1bXYxeE83V3E4cENDQlR1N2lhRjlHVDZNUm9ramdRak5ITTc2WHlVUElLcTNZbWtKUG1NRGR5UTlFZi00VmNyNmlRTHdTVThfamlxVGtyaHQxQU9jLW1xT1hkYXFQaXJ0ZUZDT3hvYjhtMFJKOXlKSEdYMTktR3YxalM2dzRQalJwdTZ0Y2xCNW9oeEk4QmhaRk8wWWk2b0ZBUTNNWVdpQk85NmtvVkVvbmFHYTVqbGZ5a2NwQ1licGlVdF8?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-10-29T06:00:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "豊田通商 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "8d577cfcbff26337",
+      "title": "豊田通商[8015]：子会社との会社分割（簡易吸収分割）に関するお知らせ 2026年10月29日(適時開示) ：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb1RkcDl4MmJGZmVWX0dVa2poOWpDejI2c3lPc19DZ2x1a01kTFNxQ21zVUZ5UW5LOUdNTW5WNmJka3BJZXB2UHQtbTJjZ3c1NmZWYmliMUdJR3AwazJ3RVpXUjR2MHJqTnR1NURMemRqbUVFQkczTEkzNlFqQ1IxY25nYlNOb0RWUFE5a2ZYVllsWXdCS3VNNXE1RER0Z2dxaklTQzUtR291Ny1BUzR0ZGhIb0k5c1lTWGU2eDZNV0lQQll3U0RsRWg0Rkc?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-10-29T06:00:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "豊田通商[8015]：子会社との会社分割（簡易吸収分割）に関するお知らせ 2026年10月29日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "c9e2b5b625ceccb3",
@@ -500,7 +621,8 @@
         "marubeni"
       ],
       "tags": [],
-      "summary": "勝間和代「片付けの極意」、丸紅課長 涙の理由…2026年上期の人気記事 日本経済新聞"
+      "summary": "勝間和代「片付けの極意」、丸紅課長 涙の理由…2026年上期の人気記事 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "47407cf65900abd8",
@@ -526,7 +648,8 @@
         "itochu"
       ],
       "tags": [],
-      "summary": "伊藤忠商事株式会社がオリエンタル白石株式会社＜1786＞株式の変更報告書を提出 Excite エキサイト"
+      "summary": "伊藤忠商事株式会社がオリエンタル白石株式会社＜1786＞株式の変更報告書を提出 Excite エキサイト",
+      "source_count": 1
     },
     {
       "id": "a1b86774ce8de2f0",
@@ -590,7 +713,8 @@
         "marubeni"
       ],
       "tags": [],
-      "summary": "なぜ社員の「はみ出し」を促すのか？ ソニー、丸紅が実践する「挑戦の余白」の設計方法 JBpress"
+      "summary": "なぜ社員の「はみ出し」を促すのか？ ソニー、丸紅が実践する「挑戦の余白」の設計方法 JBpress",
+      "source_count": 1
     },
     {
       "id": "4bd75eb3ab28e557",
@@ -605,7 +729,8 @@
       "tags": [
         "就活"
       ],
-      "summary": "大企業年収、非製造業1位は三菱商事の2112万円 2位に三井物産 日本経済新聞"
+      "summary": "大企業年収、非製造業1位は三菱商事の2112万円 2位に三井物産 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "cf53ac97fc631a08",
@@ -619,7 +744,8 @@
       "tags": [
         "DX"
       ],
-      "summary": "三菱商事ロジスティクス、3カンパニーに「Mazrica」を導入 営業情報を一元管理：AIで情報管理を効率化 TechTargetジャパン"
+      "summary": "三菱商事ロジスティクス、3カンパニーに「Mazrica」を導入 営業情報を一元管理：AIで情報管理を効率化 TechTargetジャパン",
+      "source_count": 1
     },
     {
       "id": "dfd698e355362247",
@@ -633,7 +759,8 @@
       "tags": [
         "就活"
       ],
-      "summary": "大企業年収、1位はキーエンス2178万円 2位は三菱商事2112万円 日本経済新聞"
+      "summary": "大企業年収、1位はキーエンス2178万円 2位は三菱商事2112万円 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "cedadf6c589916a6",
@@ -645,7 +772,8 @@
         "mitsui"
       ],
       "tags": [],
-      "summary": "三井物産都市開発、仙台東IC近くに物流施設 LOGISTICS TODAY"
+      "summary": "三井物産都市開発、仙台東IC近くに物流施設 LOGISTICS TODAY",
+      "source_count": 1
     },
     {
       "id": "82200f1396cc1ebe",
@@ -660,7 +788,8 @@
         "投資",
         "海外"
       ],
-      "summary": "三井物産出資のＬＧＭＳ、ＡＩ活用の５製品発表 NNAアジア"
+      "summary": "三井物産出資のＬＧＭＳ、ＡＩ活用の５製品発表 NNAアジア",
+      "source_count": 1
     },
     {
       "id": "9f819e0d0a022d3a",
@@ -674,7 +803,8 @@
       "tags": [
         "投資"
       ],
-      "summary": "三井物産都市開発／仙台市で東北エリア3件目の物流施設用地を取得、2029年1月竣工へ 物流ニュースのLNEWS"
+      "summary": "三井物産都市開発／仙台市で東北エリア3件目の物流施設用地を取得、2029年1月竣工へ 物流ニュースのLNEWS",
+      "source_count": 1
     },
     {
       "id": "9373d135104945a0",
@@ -690,7 +820,8 @@
         "海外",
         "資源"
       ],
-      "summary": "三菱商事、米国Copper World銅鉱山に追加投資…2029年に生産開始へ レスポンス（Response.jp）"
+      "summary": "三菱商事、米国Copper World銅鉱山に追加投資…2029年に生産開始へ レスポンス（Response.jp）",
+      "source_count": 1
     },
     {
       "id": "5c7828dab8df9b43",
@@ -705,7 +836,8 @@
         "DX",
         "投資"
       ],
-      "summary": "免税システム国内大手のスマートテクノロジーズ＆リソーシーズへの出資について 伊藤忠商事株式会社"
+      "summary": "免税システム国内大手のスマートテクノロジーズ＆リソーシーズへの出資について 伊藤忠商事株式会社",
+      "source_count": 1
     },
     {
       "id": "8ca6acf8ca6c2541",
@@ -719,7 +851,8 @@
       "tags": [
         "提携"
       ],
-      "summary": "JR九州×住友商事グループによる共同事業第3号案件「でんきの駅諫早」を長崎県諫早市で着工 Sumitomo Corporation"
+      "summary": "JR九州×住友商事グループによる共同事業第3号案件「でんきの駅諫早」を長崎県諫早市で着工 Sumitomo Corporation",
+      "source_count": 1
     },
     {
       "id": "618d10de6f4957fc",
@@ -733,7 +866,8 @@
       "tags": [
         "投資"
       ],
-      "summary": "航空機エンジン整備会社「IAG Engine Tech, S.L.」への出資 伊藤忠商事株式会社"
+      "summary": "航空機エンジン整備会社「IAG Engine Tech, S.L.」への出資 伊藤忠商事株式会社",
+      "source_count": 1
     },
     {
       "id": "016bf341fb0bc235",
@@ -747,7 +881,8 @@
       "tags": [
         "M&A"
       ],
-      "summary": "「コンサル化」する総合商社。伊藤忠の電通総研2000億円買収は何を意味するのか Business Insider Japan"
+      "summary": "「コンサル化」する総合商社。伊藤忠の電通総研2000億円買収は何を意味するのか Business Insider Japan",
+      "source_count": 1
     },
     {
       "id": "83c449c9e79d7d1a",
@@ -762,7 +897,8 @@
         "M&A",
         "資源"
       ],
-      "summary": "【独自】石油国家備蓄買い戻し第一弾「UAE産原油200万バレル」 三井物産が落札 11月にも日本到着 財源は「放出時の売却益」 Yahoo!ニュース"
+      "summary": "【独自】石油国家備蓄買い戻し第一弾「UAE産原油200万バレル」 三井物産が落札 11月にも日本到着 財源は「放出時の売却益」 Yahoo!ニュース",
+      "source_count": 1
     },
     {
       "id": "05953d0c96b0725b",
@@ -788,7 +924,8 @@
         "mitsubishi"
       ],
       "tags": [],
-      "summary": "オルタナ総研統合報告書レビュー（57）：三菱商事 Yahoo!ニュース"
+      "summary": "オルタナ総研統合報告書レビュー（57）：三菱商事 Yahoo!ニュース",
+      "source_count": 1
     },
     {
       "id": "cac06424c2d20ecf",
@@ -817,6 +954,21 @@
       "summary": "MIRAI LAB PALETTEが「FCAJ AWARDフューチャーセンター賞」を受賞 Sumitomo Corporation"
     },
     {
+      "id": "59097c8dd018db71",
+      "title": "【台湾】伊藤忠、日立建機系の台湾販社に51％出資（NNA）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DMjNyWTh6ZzlJTU55NHMtU01Ka3NIb2JQcE50ZEVGVnRCMEc4bFRBVG9jaUIzaWpYMkdYRVJYQW5UY1pZUG93Z29Ed0EyZFhZVHlNZU1xQzlXV2ZDVEJfLUZsVGhVdDQtZHhuT2dqZ0xjTTNPMWJrdG5iS2ZLdWM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-10-27T02:30:49+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "【台湾】伊藤忠、日立建機系の台湾販社に51％出資（NNA） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
       "id": "6eba461508186ce5",
       "title": "【アナリスト評価】三井物産、レーティング強気を継続、目標株価6,600円に引下げ（米系大手証券）(アイフィス株予報)",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYnJIaU5lZTM4Z3ZuNkQ3YjZRek5SSjdBVmRyM29WcHN3Q3p3TnRmNlhUV1pZcnlHWVRjZmdZWlIzWnlMdkdOZ2lQLTZvOEZ0RDI3YmE1Z04wa2NIaWhqVTNNVFdXMS1iaVpqY0tZel9pbnZHalFQRFVrcnBkaXdabkRIOWNyQzA?oc=5",
@@ -826,7 +978,8 @@
         "mitsui"
       ],
       "tags": [],
-      "summary": "【アナリスト評価】三井物産、レーティング強気を継続、目標株価6,600円に引下げ（米系大手証券）(アイフィス株予報) Yahoo!ファイナンス"
+      "summary": "【アナリスト評価】三井物産、レーティング強気を継続、目標株価6,600円に引下げ（米系大手証券）(アイフィス株予報) Yahoo!ファイナンス",
+      "source_count": 1
     },
     {
       "id": "5244f13263b22ff0",
@@ -838,7 +991,8 @@
         "marubeni"
       ],
       "tags": [],
-      "summary": "2026年度（第52回）丸紅基金社会福祉助成先決定について Marubeni Corporation"
+      "summary": "2026年度（第52回）丸紅基金社会福祉助成先決定について Marubeni Corporation",
+      "source_count": 1
     },
     {
       "id": "5626655a7b8409cb",
@@ -850,7 +1004,8 @@
         "sumitomo"
       ],
       "tags": [],
-      "summary": "ＪＲ九州と住友商事グループ、大規模蓄電所を諫早市に整備へ…２０２８年１２月の事業開始を目指す（読売新聞オンライン） Yahoo!ニュース"
+      "summary": "ＪＲ九州と住友商事グループ、大規模蓄電所を諫早市に整備へ…２０２８年１２月の事業開始を目指す（読売新聞オンライン） Yahoo!ニュース",
+      "source_count": 1
     },
     {
       "id": "54a6db9ef3df0a7a",
@@ -865,7 +1020,8 @@
         "投資",
         "資源"
       ],
-      "summary": "三菱商事、米アリゾナ州の銅鉱山開発を正式スタート…総投資1526億円 読売新聞"
+      "summary": "三菱商事、米アリゾナ州の銅鉱山開発を正式スタート…総投資1526億円 読売新聞",
+      "source_count": 1
     },
     {
       "id": "7dc8212ef55159b8",
@@ -892,7 +1048,8 @@
         "投資",
         "海外"
       ],
-      "summary": "丸紅が韓国「ロムアンド」運営会社の株式最大28％を取得へ タイに続く投資でアジアの美容事業を拡大 WWDJAPAN"
+      "summary": "丸紅が韓国「ロムアンド」運営会社の株式最大28％を取得へ タイに続く投資でアジアの美容事業を拡大 WWDJAPAN",
+      "source_count": 1
     },
     {
       "id": "3a6378eb45a3538e",
@@ -906,7 +1063,8 @@
       "tags": [
         "DX"
       ],
-      "summary": "三菱商事ロジ／営業状況可視化へAIソリューション導入、脱「属人化」目指す 物流ニュースのLNEWS"
+      "summary": "三菱商事ロジ／営業状況可視化へAIソリューション導入、脱「属人化」目指す 物流ニュースのLNEWS",
+      "source_count": 1
     },
     {
       "id": "7294e130b70842ce",
@@ -930,7 +1088,8 @@
         "mitsubishi"
       ],
       "tags": [],
-      "summary": "三菱商事---上値抵抗の200日線を上抜ける 株探"
+      "summary": "三菱商事---上値抵抗の200日線を上抜ける 株探",
+      "source_count": 1
     },
     {
       "id": "3680a857fbd8514b",
@@ -944,7 +1103,8 @@
       "tags": [
         "就活"
       ],
-      "summary": "長瀬産業、パキスタンからIT人材受け入れ 正社員採用へ 日本経済新聞"
+      "summary": "長瀬産業、パキスタンからIT人材受け入れ 正社員採用へ 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "8371784335052b1e",
@@ -958,7 +1118,23 @@
       "tags": [
         "人事"
       ],
-      "summary": "女性登用は「結果」か「機会」か 伊藤忠は課長から執行役員に 日本経済新聞"
+      "summary": "女性登用は「結果」か「機会」か 伊藤忠は課長から執行役員に 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "af3fcbd836955255",
+      "title": "経済産業省の令和7年度補正「グローバルサウス未来志向型共創等事業（大型実証 非ASEAN加盟国）」に採択 ～ブラジルでのサトウキビ残渣由来のバイオガス生産実証",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NRVFnMjVXWVNBTTBocTZEY20yYWFibU00OVYzRnpKNXhXVXpQeTh5T0dqelE3TldtT01oYUt2cFMwT3JyZXM3NHB6ZWRRWm4yLThPWTFFaVFoVHNNMlhQOFFiLVVXcm9NRnRLeWNR?oc=5",
+      "source": "豊田通商株式会社",
+      "published": "2026-10-23T11:01:04+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "海外"
+      ],
+      "summary": "経済産業省の令和7年度補正「グローバルサウス未来志向型共創等事業（大型実証 非ASEAN加盟国）」に採択 ～ブラジルでのサトウキビ残渣由来のバイオガス生産実証 豊田通商株式会社",
+      "source_count": 1
     },
     {
       "id": "7d288ecab8bee722",
@@ -970,7 +1146,8 @@
         "marubeni"
       ],
       "tags": [],
-      "summary": "【戦略】丸紅アセットマネジメントが5号ファンド、累計資産1000億円超に 日経不動産マーケット情報"
+      "summary": "【戦略】丸紅アセットマネジメントが5号ファンド、累計資産1000億円超に 日経不動産マーケット情報",
+      "source_count": 1
     },
     {
       "id": "7f377d375c492270",
@@ -984,7 +1161,8 @@
       "tags": [
         "投資"
       ],
-      "summary": "丸紅、韓国コスメ「ロムアンド」に出資 70億円で最大28%取得 日本経済新聞"
+      "summary": "丸紅、韓国コスメ「ロムアンド」に出資 70億円で最大28%取得 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "34121763b09d19c9",
@@ -1000,7 +1178,8 @@
         "提携",
         "海外"
       ],
-      "summary": "伊藤忠丸紅鉄鋼ら3社、高強度ファスナー事業でインド市場開拓…戦略的パートナーシップ締結 レスポンス（Response.jp）"
+      "summary": "伊藤忠丸紅鉄鋼ら3社、高強度ファスナー事業でインド市場開拓…戦略的パートナーシップ締結 レスポンス（Response.jp）",
+      "source_count": 1
     },
     {
       "id": "a1f86d1f43133ed1",
@@ -1014,7 +1193,8 @@
       "tags": [
         "投資"
       ],
-      "summary": "韓国大手ビューティー・パーソナルケア企業iFamilySC Co., Ltd.の株式取得について Marubeni Corporation"
+      "summary": "韓国大手ビューティー・パーソナルケア企業iFamilySC Co., Ltd.の株式取得について Marubeni Corporation",
+      "source_count": 1
     },
     {
       "id": "90c27bc9721f8cf1",
@@ -1026,7 +1206,8 @@
         "mitsubishi"
       ],
       "tags": [],
-      "summary": "商社がつくる新商流 三菱商事とソニーのバイオプラ供給網が国際賞 日本経済新聞"
+      "summary": "商社がつくる新商流 三菱商事とソニーのバイオプラ供給網が国際賞 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "b7c9e5f314fc461d",
@@ -1038,7 +1219,8 @@
         "sumitomo"
       ],
       "tags": [],
-      "summary": "九州大学箱崎キャンパス跡地地区事業のプロジェクト名を「HAKOZAKI BLOCK」に決定 | 住友商事 Sumitomo Corporation"
+      "summary": "九州大学箱崎キャンパス跡地地区事業のプロジェクト名を「HAKOZAKI BLOCK」に決定 | 住友商事 Sumitomo Corporation",
+      "source_count": 1
     },
     {
       "id": "581cc815b4b6db81",
@@ -1053,7 +1235,36 @@
         "人事",
         "海外"
       ],
-      "summary": "なぜ豊田通商だけが「アフリカで大成功した日本企業」になれたのか、今井斗志光社長が明かす全貌 JBpress"
+      "summary": "なぜ豊田通商だけが「アフリカで大成功した日本企業」になれたのか、今井斗志光社長が明かす全貌 JBpress",
+      "source_count": 1
+    },
+    {
+      "id": "bea6de916959dc34",
+      "title": "丸紅（8002）の株は買いか？今後の株価を業績や事業内容から分析",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90Q0NvRGhmaGp5T2FobjU4T0IxbjBJWFNfOEM5T2MtZHhsTXNsZWp4WmpmcE1PVXhuYUQ4YWY1T2Jlczk3RE11ZXk0N29TYzZqdmV0WE1CSQ?oc=5",
+      "source": "かぶリッジ",
+      "published": "2026-10-22T07:00:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "丸紅（8002）の株は買いか？今後の株価を業績や事業内容から分析 かぶリッジ",
+      "source_count": 1
+    },
+    {
+      "id": "a2e8c5f549ab945e",
+      "title": "豊田通商、アフリカでヘルスケア事業を3倍に 車に次ぐ柱へ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXdVBjSkd5ekU1emJXQ0N4YkxYUU1OQldXRlI0UEQ5TkVCUFJhdEdaOWFjMXpLWDBjZDZORUo4dVU4RkI4UVlINnBzbjMxNkhyNEdnSVl0a0t2OE54NnlxcHFTbEt6d2JuQVZKdA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-10-22T07:00:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "海外"
+      ],
+      "summary": "豊田通商、アフリカでヘルスケア事業を3倍に 車に次ぐ柱へ 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "fce533359dfbc6b4",
@@ -1067,7 +1278,8 @@
       "tags": [
         "資源"
       ],
-      "summary": "三菱商事、米銅鉱山の開発決定 総額1526億円で 日本経済新聞"
+      "summary": "三菱商事、米銅鉱山の開発決定 総額1526億円で 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "5095400afc6aa198",
@@ -1079,7 +1291,8 @@
         "marubeni"
       ],
       "tags": [],
-      "summary": "沖縄ツーリスト、個人情報漏洩の可能性 6月から丸紅傘下 日本経済新聞"
+      "summary": "沖縄ツーリスト、個人情報漏洩の可能性 6月から丸紅傘下 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "2262ed5c5ce82732",
@@ -1106,7 +1319,8 @@
         "海外",
         "資源"
       ],
-      "summary": "米国Copper World銅鉱山の開発意思決定について | ニュースリリース | ニュース | 三菱商事 Mitsubishi Corporation"
+      "summary": "米国Copper World銅鉱山の開発意思決定について | ニュースリリース | ニュース | 三菱商事 Mitsubishi Corporation",
+      "source_count": 1
     },
     {
       "id": "4ac379d92484f900",
@@ -1122,7 +1336,8 @@
         "投資",
         "海外"
       ],
-      "summary": "米国の半導体材料スタートアップ企業ChEmpowerへ出資 豊田通商株式会社"
+      "summary": "米国の半導体材料スタートアップ企業ChEmpowerへ出資 豊田通商株式会社",
+      "source_count": 1
     },
     {
       "id": "53e0119d129e0845",
@@ -1178,7 +1393,8 @@
         "海外",
         "脱炭素"
       ],
-      "summary": "三菱商事撤退後の洋上風力 欧米失速、中国独走の中でJERAは勝てるか 日経ビジネス電子版"
+      "summary": "三菱商事撤退後の洋上風力 欧米失速、中国独走の中でJERAは勝てるか 日経ビジネス電子版",
+      "source_count": 1
     },
     {
       "id": "4a1c558e0c334b1e",
@@ -1192,7 +1408,8 @@
       "tags": [
         "投資"
       ],
-      "summary": "三井物産が育てる「最強のタンパク質」 1000億円投資の勝算 日本経済新聞"
+      "summary": "三井物産が育てる「最強のタンパク質」 1000億円投資の勝算 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "5ef138ad782fcefd",
@@ -1216,7 +1433,8 @@
         "kanematsu"
       ],
       "tags": [],
-      "summary": "【FISCO銘柄コメント】兼松---1889年創業の総合商社(フィスコ) Yahoo!ファイナンス"
+      "summary": "【FISCO銘柄コメント】兼松---1889年創業の総合商社(フィスコ) Yahoo!ファイナンス",
+      "source_count": 1
     },
     {
       "id": "910f5db3a8f04ff6",
@@ -1232,7 +1450,8 @@
         "提携",
         "海外"
       ],
-      "summary": "伊藤忠丸紅鉄鋼など3社 高強度ファスナー事業 インド市場開拓で提携（日刊産業新聞） Yahoo!ニュース"
+      "summary": "伊藤忠丸紅鉄鋼など3社 高強度ファスナー事業 インド市場開拓で提携（日刊産業新聞） Yahoo!ニュース",
+      "source_count": 1
     },
     {
       "id": "7f1a2240a8d44b51",
@@ -1248,7 +1467,8 @@
         "DX",
         "提携"
       ],
-      "summary": "伊藤忠丸紅鉄鋼／印カパロ、アンスコと戦略提携／印で高強度ファスナー生産 日刊鉄鋼新聞 Japan Metal Daily"
+      "summary": "伊藤忠丸紅鉄鋼／印カパロ、アンスコと戦略提携／印で高強度ファスナー生産 日刊鉄鋼新聞 Japan Metal Daily",
+      "source_count": 1
     },
     {
       "id": "380fc483b515f2b3",
@@ -1262,7 +1482,23 @@
       "tags": [
         "人事"
       ],
-      "summary": "インタビュー／長瀬産業社長・上島宏之氏 時価総額1兆円目指す 日刊工業新聞"
+      "summary": "インタビュー／長瀬産業社長・上島宏之氏 時価総額1兆円目指す 日刊工業新聞",
+      "source_count": 1
+    },
+    {
+      "id": "221e52f2372c5026",
+      "title": "丸紅情報システムズ、ストラタシスの大型FDM方式3Dプリンター「F870」の取り扱いを開始 大型治工具の製作を効率化",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd1ZBT3RWNW9WMzUzOWh5bkkwbmdMMjdSZmN2OW5pMHpVMmVDRHNUbGIxRVAwME04WU1vbU1DSlQ4LVctbjRubzRiUlRhN3lGVldfejNoaXBJUVJaSjU4d01pRjNCMlRlRkIzdGxjRmxCNjlubnFQeXpVemRyR1RxSEk4bTJxOEdpNmhhODRzTmRqa25lRUpFamZjXzhnN2Nh?oc=5",
+      "source": "ShareLab NEWS",
+      "published": "2026-10-16T07:00:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "丸紅情報システムズ、ストラタシスの大型FDM方式3Dプリンター「F870」の取り扱いを開始 大型治工具の製作を効率化 ShareLab NEWS",
+      "source_count": 1
     },
     {
       "id": "c1974e233c657335",
@@ -1276,7 +1512,8 @@
       "tags": [
         "就活"
       ],
-      "summary": "三菱商事の50代後半、次長級の年収は？【1万件の口コミ情報データ】 ダイヤモンド・オンライン"
+      "summary": "三菱商事の50代後半、次長級の年収は？【1万件の口コミ情報データ】 ダイヤモンド・オンライン",
+      "source_count": 1
     },
     {
       "id": "96b1435fb7f6a851",
@@ -1292,7 +1529,8 @@
         "提携",
         "海外"
       ],
-      "summary": "（経過開示）Penske Corporationと共同での米国Penske Automotive Group, Inc.の浮動株買収の決定 MITSUI & CO., LTD."
+      "summary": "（経過開示）Penske Corporationと共同での米国Penske Automotive Group, Inc.の浮動株買収の決定 MITSUI & CO., LTD.",
+      "source_count": 1
     },
     {
       "id": "1fe0ce0817e82565",
@@ -1306,7 +1544,8 @@
       "tags": [
         "就活"
       ],
-      "summary": "三井物産の30代前半、課長補佐級の年収は？【1万件の口コミ情報データ】 ダイヤモンド・オンライン"
+      "summary": "三井物産の30代前半、課長補佐級の年収は？【1万件の口コミ情報データ】 ダイヤモンド・オンライン",
+      "source_count": 1
     },
     {
       "id": "b0d95cf3b6611b14",
@@ -1320,7 +1559,8 @@
       "tags": [
         "投資"
       ],
-      "summary": "三井物産、米車販売大手に追加出資2400億円 親会社と株式を非公開化 日本経済新聞"
+      "summary": "三井物産、米車販売大手に追加出資2400億円 親会社と株式を非公開化 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "fd3e929799d3209c",
@@ -1334,7 +1574,8 @@
       "tags": [
         "DX"
       ],
-      "summary": "マーケティング・営業領域のDXコンサルティング機能を強化 伊藤忠商事株式会社"
+      "summary": "マーケティング・営業領域のDXコンサルティング機能を強化 伊藤忠商事株式会社",
+      "source_count": 1
     },
     {
       "id": "c3e869c07b8e7e5a",
@@ -1349,7 +1590,8 @@
         "DX",
         "人事"
       ],
-      "summary": "住友商事、航空機リースやデジタル事業強化 上野社長「次の成長ステージに上がるため、さらに質を高める」 読売新聞"
+      "summary": "住友商事、航空機リースやデジタル事業強化 上野社長「次の成長ステージに上がるため、さらに質を高める」 読売新聞",
+      "source_count": 1
     },
     {
       "id": "093000cf7461fdb1",
@@ -1363,7 +1605,40 @@
       "tags": [
         "人事"
       ],
-      "summary": "豊田通商「トヨタの黒子」だけにとどまらない、今井斗志光社長が語る“異能の総合商社”の正体 JBpress"
+      "summary": "豊田通商「トヨタの黒子」だけにとどまらない、今井斗志光社長が語る“異能の総合商社”の正体 JBpress",
+      "source_count": 1
+    },
+    {
+      "id": "8ecaef9491c48896",
+      "title": "池田泉州銀と滋賀銀、丸紅と取引先支援で協定 インドやASEANへの進出後押し",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RMlgyMUVSNTZkS3VKNUJjclpDRmhwTENmX3hYd1o4TElOWHhFWlEtUmxLbW84dDFRWGI1azRMaENkYXo0YWNfWW4yb0tDTE5ibHFOcDZB?oc=5",
+      "source": "ニッキンONLINE",
+      "published": "2026-10-15T07:00:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "提携",
+        "海外"
+      ],
+      "summary": "池田泉州銀と滋賀銀、丸紅と取引先支援で協定 インドやASEANへの進出後押し ニッキンONLINE",
+      "source_count": 1
+    },
+    {
+      "id": "8600a145385485d2",
+      "title": "丸紅社長、エネルギー・銅価格上昇で収益改善に期待－供給網混乱対応 フォトギャラリー | TBS CROSS DIG with Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdnFrY1d5SnFvZDBLYXNSaTJ4NUVma3gtZGtITUlobTFwLWt1clZxVDBhZkNwU0p3ZTNiT2VJTUNqOS1qLWRKdUVoOWN5cVZLRmFHdXlsbWF0Q2xLcEM2UDBIQWVVMm56T1JvS2VkWW1FRDFOeXNORUZTZ2NVNVdCZXJuY1RMVUE?oc=5",
+      "source": "TBS NEWS DIG",
+      "published": "2026-10-14T08:48:59+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "人事",
+        "資源"
+      ],
+      "summary": "丸紅社長、エネルギー・銅価格上昇で収益改善に期待－供給網混乱対応 フォトギャラリー | TBS CROSS DIG with Bloomberg TBS NEWS DIG",
+      "source_count": 1
     },
     {
       "id": "d33252a3ef7bd062",
@@ -1375,7 +1650,8 @@
         "mitsubishi"
       ],
       "tags": [],
-      "summary": "三菱商事の不動産事業トップが明かす“半歩先”戦略、JR東と異例タッグの伊藤忠や大手デベの包囲網に挑む「独自路線」の勝算 ダイヤモンド・オンライン"
+      "summary": "三菱商事の不動産事業トップが明かす“半歩先”戦略、JR東と異例タッグの伊藤忠や大手デベの包囲網に挑む「独自路線」の勝算 ダイヤモンド・オンライン",
+      "source_count": 1
     },
     {
       "id": "38e1369185581dbf",
@@ -1390,7 +1666,8 @@
         "人事",
         "資源"
       ],
-      "summary": "丸紅社長、エネルギー・銅価格上昇で収益改善に期待－供給網混乱対応 Bloomberg.com"
+      "summary": "丸紅社長、エネルギー・銅価格上昇で収益改善に期待－供給網混乱対応 Bloomberg.com",
+      "source_count": 2
     },
     {
       "id": "302134ee0f62cb93",
@@ -1405,7 +1682,8 @@
         "投資",
         "海外"
       ],
-      "summary": "【無料公開】三菱商事と伊藤忠が建機天国インドネシアで攻勢！レンタル首位の三菱、日立建機に出資した伊藤忠の野望 ダイヤモンド・オンライン"
+      "summary": "【無料公開】三菱商事と伊藤忠が建機天国インドネシアで攻勢！レンタル首位の三菱、日立建機に出資した伊藤忠の野望 ダイヤモンド・オンライン",
+      "source_count": 1
     },
     {
       "id": "a59fcaf34a6809ea",
@@ -1433,7 +1711,8 @@
       "tags": [
         "DX"
       ],
-      "summary": "JFE商事鋼管管材株式会社様 導入事例 | 輸配送管理システム（TMS）ULTRAFIX NEC"
+      "summary": "JFE商事鋼管管材株式会社様 導入事例 | 輸配送管理システム（TMS）ULTRAFIX NEC",
+      "source_count": 1
     },
     {
       "id": "051e3cf1c287632b",
@@ -1445,7 +1724,8 @@
         "mitsubishi"
       ],
       "tags": [],
-      "summary": "監視委、元三菱商事社員に課徴金勧告 永谷園HD株でインサイダー取引 日本経済新聞"
+      "summary": "監視委、元三菱商事社員に課徴金勧告 永谷園HD株でインサイダー取引 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "63360f07d59dbf3f",
@@ -1457,7 +1737,8 @@
         "mitsubishi"
       ],
       "tags": [],
-      "summary": "ミャンマー都市開発に転機 三菱商事など撤退、商機とリスクに隔たり 日本経済新聞"
+      "summary": "ミャンマー都市開発に転機 三菱商事など撤退、商機とリスクに隔たり 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "6208ddde4cebd114",
@@ -1471,7 +1752,8 @@
       "tags": [
         "投資"
       ],
-      "summary": "男性の育休取得率、三菱商事が171%で首位 部長をアンバサダー指名 日本経済新聞"
+      "summary": "男性の育休取得率、三菱商事が171%で首位 部長をアンバサダー指名 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "59b29b0f863f87ba",
@@ -1485,7 +1767,8 @@
       "tags": [
         "投資"
       ],
-      "summary": "国内企業向け投資を手掛ける独立系PEファンド運営会社アスパラントグループの持分法適用会社化について 伊藤忠商事株式会社"
+      "summary": "国内企業向け投資を手掛ける独立系PEファンド運営会社アスパラントグループの持分法適用会社化について 伊藤忠商事株式会社",
+      "source_count": 1
     },
     {
       "id": "9c468345b200ee40",
@@ -1499,7 +1782,8 @@
       "tags": [
         "就活"
       ],
-      "summary": "丸紅の50代後半、課長級の年収は？【1万件の口コミ情報データ】 ダイヤモンド・オンライン"
+      "summary": "丸紅の50代後半、課長級の年収は？【1万件の口コミ情報データ】 ダイヤモンド・オンライン",
+      "source_count": 1
     },
     {
       "id": "776c848e3e8be5f8",
@@ -1527,7 +1811,8 @@
       "tags": [
         "M&A"
       ],
-      "summary": "第一ライフ・丸紅系REITが合併 調達力拡大で資産5000億円に 日本経済新聞"
+      "summary": "第一ライフ・丸紅系REITが合併 調達力拡大で資産5000億円に 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "00ce4a113bfd7b0b",
@@ -1539,7 +1824,8 @@
         "nagase"
       ],
       "tags": [],
-      "summary": "日本橋の新社屋へ東京本社を移転、グループ16社集約 長瀬産業 estie"
+      "summary": "日本橋の新社屋へ東京本社を移転、グループ16社集約 長瀬産業 estie",
+      "source_count": 1
     },
     {
       "id": "ffd64c26df77312b",
@@ -1553,7 +1839,8 @@
       "tags": [
         "DX"
       ],
-      "summary": "三菱商事、株価が一進一退 「データセンター国内10棟目」報道反応薄 日本経済新聞"
+      "summary": "三菱商事、株価が一進一退 「データセンター国内10棟目」報道反応薄 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "a57aaff5cda2bdd1",
@@ -1565,7 +1852,8 @@
         "jfeshoji"
       ],
       "tags": [],
-      "summary": "「ものづくりワールド大阪」に出展 | JFE商事株式会社のプレスリリース PR TIMES"
+      "summary": "「ものづくりワールド大阪」に出展 | JFE商事株式会社のプレスリリース PR TIMES",
+      "source_count": 1
     },
     {
       "id": "feb94b9937b393fd",
@@ -1579,7 +1867,21 @@
       "tags": [
         "海外"
       ],
-      "summary": "丸紅や住友林業、インドネシア森林火災克服へ監視増員や土壌チェック 日本経済新聞"
+      "summary": "丸紅や住友林業、インドネシア森林火災克服へ監視増員や土壌チェック 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "2c8b14d5330be5d4",
+      "title": "経費精算「5件に1件が差し戻し」をどう変えた？ 丸紅I-DIGIOグループが挑む「マニュアルゼロ」の業務改革",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE45UEozbkJkOXVBc09GSGNUS0V5ZGU2cUVWVGxuY3F2S3pFc193Mzk3cXRhQlIyamtSTDdkaWFHTWVQZ0RKc00wMHU3WUJuM25UYzQyc1RNLVphNXB0RmRpZ3NWczVvYTVjLU9COGNsQWpyZw?oc=5",
+      "source": "ITmedia",
+      "published": "2026-10-06T07:00:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "経費精算「5件に1件が差し戻し」をどう変えた？ 丸紅I-DIGIOグループが挑む「マニュアルゼロ」の業務改革 ITmedia",
+      "source_count": 1
     },
     {
       "id": "828eaec84e8b7bf1",
@@ -1611,7 +1913,8 @@
         "海外",
         "脱炭素"
       ],
-      "summary": "Hero Groupとの協業のもと、インドの大規模再生可能エネルギー事業に参画 | 住友商事 Sumitomo Corporation"
+      "summary": "Hero Groupとの協業のもと、インドの大規模再生可能エネルギー事業に参画 | 住友商事 Sumitomo Corporation",
+      "source_count": 1
     },
     {
       "id": "0c956a8accb496da",
@@ -1627,7 +1930,8 @@
         "海外",
         "資源"
       ],
-      "summary": "豊田通商、インドネシアでバイオメタン製造・販売事業に参入 〜パーム油工場廃水を原料に2027年商業運転開始〜 豊田通商株式会社"
+      "summary": "豊田通商、インドネシアでバイオメタン製造・販売事業に参入 〜パーム油工場廃水を原料に2027年商業運転開始〜 豊田通商株式会社",
+      "source_count": 1
     },
     {
       "id": "d4169f57f396a31f",
@@ -1641,7 +1945,25 @@
       "tags": [
         "提携"
       ],
-      "summary": "東京本社新社屋の完成およびオフィス移転について 共同通信PRワイヤー"
+      "summary": "東京本社新社屋の完成およびオフィス移転について 共同通信PRワイヤー",
+      "source_count": 1
+    },
+    {
+      "id": "289cca9984abb3a0",
+      "title": "丸紅社長、レアアース「豪州と供給網全体で協力」 経済安保で連携強調",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tNG11Z1RUMTNqNTVoTFNzamtLUlE1bmR3aTh2UFF2Z1Q2VVVoX05GcGxjNFRCUEtEODh4QUNNcHJBcjAwM1ZPd09CMUpnbEtlOW9jQWJUdmNiS1F3ZUhBQWg5NlNVbjRBZ0tZTw?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-10-05T07:00:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "人事",
+        "提携",
+        "海外"
+      ],
+      "summary": "丸紅社長、レアアース「豪州と供給網全体で協力」 経済安保で連携強調 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "ad2a1fa00490469e",
@@ -1655,7 +1977,8 @@
       "tags": [
         "投資"
       ],
-      "summary": "八木通商、双日ファッションの全株式取得（WWDJAPAN.com） Yahoo!ニュース"
+      "summary": "八木通商、双日ファッションの全株式取得（WWDJAPAN.com） Yahoo!ニュース",
+      "source_count": 1
     },
     {
       "id": "347fadac83ce11b8",
@@ -1672,7 +1995,23 @@
         "人事",
         "海外"
       ],
-      "summary": "現地レポート／伊藤忠丸紅鉄鋼のインドネシアＣＣ事業「ＵＳＣ」、統合・設立から２５年／５００社超える顧客獲得／田中社長「ローカル系ＣＣにない安全・品質を追求」 日刊鉄鋼新聞 Japan Metal Daily"
+      "summary": "現地レポート／伊藤忠丸紅鉄鋼のインドネシアＣＣ事業「ＵＳＣ」、統合・設立から２５年／５００社超える顧客獲得／田中社長「ローカル系ＣＣにない安全・品質を追求」 日刊鉄鋼新聞 Japan Metal Daily",
+      "source_count": 1
+    },
+    {
+      "id": "adcbf7e00b5b714f",
+      "title": "兼松、損保ジャパンおよび韓国A2Zと自動運転分野で協業",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lUHc3MHhCcUlaYkt5WlN2WkVOLXB4TGJVQzB6OVFCOU43VTlabnVnSXJmbS1ROEFlc2pwRlJkTlBSMFdwa0dIT1pxOHBPbmpHQlhvTlY5OExsdzRJSUtn?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "published": "2026-10-02T07:00:00+00:00",
+      "company_ids": [
+        "kanematsu"
+      ],
+      "tags": [
+        "提携"
+      ],
+      "summary": "兼松、損保ジャパンおよび韓国A2Zと自動運転分野で協業 千葉テレビ放送株式会社",
+      "source_count": 1
     },
     {
       "id": "c3e07a2c820fcd48",
@@ -1684,7 +2023,8 @@
         "mitsubishi"
       ],
       "tags": [],
-      "summary": "三菱商事の「いま」と「これから」。事業と歴史と私たちの思い Mitsubishi Corporation"
+      "summary": "三菱商事の「いま」と「これから」。事業と歴史と私たちの思い Mitsubishi Corporation",
+      "source_count": 1
     },
     {
       "id": "4500639ff8e54570",
@@ -1696,7 +2036,8 @@
         "mitsubishi"
       ],
       "tags": [],
-      "summary": "三菱商事のオウンドメディア『RYOWA』始動！ Mitsubishi Corporation"
+      "summary": "三菱商事のオウンドメディア『RYOWA』始動！ Mitsubishi Corporation",
+      "source_count": 1
     },
     {
       "id": "7cf6593f3c0af4ed",
@@ -1711,7 +2052,8 @@
         "投資",
         "株主還元"
       ],
-      "summary": "自己株式の取得状況（途中経過） | 2026年 | リリース | 三井物産株式会社 MITSUI & CO., LTD."
+      "summary": "自己株式の取得状況（途中経過） | 2026年 | リリース | 三井物産株式会社 MITSUI & CO., LTD.",
+      "source_count": 1
     },
     {
       "id": "11b31befc3bab8f2",
@@ -1726,7 +2068,8 @@
       "tags": [
         "人事"
       ],
-      "summary": "伊藤忠丸紅鉄鋼 設立25周年／石谷 誠社長に聞く／鉄鋼流通の世界トップへ／在庫・加工・物流・金融 総合提案を追求 WEB産業新聞"
+      "summary": "伊藤忠丸紅鉄鋼 設立25周年／石谷 誠社長に聞く／鉄鋼流通の世界トップへ／在庫・加工・物流・金融 総合提案を追求 WEB産業新聞",
+      "source_count": 1
     },
     {
       "id": "fb019930e5d5faf0",
@@ -1754,7 +2097,8 @@
         "jfeshoji"
       ],
       "tags": [],
-      "summary": "JFEホールディングス、稼ぎ頭は商社事業。セグメント利益の6割超を鉄鋼以外で稼ぐ構造（LIMO） Yahoo!ニュース"
+      "summary": "JFEホールディングス、稼ぎ頭は商社事業。セグメント利益の6割超を鉄鋼以外で稼ぐ構造（LIMO） Yahoo!ニュース",
+      "source_count": 1
     },
     {
       "id": "c3d420ed49c0a7bd",
@@ -1768,7 +2112,8 @@
       "tags": [
         "提携"
       ],
-      "summary": "住友商事、MILIZEと資本業務提携 Sumitomo Corporation"
+      "summary": "住友商事、MILIZEと資本業務提携 Sumitomo Corporation",
+      "source_count": 1
     },
     {
       "id": "ec9dc1f2024b076c",
@@ -1780,7 +2125,23 @@
         "itochu"
       ],
       "tags": [],
-      "summary": "キラキラじゃないキャリアの話 伊藤忠商事社員に聞く 日本経済新聞"
+      "summary": "キラキラじゃないキャリアの話 伊藤忠商事社員に聞く 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "ce1c0aeca9d7eace",
+      "title": "三井物産株の上値重く 大型投資、収益貢献の道筋が焦点 - 日経ヴェリタス",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10Qjc5TmxHREtTMENnSnBQcXRtVTdrZk1Md1VjRTYweDAycHIyZnJBaUVzSWpUREQxNHJCa2NfQmZKdHVnNU9PejJGOEZZUW5ROHczR0xnZDNpX0JJUnN2TXpVT2x2bHhYbEs1cG9OX290SDM3cWpmR3JnZTAzQQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-09-26T07:00:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "三井物産株の上値重く 大型投資、収益貢献の道筋が焦点 - 日経ヴェリタス 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "dd153d1f8f19b367",
@@ -1794,7 +2155,21 @@
       "tags": [
         "投資"
       ],
-      "summary": "ユナイテッド・イミュニティ株式会社への出資について 伊藤忠商事株式会社"
+      "summary": "ユナイテッド・イミュニティ株式会社への出資について 伊藤忠商事株式会社",
+      "source_count": 1
+    },
+    {
+      "id": "8890b61c97b4b8c0",
+      "title": "総合商社 売上高ランキング 企業一覧",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX0NpTU8zZExiMnRWQlBlcWd2cy1SZjItdkszN3BpRHVuemY4RGdPUXJHaDdOa1p0SzE0ODY1NGdWZ2JsVTV3V0hYLTEtZHdDdTJrMXZEYkNkS19tWEppVFRTMU5WRy1VVTBQNW02MnRlMy1TWWRncXY1cElqNlUzT2VESHQ4cDRsWnZyNVRoTTFGMnBXQWZIU3NYS2w?oc=5",
+      "source": "PERAGARU",
+      "published": "2026-09-23T14:29:40+00:00",
+      "company_ids": [
+        "kanematsu"
+      ],
+      "tags": [],
+      "summary": "総合商社 売上高ランキング 企業一覧 PERAGARU",
+      "source_count": 1
     },
     {
       "id": "ff7a03e8c60c08b0",
@@ -1833,7 +2208,8 @@
       "tags": [
         "投資"
       ],
-      "summary": "丸紅、ROE15%へキャッシュ総動員 投資と還元4500億円積み増し 日本経済新聞"
+      "summary": "丸紅、ROE15%へキャッシュ総動員 投資と還元4500億円積み増し 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "14a2b46b565022f0",
@@ -1847,7 +2223,8 @@
       "tags": [
         "投資"
       ],
-      "summary": "総合商社、M&Aプロを社内育成 双日は専門組織で投資精度磨く 日本経済新聞"
+      "summary": "総合商社、M&Aプロを社内育成 双日は専門組織で投資精度磨く 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "8c86f5a07061b29b",
@@ -1861,7 +2238,8 @@
       "tags": [
         "投資"
       ],
-      "summary": "統合報告書2026 | IR投資家情報 | 丸紅株式会社 Marubeni Corporation"
+      "summary": "統合報告書2026 | IR投資家情報 | 丸紅株式会社 Marubeni Corporation",
+      "source_count": 1
     },
     {
       "id": "0ec14439ccd19a8a",
@@ -1873,7 +2251,8 @@
         "mitsui"
       ],
       "tags": [],
-      "summary": "矢口 雄基 | People | Business & People | 三井物産株式会社 MITSUI & CO., LTD."
+      "summary": "矢口 雄基 | People | Business & People | 三井物産株式会社 MITSUI & CO., LTD.",
+      "source_count": 1
     },
     {
       "id": "bca4d0bb20d37e98",
@@ -1885,7 +2264,8 @@
         "mitsui"
       ],
       "tags": [],
-      "summary": "データドリブン経営 三井物産グループは未来へ | Business Innovation | Business & People | 三井物産株式会社 MITSUI & CO., LTD."
+      "summary": "データドリブン経営 三井物産グループは未来へ | Business Innovation | Business & People | 三井物産株式会社 MITSUI & CO., LTD.",
+      "source_count": 1
     },
     {
       "id": "7d4152c0e6fdfb87",
@@ -1899,7 +2279,24 @@
       "tags": [
         "DX"
       ],
-      "summary": "全国19空港とのAIを活用した設備の保守点検、業務高度化の実証実験を開始 | 住友商事 Sumitomo Corporation"
+      "summary": "全国19空港とのAIを活用した設備の保守点検、業務高度化の実証実験を開始 | 住友商事 Sumitomo Corporation",
+      "source_count": 1
+    },
+    {
+      "id": "76b35096db58d99b",
+      "title": "三井物産の人事部長が求める新卒「新しい仕事や変化を面白がれる人」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pQTM3V2s4TWtsQ01LOUJuYWc1dDhrX3pxajdGSUJfTEttNDJSbXFsTzU0SlU2RzRBTWhLQnRZRjd5MlU1VVVYZ3pSZHhXeHhiOXg1VElyTG5UQjRQSFFWdjBvZmx3bUVDbG9CUg?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-09-03T07:00:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "人事",
+        "就活"
+      ],
+      "summary": "三井物産の人事部長が求める新卒「新しい仕事や変化を面白がれる人」 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "634322bd28b268e5",
@@ -1914,7 +2311,8 @@
         "人事",
         "就活"
       ],
-      "summary": "三菱商事の人事部長が語る新卒採用「高い志と倫理観を重視」 日本経済新聞"
+      "summary": "三菱商事の人事部長が語る新卒採用「高い志と倫理観を重視」 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "a06312ad91694a8e",
@@ -1928,7 +2326,8 @@
       "tags": [
         "提携"
       ],
-      "summary": "伊藤忠グループ会社と電通グループ会社によるITサービス・リテールメディア領域の戦略的提携 伊藤忠商事株式会社"
+      "summary": "伊藤忠グループ会社と電通グループ会社によるITサービス・リテールメディア領域の戦略的提携 伊藤忠商事株式会社",
+      "source_count": 1
     },
     {
       "id": "529c87d12254bf7e",
@@ -1943,7 +2342,8 @@
         "投資",
         "資源"
       ],
-      "summary": "カナダ・Tintina Minesへの出資を通じチリDos Amigos銅・金鉱山プロジェクトへ参画 | 住友商事 Sumitomo Corporation"
+      "summary": "カナダ・Tintina Minesへの出資を通じチリDos Amigos銅・金鉱山プロジェクトへ参画 | 住友商事 Sumitomo Corporation",
+      "source_count": 1
     },
     {
       "id": "73d046a2ac602752",
@@ -1957,7 +2357,8 @@
       "tags": [
         "人事"
       ],
-      "summary": "商社の経営戦略 構造変化を見据えて／メタルワン 渡邉善之社長／国内外で統括体制見直し／広い視点で新たな市場開拓 WEB産業新聞"
+      "summary": "商社の経営戦略 構造変化を見据えて／メタルワン 渡邉善之社長／国内外で統括体制見直し／広い視点で新たな市場開拓 WEB産業新聞",
+      "source_count": 1
     },
     {
       "id": "75025c3d6ac4c9ac",
@@ -1971,7 +2372,8 @@
       "tags": [
         "DX"
       ],
-      "summary": "JFE商事エレ 安全分野AI製品拡充 製造向け（日刊産業新聞） Yahoo!ニュース"
+      "summary": "JFE商事エレ 安全分野AI製品拡充 製造向け（日刊産業新聞） Yahoo!ニュース",
+      "source_count": 1
     },
     {
       "id": "06ebf76468dc56ce",
@@ -1985,7 +2387,8 @@
       "tags": [
         "人事"
       ],
-      "summary": "人財戦略を聞く／商社編／JFE商事 専務執行役員 鬼澤 徹氏／成果と能力軸に制度改定／評価の納得性高め成長の「道しるべ」に WEB産業新聞"
+      "summary": "人財戦略を聞く／商社編／JFE商事 専務執行役員 鬼澤 徹氏／成果と能力軸に制度改定／評価の納得性高め成長の「道しるべ」に WEB産業新聞",
+      "source_count": 1
     },
     {
       "id": "344910df2bd4858f",
@@ -2012,7 +2415,8 @@
         "mitsui"
       ],
       "tags": [],
-      "summary": "デンマークにおける世界初のe-メタノール、販売先・用途を拡大 | 2026年 | リリース | 三井物産株式会社 MITSUI & CO., LTD."
+      "summary": "デンマークにおける世界初のe-メタノール、販売先・用途を拡大 | 2026年 | リリース | 三井物産株式会社 MITSUI & CO., LTD.",
+      "source_count": 1
     },
     {
       "id": "a9ff2f4594868051",
@@ -2026,7 +2430,24 @@
       "tags": [
         "人事"
       ],
-      "summary": "〈Leader's Voice〉高級鋼の加工設備新設を検討 JFE商事 祖母井紀史社長 日本経済新聞"
+      "summary": "〈Leader's Voice〉高級鋼の加工設備新設を検討 JFE商事 祖母井紀史社長 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "3e4eb7cd056a532b",
+      "title": "兼松とNSテクノロジーズが共同で出展 台湾・台北の国際展示会「Semicon Taiwan 2026」",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rZzdjbGJpY2V3LWl5LWJxell0VjdmV0h3Z3ZJRlQ5Sm9qRlQ2N28wTU9KWkVpMHNqeVdrT3N0Rl81ZkVEc1pSdzVjLUpvTlRaVG4yOGJNdmpDUzZG?oc=5",
+      "source": "株式会社共同通信社",
+      "published": "2026-08-17T07:00:00+00:00",
+      "company_ids": [
+        "kanematsu"
+      ],
+      "tags": [
+        "DX",
+        "提携"
+      ],
+      "summary": "兼松とNSテクノロジーズが共同で出展 台湾・台北の国際展示会「Semicon Taiwan 2026」 株式会社共同通信社",
+      "source_count": 1
     },
     {
       "id": "4d58035374f18b2c",
@@ -2041,7 +2462,8 @@
         "投資",
         "脱炭素"
       ],
-      "summary": "英国浮体式洋上風力発電事業「Gwynt Glas」に参画 | 住友商事 Sumitomo Corporation"
+      "summary": "英国浮体式洋上風力発電事業「Gwynt Glas」に参画 | 住友商事 Sumitomo Corporation",
+      "source_count": 1
     },
     {
       "id": "bc5a01f17406e94d",
@@ -2055,7 +2477,8 @@
       "tags": [
         "提携"
       ],
-      "summary": "伊藤忠グループと日本テレビ放送網が連携し、「TV×リテールメディア」領域における戦略的協業を開始 伊藤忠商事株式会社"
+      "summary": "伊藤忠グループと日本テレビ放送網が連携し、「TV×リテールメディア」領域における戦略的協業を開始 伊藤忠商事株式会社",
+      "source_count": 1
     },
     {
       "id": "ea736c4f26a15757",
@@ -2069,7 +2492,8 @@
       "tags": [
         "決算"
       ],
-      "summary": "長瀬産業が4カ月ぶり上場来高値､1Q決算が95％最終増益 四季報オンライン"
+      "summary": "長瀬産業が4カ月ぶり上場来高値､1Q決算が95％最終増益 四季報オンライン",
+      "source_count": 1
     },
     {
       "id": "83437943711b70f4",
@@ -2087,7 +2511,8 @@
         "決算",
         "海外"
       ],
-      "summary": "住友商事・豊田通商・双日…大手商社3社の通期見通し、業績底堅く。中東情勢の影響は？ ニュースイッチ by 日刊工業新聞社"
+      "summary": "住友商事・豊田通商・双日…大手商社3社の通期見通し、業績底堅く。中東情勢の影響は？ ニュースイッチ by 日刊工業新聞社",
+      "source_count": 1
     },
     {
       "id": "1f8172b0a6043bae",
@@ -2105,6 +2530,19 @@
       "summary": "長瀬産業[8012]：自己株式取得に係る事項の決定に関するお知らせ 2026年8月4日(適時開示) ：日経会社情報DIGITAL 日本経済新聞"
     },
     {
+      "id": "cca531a7bfbedaff",
+      "title": "従業員向け株式報酬制度の継続 | 2026年 | リリース | 三井物産株式会社",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xeWRkMVJFVUw5b2hDZE9qZmViYXRuUXRtRHNaQ1g4cVZ0VkQybzNpQmpFTm1uRzVjdmh0MEQya0V1TDhJZnJHMlVMa3N5a0F2Szg5UnkxSmhsT1ZHbWlPNkgxSHdqX19nb21oTg?oc=5",
+      "source": "MITSUI & CO., LTD.",
+      "published": "2026-08-04T07:00:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "従業員向け株式報酬制度の継続 | 2026年 | リリース | 三井物産株式会社 MITSUI & CO., LTD.",
+      "source_count": 1
+    },
+    {
       "id": "50bdd6a2510c5bf3",
       "title": "米国の大手航空機リース会社Aviation Capital Group LLCの共同経営に参画",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IQ2ZVNW5CVkItNWJtbTZVSUl3WEVEV3c1VUh3MEVhbFk4WUtfeEFsaWk1Vk11bjZpclIwRVpDck5xNU8zajJHTC1QeXc5ME5XalE2VFp5RndOWjdRYXBBbXZqLThyUXpG?oc=5",
@@ -2118,7 +2556,8 @@
         "提携",
         "海外"
       ],
-      "summary": "米国の大手航空機リース会社Aviation Capital Group LLCの共同経営に参画 伊藤忠商事株式会社"
+      "summary": "米国の大手航空機リース会社Aviation Capital Group LLCの共同経営に参画 伊藤忠商事株式会社",
+      "source_count": 1
     },
     {
       "id": "1ba7d70a6ad9aa3a",
@@ -2133,7 +2572,8 @@
         "人事",
         "海外"
       ],
-      "summary": "JFE商事・祖母井社長「インド軸に成長、高級鋼の加工設備新設検討」 日本経済新聞"
+      "summary": "JFE商事・祖母井社長「インド軸に成長、高級鋼の加工設備新設検討」 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "5735aa53b800f82c",
@@ -2145,7 +2585,23 @@
         "metalone"
       ],
       "tags": [],
-      "summary": "メタルワンの効率化サービス 鉄スクラップ向け開始（日刊産業新聞） Yahoo!ニュース"
+      "summary": "メタルワンの効率化サービス 鉄スクラップ向け開始（日刊産業新聞） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "52744b933558f9b5",
+      "title": "メタルワン／鉄スクラップ取引の通知業務／デジタル化サービスを提供、東日本から開始／「価格変更」など自動配信",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nT1ZoRFhWaXR4NV9sVk5qclA1d0Nqdk9LTzhjT0ExSjdfMWliOU8xV3lPeGV4cUQ2R1hBZVNKUmRXX1hrWkh6UFlrekQwcXNDU2V2ZUtwQ3Z4ZzdaUkE?oc=5",
+      "source": "日刊鉄鋼新聞 Japan Metal Daily",
+      "published": "2026-07-31T07:00:00+00:00",
+      "company_ids": [
+        "metalone"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "メタルワン／鉄スクラップ取引の通知業務／デジタル化サービスを提供、東日本から開始／「価格変更」など自動配信 日刊鉄鋼新聞 Japan Metal Daily",
+      "source_count": 1
     },
     {
       "id": "275b11793e04f7c9",
@@ -2161,7 +2617,8 @@
         "提携",
         "海外"
       ],
-      "summary": "米国Penske Automotive Group, Inc.の浮動株買収を目的とした、法的拘束力を持たない提案書のPenske Corporationとの共同提出 | 2026年 | リリース | 三井物産株式会社 MITSUI & CO., LTD."
+      "summary": "米国Penske Automotive Group, Inc.の浮動株買収を目的とした、法的拘束力を持たない提案書のPenske Corporationとの共同提出 | 2026年 | リリース | 三井物産株式会社 MITSUI & CO., LTD.",
+      "source_count": 1
     },
     {
       "id": "b2a2c83784c4dd46",
@@ -2188,7 +2645,8 @@
         "itochu"
       ],
       "tags": [],
-      "summary": "東京本社移転日のお知らせ 【2026年8月24日】 伊藤忠商事株式会社"
+      "summary": "東京本社移転日のお知らせ 【2026年8月24日】 伊藤忠商事株式会社",
+      "source_count": 1
     },
     {
       "id": "d31e30316dcc32d7",
@@ -2200,7 +2658,8 @@
         "nagase"
       ],
       "tags": [],
-      "summary": "ニュースリリース 株式会社ドトールコーヒー"
+      "summary": "ニュースリリース 株式会社ドトールコーヒー",
+      "source_count": 1
     },
     {
       "id": "db9461ee945a4758",
@@ -2215,7 +2674,8 @@
         "DX",
         "提携"
       ],
-      "summary": "鍵を握るのは、SCSKとの協業。住商グループのデジタル・AI戦略「DAIS」、その全貌 | 住友商事 Sumitomo Corporation"
+      "summary": "鍵を握るのは、SCSKとの協業。住商グループのデジタル・AI戦略「DAIS」、その全貌 | 住友商事 Sumitomo Corporation",
+      "source_count": 1
     },
     {
       "id": "a0fe6e88e3f6e906",
@@ -2231,7 +2691,8 @@
         "新規事業",
         "海外"
       ],
-      "summary": "米国GreenTek Solutionsへ出資、IT機器リユース・リサイクル事業に参入 | 住友商事 Sumitomo Corporation"
+      "summary": "米国GreenTek Solutionsへ出資、IT機器リユース・リサイクル事業に参入 | 住友商事 Sumitomo Corporation",
+      "source_count": 1
     },
     {
       "id": "2a7e764c2f8325bc",
@@ -2245,7 +2706,8 @@
       "tags": [
         "脱炭素"
       ],
-      "summary": "JFE商事、いちご栽培ハウス内における太陽光発電の実証試験を開始 日本経済新聞"
+      "summary": "JFE商事、いちご栽培ハウス内における太陽光発電の実証試験を開始 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "c2b9a47b496468d3",
@@ -2260,7 +2722,23 @@
       "tags": [
         "人事"
       ],
-      "summary": "商社の経営戦略 構造変化を見据えて／伊藤忠丸紅鉄鋼 石谷誠社長／圧倒的な利益基盤構築／次世代経営層の育成に注力 WEB産業新聞"
+      "summary": "商社の経営戦略 構造変化を見据えて／伊藤忠丸紅鉄鋼 石谷誠社長／圧倒的な利益基盤構築／次世代経営層の育成に注力 WEB産業新聞",
+      "source_count": 1
+    },
+    {
+      "id": "6db1fbd7f780ab63",
+      "title": "兼松、国内SaaSの海外輸出支援 まずメキシコの日系工場開拓",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WU0J0cExQZ0JHR2hJTjNkbTBFQnE2NFJlcXF1SEhwNmhsdFlPMzRxelNqRl9kV2xNZUFFMmx2a1BvWVBPVFlYZFFzUTg5VUlBanl6c2VqN0dPQ0ZRTTRkRHAwQ1htdk40OWpyag?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-07-13T07:00:00+00:00",
+      "company_ids": [
+        "kanematsu"
+      ],
+      "tags": [
+        "海外"
+      ],
+      "summary": "兼松、国内SaaSの海外輸出支援 まずメキシコの日系工場開拓 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "b4961a87fdf2d9b1",
@@ -2277,6 +2755,24 @@
       "summary": "スイス・オーストリアの工作機械販売会社TOLUS Group AGの完全子会社化について～工作機械領域における事業プラットフォームの拡充～ Marubeni Corporation"
     },
     {
+      "id": "3d8628368843b62f",
+      "title": "商社の経営戦略 構造変化を見据えて／三菱商事・今村功常務執行役員マテリアルソリューショングループCEO／事業投資「実行」を重視／米国、鉄鋼領域で事業開発追求",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yVFFrcXJpaDFhX2NUMjVuM01lUjhwZ2JhUFRrZFdnWDhTYlNSeWdvLTFqTzJzZy1Fc1BsSlRCcWJsaWJZa3FqcjB5YzVNNVpsSHpIR1NsS1JhQm0wbDBCYU9BNA?oc=5",
+      "source": "WEB産業新聞",
+      "published": "2026-07-09T07:00:00+00:00",
+      "company_ids": [
+        "metalone",
+        "mitsubishi"
+      ],
+      "tags": [
+        "人事",
+        "投資",
+        "海外"
+      ],
+      "summary": "商社の経営戦略 構造変化を見据えて／三菱商事・今村功常務執行役員マテリアルソリューショングループCEO／事業投資「実行」を重視／米国、鉄鋼領域で事業開発追求 WEB産業新聞",
+      "source_count": 1
+    },
+    {
       "id": "1ca4e1e4488e9a6b",
       "title": "受賞講演(6) ファクトリーマネジメント賞伊藤忠丸紅鉄鋼 Premium Steel Processing Co., Ltd.",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQSFcxdm9xMUN6NmRQd1ZyYUVaRnNoRTVONUlwdVBYQl9YSXdWS05JYXJqYm5BeVhrV0lYM3BHWW8xcnMwWHVPdHhaSnp2a3BrWV83Y2RMeHluSUhQSlh5TDlNUU52LVI4cHN6UDA4aw?oc=5",
@@ -2287,7 +2783,8 @@
         "marubeni"
       ],
       "tags": [],
-      "summary": "受賞講演(6) ファクトリーマネジメント賞伊藤忠丸紅鉄鋼 Premium Steel Processing Co., Ltd. 一般社団法人日本能率協会 JMA"
+      "summary": "受賞講演(6) ファクトリーマネジメント賞伊藤忠丸紅鉄鋼 Premium Steel Processing Co., Ltd. 一般社団法人日本能率協会 JMA",
+      "source_count": 1
     },
     {
       "id": "8ec01f882f2c648b",
@@ -2304,7 +2801,8 @@
         "海外",
         "資源"
       ],
-      "summary": "米国メキシコ湾におけるBig Foot油ガス権益の売却について Marubeni Corporation"
+      "summary": "米国メキシコ湾におけるBig Foot油ガス権益の売却について Marubeni Corporation",
+      "source_count": 1
     },
     {
       "id": "e51d1a6c5e23b8b7",
@@ -2319,7 +2817,8 @@
         "人事",
         "海外"
       ],
-      "summary": "商社の経営戦略 構造変化を見据えて／ＪＦＥ商事 祖母井紀史社長／海外、インサイダー化加速／電炉転換、高級冷鉄源の供給強化 WEB産業新聞"
+      "summary": "商社の経営戦略 構造変化を見据えて／ＪＦＥ商事 祖母井紀史社長／海外、インサイダー化加速／電炉転換、高級冷鉄源の供給強化 WEB産業新聞",
+      "source_count": 1
     },
     {
       "id": "c0cf98cd7bc41f49",
@@ -2346,7 +2845,8 @@
         "M&A",
         "脱炭素"
       ],
-      "summary": "ベルギーにおける洋上風力発電事業の売却について | 住友商事 Sumitomo Corporation"
+      "summary": "ベルギーにおける洋上風力発電事業の売却について | 住友商事 Sumitomo Corporation",
+      "source_count": 1
     },
     {
       "id": "dec7d136b2169a12",
@@ -2360,7 +2860,8 @@
       "tags": [
         "M&A"
       ],
-      "summary": "住商セメントの一部株式譲渡契約締結について | 住友商事 Sumitomo Corporation"
+      "summary": "住商セメントの一部株式譲渡契約締結について | 住友商事 Sumitomo Corporation",
+      "source_count": 1
     },
     {
       "id": "3fc4cfb24e7fcdcf",
@@ -2386,7 +2887,8 @@
         "sojitz"
       ],
       "tags": [],
-      "summary": "総合商社の株価が低迷､特に\"7番手\"双日の市場評価が最低水準のワケ…｢バフェット銘柄｣との差は埋まるか 東洋経済オンライン"
+      "summary": "総合商社の株価が低迷､特に\"7番手\"双日の市場評価が最低水準のワケ…｢バフェット銘柄｣との差は埋まるか 東洋経済オンライン",
+      "source_count": 1
     },
     {
       "id": "a1920e2a0ed456d7",
@@ -2402,7 +2904,8 @@
         "海外",
         "資源"
       ],
-      "summary": "米国における天然ガス開発・生産事業会社EagleRidge社の完全子会社化について Marubeni Corporation"
+      "summary": "米国における天然ガス開発・生産事業会社EagleRidge社の完全子会社化について Marubeni Corporation",
+      "source_count": 1
     },
     {
       "id": "1d71fe7ab95e92fe",
@@ -2414,7 +2917,8 @@
         "nagase"
       ],
       "tags": [],
-      "summary": "有言実行で飛躍的成長めざす 3機能活用し独自ビジネスモデル確立 ——大江麻理子が聞く 次代を拓くリーダーたち ｜ 日本経済新聞 電子版特集（PR） ps.nikkei.com"
+      "summary": "有言実行で飛躍的成長めざす 3機能活用し独自ビジネスモデル確立 ——大江麻理子が聞く 次代を拓くリーダーたち ｜ 日本経済新聞 電子版特集（PR） ps.nikkei.com",
+      "source_count": 1
     },
     {
       "id": "982610f72359f9f5",
@@ -2466,7 +2970,42 @@
       "tags": [
         "投資"
       ],
-      "summary": "メタルワン 成長投資加速 北米事業強化など（日刊産業新聞） Yahoo!ニュース"
+      "summary": "メタルワン 成長投資加速 北米事業強化など（日刊産業新聞） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "374d0ce52b2e766e",
+      "title": "メタルワン／インド厚板加工・ＩＭＯＰで第２工場／北米で鋼管ねじ投資検討／渡邉社長「成長投資の実行にこだわる」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiUXdURXFqYUdScnlpMXB1QWk1eElYU19pY3BTeUEtUXo3dldWMmF5dnZKeTdOQWFvVFNhWnFudjVVUWxHVExBMFFXcmt6TU1lcDNFcS1wSTY5a2lkZ3c?oc=5",
+      "source": "日刊鉄鋼新聞 Japan Metal Daily",
+      "published": "2026-06-09T07:00:00+00:00",
+      "company_ids": [
+        "metalone"
+      ],
+      "tags": [
+        "DX",
+        "人事",
+        "投資",
+        "海外"
+      ],
+      "summary": "メタルワン／インド厚板加工・ＩＭＯＰで第２工場／北米で鋼管ねじ投資検討／渡邉社長「成長投資の実行にこだわる」 日刊鉄鋼新聞 Japan Metal Daily",
+      "source_count": 1
+    },
+    {
+      "id": "2060370549eb0931",
+      "title": "住友商事とHitachi Rail Limited、インドネシア都市高速鉄道南北線向けの自動料金徴収システムを受注",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nM0ZncFE3UmVoNi0tQzJIMnQtY3lTTm4tOXIwXzZqdlpkczNhRjV1SHBudDUzb0szWlBLZmI3VTl3M0JjSnJJdzlENEVyOEx2MUFERXY1Wi03M2M4cHE1dmVuOXZ4VWd6Rk5LMkVWRUNnZXBZ?oc=5",
+      "source": "Sumitomo Corporation",
+      "published": "2026-06-05T07:00:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "DX",
+        "海外"
+      ],
+      "summary": "住友商事とHitachi Rail Limited、インドネシア都市高速鉄道南北線向けの自動料金徴収システムを受注 Sumitomo Corporation",
+      "source_count": 1
     },
     {
       "id": "d5e52cf6a6cae1fd",
@@ -2480,7 +3019,8 @@
       "tags": [
         "資源"
       ],
-      "summary": "「省ナフサ」おむつ原料、でんぷん使い開発 長瀬産業が供給不足対策 日本経済新聞"
+      "summary": "「省ナフサ」おむつ原料、でんぷん使い開発 長瀬産業が供給不足対策 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "d603740c9215130a",
@@ -2509,7 +3049,8 @@
       "tags": [
         "投資"
       ],
-      "summary": "6月 長瀬産業｜大江麻理子が聞く 次代を拓くリーダーたち｜マネー・投資 ラジオNIKKEI"
+      "summary": "6月 長瀬産業｜大江麻理子が聞く 次代を拓くリーダーたち｜マネー・投資 ラジオNIKKEI",
+      "source_count": 1
     },
     {
       "id": "ab1439e733a371a3",
@@ -2523,7 +3064,8 @@
       "tags": [
         "提携"
       ],
-      "summary": "福岡県筑前町における系統用蓄電所事業の共同推進について 伊藤忠商事株式会社"
+      "summary": "福岡県筑前町における系統用蓄電所事業の共同推進について 伊藤忠商事株式会社",
+      "source_count": 1
     },
     {
       "id": "efdba6cb9ad051b8",
@@ -2535,7 +3077,8 @@
         "kanematsu"
       ],
       "tags": [],
-      "summary": "なぜ商社の兼松が安全運転アプリを？「KG monap」が実現する「ながらスマホを」防ぐ仕組み LIGARE（リガーレ）"
+      "summary": "なぜ商社の兼松が安全運転アプリを？「KG monap」が実現する「ながらスマホを」防ぐ仕組み LIGARE（リガーレ）",
+      "source_count": 1
     },
     {
       "id": "93878d6702c1d4a3",
@@ -2550,7 +3093,8 @@
         "提携",
         "海外"
       ],
-      "summary": "欧州最大級の蓄電事業者Gresham Houseと新規大型蓄電池プロジェクトを共同開発 | 住友商事 Sumitomo Corporation"
+      "summary": "欧州最大級の蓄電事業者Gresham Houseと新規大型蓄電池プロジェクトを共同開発 | 住友商事 Sumitomo Corporation",
+      "source_count": 1
     },
     {
       "id": "137e229ab6437eae",
@@ -2564,7 +3108,8 @@
       "tags": [
         "DX"
       ],
-      "summary": "デジタル・AI白書2025の発行 | 住友商事 Sumitomo Corporation"
+      "summary": "デジタル・AI白書2025の発行 | 住友商事 Sumitomo Corporation",
+      "source_count": 1
     },
     {
       "id": "93a21faffa724349",
@@ -2591,7 +3136,8 @@
         "サステナ",
         "就活"
       ],
-      "summary": "「双日の働くリアル」を体験するインターンシップを実施！｜ニュース一覧｜人材｜サステナビリティ｜双日株式会社 双日株式会社"
+      "summary": "「双日の働くリアル」を体験するインターンシップを実施！｜ニュース一覧｜人材｜サステナビリティ｜双日株式会社 双日株式会社",
+      "source_count": 1
     },
     {
       "id": "35bbdeffd4a511c3",
@@ -2605,7 +3151,40 @@
       "tags": [
         "DX"
       ],
-      "summary": "長瀬産業、半導体現像液をリサイクル 安定供給で地政学リスク軽減 日本経済新聞"
+      "summary": "長瀬産業、半導体現像液をリサイクル 安定供給で地政学リスク軽減 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "4752bfb13f2de3c5",
+      "title": "産業現場でのAIインフラ事業を展開する米Armada社への出資参画 | 2026年 | トピックス | 三井物産株式会社",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRaldLS0NWdjBrbkVUa0lMUWpnVjBaT0dsUVUzb2NfVlNyOXRsOEg2azJKZlF5cHcxekdPUjQ2MzdMNWN0cWtvRDlVTGV6N1AtNDhPXzItcFFlWmZ1ZDU2dGZjeXFGNmhMZUU0?oc=5",
+      "source": "MITSUI & CO., LTD.",
+      "published": "2026-05-20T07:00:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "DX",
+        "投資"
+      ],
+      "summary": "産業現場でのAIインフラ事業を展開する米Armada社への出資参画 | 2026年 | トピックス | 三井物産株式会社 MITSUI & CO., LTD.",
+      "source_count": 1
+    },
+    {
+      "id": "135c47e8ba1086bf",
+      "title": "商社でも金融でもない…イラン情勢悪化の厳しい環境下でも「最高益の更新を狙う超優良企業」５選",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11NkRWNUFDQkpVN3BtSGNVcHd4YVZERG80WVAyRVVScDhwclZ6Z3R1TV9hLVFTQ0JkbVZMdEg0dmJPRloxenFTX2dpNnMzVUV2LUdjRU9wRUc?oc=5",
+      "source": "現代ビジネス",
+      "published": "2026-05-19T07:00:00+00:00",
+      "company_ids": [
+        "kanematsu"
+      ],
+      "tags": [
+        "サステナ",
+        "業績予想"
+      ],
+      "summary": "商社でも金融でもない…イラン情勢悪化の厳しい環境下でも「最高益の更新を狙う超優良企業」５選 現代ビジネス",
+      "source_count": 1
     },
     {
       "id": "115d4d2181829009",
@@ -2617,7 +3196,8 @@
         "jfeshoji"
       ],
       "tags": [],
-      "summary": "JFE商事エレクトロニクスの小型GPSトラッカー「Jiot(R)」、温度管理機能を2026年5月18日より提供開始 ASCII.jp"
+      "summary": "JFE商事エレクトロニクスの小型GPSトラッカー「Jiot(R)」、温度管理機能を2026年5月18日より提供開始 ASCII.jp",
+      "source_count": 1
     },
     {
       "id": "fdb906a3e2f07009",
@@ -2631,7 +3211,8 @@
       "tags": [
         "新規事業"
       ],
-      "summary": "オセアニアにおける電池リサイクル事業化の検討を開始 | 住友商事 Sumitomo Corporation"
+      "summary": "オセアニアにおける電池リサイクル事業化の検討を開始 | 住友商事 Sumitomo Corporation",
+      "source_count": 1
     },
     {
       "id": "4c66bf0c678450cd",
@@ -2663,7 +3244,8 @@
         "投資",
         "決算"
       ],
-      "summary": "長瀬産業、28年度に営業利益500億円超 3年間で1000億円投資 日本経済新聞"
+      "summary": "長瀬産業、28年度に営業利益500億円超 3年間で1000億円投資 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "0dfc60a8df5c24f8",
@@ -2693,7 +3275,8 @@
       "tags": [
         "決算"
       ],
-      "summary": "長瀬産業[8012]：2026年3月期 決算短信〔日本基準〕（連結） 2026年5月7日(適時開示) ：日経会社情報DIGITAL 日本経済新聞"
+      "summary": "長瀬産業[8012]：2026年3月期 決算短信〔日本基準〕（連結） 2026年5月7日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "66f7c3f99baa93ac",
@@ -2719,7 +3302,8 @@
       "tags": [
         "脱炭素"
       ],
-      "summary": "「カーボンニュートラル社会へのロードマップ2.0」の策定 | ニュースリリース | ニュース | 三菱商事 Mitsubishi Corporation"
+      "summary": "「カーボンニュートラル社会へのロードマップ2.0」の策定 | ニュースリリース | ニュース | 三菱商事 Mitsubishi Corporation",
+      "source_count": 1
     },
     {
       "id": "8e51a3b1603d2645",
@@ -2736,6 +3320,19 @@
       "summary": "会長CEO挨拶 伊藤忠商事株式会社"
     },
     {
+      "id": "577137da84e04ae7",
+      "title": "中期経営計画2029実現に向けたオペレーティング・セグメントの改定について | 2026年 | リリース | 三井物産株式会社",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BM1ZmU0wwaFVmSnF2YXZmVG40b2pjci12OE5reVBRQkV3MjA0ZXRLcXA1c1kyc1R1RTRLRFZtNUhEN1JTOVpTdmpKWUJmcm1nVFF5a245V00zQ2ttWGl2cUZ3el90elFQdVh0Vw?oc=5",
+      "source": "MITSUI & CO., LTD.",
+      "published": "2026-05-01T07:00:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "中期経営計画2029実現に向けたオペレーティング・セグメントの改定について | 2026年 | リリース | 三井物産株式会社 MITSUI & CO., LTD.",
+      "source_count": 1
+    },
+    {
       "id": "74208d2599be7fc0",
       "title": "メタルワングループ唯一のASEAN線材加工拠点で高精度ニーズに対応",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZGMyOHY1OUNkcVNUaGNnOTFqMnV6OEV5QlhsU1J5bDNUWHAxdmQxRDY3RTJsVFZPMzhqeTJDRzJfVW9hSzVGQmVieWVCVEQwNC1NYTktRWNHdF9QdTR4WDFRb1dteEpOZEN6T2xsZmc1eWg2X05tNEltbkRWYkx6VnpGLVA3UQ?oc=5",
@@ -2745,7 +3342,8 @@
         "metalone"
       ],
       "tags": [],
-      "summary": "メタルワングループ唯一のASEAN線材加工拠点で高精度ニーズに対応 ジェトロ（日本貿易振興機構）"
+      "summary": "メタルワングループ唯一のASEAN線材加工拠点で高精度ニーズに対応 ジェトロ（日本貿易振興機構）",
+      "source_count": 1
     },
     {
       "id": "e71c5b5a3bdf4270",
@@ -2769,7 +3367,8 @@
         "jfeshoji"
       ],
       "tags": [],
-      "summary": "JFE商事エレクトロニクスがNTTデバイスクロステクノロジと業務委託基本契約を締結 PR TIMES"
+      "summary": "JFE商事エレクトロニクスがNTTデバイスクロステクノロジと業務委託基本契約を締結 PR TIMES",
+      "source_count": 1
     },
     {
       "id": "7b21a962a2eb81d2",
@@ -2783,7 +3382,8 @@
       "tags": [
         "新規事業"
       ],
-      "summary": "法人向け中古IT機器の再流通および第三者保守事業への参入について 伊藤忠商事株式会社"
+      "summary": "法人向け中古IT機器の再流通および第三者保守事業への参入について 伊藤忠商事株式会社",
+      "source_count": 1
     },
     {
       "id": "4cb2a7f3dc5f63b9",
@@ -2797,7 +3397,8 @@
       "tags": [
         "DX"
       ],
-      "summary": "「デジタルトランスフォーメーション（DX）銘柄2026」に選定 伊藤忠商事株式会社"
+      "summary": "「デジタルトランスフォーメーション（DX）銘柄2026」に選定 伊藤忠商事株式会社",
+      "source_count": 1
     },
     {
       "id": "652971fded7850dc",
@@ -2812,6 +3413,36 @@
       "summary": "2026年度（第52回）丸紅基金 社会福祉助成金申込募集開始について Marubeni Corporation"
     },
     {
+      "id": "0789c5e83789fd20",
+      "title": "メタルワン、タイのステンレス鋼板加工会社PSCTHを完全子会社化 (レスポンス)",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPSC13aFJjTktOeGN0ZTlJTzgzWE5ic2ZFc2JtcktEdGw0OVhKVTUtbWNJWlNJcnNrMXRTeWpxd0JLYjFQdUNDYXpKN3RHeEs0c0tmeDhMRGNIN0hFQ0RNWWFJNm9NcFdlLUxOQTRocXVGVGF3MHBYdWc2ZVVxOXBOREtCdk1ocl9aMFBNY3VHYVZJSXRPRlpKNmFuc2ZHMDNBMGQ5a0xFNzdkLXg3U2drOWJxTXdxOUgyT0RuSjNDbVFhT1NrVUlwcWJtZXpwX05EYmI4S3lGT29CRnpHRDFZUzZ3UXJGZjZnVnZPeVF3cmZXUmcxNWdfczhhNWNzNU9sNWx1c19wTmRmZ00?oc=5",
+      "source": "NewsPicks",
+      "published": "2026-04-03T07:00:00+00:00",
+      "company_ids": [
+        "metalone"
+      ],
+      "tags": [
+        "M&A"
+      ],
+      "summary": "メタルワン、タイのステンレス鋼板加工会社PSCTHを完全子会社化 (レスポンス) NewsPicks",
+      "source_count": 1
+    },
+    {
+      "id": "61727846bae2a69d",
+      "title": "鉄鋼関連企業が入社式／住商メタルワン鋼管／新人２１人が仲間入り",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0Y21tRnRYSkhrV1JLUzRwZFJzRGRvYVk1TU54UWJuNzNWN3M2YzZtdG4wV29sOTdHMWdhdDUxYlZ0X0hGYmJUSkJNS1ZpQk85VzZtLXlPTzZHMlVpUmc?oc=5",
+      "source": "日刊鉄鋼新聞 Japan Metal Daily",
+      "published": "2026-04-02T07:00:00+00:00",
+      "company_ids": [
+        "metalone"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "鉄鋼関連企業が入社式／住商メタルワン鋼管／新人２１人が仲間入り 日刊鉄鋼新聞 Japan Metal Daily",
+      "source_count": 1
+    },
+    {
       "id": "84d30123beea81e0",
       "title": "伊藤忠ビル感謝展｜ITOCHU SDGs STUDIO｜伊藤忠商事株式会社",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE15eThTeEZaTHVGcHQzX1NldDFEbjNTSV9qaU9nQlotMDZoNTNMNnRLUG5QOHlEdjQzdHpGM0szVm00SmpMekExMEZlMzlXVHhuaXR0RHRDY0dyUkVJbGJ0MW80SWlocExjRF8yaWRodWR2Zw?oc=5",
@@ -2821,7 +3452,8 @@
         "itochu"
       ],
       "tags": [],
-      "summary": "伊藤忠ビル感謝展｜ITOCHU SDGs STUDIO｜伊藤忠商事株式会社 伊藤忠商事株式会社"
+      "summary": "伊藤忠ビル感謝展｜ITOCHU SDGs STUDIO｜伊藤忠商事株式会社 伊藤忠商事株式会社",
+      "source_count": 1
     },
     {
       "id": "e453c0f0b6c060c2",
@@ -2856,6 +3488,32 @@
       "summary": "新執行役員プロフィール／４月１日就任／伊藤忠丸紅鉄鋼／田中英一氏／たなか・えいいち（鋼材第三本部長）／電磁鋼板営業を長く経験 日刊鉄鋼新聞 Japan Metal Daily"
     },
     {
+      "id": "d1269d20cd8ded75",
+      "title": "総合エネルギーソリューション本部 | 事業本部紹介 | 三井物産の事業 | 会社情報 | 三井物産株式会社",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FWUdlZ1djcHRWLWx3OUwyVDFkSlVzR3QyTTNIUkMxTWFlbzBUNmNyQ1llcW9iYXZmdGpJeVJOaFdLdEFudC1zNnFmaGNlUFJuRGlDUU11SkRVem5yOWh0bTNhbXRacFFieDFXSGRMTFF5dmNF?oc=5",
+      "source": "MITSUI & CO., LTD.",
+      "published": "2026-04-01T04:16:43+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "総合エネルギーソリューション本部 | 事業本部紹介 | 三井物産の事業 | 会社情報 | 三井物産株式会社 MITSUI & CO., LTD.",
+      "source_count": 1
+    },
+    {
+      "id": "0b87542c622e9578",
+      "title": "長瀬産業が物流共創を主導、化学品配送の維持へ舵",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1NSW43emhsb2lkRjlqZzE0d2hhenJlV0tJc3BDY0NtcXBreFlfRXBfdGRnN2p3WndXM0dGV1QxZWFyU3dfcDNJMg?oc=5",
+      "source": "LOGISTICS TODAY",
+      "published": "2026-03-30T07:00:00+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [],
+      "summary": "長瀬産業が物流共創を主導、化学品配送の維持へ舵 LOGISTICS TODAY",
+      "source_count": 1
+    },
+    {
       "id": "9fdbc92846de236b",
       "title": "鉄鋼流通プラットフォームをASEANへ、第1弾はミルシート管理を「基本無償」提供：製造ITニュース",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qSUc5MHZZdTlQQWFPLV8wQWlrMDhNV1Nyb0RoZ3BmODZ6N05vOVB1WlZVMHJsWjJLbDBjQllrYWEwNTgwb3FGdkpZel9EZTEycEYxVXpwNzBBYU9DMTdsbEdSaE5QSE5fSkVmMWZCRQ?oc=5",
@@ -2865,7 +3523,40 @@
         "metalone"
       ],
       "tags": [],
-      "summary": "鉄鋼流通プラットフォームをASEANへ、第1弾はミルシート管理を「基本無償」提供：製造ITニュース MONOist"
+      "summary": "鉄鋼流通プラットフォームをASEANへ、第1弾はミルシート管理を「基本無償」提供：製造ITニュース MONOist",
+      "source_count": 1
+    },
+    {
+      "id": "5eae2d87d809d1bd",
+      "title": "メタルワン／鉄鋼向けデジタル情報基盤「メタルエックスＵＰ」／タイ・ベトナムでもサービス開始／ミルシート電子化、越ＩＣＴ最大手と協業",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkMVVqYXcwcmYyMENsNGc2WmJfakVZRDE1QWtXQXZMMEtUYk1iRUxKZU1tYk4wakJBUjNXR1RlT1QtNUtvcS1nMkxOdGcwN3lsWDFseWJkdmYzQ2taM2c?oc=5",
+      "source": "日刊鉄鋼新聞 Japan Metal Daily",
+      "published": "2026-03-25T07:00:00+00:00",
+      "company_ids": [
+        "metalone"
+      ],
+      "tags": [
+        "DX",
+        "提携"
+      ],
+      "summary": "メタルワン／鉄鋼向けデジタル情報基盤「メタルエックスＵＰ」／タイ・ベトナムでもサービス開始／ミルシート電子化、越ＩＣＴ最大手と協業 日刊鉄鋼新聞 Japan Metal Daily",
+      "source_count": 1
+    },
+    {
+      "id": "ab6c9cee07b6b254",
+      "title": "メタルワンとFPT、東南アジアで鉄鋼業界のデジタル化支援 新サービス提供",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBocE0tWmxnSWFzYmJGcHdvQ29Cc21hTWt0SlBZRk9LS2laRWhpVzhaN0dRUEpVYXpRU2tNUVo4WFFUMXFLdTNleUI1RC1TMjdNd0E?oc=5",
+      "source": "電波新聞デジタル",
+      "published": "2026-03-24T11:42:23+00:00",
+      "company_ids": [
+        "metalone"
+      ],
+      "tags": [
+        "DX",
+        "海外"
+      ],
+      "summary": "メタルワンとFPT、東南アジアで鉄鋼業界のデジタル化支援 新サービス提供 電波新聞デジタル",
+      "source_count": 1
     },
     {
       "id": "43975a2d56727bdc",
@@ -2880,7 +3571,8 @@
         "DX",
         "海外"
       ],
-      "summary": "油井管ビジネスのDX推進に向け、米国 Palantir Technologies 社のAIプラットフォームを導入 | 住友商事 Sumitomo Corporation"
+      "summary": "油井管ビジネスのDX推進に向け、米国 Palantir Technologies 社のAIプラットフォームを導入 | 住友商事 Sumitomo Corporation",
+      "source_count": 1
     },
     {
       "id": "58c70ff0755a0a14",
@@ -2898,6 +3590,52 @@
         "脱炭素"
       ],
       "summary": "伊藤忠丸紅鉄鋼出資のアイルランド社・マークＣＣＯ／「浮体式洋上風力のコスト、リスク低減」／係留アンカー製造・施工で日本のサプライチェーン活用 日刊鉄鋼新聞 Japan Metal Daily"
+    },
+    {
+      "id": "9b10f7f9389e34e0",
+      "title": "住商メタルワン鋼管／大阪で安全大会",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fY3BYeGVkYllKclh1T2FyLWJSM2cweGlqeVRpeTdhUXdtSXIxaWpFQnREUjRLQVVOMTRlekJoR0FMU083RUtGUklVcTJsUkJtV3VSY29qdk5vM2gzYXc?oc=5",
+      "source": "日刊鉄鋼新聞 Japan Metal Daily",
+      "published": "2026-03-18T07:00:00+00:00",
+      "company_ids": [
+        "metalone"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "住商メタルワン鋼管／大阪で安全大会 日刊鉄鋼新聞 Japan Metal Daily",
+      "source_count": 1
+    },
+    {
+      "id": "6967fc8702d97b47",
+      "title": "課題解決力ナンバーワンへ／メタルワングループの総合力／４／ＭＯＢＹ／「サステナブル」な独自事業モデルが強み／産業容器のワンストップ機能発揮",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtTWZxbXJBYWtWNndKZUN1QkZPYjBDQnhyM0FESFpWZFVfUDhwTk9ZN05IS3hSWEpjZU9aMjZiSzBNNS1BZzJqdU9nMC02dndydk9heHQ2S0ppU2VJdGc?oc=5",
+      "source": "日刊鉄鋼新聞 Japan Metal Daily",
+      "published": "2026-03-16T07:00:00+00:00",
+      "company_ids": [
+        "metalone"
+      ],
+      "tags": [
+        "DX",
+        "サステナ"
+      ],
+      "summary": "課題解決力ナンバーワンへ／メタルワングループの総合力／４／ＭＯＢＹ／「サステナブル」な独自事業モデルが強み／産業容器のワンストップ機能発揮 日刊鉄鋼新聞 Japan Metal Daily",
+      "source_count": 1
+    },
+    {
+      "id": "84d5a1db807510db",
+      "title": "なぜ今、兼松エレクトロニクス（8096）なのか――オラクル製品の国内有力ディストリビューターが、AI特需の陰で静かに動き始めている｜日本個別株デューデリジェンスセンター",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PSV9jbTluV2RBTVI5UUcxbHZrUlB5UmJqZ0xHY3VVYjdfRFg3LTFQVllaZ0RKMmM1NE9wQnM5Tzg4M0kxRnNQbUJCNFhCb0pvemdZWVZ3MHhNM0E?oc=5",
+      "source": "note",
+      "published": "2026-03-15T07:00:00+00:00",
+      "company_ids": [
+        "kanematsu"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "なぜ今、兼松エレクトロニクス（8096）なのか――オラクル製品の国内有力ディストリビューターが、AI特需の陰で静かに動き始めている｜日本個別株デューデリジェンスセンター note",
+      "source_count": 1
     },
     {
       "id": "a7e6f44df8f6147f",
@@ -2927,7 +3665,23 @@
       "tags": [
         "人事"
       ],
-      "summary": "（人事・商社）伊藤忠丸紅鉄鋼 日本経済新聞"
+      "summary": "（人事・商社）伊藤忠丸紅鉄鋼 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "1815a4e534f04f23",
+      "title": "課題解決力ナンバーワンへ／メタルワングループの総合力／３／西鋼／加工拡充、〝進化〟目指す／人材育成で図面展開力強化",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ETjNoTnJyQUdHNy1YZmZySFkzaVpiRzdnX2ZucDBNWDBCQVpYWmpUc0FQOFlvR0NzTkY5bmlrcXFjYXVXVkxXWlZvQTczVjlvbWxPcXMwMW4tRXlXdWc?oc=5",
+      "source": "日刊鉄鋼新聞 Japan Metal Daily",
+      "published": "2026-03-10T07:00:00+00:00",
+      "company_ids": [
+        "metalone"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "課題解決力ナンバーワンへ／メタルワングループの総合力／３／西鋼／加工拡充、〝進化〟目指す／人材育成で図面展開力強化 日刊鉄鋼新聞 Japan Metal Daily",
+      "source_count": 1
     },
     {
       "id": "b1d8d92fdf32c83d",
@@ -2940,6 +3694,22 @@
       ],
       "tags": [],
       "summary": "「健康経営銘柄2026」に4年連続5度目の選定 ～「健康経営優良法人（ホワイト500）」にも9年連続で認定～ Marubeni Corporation"
+    },
+    {
+      "id": "da9d5be20c5a5df6",
+      "title": "インドKaynes社の半導体後工程事業立上げを支援 | 2026年 | トピックス | 三井物産株式会社",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCUm9RdmFaa2NNRElyUHQ1M0dMQmRwNEVHamdKcS1JU2hjOWo0ZVZsSENyUldfbVB2Mjlmc2pSdWludXUtYXdJOE1VQXM3cDk2a3dQT3VvQnJWcHRNV3VRZ2JaQ3B6d1lZbmpZ?oc=5",
+      "source": "MITSUI & CO., LTD.",
+      "published": "2026-03-06T08:00:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "DX",
+        "海外"
+      ],
+      "summary": "インドKaynes社の半導体後工程事業立上げを支援 | 2026年 | トピックス | 三井物産株式会社 MITSUI & CO., LTD.",
+      "source_count": 1
     },
     {
       "id": "ea09f2570590c1fe",
@@ -2955,7 +3725,8 @@
         "人事",
         "新規事業"
       ],
-      "summary": "メタルワングループ会社社長人事／メタルワン特殊鋼とメタルワン鉄鋼製品販売の統合新会社、メタルワンネクサス＝松田氏 日刊鉄鋼新聞 Japan Metal Daily"
+      "summary": "メタルワングループ会社社長人事／メタルワン特殊鋼とメタルワン鉄鋼製品販売の統合新会社、メタルワンネクサス＝松田氏 日刊鉄鋼新聞 Japan Metal Daily",
+      "source_count": 1
     },
     {
       "id": "10eb1c3a4e9b969c",
@@ -2973,6 +3744,19 @@
       "summary": "メタルワングループ会社社長人事／サステック＝井上氏／エムオーテック＝宮本氏／協和製作所＝竹内氏 日刊鉄鋼新聞 Japan Metal Daily"
     },
     {
+      "id": "127d4a3c5e6a77ab",
+      "title": "バングラデシュの流通最大手ACI Logistics向け株式転換権付融資引受 | 2026年 | トピックス | 三井物産株式会社",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4ybWVrWkVGcUQxMmxWTDJkb0MzNUU3eGlIV0g3VFNFUExBSWl6ZHdJY3JDNWRKUXJTRjY1Z3gzeGRnN2hfQmp4RFdtNnRCZjZtM1ZJMl83SEFzQjAxOHhMS1BrblZRRUJDZW5r?oc=5",
+      "source": "MITSUI & CO., LTD.",
+      "published": "2026-02-26T08:00:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "バングラデシュの流通最大手ACI Logistics向け株式転換権付融資引受 | 2026年 | トピックス | 三井物産株式会社 MITSUI & CO., LTD.",
+      "source_count": 1
+    },
+    {
       "id": "f99d7eff0768d7a6",
       "title": "株式会社メタルワンに財務管理システム「ConSeek TM」を導入｜プレスルーム",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNb0ZxdUlCR2pQejlKa3JXa0NiVV9rRC1ueXB5MEJmWDlBbVJiTnl2VHNmZW4weTlVZ2ZUQmx3Qi1PNWN1RDFOcVVMam1DUDlVM0UwcG1UWmp0YXRsalVIWmd6LVdTamx6S0FzQkxzY3pISXM?oc=5",
@@ -2984,7 +3768,39 @@
       "tags": [
         "DX"
       ],
-      "summary": "株式会社メタルワンに財務管理システム「ConSeek TM」を導入｜プレスルーム 日鉄ソリューションズ"
+      "summary": "株式会社メタルワンに財務管理システム「ConSeek TM」を導入｜プレスルーム 日鉄ソリューションズ",
+      "source_count": 1
+    },
+    {
+      "id": "0b01a3ab2c69139d",
+      "title": "呉に新工場、船の新燃料タンク部品を製造 メタルワン・久保工業",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJUDhzb1YxM0VOeEFOY1ZuVHlpc1ZVVlJ6QVE5bHVPZmxLQUdFc1NUQjdsU3prc011WVBGV1JuenkydlhuOWJ5TkQyVk9Ia1NpeDlsUlhkOUNvQQ?oc=5",
+      "source": "中国新聞デジタル",
+      "published": "2026-02-24T08:00:00+00:00",
+      "company_ids": [
+        "metalone"
+      ],
+      "tags": [
+        "DX",
+        "海外"
+      ],
+      "summary": "呉に新工場、船の新燃料タンク部品を製造 メタルワン・久保工業 中国新聞デジタル",
+      "source_count": 1
+    },
+    {
+      "id": "c6fe74ee24080d2a",
+      "title": "メタルワン・久保工業／舶用新燃料タンク向け／国内初、大型鏡板を一貫生産／国内造船業の競争力向上、経済安保に貢献",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YVHN1TGl3c004M2hyckJpdEtpcTBmY0ZkS3laWHZhZFhiaDlTT2dmeGI1d0JZeXJlcmhRek1jSUpUWUNRY2luX2EzNFBmc0d3NElhYlVmWlJUS2hsQ0E?oc=5",
+      "source": "日刊鉄鋼新聞 Japan Metal Daily",
+      "published": "2026-02-24T08:00:00+00:00",
+      "company_ids": [
+        "metalone"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "メタルワン・久保工業／舶用新燃料タンク向け／国内初、大型鏡板を一貫生産／国内造船業の競争力向上、経済安保に貢献 日刊鉄鋼新聞 Japan Metal Daily",
+      "source_count": 1
     },
     {
       "id": "5be973a6edb3b330",
@@ -2998,7 +3814,8 @@
       "tags": [
         "新規事業"
       ],
-      "summary": "造船需要で燃料タンク新会社設立、メタルワンと長崎企業 呉で製造 日本経済新聞"
+      "summary": "造船需要で燃料タンク新会社設立、メタルワンと長崎企業 呉で製造 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "aa570930029c2783",
@@ -3010,7 +3827,23 @@
         "metalone"
       ],
       "tags": [],
-      "summary": "メタルワンと久保工業、呉で大型鋼板生産 日刊工業新聞"
+      "summary": "メタルワンと久保工業、呉で大型鋼板生産 日刊工業新聞",
+      "source_count": 1
+    },
+    {
+      "id": "16608eecb06aba27",
+      "title": "東北建設業界に新枠組み メタルワンなど6社と連携 ＴＡＣ主導",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QdFZEOHhGLUk2OHhQOWZSZjNzT1I0cFUwY2dCRnREdDRsMDlud3dYVjN4ZmtBdU52OG8xcVBJbzI2WlZkcmFDYUZSUW9DYmhIalk0WXVTcjk0eUlyNXBwczd3?oc=5",
+      "source": "WEB産業新聞",
+      "published": "2026-02-20T08:00:00+00:00",
+      "company_ids": [
+        "metalone"
+      ],
+      "tags": [
+        "提携"
+      ],
+      "summary": "東北建設業界に新枠組み メタルワンなど6社と連携 ＴＡＣ主導 WEB産業新聞",
+      "source_count": 1
     },
     {
       "id": "213c1a470d2bc27a",
@@ -3024,7 +3857,8 @@
       "tags": [
         "提携"
       ],
-      "summary": "日立建機（将来の「ランドクロス」）との協業を加速｜プレスリリース｜伊藤忠商事株式会社 伊藤忠商事株式会社"
+      "summary": "日立建機（将来の「ランドクロス」）との協業を加速｜プレスリリース｜伊藤忠商事株式会社 伊藤忠商事株式会社",
+      "source_count": 1
     },
     {
       "id": "0bf2d0d6bd3d698d",
@@ -3039,7 +3873,8 @@
         "DX",
         "人事"
       ],
-      "summary": "メタルワン・役員人事／鉄鋼貿易・エネルギー事業部長に中本氏／尾藤副社長が営業も管掌 日刊鉄鋼新聞 Japan Metal Daily"
+      "summary": "メタルワン・役員人事／鉄鋼貿易・エネルギー事業部長に中本氏／尾藤副社長が営業も管掌 日刊鉄鋼新聞 Japan Metal Daily",
+      "source_count": 1
     },
     {
       "id": "9a65eb44cb6da0c5",
@@ -3053,7 +3888,8 @@
       "tags": [
         "提携"
       ],
-      "summary": "ブックオフグループホールディングス株式会社との資本・業務提携について 伊藤忠商事株式会社"
+      "summary": "ブックオフグループホールディングス株式会社との資本・業務提携について 伊藤忠商事株式会社",
+      "source_count": 1
     },
     {
       "id": "5c48ae42e1808ec1",
@@ -3067,7 +3903,25 @@
       "tags": [
         "人事"
       ],
-      "summary": "（人事・商社）JFE商事 日本経済新聞"
+      "summary": "（人事・商社）JFE商事 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "bc26d86a3fd1ca5a",
+      "title": "半導体の高純度化学品製造…長瀬産業、中国に新会社の狙い",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBQdlZLWjN0TTQtbFBFX1pQbU0tVEE5TkxXcnVsMEVQbFlEb2lMWjF0dHJsY3IxbXRNUzNLbFlVdE4xZw?oc=5",
+      "source": "ニュースイッチ by 日刊工業新聞社",
+      "published": "2026-02-17T08:00:00+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [
+        "DX",
+        "新規事業",
+        "海外"
+      ],
+      "summary": "半導体の高純度化学品製造…長瀬産業、中国に新会社の狙い ニュースイッチ by 日刊工業新聞社",
+      "source_count": 1
     },
     {
       "id": "4340394b0ad766b3",
@@ -3079,7 +3933,8 @@
         "jfeshoji"
       ],
       "tags": [],
-      "summary": "JFE商事エレクトロニクス／GPSで荷待ち・荷役時間を自動記録 法対応を支援 物流ニュースのLNEWS"
+      "summary": "JFE商事エレクトロニクス／GPSで荷待ち・荷役時間を自動記録 法対応を支援 物流ニュースのLNEWS",
+      "source_count": 1
     },
     {
       "id": "f87506f75b02b590",
@@ -3095,7 +3950,40 @@
         "人事",
         "投資"
       ],
-      "summary": "長瀬産業・上島宏之社長「成長投資で『One NAGASE』創る」（4ページ目） | 日経ESG 日経BP"
+      "summary": "長瀬産業・上島宏之社長「成長投資で『One NAGASE』創る」（4ページ目） | 日経ESG 日経BP",
+      "source_count": 1
+    },
+    {
+      "id": "4f267a5704a5f188",
+      "title": "長瀬産業、中国で半導体現像液の新工場 先端品向けで需要拡大",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZcW5tUkY2OWNWQlc3OUhtM3dRRDRaNGc4OUQwX0ZHM0pRanNYUlJYeUVVenlzREdtWUdFNWEyVDY2Y2REUDk1UDNaTkx6NFpoWUZSSWNzTlJKck85VEZwVkx5SEE3NzdtOHRwRQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-02-06T08:00:00+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [
+        "DX",
+        "海外"
+      ],
+      "summary": "長瀬産業、中国で半導体現像液の新工場 先端品向けで需要拡大 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "a5814cccbab3da84",
+      "title": "SACHEMアジア3社 社名変更のお知らせ | 長瀬産業のプレスリリース",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zeE80bWZxTUpQVkJ1dkphRXdabHhyX0lzXzNkSGljNWJIV0RMbmJWd2lTRzhZVEhTLXFlTHRTQXBCYS1NVDZDZGtkQVJuSlEtSzdhT0pyVlh4M00?oc=5",
+      "source": "共同通信PRワイヤー",
+      "published": "2026-02-05T08:00:00+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [
+        "提携",
+        "海外"
+      ],
+      "summary": "SACHEMアジア3社 社名変更のお知らせ | 長瀬産業のプレスリリース 共同通信PRワイヤー",
+      "source_count": 1
     },
     {
       "id": "09f5f73060427e9f",
@@ -3109,7 +3997,8 @@
       "tags": [
         "人事"
       ],
-      "summary": "商社の経営戦略 ―事業・人財ポートフォリオ―／メタルワン 渡邉善之社長／重点領域・レイヤー二軸で／大胆な事業創造できる人財育成 WEB産業新聞"
+      "summary": "商社の経営戦略 ―事業・人財ポートフォリオ―／メタルワン 渡邉善之社長／重点領域・レイヤー二軸で／大胆な事業創造できる人財育成 WEB産業新聞",
+      "source_count": 1
     },
     {
       "id": "911b3d3deddf0263",
@@ -3124,7 +4013,23 @@
       "tags": [
         "人事"
       ],
-      "summary": "伊藤忠丸紅鉄鋼系元部長の詐欺事件、地面師と重なる手口 面会の「役員」は別人 日本経済新聞"
+      "summary": "伊藤忠丸紅鉄鋼系元部長の詐欺事件、地面師と重なる手口 面会の「役員」は別人 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "224c4b46629364a5",
+      "title": "資源価格変動に翻弄される大手商社横目に異彩放つ商社株",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EOU4wSUVIRkJiWE9RWlk3bEtJeWNoQ2VqU0RUMG9YUkRwQWZLS3FMdVZESGNENmpINmpRQVdzMVc0VVVJaGhFUzk3cDVkTGdja1VNNXp2bw?oc=5",
+      "source": "四季報オンライン",
+      "published": "2026-02-03T08:00:00+00:00",
+      "company_ids": [
+        "kanematsu"
+      ],
+      "tags": [
+        "資源"
+      ],
+      "summary": "資源価格変動に翻弄される大手商社横目に異彩放つ商社株 四季報オンライン",
+      "source_count": 1
     },
     {
       "id": "404de0566e87ac50",
@@ -3138,7 +4043,8 @@
       "tags": [
         "提携"
       ],
-      "summary": "台湾最大手ITサービス事業者SYSTEX Corporationとの資本・業務提携について 伊藤忠商事株式会社"
+      "summary": "台湾最大手ITサービス事業者SYSTEX Corporationとの資本・業務提携について 伊藤忠商事株式会社",
+      "source_count": 1
     },
     {
       "id": "99d0419fc7902fd0",
@@ -3152,7 +4058,8 @@
       "tags": [
         "サステナ"
       ],
-      "summary": "リスクマネジメント｜Sojitz ESG BOOK｜サステナビリティ 双日株式会社"
+      "summary": "リスクマネジメント｜Sojitz ESG BOOK｜サステナビリティ 双日株式会社",
+      "source_count": 1
     },
     {
       "id": "5f8aea79795ef761",
@@ -3167,7 +4074,8 @@
       "tags": [
         "提携"
       ],
-      "summary": "伊藤忠・丸紅・住商3社の合弁企業で起きた「7億円詐欺事件」の深層、商社再編が生んだ“管理の空白”の重すぎる代償 ダイヤモンド・オンライン"
+      "summary": "伊藤忠・丸紅・住商3社の合弁企業で起きた「7億円詐欺事件」の深層、商社再編が生んだ“管理の空白”の重すぎる代償 ダイヤモンド・オンライン",
+      "source_count": 1
     },
     {
       "id": "478f18c35cf3fee4",
@@ -3179,7 +4087,8 @@
         "metalone"
       ],
       "tags": [],
-      "summary": "株式会社メタルワン 様｜お客様事例 SCSK株式会社"
+      "summary": "株式会社メタルワン 様｜お客様事例 SCSK株式会社",
+      "source_count": 1
     },
     {
       "id": "348eed91a8721ddd",
@@ -3195,6 +4104,22 @@
         "脱炭素"
       ],
       "summary": "伊藤忠丸紅住商テクノスチールの元部長を逮捕 再エネ巡る融資金7億円詐取疑い 日本経済新聞"
+    },
+    {
+      "id": "9154566d79b6123a",
+      "title": "長瀬産業、米国にバイオ研究所 ロボ・AIで開発スピード向上",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LenltajJfX3hhczM5bUlYVDE5OGpyY01PVzdLV2NiR3hsMGJncEI2YUswQ0tzd0pUVXoyc0hNWno2UzRQRTVkekhjWU41bXpPSWJZTUVXMWUxUnFOeDloODU2UTFtVXVxdXZsRg?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-01-13T08:00:00+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [
+        "DX",
+        "海外"
+      ],
+      "summary": "長瀬産業、米国にバイオ研究所 ロボ・AIで開発スピード向上 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "286ea5ebc3b0511d",
@@ -3222,7 +4147,41 @@
         "kanematsu"
       ],
       "tags": [],
-      "summary": "兼松が防衛装備庁と2機売買契約、次期初等練習機「T-6」の特徴 ニュースイッチ by 日刊工業新聞社"
+      "summary": "兼松が防衛装備庁と2機売買契約、次期初等練習機「T-6」の特徴 ニュースイッチ by 日刊工業新聞社",
+      "source_count": 1
+    },
+    {
+      "id": "68b4928a267d3b48",
+      "title": "長瀬産業と日本通運 インド・ドレラ地区における半導体前工程向けの半導体材料の供給に関する覚書を締結",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44SkkwSl9XUkZKSGY4WEFqTGZkanhYeTVOM1ZpZGVhWTh0TzhnV0tVOXhuQzZyODd0Z2lidFZhSGNwR0lUZndnZ3huS0xYNm1naXJ3QmRhV3haeDA?oc=5",
+      "source": "共同通信PRワイヤー",
+      "published": "2025-12-16T08:00:00+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [
+        "DX",
+        "提携",
+        "海外"
+      ],
+      "summary": "長瀬産業と日本通運 インド・ドレラ地区における半導体前工程向けの半導体材料の供給に関する覚書を締結 共同通信PRワイヤー",
+      "source_count": 1
+    },
+    {
+      "id": "9b5aac53548d5a12",
+      "title": "長瀬産業と日通、インドで半導体材料の物流網 日系企業の進出促す",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tcDRJTXpqczgyYlJfNnlCSkRNaUFydHJadGpCaVRMdEtVZzJZTkluckpGS1ZWUEp2QURpZnJYME55OVN0dTlVbmlRLWNTb1hSVFpRck5ocXFDRU9oeGNFLVQ1SkRMVzd0TElzZA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2025-12-15T08:00:00+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [
+        "DX",
+        "海外"
+      ],
+      "summary": "長瀬産業と日通、インドで半導体材料の物流網 日系企業の進出促す 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "c23d3cb649f80f38",
@@ -3234,7 +4193,8 @@
         "jfeshoji"
       ],
       "tags": [],
-      "summary": "JFE商事株式会社で活躍！経理業務を通じてグローバル企業の発展を支える│池田隆明さん ｜明治大学 Meiji NOW"
+      "summary": "JFE商事株式会社で活躍！経理業務を通じてグローバル企業の発展を支える│池田隆明さん ｜明治大学 Meiji NOW",
+      "source_count": 1
     },
     {
       "id": "87fbccc995d95ca8",
@@ -3248,7 +4208,8 @@
       "tags": [
         "人事"
       ],
-      "summary": "商社の経営戦略―事業・人財ポートフォリオ―／ＪＦＥ商事 祖母井紀史社長／北米需要増へ 商機捉える／国内「売る力」強化、グループ一丸 WEB産業新聞"
+      "summary": "商社の経営戦略―事業・人財ポートフォリオ―／ＪＦＥ商事 祖母井紀史社長／北米需要増へ 商機捉える／国内「売る力」強化、グループ一丸 WEB産業新聞",
+      "source_count": 1
     },
     {
       "id": "06e510bd11cb6f01",
@@ -3261,7 +4222,8 @@
         "marubeni"
       ],
       "tags": [],
-      "summary": "東京ガス、伊藤忠丸紅鉄鋼と低炭素鉄鋼の開発支援 クレジット付きガスで 日本経済新聞"
+      "summary": "東京ガス、伊藤忠丸紅鉄鋼と低炭素鉄鋼の開発支援 クレジット付きガスで 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "c0066326240d3d2a",
@@ -3277,7 +4239,8 @@
         "人事",
         "投資"
       ],
-      "summary": "商社の経営戦略―事業・人財ポートフォリオ―／伊藤忠丸紅鉄鋼 石谷誠社長／基礎収益力さらに強化／高付加価値品拡充へ米で投資検討 WEB産業新聞"
+      "summary": "商社の経営戦略―事業・人財ポートフォリオ―／伊藤忠丸紅鉄鋼 石谷誠社長／基礎収益力さらに強化／高付加価値品拡充へ米で投資検討 WEB産業新聞",
+      "source_count": 1
     },
     {
       "id": "fb573090032e594a",
@@ -3289,7 +4252,23 @@
         "sojitz"
       ],
       "tags": [],
-      "summary": "【インタビュー】双日グループ社員対談！入社10年を迎える社員が語る、自身の「これまで」と「これから」への想い（前編) 双日株式会社"
+      "summary": "【インタビュー】双日グループ社員対談！入社10年を迎える社員が語る、自身の「これまで」と「これから」への想い（前編) 双日株式会社",
+      "source_count": 1
+    },
+    {
+      "id": "a9d22c80bc69c69d",
+      "title": "兼松(8020)、5期連続となる「増配」を発表し、配当利回り3.6％に！ 年間配当は5年で2倍に増加、2026年3月期は前期比15円増の「1株あたり120円」に！",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNSHY4eW90Z3RxRVF6akZhV3FlelZuYklITXdPa09DdlJQLUpXZUluam1udms5eUo3WXpIMVQ2Nm1IWFJWNnJEc1p5SWVnTkhkX3BB?oc=5",
+      "source": "ダイヤモンド・オンライン",
+      "published": "2025-11-25T08:00:00+00:00",
+      "company_ids": [
+        "kanematsu"
+      ],
+      "tags": [
+        "株主還元"
+      ],
+      "summary": "兼松(8020)、5期連続となる「増配」を発表し、配当利回り3.6％に！ 年間配当は5年で2倍に増加、2026年3月期は前期比15円増の「1株あたり120円」に！ ダイヤモンド・オンライン",
+      "source_count": 1
     },
     {
       "id": "48556316ce875801",
@@ -3301,7 +4280,8 @@
         "sojitz"
       ],
       "tags": [],
-      "summary": "事業の幅を広げる商社の仕事 双日株式会社"
+      "summary": "事業の幅を広げる商社の仕事 双日株式会社",
+      "source_count": 1
     },
     {
       "id": "766ebf788f36a206",
@@ -3313,7 +4293,8 @@
         "sojitz"
       ],
       "tags": [],
-      "summary": "グローバルビジネスの最前線で活躍する 双日株式会社"
+      "summary": "グローバルビジネスの最前線で活躍する 双日株式会社",
+      "source_count": 1
     },
     {
       "id": "6228e5f2c34f1ce1",
@@ -3325,7 +4306,8 @@
         "sojitz"
       ],
       "tags": [],
-      "summary": "挑戦の先に広がるリテール事業の未来 双日株式会社"
+      "summary": "挑戦の先に広がるリテール事業の未来 双日株式会社",
+      "source_count": 1
     },
     {
       "id": "1877ccac05c4749c",
@@ -3337,7 +4319,23 @@
         "sojitz"
       ],
       "tags": [],
-      "summary": "人と向き合い、世界を動かす 双日株式会社"
+      "summary": "人と向き合い、世界を動かす 双日株式会社",
+      "source_count": 1
+    },
+    {
+      "id": "6205432915060ced",
+      "title": "長瀬産業株が上場来高値 「商社＋製造機能」で半導体に強み",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uYTR0M2tGVlg3M1JlNjQ5bURDaXlYaHUyX19mMmRZRE5sRmRtaVhPczl1RUx4MTBJYkllT0YwNTQySFpmSDhIOURNaUI3SG11VjBVZkRseTNfbWY4ejdWUkZJWk1MUWxiVENmSjZBNFpNalppaEVDY0RPYTRTdw?oc=5",
+      "source": "日本経済新聞",
+      "published": "2025-11-11T08:00:00+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "長瀬産業株が上場来高値 「商社＋製造機能」で半導体に強み 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "ba95b041e9772276",
@@ -3363,7 +4361,8 @@
         "kanematsu"
       ],
       "tags": [],
-      "summary": "【総合商社への転職】兼松株式会社で働く魅力：入社してすぐに10億円案件を担当！ ｜ミライのお仕事 MoreJob株式会社"
+      "summary": "【総合商社への転職】兼松株式会社で働く魅力：入社してすぐに10億円案件を担当！ ｜ミライのお仕事 MoreJob株式会社",
+      "source_count": 1
     },
     {
       "id": "24d551b060ffb54c",
@@ -3377,7 +4376,8 @@
       "tags": [
         "資源"
       ],
-      "summary": "老舗商社の兼松が「ROEで伊藤忠超え」達成！非資源100％へ脱皮後の2大“稼ぎ頭”と、さらなる成長の種とは ダイヤモンド・オンライン"
+      "summary": "老舗商社の兼松が「ROEで伊藤忠超え」達成！非資源100％へ脱皮後の2大“稼ぎ頭”と、さらなる成長の種とは ダイヤモンド・オンライン",
+      "source_count": 1
     },
     {
       "id": "45c45f4962f06ae5",
@@ -3389,7 +4389,8 @@
         "sojitz"
       ],
       "tags": [],
-      "summary": "動画広告の新シリーズ「昨日、今日、双日。」を展開｜ニュースルーム｜双日株式会社 双日株式会社"
+      "summary": "動画広告の新シリーズ「昨日、今日、双日。」を展開｜ニュースルーム｜双日株式会社 双日株式会社",
+      "source_count": 1
     },
     {
       "id": "1c27bc1086c5b88b",
@@ -3401,7 +4402,8 @@
         "sojitz"
       ],
       "tags": [],
-      "summary": "企業広告「挑むが、価値。2025」を出稿 双日株式会社"
+      "summary": "企業広告「挑むが、価値。2025」を出稿 双日株式会社",
+      "source_count": 1
     },
     {
       "id": "ef1cc37fd1de24e0",
@@ -3442,7 +4444,8 @@
         "人事",
         "海外"
       ],
-      "summary": "Leader's Voice＞電磁鋼板の事業、海外で拡大 JFE商事 祖母井紀史社長 日本経済新聞"
+      "summary": "Leader's Voice＞電磁鋼板の事業、海外で拡大 JFE商事 祖母井紀史社長 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "55030046a433473d",
@@ -3457,7 +4460,8 @@
         "人事",
         "海外"
       ],
-      "summary": "商社の経営戦略／１０年先を見据えて／JFE商事 祖母井紀史社長／海外、薄板建材の拡大図る／国内、鉄スクラップ供給網強化 WEB産業新聞"
+      "summary": "商社の経営戦略／１０年先を見据えて／JFE商事 祖母井紀史社長／海外、薄板建材の拡大図る／国内、鉄スクラップ供給網強化 WEB産業新聞",
+      "source_count": 1
     },
     {
       "id": "b166fd4b010f8c50",
@@ -3473,7 +4477,8 @@
         "投資",
         "海外"
       ],
-      "summary": "JFE商事・祖母井社長「海外投資300億円、建材・電磁鋼板拡大」 日本経済新聞"
+      "summary": "JFE商事・祖母井社長「海外投資300億円、建材・電磁鋼板拡大」 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "1979ff8b0a6d08ef",
@@ -3487,7 +4492,8 @@
       "tags": [
         "脱炭素"
       ],
-      "summary": "JFE商事など、洋上風力向け洗掘防止材の製造販売会社を設立 - ニュース - メガソーラービジネス plus 日経BP"
+      "summary": "JFE商事など、洋上風力向け洗掘防止材の製造販売会社を設立 - ニュース - メガソーラービジネス plus 日経BP",
+      "source_count": 1
     },
     {
       "id": "c7ecc56176d153b2",
@@ -3501,7 +4507,8 @@
       "tags": [
         "脱炭素"
       ],
-      "summary": "JFE商事秋田オフショアマテリアルズ､男鹿市で洋上風力向け事業 日本経済新聞"
+      "summary": "JFE商事秋田オフショアマテリアルズ､男鹿市で洋上風力向け事業 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "ede1549301cda187",
@@ -3519,6 +4526,23 @@
       "summary": "メタルワン「シン・経営計画2027」／渡邉善之社長／課題解決力ナンバーワン／4つの重点領域、成長投資加速 WEB産業新聞"
     },
     {
+      "id": "5f888715674ddecb",
+      "title": "商社の経営戦略 １０年先を見据えて／伊藤忠丸紅鉄鋼 石谷誠社長／北米で川下事業拡張検討／新興向け出資、ＤＸ化提案加速",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlbng3b0FSTUR6ZVdDNkhFenFkSGg3T0Q4M2lyNjM0M3ZYMzVzQUZ3NHpSa0xWbVNsVnJpamtINGp3dVNsak10cmhCbE5LQTJ0bkZzNW5Eb1d6T0lPZGY5QW5oZw?oc=5",
+      "source": "WEB産業新聞",
+      "published": "2025-06-27T07:00:00+00:00",
+      "company_ids": [
+        "benichu",
+        "marubeni"
+      ],
+      "tags": [
+        "人事",
+        "投資"
+      ],
+      "summary": "商社の経営戦略 １０年先を見据えて／伊藤忠丸紅鉄鋼 石谷誠社長／北米で川下事業拡張検討／新興向け出資、ＤＸ化提案加速 WEB産業新聞",
+      "source_count": 1
+    },
+    {
       "id": "ccc2c0553eb82289",
       "title": "JFEグループのJFE商事。バイオマス燃料取引で、発電会社に燃料代および海上輸送の保険料等を、契約を上回る「意図的な上乗せ請求」発覚。2年弱で約3億円。過剰な利益主義を反映（RIEF） | 一般社団法人環境金融研究機構",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8zZjY2VG1wMnl0LUJhTUtDbWwzNzg3MkstbEVxTXBhUTdjWVhSTV9WRnMwb3U1QlFiTWZILTJkRS1ETWtSSXc?oc=5",
@@ -3530,7 +4554,8 @@
       "tags": [
         "サステナ"
       ],
-      "summary": "JFEグループのJFE商事。バイオマス燃料取引で、発電会社に燃料代および海上輸送の保険料等を、契約を上回る「意図的な上乗せ請求」発覚。2年弱で約3億円。過剰な利益主義を反映（RIEF） | 一般社団法人環境金融研究機構 環境金融研究機構"
+      "summary": "JFEグループのJFE商事。バイオマス燃料取引で、発電会社に燃料代および海上輸送の保険料等を、契約を上回る「意図的な上乗せ請求」発覚。2年弱で約3億円。過剰な利益主義を反映（RIEF） | 一般社団法人環境金融研究機構 環境金融研究機構",
+      "source_count": 1
     },
     {
       "id": "76e8387ec54b7cfb",
@@ -3542,7 +4567,8 @@
         "jfeshoji"
       ],
       "tags": [],
-      "summary": "JFE商事、バイオマス燃料取引で不適切請求 2年で1社3億円 日本経済新聞"
+      "summary": "JFE商事、バイオマス燃料取引で不適切請求 2年で1社3億円 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "49cbbd30341bd893",
@@ -3561,6 +4587,23 @@
       "summary": "商社の経営戦略 ―需給・収益構造対策―／メタルワン渡邉善之社長／協調と競争 投資最適化／流通業務デジタル基盤 普及進む WEB産業新聞"
     },
     {
+      "id": "12f0c53d36203c01",
+      "title": "長瀬産業、米グループ会社Prinovaグループがブラジルにおける食品素材事業拡大に向けAplinova社を買収",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZeWJoMC1Rb21MLWZtTFo3ZWxYOW5IcWlSSmZNQ3BNRTRZLWE2WnlBUmhLbWFLYXJDeTdMOE9WVXJ4VjFodkl3aHlmM0NaMDRUclJnNzZCc3RWbXVwQ1RVcWhPbmxXekh4NEliVQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2025-04-07T07:00:00+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [
+        "M&A",
+        "海外",
+        "食料"
+      ],
+      "summary": "長瀬産業、米グループ会社Prinovaグループがブラジルにおける食品素材事業拡大に向けAplinova社を買収 日本経済新聞",
+      "source_count": 1
+    },
+    {
       "id": "5263135937ea9bdc",
       "title": "兼松が半導体ウエハー商社E＆Mを買収：より上流へ事業領域の拡大狙う",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CcjBPbVZJeXMtMUJreDhvWlB6ZDNTZndoSlFkMmNPV1hGc2ZabWZVVVRyVUt5MUpZT3lCd1RDazFPU3Q2VVkxWXhmOFNWNUlXLXBWYmtYUktPTXpuZjB0ZzdrMjhWcnY4bzRMdWdtUQ?oc=5",
@@ -3573,7 +4616,23 @@
         "DX",
         "M&A"
       ],
-      "summary": "兼松が半導体ウエハー商社E＆Mを買収：より上流へ事業領域の拡大狙う EE Times Japan"
+      "summary": "兼松が半導体ウエハー商社E＆Mを買収：より上流へ事業領域の拡大狙う EE Times Japan",
+      "source_count": 1
+    },
+    {
+      "id": "9a0f7f59b40db284",
+      "title": "長瀬産業・上島宏之社長「ユニークネスを磨き社会課題を解決」",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16RzFKd2Y4SGhXUV9uaUVnaDVKOS16OGZaaC1VMmVmdVdYcWJBUEtDS2h4cEwzbTh0RkNINGRmLXlwUC1FZ1BpQXZBVGxMeHRQRF9rM01uNURnM0g4amE1bzZZVjcydUR6TVdxOWdpMTU?oc=5",
+      "source": "日経BP",
+      "published": "2025-02-10T08:00:00+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [
+        "人事"
+      ],
+      "summary": "長瀬産業・上島宏之社長「ユニークネスを磨き社会課題を解決」 日経BP",
+      "source_count": 1
     },
     {
       "id": "99f942c8833ad3e6",
@@ -3597,7 +4656,8 @@
         "sojitz"
       ],
       "tags": [],
-      "summary": "【学内セミナーレポ】総合商社『双日グループ』から学ぶ！業界研究セミナー@京都産業大学 双日株式会社"
+      "summary": "【学内セミナーレポ】総合商社『双日グループ』から学ぶ！業界研究セミナー@京都産業大学 双日株式会社",
+      "source_count": 1
     },
     {
       "id": "0ec42fb94eeed57b",
@@ -3611,7 +4671,25 @@
       "tags": [
         "DX"
       ],
-      "summary": "「SaaSの総合商社」を目指し、企業のDXを支援するBusiness Co-Creation Center| KGTruckCALL 兼松株式会社"
+      "summary": "「SaaSの総合商社」を目指し、企業のDXを支援するBusiness Co-Creation Center| KGTruckCALL 兼松株式会社",
+      "source_count": 1
+    },
+    {
+      "id": "85df7b28d991d947",
+      "title": "商社の経営戦略―需給・収益構造対策― 伊藤忠丸紅鉄鋼 石谷誠社長／国内流通機能見直し急ぐ／米・欧阿中東の収益基盤を拡充",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lMmNuQVZKUlNqY21WNWdidGZhUUE4VEpVN1hMdDVQY2IxWW1UcDNVbTBTT1dkU3hyMU83TUtYZ1VHUVlhcUxkMjVSa3ZrdDZGcl9NUkVudW9KVUk5Y3AwY0xUdw?oc=5",
+      "source": "WEB産業新聞",
+      "published": "2024-12-02T08:00:00+00:00",
+      "company_ids": [
+        "benichu",
+        "marubeni"
+      ],
+      "tags": [
+        "人事",
+        "海外"
+      ],
+      "summary": "商社の経営戦略―需給・収益構造対策― 伊藤忠丸紅鉄鋼 石谷誠社長／国内流通機能見直し急ぐ／米・欧阿中東の収益基盤を拡充 WEB産業新聞",
+      "source_count": 1
     },
     {
       "id": "a6a9541a7e0de18d",
@@ -3639,7 +4717,8 @@
       "tags": [
         "食料"
       ],
-      "summary": "総合商社が、日本の農業にできること。 双日株式会社"
+      "summary": "総合商社が、日本の農業にできること。 双日株式会社",
+      "source_count": 1
     },
     {
       "id": "d77146444f2c6fe0",
@@ -3681,7 +4760,23 @@
       "tags": [
         "脱炭素"
       ],
-      "summary": "三井物産・住友商事・兼松…商社、脱炭素インフラ開発活発化 ニュースイッチ by 日刊工業新聞社"
+      "summary": "三井物産・住友商事・兼松…商社、脱炭素インフラ開発活発化 ニュースイッチ by 日刊工業新聞社",
+      "source_count": 1
+    },
+    {
+      "id": "f9f311cc9d30d964",
+      "title": "兼松､｢ICTと半導体分野｣で打つ2027年への布石 グループ一体運営に半導体では｢落ち穂拾い｣も",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ORWp2NU8yMF83YTBITWxPbjdFU1daTUduM0RfcFZndWtYU0ZIT01CbXgtWjNYV3g4U3B4UFNjNTlaQmdFUkd5SDJ6TV9fRXBGak93Tm5wRjZqNV95eGIw?oc=5",
+      "source": "東洋経済オンライン",
+      "published": "2024-08-01T07:00:00+00:00",
+      "company_ids": [
+        "kanematsu"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "兼松､｢ICTと半導体分野｣で打つ2027年への布石 グループ一体運営に半導体では｢落ち穂拾い｣も 東洋経済オンライン",
+      "source_count": 1
     },
     {
       "id": "23b8679a2fae43f2",
@@ -3721,7 +4816,8 @@
       "tags": [
         "提携"
       ],
-      "summary": "JFE商事とZERO、資本業務提携契約を締結 日本経済新聞"
+      "summary": "JFE商事とZERO、資本業務提携契約を締結 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "19ca5e71bd46d4eb",
@@ -3750,7 +4846,8 @@
         "sojitz"
       ],
       "tags": [],
-      "summary": "三井物産・双日・兼松…商社がたんぱく質確保に走る理由 ニュースイッチ by 日刊工業新聞社"
+      "summary": "三井物産・双日・兼松…商社がたんぱく質確保に走る理由 ニュースイッチ by 日刊工業新聞社",
+      "source_count": 1
     },
     {
       "id": "05011a856ecf4478",
@@ -3762,7 +4859,8 @@
         "jfeshoji"
       ],
       "tags": [],
-      "summary": "JFE商事審査部 インタビュー ～ 与信管理から取引支援に拡大、商社審査はなくならない ～ | TSRデータインサイト 東京商工リサーチ"
+      "summary": "JFE商事審査部 インタビュー ～ 与信管理から取引支援に拡大、商社審査はなくならない ～ | TSRデータインサイト 東京商工リサーチ",
+      "source_count": 1
     },
     {
       "id": "6d64c617aec5fbcc",
@@ -3774,7 +4872,21 @@
         "sojitz"
       ],
       "tags": [],
-      "summary": "双日、歴史マンガ第6巻「新路」（最終巻）を発行 双日株式会社"
+      "summary": "双日、歴史マンガ第6巻「新路」（最終巻）を発行 双日株式会社",
+      "source_count": 1
+    },
+    {
+      "id": "59e947422f7f542e",
+      "title": "中期経営計画",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6ZmNmM1YtT09iRkJRbjUydDh2ME1kNl9oVkFGWHMwVm5xTmVzcmtaZDdFTENvUkp6bXloWklEeFJFTXpFZHlQeEtUenZ2LXhUMEZ1UGRaQzl0MEg2d19jLTdRZkYxZw?oc=5",
+      "source": "兼松株式会社",
+      "published": "2024-03-26T05:06:42+00:00",
+      "company_ids": [
+        "kanematsu"
+      ],
+      "tags": [],
+      "summary": "中期経営計画 兼松株式会社",
+      "source_count": 1
     },
     {
       "id": "0b34f02696b67db0",
@@ -3786,7 +4898,8 @@
         "sojitz"
       ],
       "tags": [],
-      "summary": "【鈴木商店】日本一の総合商社に │ 時代でみる歴史 双日株式会社"
+      "summary": "【鈴木商店】日本一の総合商社に │ 時代でみる歴史 双日株式会社",
+      "source_count": 1
     },
     {
       "id": "f861c06318872d9b",
@@ -3798,7 +4911,8 @@
         "sojitz"
       ],
       "tags": [],
-      "summary": "国内外の事業周辺における貢献活動 双日株式会社"
+      "summary": "国内外の事業周辺における貢献活動 双日株式会社",
+      "source_count": 1
     },
     {
       "id": "ad557b5462cb321c",
@@ -3810,7 +4924,8 @@
         "sojitz"
       ],
       "tags": [],
-      "summary": "国内次世代教育の取組み 双日株式会社"
+      "summary": "国内次世代教育の取組み 双日株式会社",
+      "source_count": 1
     },
     {
       "id": "eccde4908d34ae13",
@@ -3850,7 +4965,8 @@
         "kanematsu"
       ],
       "tags": [],
-      "summary": "マクニカソリューションズ、大手総合商社兼松へ「Macnica U's Case Visualizer for Box」を提供 株式会社マクニカ"
+      "summary": "マクニカソリューションズ、大手総合商社兼松へ「Macnica U's Case Visualizer for Box」を提供 株式会社マクニカ",
+      "source_count": 1
     },
     {
       "id": "75834e87f44bb524",
@@ -3864,6 +4980,40 @@
       ],
       "tags": [],
       "summary": "「双日」元社員を逮捕、前の勤務先「兼松」から営業秘密を不正持ち出しか…元同僚のＩＤ使う 読売新聞"
+    },
+    {
+      "id": "95ea301bdced5f07",
+      "title": "伊藤忠丸紅鉄鋼、NTT Com・ウェイストボックスと連携しサプライチェーン全体の温室効果ガス排出量を算定・可視化・分析するクラウドサービス「MIeCO2(ミエコ)」の提供を開始",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yM3E1TWVHV3lJVWJsOHd6Z3FGSElQZk1xZXVNMW44TDdZX09ibXgwSkdsREZFa3NLblhueWlmN1hsY091XzNxcjFCVE53SGF1d2M0OUljRmhXZ0tlOFNyVzNqTlJscVFZT3JjMkhMUDlsbjJjc0ZWMHVWMA?oc=5",
+      "source": "NTTドコモビジネス",
+      "published": "2023-08-30T07:00:00+00:00",
+      "company_ids": [
+        "benichu",
+        "marubeni"
+      ],
+      "tags": [
+        "提携",
+        "脱炭素"
+      ],
+      "summary": "伊藤忠丸紅鉄鋼、NTT Com・ウェイストボックスと連携しサプライチェーン全体の温室効果ガス排出量を算定・可視化・分析するクラウドサービス「MIeCO2(ミエコ)」の提供を開始 NTTドコモビジネス",
+      "source_count": 1
+    },
+    {
+      "id": "c880d53edef4473c",
+      "title": "【連携企業】伊藤忠丸紅鉄鋼株式会社：インドネシア地震への寄付で子どもたちに笑顔を",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zUk15OXJzZkRFLWl1NVRGY3pDYnNEYnVxSXo0YVdRRnp3bU5NWWZiNE1DaUp6ZzV6UGk4TTJ5c2Rka3JvZnlzVVJtT3hBODlweFJaQWppbDBjTVRzS3c?oc=5",
+      "source": "gnjp.org",
+      "published": "2023-08-16T07:00:00+00:00",
+      "company_ids": [
+        "benichu",
+        "marubeni"
+      ],
+      "tags": [
+        "提携",
+        "海外"
+      ],
+      "summary": "【連携企業】伊藤忠丸紅鉄鋼株式会社：インドネシア地震への寄付で子どもたちに笑顔を gnjp.org",
+      "source_count": 1
     },
     {
       "id": "4da16f0de47b3e10",
@@ -3894,6 +5044,71 @@
       "summary": "老舗商社の兼松が描く「地球低軌道ビジネス」とは--Sierra SpaceやBlue Originと商用宇宙ステーション利活用へ CNET Japan"
     },
     {
+      "id": "b9e815d1779ff135",
+      "title": "新社長に聞く／伊藤忠丸紅鉄鋼／石谷誠氏／非価格競争力を強化",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kYnI0ZzZRazhfN0FvamV6ZW5zeGg1d2lBUGdBMFNnbTN3eEVDMU9EU3BmVnlxSGJQeW15Rmd4elFnMlZHdmpvUm0wZ0tsaExMYllWNzlJRFFINXFRTnAxQkpuZw?oc=5",
+      "source": "WEB産業新聞",
+      "published": "2023-04-04T07:00:00+00:00",
+      "company_ids": [
+        "benichu",
+        "marubeni"
+      ],
+      "tags": [
+        "人事"
+      ],
+      "summary": "新社長に聞く／伊藤忠丸紅鉄鋼／石谷誠氏／非価格競争力を強化 WEB産業新聞",
+      "source_count": 1
+    },
+    {
+      "id": "075b0fa221ef5b3b",
+      "title": "（新社長）伊藤忠丸紅鉄鋼",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTYUhrVXlBV3NZMjktMk84MVZERzRLSGM1bzVNZWtCdmpZd2tsNXkwcG1kcXc1YlY3Z0NPQ0VSc2pJWjhlaUx5UEVoRFM1NzBtRldjWlY1LVE3YVpsYmJSX3ZINnptQ0NUSEVmUA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2023-03-09T08:00:00+00:00",
+      "company_ids": [
+        "benichu",
+        "marubeni"
+      ],
+      "tags": [
+        "人事"
+      ],
+      "summary": "（新社長）伊藤忠丸紅鉄鋼 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "8f9cd86c965b9311",
+      "title": "次期社長の横顔 伊藤忠丸紅鉄鋼 石谷誠氏 海外駐在20年超、繊細な熱血漢",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uVUtQUXAySGUxazl5MkdHQXhpMmpuVEFOWnJCaHVxVDd6Rkk5bVg1RzdXSzNxUE5JOUxYYzhqWGlPU2VoeTFaOVRHS1V6YXNPbkZrZ0Z0MDN3YzN1VHY3aVBfcw?oc=5",
+      "source": "WEB産業新聞",
+      "published": "2023-03-09T08:00:00+00:00",
+      "company_ids": [
+        "benichu",
+        "marubeni"
+      ],
+      "tags": [
+        "人事",
+        "海外"
+      ],
+      "summary": "次期社長の横顔 伊藤忠丸紅鉄鋼 石谷誠氏 海外駐在20年超、繊細な熱血漢 WEB産業新聞",
+      "source_count": 1
+    },
+    {
+      "id": "0e582a6e06ace295",
+      "title": "伊藤忠丸紅鉄鋼トップ人事 社長に石谷常務昇格 代取会長は清水氏 新執行役員5氏",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GSjdVRVBQZlN5WlhLZnVvb001UURUUXFORjJGZ2wtX0RSOWp2ZU9CVkZuOFJpbXdiRDUyWU9KWHNEUzJYR2Jvb3JqOGp3Y1k2TEtveEk5ejE2UDAtRUFDOW5zYw?oc=5",
+      "source": "WEB産業新聞",
+      "published": "2023-03-09T08:00:00+00:00",
+      "company_ids": [
+        "benichu",
+        "marubeni"
+      ],
+      "tags": [
+        "人事"
+      ],
+      "summary": "伊藤忠丸紅鉄鋼トップ人事 社長に石谷常務昇格 代取会長は清水氏 新執行役員5氏 WEB産業新聞",
+      "source_count": 1
+    },
+    {
       "id": "05c5088811cd4330",
       "title": "商社の兼松､一気に2社の子会社TOBに動いた当然の背景",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3THpGSThpbFpBQVphaTNFYldhdkh3Y3dTUXp0Y01sZktCMGktN0otdEJud1pQdnA4dV9ZTmluMHZIV2VQSnpDUWdOYnBiNDhCV2pJSUszUQ?oc=5",
@@ -3908,6 +5123,20 @@
       "summary": "商社の兼松､一気に2社の子会社TOBに動いた当然の背景 四季報オンライン"
     },
     {
+      "id": "0ab51ccdfeefcb29",
+      "title": "伊藤忠丸紅鉄鋼とNTT Com、鉄鋼製品サプライチェーン全体の温室効果ガス排出量を可視化するクラウドサービスの実証実験を開始",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1eGdQbFZUaVpTMEJGdnVobEozN3dUNTdYUzk3Q1Y5ZkFXQkg3R1JGREFmckUtaW42WWRFelNCZDRTN043QllxcmpNTFJZUWtBMnNBcXZLOXIzSkVvaVBkbDctU2dWVDl2V2FiM0NLSUUtU2haTEdkNWM3RQ?oc=5",
+      "source": "NTTドコモビジネス",
+      "published": "2023-02-14T08:00:00+00:00",
+      "company_ids": [
+        "benichu",
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "伊藤忠丸紅鉄鋼とNTT Com、鉄鋼製品サプライチェーン全体の温室効果ガス排出量を可視化するクラウドサービスの実証実験を開始 NTTドコモビジネス",
+      "source_count": 1
+    },
+    {
       "id": "fea9a8e81641d781",
       "title": "商社として日本の宇宙産業を支える！－ 兼松株式会社",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FLXhSSTNCcVJyTzVWN19JVzVnNVpTV19vMno1UWV2R2NIclhYZkxsaU1ZVi11cmhpeXJpWGZKSzFKZXU4cWVJU0dMNA?oc=5",
@@ -3917,7 +5146,8 @@
         "kanematsu"
       ],
       "tags": [],
-      "summary": "商社として日本の宇宙産業を支える！－ 兼松株式会社 spacemedia.jp"
+      "summary": "商社として日本の宇宙産業を支える！－ 兼松株式会社 spacemedia.jp",
+      "source_count": 1
     },
     {
       "id": "cf40f7af98fe7ebb",
@@ -3929,7 +5159,8 @@
         "kanematsu"
       ],
       "tags": [],
-      "summary": "企業広告「わが子の夢がミライ篇」公開のお知らせ 兼松株式会社"
+      "summary": "企業広告「わが子の夢がミライ篇」公開のお知らせ 兼松株式会社",
+      "source_count": 1
     },
     {
       "id": "a9f0e422e8981ae4",
@@ -3941,7 +5172,8 @@
         "kanematsu"
       ],
       "tags": [],
-      "summary": "タブレットPOSレジ「KG ユビレジ」の販売開始 兼松株式会社"
+      "summary": "タブレットPOSレジ「KG ユビレジ」の販売開始 兼松株式会社",
+      "source_count": 1
     },
     {
       "id": "d35ea54456d36ab1",
@@ -3953,7 +5185,23 @@
         "sojitz"
       ],
       "tags": [],
-      "summary": "歴史マンガ第2巻「黎明」を発行｜ニュースルーム｜双日株式会社 双日株式会社"
+      "summary": "歴史マンガ第2巻「黎明」を発行｜ニュースルーム｜双日株式会社 双日株式会社",
+      "source_count": 1
+    },
+    {
+      "id": "8a4f7da36daee462",
+      "title": "これからは社会・環境価値を提供できる企業だけが成長する――化学系専門商社｢長瀬産業｣が描くサステナブルなサプライチェーン",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRWllnVlhGSV9hU2RWRldKcklxZzhxV1R6QVdtVnpUdHNSd1hrcno3RVg3S3YtcDJNNmU3cUdNY0UwMUUySlZrUmRFU2JEZWRpcDJpYmE3WGhXYnZpM3JPLWtuMTVuQV9qSXc?oc=5",
+      "source": "パナソニック コネクト",
+      "published": "2022-10-18T07:00:00+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [
+        "サステナ"
+      ],
+      "summary": "これからは社会・環境価値を提供できる企業だけが成長する――化学系専門商社｢長瀬産業｣が描くサステナブルなサプライチェーン パナソニック コネクト",
+      "source_count": 1
     },
     {
       "id": "f409804fc5fd06fe",
@@ -3965,7 +5213,8 @@
         "sojitz"
       ],
       "tags": [],
-      "summary": "歴史マンガを「こども本の森 神戸」および神戸市各図書館などに寄贈｜ニュースルーム｜双日株式会社 双日株式会社"
+      "summary": "歴史マンガを「こども本の森 神戸」および神戸市各図書館などに寄贈｜ニュースルーム｜双日株式会社 双日株式会社",
+      "source_count": 1
     },
     {
       "id": "2db32e11747e70a2",
@@ -3977,7 +5226,8 @@
         "sojitz"
       ],
       "tags": [],
-      "summary": "双日、DNAを紐解く物語をマンガで紹介 『Hassojitz ～総合商社 双日 未来を創造した先駆者たち～』第1巻「創業」 双日株式会社"
+      "summary": "双日、DNAを紐解く物語をマンガで紹介 『Hassojitz ～総合商社 双日 未来を創造した先駆者たち～』第1巻「創業」 双日株式会社",
+      "source_count": 1
     },
     {
       "id": "6ddefe03dbc0c4e4",
@@ -4004,6 +5254,23 @@
       "summary": "兼松（8020）の株価・業績・比較銘柄 四季報オンライン"
     },
     {
+      "id": "c1c9bfe94ed73f7c",
+      "title": "伊藤忠丸紅鉄鋼、米国海外店に SAP のクラウドオファリング「RISE with SAP」を採用",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNVUFPaEc2TUhKdGdkS3BUQW0zWEZJMEFEMlE4UG5RY284S3lTZGlQM2NhLVktUHVGRDRCR25rZGJjVE03bmN0STBVY3EzanlyaXZNb0w2VEREQnFGcU1LT0hJWWllcnFNZmJDc0RNUlFJY3lCZWEwNl9BdC1MWUN4N3MxSzBSZ09IOUo0RW8xZG9kUkxNeV9pVE0wMXI0TDdRM19hSTIwTmg0Z2RJSWl3MlNIbTcyYV8zUG90bEZ4bzFyblVvWEQ4RWVjakVJUkVOUWNLeU5KU3ozcG1hNHZUR001ZnJyVEd5Y1FaTnlRRnhkWkFsdmdkdElUdE85aFpWc2ZUSVNLM0ZsUUJiYlpwZXZYZk04dmdBcFJKYkwwVjNDSXo1bHZYVFJQc3M2cThTYVlWRFZFOHRFTTljdm9iWHlhalRFVFdvRzE1YQ?oc=5",
+      "source": "SAP News Center",
+      "published": "2022-03-22T09:29:01+00:00",
+      "company_ids": [
+        "benichu",
+        "marubeni"
+      ],
+      "tags": [
+        "就活",
+        "海外"
+      ],
+      "summary": "伊藤忠丸紅鉄鋼、米国海外店に SAP のクラウドオファリング「RISE with SAP」を採用 SAP News Center",
+      "source_count": 1
+    },
+    {
       "id": "2b46c85244509106",
       "title": "双日(株)【2768】：株価・株式情報（夜間PTS含む）",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zVFhWdVQtNXV5dzV5Yzd5dHdfd2tfUXdGZnpjbXVpNDExU3JwT0dCUkZhajVXRThHUU5INGdoZTZVcGJlamctclM4UjRXNEF1NVE?oc=5",
@@ -4013,7 +5280,21 @@
         "sojitz"
       ],
       "tags": [],
-      "summary": "双日(株)【2768】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス"
+      "summary": "双日(株)【2768】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "791e29009c9f49b3",
+      "title": "長瀬産業(株)【8012】：株価・株式情報（夜間PTS含む）",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oNW5tNTBZU0ppVDJlX251NG1iUlZjd0NJVTFsNzY5UzJoUGhPNF8zWllYN29RWWZwdnZ3V05ndm1IZC1lOE90M1dCRnNGYWQ2N0E?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2021-03-22T10:29:14+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [],
+      "summary": "長瀬産業(株)【8012】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス",
+      "source_count": 1
     },
     {
       "id": "80464486e7755310",
@@ -4025,7 +5306,8 @@
         "kanematsu"
       ],
       "tags": [],
-      "summary": "兼松(株)【8020】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス"
+      "summary": "兼松(株)【8020】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス",
+      "source_count": 1
     },
     {
       "id": "ffc7656ab0c975d9",
@@ -4039,7 +5321,8 @@
       "tags": [
         "M&A"
       ],
-      "summary": "JFE商事、グループ内のJFE商事鉄鋼建材とJFE商事薄板建材が合併 日本経済新聞"
+      "summary": "JFE商事、グループ内のJFE商事鉄鋼建材とJFE商事薄板建材が合併 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "6f2c66d175e28603",
@@ -4054,6 +5337,19 @@
       "summary": "本社移転についてのお知らせ 兼松株式会社"
     },
     {
+      "id": "7b1032093808ef98",
+      "title": "総合商社双日へと続く 広岡浅子・広岡信五郎の物語｜双日株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RbnhTYkZMWER1WnhlTndsZGpiVGx4TTU4cHpJMDhYeXhKci1qRDdDMkhlWC1qNVloUTJwelhmWjEtY3pBYlVDUl9vZnY3R2x2Y3Y3NU1qNA?oc=5",
+      "source": "双日株式会社",
+      "published": "2019-09-01T01:10:45+00:00",
+      "company_ids": [
+        "sojitz"
+      ],
+      "tags": [],
+      "summary": "総合商社双日へと続く 広岡浅子・広岡信五郎の物語｜双日株式会社 双日株式会社",
+      "source_count": 1
+    },
+    {
       "id": "09cea78d23e6ab3b",
       "title": "神戸発、双日へと続く総合商社誕生物語 | 双日株式会社",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yVTZRWFkwaGhDajZRNzI5Y1RaUGNTbE1OekYxYUxoWm00RzBtUlFWanRrbnRvRTNTejNWYjZyY2ducVViZHNHYUFjSXQ5cDB4anBSMmpNQQ?oc=5",
@@ -4063,7 +5359,8 @@
         "sojitz"
       ],
       "tags": [],
-      "summary": "神戸発、双日へと続く総合商社誕生物語 | 双日株式会社 双日株式会社"
+      "summary": "神戸発、双日へと続く総合商社誕生物語 | 双日株式会社 双日株式会社",
+      "source_count": 1
     },
     {
       "id": "ae2dc7c0a11e78e8",
@@ -4075,7 +5372,8 @@
         "kanematsu"
       ],
       "tags": [],
-      "summary": "エレクトロニクス技術商社の兼松フューチャーテックソリューションズが、 モデルベース開発ツールベンダーのETASと販売代理店契約を締結 兼松株式会社"
+      "summary": "エレクトロニクス技術商社の兼松フューチャーテックソリューションズが、 モデルベース開発ツールベンダーのETASと販売代理店契約を締結 兼松株式会社",
+      "source_count": 1
     },
     {
       "id": "b601c8a45e1d199d",
@@ -4089,6 +5387,53 @@
       ],
       "tags": [],
       "summary": "住友商事グループとメタルワングループの国内鋼管事業統合会社 住商メタルワン鋼管設立について Sumitomo Corporation"
+    },
+    {
+      "id": "4ba438a49a6279e0",
+      "title": "（新社長）伊藤忠丸紅鉄鋼 兼田智仁氏",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SQ01lOEhPNWxheWM4YV9yX1V2YXRMandMWm1xWVhBNnNJQlEwdzNZb04xcFZnNVBlT3N0RVBXcHRsMG5FQkZXajV4VzR2ZVM1LWY0WjgzY2NtNXRQcVBVRXFGcUI5X282OHVmaQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2017-02-23T08:00:00+00:00",
+      "company_ids": [
+        "benichu",
+        "marubeni"
+      ],
+      "tags": [
+        "人事"
+      ],
+      "summary": "（新社長）伊藤忠丸紅鉄鋼 兼田智仁氏 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "6293f0a95ec83f88",
+      "title": "国内鉄鋼建材事業の統合について | 住友商事",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pMy1kcXoxdk9RWDI1dnNqQWhCb2txQ1pRbmF5Wlg4YVJhWlh1NnUxWmZxZGRELU5Hci1sWmVWNGk0WVEwbUNTOGxLaDhqM2wzaGF1VWRaTVhVYkVEMUVyZF91aWFOSmN0STNZcGs0bTRxV0xtTFE?oc=5",
+      "source": "Sumitomo Corporation",
+      "published": "2015-08-03T07:00:00+00:00",
+      "company_ids": [
+        "benichu",
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "国内鉄鋼建材事業の統合について | 住友商事 Sumitomo Corporation",
+      "source_count": 1
+    },
+    {
+      "id": "6a9f2218eebc8582",
+      "title": "インドネシア共和国合弁会社設立のお知らせ【伊藤忠丸紅鉄鋼】 | 丸紅グループニュース | 丸紅株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NVWZIZ2ZCeDVOSXhLMEpUT1ZKRTU3SU9uekhEcVBfS2Y3cllaR2lPS0F3SXoyOGpyRnUzSzhILUFUTURoaHV6T01yUHFCRXVvSDRXYzM0dUY0ZWxMcnpQRWs5dTU?oc=5",
+      "source": "Marubeni Corporation",
+      "published": "2013-05-15T07:00:00+00:00",
+      "company_ids": [
+        "benichu",
+        "marubeni"
+      ],
+      "tags": [
+        "提携",
+        "海外"
+      ],
+      "summary": "インドネシア共和国合弁会社設立のお知らせ【伊藤忠丸紅鉄鋼】 | 丸紅グループニュース | 丸紅株式会社 Marubeni Corporation",
+      "source_count": 1
     }
   ]
 }
