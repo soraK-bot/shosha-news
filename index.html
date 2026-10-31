@@ -39,6 +39,7 @@
   }
 
   *{box-sizing:border-box}
+  html{font-size:112.5%}
   body{background:var(--bg);color:var(--fg);font-family:var(--font-body);
     line-height:1.6;-webkit-font-smoothing:antialiased;letter-spacing:.01em}
   body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);
@@ -136,7 +137,7 @@
   :root[data-theme="dark"]{--danger:#e3937a}
 
   /* 下部メニュー分の余白を確保 */
-  main{padding-bottom:calc(78px + env(safe-area-inset-bottom,0px))}
+  main{padding-bottom:calc(94px + env(safe-area-inset-bottom,0px))}
   .view[hidden]{display:none!important}
 
   /* 記事カードの操作ボタン */
@@ -197,9 +198,9 @@
     padding-left:env(safe-area-inset-left,0px);
     padding-right:env(safe-area-inset-right,0px)}
   .tabbar button{flex:1;background:none;border:0;cursor:pointer;font-family:inherit;
-    color:var(--muted);padding:9px 2px 8px;display:flex;flex-direction:column;
-    align-items:center;gap:3px;font-size:.68rem;font-weight:500}
-  .tabbar button .ti{width:23px;height:23px;display:block}
+    color:var(--muted);padding:12px 2px 10px;min-height:64px;display:flex;flex-direction:column;
+    align-items:center;justify-content:center;gap:4px;font-size:.76rem;font-weight:600}
+  .tabbar button .ti{width:27px;height:27px;display:block}
   .tabbar button[aria-current="true"]{color:var(--accent-ink)}
   .tabbar button:focus-visible{outline:2px solid var(--accent-ink);outline-offset:-3px}
 
