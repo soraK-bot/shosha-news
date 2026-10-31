@@ -1,0 +1,13 @@
+{
+  "name": "商社就活ニュース",
+  "short_name": "商社ニュース",
+  "description": "7大総合商社＋専門商社のニュースを自動収集・タグ付けして表示する就活用アプリ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1f3a5f",
+  "theme_color": "#1f3a5f",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

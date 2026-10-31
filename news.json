@@ -1,0 +1,37 @@
+{
+  "updated_at": "2026-10-31T02:00:00+00:00",
+  "sample": true,
+  "companies": [
+    {"id": "mitsubishi", "name": "三菱商事", "category": "総合"},
+    {"id": "mitsui", "name": "三井物産", "category": "総合"},
+    {"id": "itochu", "name": "伊藤忠商事", "category": "総合"},
+    {"id": "sumitomo", "name": "住友商事", "category": "総合"},
+    {"id": "marubeni", "name": "丸紅", "category": "総合"},
+    {"id": "toyotatsusho", "name": "豊田通商", "category": "総合"},
+    {"id": "sojitz", "name": "双日", "category": "総合"},
+    {"id": "kanematsu", "name": "兼松", "category": "専門"},
+    {"id": "benichu", "name": "伊藤忠丸紅鉄鋼", "category": "専門"},
+    {"id": "nagase", "name": "長瀬産業", "category": "専門"},
+    {"id": "metalone", "name": "メタルワン", "category": "専門"},
+    {"id": "jfeshoji", "name": "JFE商事", "category": "専門"}
+  ],
+  "tags": ["決算","業績予想","株主還元","投資","M&A","提携","資源","脱炭素","DX","新規事業","海外","食料","人事","サステナ","就活"],
+  "articles": [
+    {"id":"s01","title":"三菱商事、2026年3月期の純利益見通しを上方修正 資源高が追い風","url":"https://news.google.com/","source":"日本経済新聞","published":"2026-10-31T01:10:00+00:00","company_ids":["mitsubishi"],"tags":["決算","業績予想","資源"],"summary":"三菱商事が通期の最終利益予想を引き上げた。原油・LNGなど資源価格の上昇が利益を押し上げる見通し。"},
+    {"id":"s02","title":"三菱商事と三井物産、洋上風力で協業 脱炭素電源を共同開発へ","url":"https://news.google.com/","source":"NHK","published":"2026-10-30T23:30:00+00:00","company_ids":["mitsubishi","mitsui"],"tags":["提携","脱炭素","新規事業"],"summary":"両社が再生可能エネルギー分野で合弁会社を設立。国内外の洋上風力と水素事業の拡大を狙う。"},
+    {"id":"s03","title":"伊藤忠商事、ローソンのDXを強化 生成AIで需要予測を本格導入","url":"https://news.google.com/","source":"産経新聞","published":"2026-10-30T08:00:00+00:00","company_ids":["itochu"],"tags":["DX","食料","新規事業"],"summary":"伊藤忠がローソンの店舗運営に生成AIを導入。発注や在庫の最適化で食品ロス削減を図る。"},
+    {"id":"s04","title":"住友商事、北米の銅鉱山権益を追加取得 EV向け需要を見込む","url":"https://news.google.com/","source":"ロイター","published":"2026-10-29T12:00:00+00:00","company_ids":["sumitomo"],"tags":["投資","資源","海外"],"summary":"住友商事が北米の銅鉱山の権益を買い増し。EVや送電網向けの銅需要拡大に対応する。"},
+    {"id":"s05","title":"丸紅、インドで大型太陽光発電所を稼働 再エネ事業を拡大","url":"https://news.google.com/","source":"日経","published":"2026-10-29T06:30:00+00:00","company_ids":["marubeni"],"tags":["脱炭素","海外","投資"],"summary":"丸紅がインドで太陽光発電所の稼働を開始。アジアでの再生可能エネルギー事業を強化する。"},
+    {"id":"s06","title":"伊藤忠商事、2026年3月期は過去最高益へ 非資源が牽引","url":"https://news.google.com/","source":"ブルームバーグ","published":"2026-10-28T22:00:00+00:00","company_ids":["itochu"],"tags":["決算","業績予想","株主還元"],"summary":"伊藤忠が通期で過去最高益となる見通し。生活消費分野など非資源事業が利益を支える。"},
+    {"id":"s07","title":"双日、航空機リース事業を強化 欧州企業と提携","url":"https://news.google.com/","source":"時事通信","published":"2026-10-28T10:00:00+00:00","company_ids":["sojitz"],"tags":["提携","海外","新規事業"],"summary":"双日が欧州の航空関連企業と提携し、航空機リース事業を拡大。アジア路線の需要回復を取り込む。"},
+    {"id":"s08","title":"豊田通商、アフリカでEV充電網を整備 現地企業と合弁","url":"https://news.google.com/","source":"日刊自動車新聞","published":"2026-10-27T09:00:00+00:00","company_ids":["toyotatsusho"],"tags":["脱炭素","海外","提携"],"summary":"豊田通商がアフリカでEV充電インフラを整備。現地企業と合弁会社を設立し電動化を支援する。"},
+    {"id":"s09","title":"三井物産、米国の医療データ事業に出資 ヘルスケアを成長領域に","url":"https://news.google.com/","source":"日本経済新聞","published":"2026-10-27T01:00:00+00:00","company_ids":["mitsui"],"tags":["投資","海外","DX","新規事業"],"summary":"三井物産が米医療データ企業に出資。ヘルスケアを次の収益柱に育てる方針。"},
+    {"id":"s10","title":"メタルワン、電磁鋼板の供給体制を拡充 EVモーター需要に対応","url":"https://news.google.com/","source":"鉄鋼新聞","published":"2026-10-26T07:00:00+00:00","company_ids":["metalone"],"tags":["投資","資源"],"summary":"鉄鋼商社のメタルワンがEVモーター向け電磁鋼板の供給を強化。国内外で加工拠点を増やす。"},
+    {"id":"s11","title":"長瀬産業、半導体材料の新工場を国内に建設 生成AI需要を追う","url":"https://news.google.com/","source":"化学工業日報","published":"2026-10-25T05:00:00+00:00","company_ids":["nagase"],"tags":["投資","DX","新規事業"],"summary":"長瀬産業が半導体材料の新工場を国内に建設。データセンター向けの需要増に備える。"},
+    {"id":"s12","title":"兼松、食品トレーサビリティでDX事業を開始 農業分野に参入","url":"https://news.google.com/","source":"日経産業新聞","published":"2026-10-24T08:00:00+00:00","company_ids":["kanematsu"],"tags":["DX","食料","新規事業"],"summary":"兼松が食品の流通管理をデジタル化する新事業を開始。農業分野への参入を進める。"},
+    {"id":"s13","title":"JFE商事、東南アジアで建材流通を拡大 現地商社を買収","url":"https://news.google.com/","source":"鉄鋼新聞","published":"2026-10-23T10:00:00+00:00","company_ids":["jfeshoji"],"tags":["M&A","海外","投資"],"summary":"JFE商事が東南アジアの建材流通企業を買収。成長市場での鋼材販売網を広げる。"},
+    {"id":"s14","title":"伊藤忠丸紅鉄鋼、脱炭素鋼材の取引を本格化 グリーンスチール供給","url":"https://news.google.com/","source":"鉄鋼新聞","published":"2026-10-22T06:00:00+00:00","company_ids":["benichu"],"tags":["脱炭素","資源","新規事業"],"summary":"伊藤忠丸紅鉄鋼がCO2排出を抑えたグリーンスチールの取引を拡大。製造業の脱炭素需要に応える。"},
+    {"id":"s15","title":"総合商社5社、初任給を引き上げ 人材獲得競争が激化","url":"https://news.google.com/","source":"東洋経済","published":"2026-10-21T09:00:00+00:00","company_ids":["mitsubishi","mitsui","itochu","sumitomo","marubeni"],"tags":["就活","人事"],"summary":"大手総合商社が相次いで初任給を引き上げ。優秀な人材の確保に向けた競争が強まっている。"},
+    {"id":"s16","title":"三菱商事、社長交代を発表 次期社長に専務が昇格","url":"https://news.google.com/","source":"共同通信","published":"2026-10-20T07:00:00+00:00","company_ids":["mitsubishi"],"tags":["人事"],"summary":"三菱商事が社長交代を発表。来春に専務が新社長に就任し、経営体制を刷新する。"}
+  ]
+}

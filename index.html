@@ -1,0 +1,369 @@
+<meta name="claude:viewport-fit-sides" content="cover">
+<title>商社就活ニュース</title>
+<link rel="manifest" href="./manifest.webmanifest">
+<meta name="theme-color" content="#1f3a5f">
+<link rel="apple-touch-icon" href="./icon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Zen+Kaku+Gothic+New:wght@500;700&display=swap">
+<style>
+  /* レイアウト概念: スマホ縦1カラム。固定ヘッダー(タイトル+検索+絞り込み)の下に記事カードを積む。 */
+  :root{
+    --bg:#f5f4f1; --surface:#ffffff; --surface-2:#fbfaf8;
+    --fg:#1a1f2b; --muted:#616b7a; --line:#e6e3dc;
+    --accent:#1f3a5f; --accent-ink:#1f3a5f; --accent-soft:#e9eff6;
+    --sogo-bg:#e7edf5; --sogo-ink:#28426a;
+    --senmon-bg:#e8f1ec; --senmon-ink:#2f6b4f;
+    --tag-bg:#f0eee8; --tag-ink:#5a5244;
+    --font-display:"Zen Kaku Gothic New","Noto Sans JP",system-ui,sans-serif;
+    --font-body:"Noto Sans JP",system-ui,-apple-system,sans-serif;
+    --r:14px; --maxw:640px;
+  }
+  @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+    --bg:#13161c; --surface:#1b1f27; --surface-2:#1f242d;
+    --fg:#eceef2; --muted:#98a1b0; --line:#2b313c;
+    --accent:#7aa6d6; --accent-ink:#9cc0e6; --accent-soft:#223243;
+    --sogo-bg:#20303f; --sogo-ink:#9cc0e6;
+    --senmon-bg:#1e3329; --senmon-ink:#7fc39e;
+    --tag-bg:#262a31; --tag-ink:#b7b0a2;
+    color-scheme:dark;
+  }}
+  :root[data-theme="dark"]{
+    --bg:#13161c; --surface:#1b1f27; --surface-2:#1f242d;
+    --fg:#eceef2; --muted:#98a1b0; --line:#2b313c;
+    --accent:#7aa6d6; --accent-ink:#9cc0e6; --accent-soft:#223243;
+    --sogo-bg:#20303f; --sogo-ink:#9cc0e6;
+    --senmon-bg:#1e3329; --senmon-ink:#7fc39e;
+    --tag-bg:#262a31; --tag-ink:#b7b0a2;
+    color-scheme:dark;
+  }
+
+  *{box-sizing:border-box}
+  body{background:var(--bg);color:var(--fg);font-family:var(--font-body);
+    line-height:1.6;-webkit-font-smoothing:antialiased;letter-spacing:.01em}
+  body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);
+    background:var(--accent);z-index:30}
+
+  .wrap{max-width:var(--maxw);margin:0 auto}
+
+  /* ---- ヘッダー ---- */
+  header{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;
+    background:var(--accent);color:#fff}
+  .head-inner{max-width:var(--maxw);margin:0 auto;
+    padding-left:max(16px,env(safe-area-inset-left,0px));
+    padding-right:max(16px,env(safe-area-inset-right,0px));
+    padding-block:12px 10px}
+  .brand{display:flex;align-items:baseline;justify-content:space-between;gap:10px}
+  .brand h1{font-family:var(--font-display);font-weight:700;font-size:1.18rem;
+    margin:0;letter-spacing:.02em}
+  .brand .meta{font-size:.72rem;opacity:.85;white-space:nowrap;font-variant-numeric:tabular-nums}
+  .search{margin-top:10px;position:relative}
+  .search input{width:100%;border:0;border-radius:11px;padding:10px 12px 10px 38px;
+    font-size:.95rem;font-family:inherit;background:rgba(255,255,255,.95);color:#1a1f2b}
+  .search input::placeholder{color:#8a93a0}
+  .search svg{position:absolute;left:12px;top:50%;transform:translateY(-50%);
+    width:18px;height:18px;opacity:.55}
+  .search input:focus{outline:2px solid #fff;outline-offset:1px}
+
+  /* ---- 絞り込みチップ ---- */
+  .filters{background:var(--surface);border-bottom:1px solid var(--line);
+    position:sticky;top:calc(env(safe-area-inset-top,0px) + 0px);z-index:10}
+  .chip-row{display:flex;gap:8px;overflow-x:auto;scrollbar-width:none;
+    padding-left:max(16px,env(safe-area-inset-left,0px));
+    padding-right:max(16px,env(safe-area-inset-right,0px));
+    padding-block:10px}
+  .chip-row::-webkit-scrollbar{display:none}
+  .chip{flex:0 0 auto;border:1px solid var(--line);background:var(--surface-2);
+    color:var(--fg);border-radius:999px;padding:6px 13px;font-size:.84rem;
+    font-weight:500;cursor:pointer;white-space:nowrap;font-family:inherit;transition:.15s}
+  .chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:#fff}
+  .chip:focus-visible{outline:2px solid var(--accent-ink);outline-offset:2px}
+  .tag-wrap{border-top:1px dashed var(--line)}
+  .tag-row{flex-wrap:wrap;overflow:visible}
+  .chip.tag{font-size:.8rem;padding:5px 11px}
+  .chip.tag::before{content:"#";opacity:.5;margin-right:1px}
+  .chip.tag[aria-pressed="true"]::before{opacity:.8}
+
+  /* ---- リスト ---- */
+  main{max-width:var(--maxw);margin:0 auto;
+    padding-left:max(16px,env(safe-area-inset-left,0px));
+    padding-right:max(16px,env(safe-area-inset-right,0px));
+    padding-block:14px 40px}
+  .count{font-size:.78rem;color:var(--muted);margin:2px 2px 12px;
+    display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+  .sample-flag{background:#f4e6c3;color:#6b541a;border-radius:6px;
+    padding:2px 8px;font-size:.72rem;font-weight:500}
+  @media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .sample-flag{background:#3a3115;color:#e4cf90}}
+  :root[data-theme="dark"] .sample-flag{background:#3a3115;color:#e4cf90}
+  .list{display:flex;flex-direction:column;gap:12px}
+
+  .card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);
+    padding:14px;display:flex;flex-direction:column;gap:9px;min-width:0}
+  .card .badges{display:flex;gap:6px;flex-wrap:wrap}
+  .badge{font-size:.72rem;font-weight:700;border-radius:6px;padding:2px 8px;
+    font-family:var(--font-display)}
+  .badge.sogo{background:var(--sogo-bg);color:var(--sogo-ink)}
+  .badge.senmon{background:var(--senmon-bg);color:var(--senmon-ink)}
+  .card a.title{font-family:var(--font-display);font-weight:700;font-size:1.02rem;
+    line-height:1.45;color:var(--fg);text-decoration:none;text-wrap:balance}
+  .card a.title:hover{color:var(--accent-ink)}
+  .card .src{font-size:.75rem;color:var(--muted);display:flex;gap:6px;align-items:center;
+    font-variant-numeric:tabular-nums}
+  .card .src .dot{width:3px;height:3px;border-radius:50%;background:var(--muted);flex:0 0 auto}
+  .card .summary{font-size:.9rem;color:var(--fg);opacity:.92;margin:0}
+  .card .hashtags{display:flex;gap:6px;flex-wrap:wrap;margin-top:1px}
+  .htag{font-size:.78rem;color:var(--accent-ink);background:var(--tag-bg);
+    border:0;border-radius:7px;padding:3px 9px;cursor:pointer;font-family:inherit;
+    font-weight:500}
+  .htag:hover{background:var(--accent-soft)}
+  .htag:focus-visible{outline:2px solid var(--accent-ink);outline-offset:1px}
+
+  .empty{text-align:center;color:var(--muted);padding:48px 16px;font-size:.92rem}
+  .empty b{color:var(--fg)}
+  .reset{margin-top:14px;background:var(--accent);color:#fff;border:0;border-radius:10px;
+    padding:9px 16px;font-size:.86rem;cursor:pointer;font-family:inherit}
+
+  footer{max-width:var(--maxw);margin:0 auto;color:var(--muted);font-size:.72rem;
+    padding-left:max(16px,env(safe-area-inset-left,0px));
+    padding-right:max(16px,env(safe-area-inset-right,0px));
+    padding-block:0 32px;line-height:1.7}
+
+  @media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+<header>
+  <div class="head-inner">
+    <div class="brand">
+      <h1>商社就活ニュース</h1>
+      <span class="meta" id="meta"></span>
+    </div>
+    <div class="search">
+      <svg viewBox="0 0 24 24" fill="none" stroke="#5b6472" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4-4"/></svg>
+      <input id="q" type="search" placeholder="キーワードで検索（社名・事業・メディア）" autocomplete="off">
+    </div>
+  </div>
+</header>
+
+<div class="filters">
+  <div class="wrap">
+    <div class="chip-row" id="companyRow" role="group" aria-label="会社で絞り込み"></div>
+    <div class="tag-wrap"><div class="chip-row tag-row" id="tagRow" role="group" aria-label="タグで絞り込み"></div></div>
+  </div>
+</div>
+
+<main>
+  <div class="count" id="count"></div>
+  <div class="list" id="list"></div>
+</main>
+
+<footer id="foot"></footer>
+
+<script id="fallback" type="application/json">
+{"updated_at":"2026-10-31T02:00:00+00:00","sample":true,"companies":[{"id":"mitsubishi","name":"三菱商事","category":"総合"},{"id":"mitsui","name":"三井物産","category":"総合"},{"id":"itochu","name":"伊藤忠商事","category":"総合"},{"id":"sumitomo","name":"住友商事","category":"総合"},{"id":"marubeni","name":"丸紅","category":"総合"},{"id":"toyotatsusho","name":"豊田通商","category":"総合"},{"id":"sojitz","name":"双日","category":"総合"},{"id":"kanematsu","name":"兼松","category":"専門"},{"id":"benichu","name":"伊藤忠丸紅鉄鋼","category":"専門"},{"id":"nagase","name":"長瀬産業","category":"専門"},{"id":"metalone","name":"メタルワン","category":"専門"},{"id":"jfeshoji","name":"JFE商事","category":"専門"}],"tags":["決算","業績予想","株主還元","投資","M&A","提携","資源","脱炭素","DX","新規事業","海外","食料","人事","サステナ","就活"],"articles":[{"id":"s01","title":"三菱商事、2026年3月期の純利益見通しを上方修正 資源高が追い風","url":"https://news.google.com/","source":"日本経済新聞","published":"2026-10-31T01:10:00+00:00","company_ids":["mitsubishi"],"tags":["決算","業績予想","資源"],"summary":"三菱商事が通期の最終利益予想を引き上げた。原油・LNGなど資源価格の上昇が利益を押し上げる見通し。"},{"id":"s02","title":"三菱商事と三井物産、洋上風力で協業 脱炭素電源を共同開発へ","url":"https://news.google.com/","source":"NHK","published":"2026-10-30T23:30:00+00:00","company_ids":["mitsubishi","mitsui"],"tags":["提携","脱炭素","新規事業"],"summary":"両社が再生可能エネルギー分野で合弁会社を設立。国内外の洋上風力と水素事業の拡大を狙う。"},{"id":"s03","title":"伊藤忠商事、ローソンのDXを強化 生成AIで需要予測を本格導入","url":"https://news.google.com/","source":"産経新聞","published":"2026-10-30T08:00:00+00:00","company_ids":["itochu"],"tags":["DX","食料","新規事業"],"summary":"伊藤忠がローソンの店舗運営に生成AIを導入。発注や在庫の最適化で食品ロス削減を図る。"},{"id":"s04","title":"住友商事、北米の銅鉱山権益を追加取得 EV向け需要を見込む","url":"https://news.google.com/","source":"ロイター","published":"2026-10-29T12:00:00+00:00","company_ids":["sumitomo"],"tags":["投資","資源","海外"],"summary":"住友商事が北米の銅鉱山の権益を買い増し。EVや送電網向けの銅需要拡大に対応する。"},{"id":"s05","title":"丸紅、インドで大型太陽光発電所を稼働 再エネ事業を拡大","url":"https://news.google.com/","source":"日経","published":"2026-10-29T06:30:00+00:00","company_ids":["marubeni"],"tags":["脱炭素","海外","投資"],"summary":"丸紅がインドで太陽光発電所の稼働を開始。アジアでの再生可能エネルギー事業を強化する。"},{"id":"s06","title":"伊藤忠商事、2026年3月期は過去最高益へ 非資源が牽引","url":"https://news.google.com/","source":"ブルームバーグ","published":"2026-10-28T22:00:00+00:00","company_ids":["itochu"],"tags":["決算","業績予想","株主還元"],"summary":"伊藤忠が通期で過去最高益となる見通し。生活消費分野など非資源事業が利益を支える。"},{"id":"s07","title":"双日、航空機リース事業を強化 欧州企業と提携","url":"https://news.google.com/","source":"時事通信","published":"2026-10-28T10:00:00+00:00","company_ids":["sojitz"],"tags":["提携","海外","新規事業"],"summary":"双日が欧州の航空関連企業と提携し、航空機リース事業を拡大。アジア路線の需要回復を取り込む。"},{"id":"s08","title":"豊田通商、アフリカでEV充電網を整備 現地企業と合弁","url":"https://news.google.com/","source":"日刊自動車新聞","published":"2026-10-27T09:00:00+00:00","company_ids":["toyotatsusho"],"tags":["脱炭素","海外","提携"],"summary":"豊田通商がアフリカでEV充電インフラを整備。現地企業と合弁会社を設立し電動化を支援する。"},{"id":"s09","title":"三井物産、米国の医療データ事業に出資 ヘルスケアを成長領域に","url":"https://news.google.com/","source":"日本経済新聞","published":"2026-10-27T01:00:00+00:00","company_ids":["mitsui"],"tags":["投資","海外","DX","新規事業"],"summary":"三井物産が米医療データ企業に出資。ヘルスケアを次の収益柱に育てる方針。"},{"id":"s10","title":"メタルワン、電磁鋼板の供給体制を拡充 EVモーター需要に対応","url":"https://news.google.com/","source":"鉄鋼新聞","published":"2026-10-26T07:00:00+00:00","company_ids":["metalone"],"tags":["投資","資源"],"summary":"鉄鋼商社のメタルワンがEVモーター向け電磁鋼板の供給を強化。国内外で加工拠点を増やす。"},{"id":"s11","title":"長瀬産業、半導体材料の新工場を国内に建設 生成AI需要を追う","url":"https://news.google.com/","source":"化学工業日報","published":"2026-10-25T05:00:00+00:00","company_ids":["nagase"],"tags":["投資","DX","新規事業"],"summary":"長瀬産業が半導体材料の新工場を国内に建設。データセンター向けの需要増に備える。"},{"id":"s12","title":"兼松、食品トレーサビリティでDX事業を開始 農業分野に参入","url":"https://news.google.com/","source":"日経産業新聞","published":"2026-10-24T08:00:00+00:00","company_ids":["kanematsu"],"tags":["DX","食料","新規事業"],"summary":"兼松が食品の流通管理をデジタル化する新事業を開始。農業分野への参入を進める。"},{"id":"s13","title":"JFE商事、東南アジアで建材流通を拡大 現地商社を買収","url":"https://news.google.com/","source":"鉄鋼新聞","published":"2026-10-23T10:00:00+00:00","company_ids":["jfeshoji"],"tags":["M&A","海外","投資"],"summary":"JFE商事が東南アジアの建材流通企業を買収。成長市場での鋼材販売網を広げる。"},{"id":"s14","title":"伊藤忠丸紅鉄鋼、脱炭素鋼材の取引を本格化 グリーンスチール供給","url":"https://news.google.com/","source":"鉄鋼新聞","published":"2026-10-22T06:00:00+00:00","company_ids":["benichu"],"tags":["脱炭素","資源","新規事業"],"summary":"伊藤忠丸紅鉄鋼がCO2排出を抑えたグリーンスチールの取引を拡大。製造業の脱炭素需要に応える。"},{"id":"s15","title":"総合商社5社、初任給を引き上げ 人材獲得競争が激化","url":"https://news.google.com/","source":"東洋経済","published":"2026-10-21T09:00:00+00:00","company_ids":["mitsubishi","mitsui","itochu","sumitomo","marubeni"],"tags":["就活","人事"],"summary":"大手総合商社が相次いで初任給を引き上げ。優秀な人材の確保に向けた競争が強まっている。"},{"id":"s16","title":"三菱商事、社長交代を発表 次期社長に専務が昇格","url":"https://news.google.com/","source":"共同通信","published":"2026-10-20T07:00:00+00:00","company_ids":["mitsubishi"],"tags":["人事"],"summary":"三菱商事が社長交代を発表。来春に専務が新社長に就任し、経営体制を刷新する。"}]}
+</script>
+
+<script>
+(function(){
+  "use strict";
+  var DATA = null;
+  var state = { scope:"all", tag:null, q:"" };
+  var companyMap = {};
+
+  function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){
+    return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
+
+  function relTime(iso){
+    var d=new Date(iso), now=new Date(), ms=now-d;
+    if(isNaN(d)) return "";
+    var min=Math.floor(ms/60000), h=Math.floor(min/60), day=Math.floor(h/24);
+    if(min<1) return "たった今";
+    if(min<60) return min+"分前";
+    if(h<24) return h+"時間前";
+    if(day<7) return day+"日前";
+    return (d.getMonth()+1)+"月"+d.getDate()+"日";
+  }
+
+  function loadFallback(){
+    try{ return JSON.parse(document.getElementById("fallback").textContent); }
+    catch(e){ return {companies:[],tags:[],articles:[]}; }
+  }
+
+  function boot(data){
+    DATA = data || loadFallback();
+    (DATA.companies||[]).forEach(function(c){ companyMap[c.id]=c; });
+    renderChrome();
+    render();
+  }
+
+  // 会社チップ・タグチップ・更新情報
+  function renderChrome(){
+    var meta=document.getElementById("meta");
+    var upd = DATA.updated_at ? new Date(DATA.updated_at) : null;
+    meta.textContent = upd ? ("更新 "+ (upd.getMonth()+1)+"/"+upd.getDate()+" "+
+      String(upd.getHours()).padStart(2,"0")+":"+String(upd.getMinutes()).padStart(2,"0")) : "";
+
+    // 会社: すべて / 総合 / 専門 / 各社
+    var cRow=document.getElementById("companyRow");
+    var chips=[{key:"all",label:"すべて"},{key:"cat:総合",label:"総合商社"},{key:"cat:専門",label:"専門商社"}];
+    (DATA.companies||[]).forEach(function(c){ chips.push({key:c.id,label:c.name}); });
+    cRow.innerHTML="";
+    chips.forEach(function(ch){
+      var b=document.createElement("button");
+      b.className="chip"; b.textContent=ch.label;
+      b.setAttribute("aria-pressed", state.scope===ch.key ? "true":"false");
+      b.onclick=function(){ state.scope=ch.key; render(); };
+      cRow.appendChild(b);
+    });
+
+    var tRow=document.getElementById("tagRow");
+    tRow.innerHTML="";
+    // 「全タグ」は # を付けない通常チップ
+    var allWrap=document.createElement("button");
+    allWrap.className="chip"; allWrap.textContent="全タグ";
+    allWrap.setAttribute("aria-pressed", state.tag===null?"true":"false");
+    allWrap.onclick=function(){ state.tag=null; render(); };
+    tRow.appendChild(allWrap);
+    (DATA.tags||[]).forEach(function(t){
+      var b=document.createElement("button");
+      b.className="chip tag"; b.textContent=t;
+      b.setAttribute("aria-pressed", state.tag===t ? "true":"false");
+      b.onclick=function(){ state.tag = (state.tag===t? null : t); render(); };
+      tRow.appendChild(b);
+    });
+  }
+
+  function matchScope(a){
+    if(state.scope==="all") return true;
+    if(state.scope.indexOf("cat:")===0){
+      var cat=state.scope.slice(4);
+      return (a.company_ids||[]).some(function(id){ return companyMap[id] && companyMap[id].category===cat; });
+    }
+    return (a.company_ids||[]).indexOf(state.scope)>=0;
+  }
+  function matchTag(a){ return state.tag===null || (a.tags||[]).indexOf(state.tag)>=0; }
+  function matchQ(a){
+    if(!state.q) return true;
+    var q=state.q.toLowerCase();
+    var hay=(a.title+" "+(a.summary||"")+" "+(a.source||"")+" "+
+      (a.company_ids||[]).map(function(id){return companyMap[id]?companyMap[id].name:"";}).join(" ")+" "+
+      (a.tags||[]).join(" ")).toLowerCase();
+    return hay.indexOf(q)>=0;
+  }
+
+  function render(){
+    // チップの押下状態を更新
+    document.querySelectorAll("#companyRow .chip").forEach(function(b){
+      var label=b.textContent;
+      var key = label==="すべて"?"all":label==="総合商社"?"cat:総合":label==="専門商社"?"cat:専門":
+        (DATA.companies.find(function(c){return c.name===label;})||{}).id;
+      b.setAttribute("aria-pressed", state.scope===key?"true":"false");
+    });
+    document.querySelectorAll("#tagRow .chip").forEach(function(b){
+      var t=b.textContent;
+      if(t==="全タグ") b.setAttribute("aria-pressed", state.tag===null?"true":"false");
+      else b.setAttribute("aria-pressed", state.tag===t?"true":"false");
+    });
+
+    var items=(DATA.articles||[]).filter(function(a){
+      return matchScope(a)&&matchTag(a)&&matchQ(a);
+    }).sort(function(x,y){ return new Date(y.published)-new Date(x.published); });
+
+    var count=document.getElementById("count");
+    count.innerHTML="";
+    var c=document.createElement("span");
+    c.textContent=items.length+" 件";
+    count.appendChild(c);
+    if(DATA.sample){
+      var f=document.createElement("span");
+      f.className="sample-flag"; f.textContent="サンプル表示中（本番データ未取得）";
+      count.appendChild(f);
+    }
+
+    var list=document.getElementById("list");
+    list.innerHTML="";
+    if(items.length===0){
+      list.innerHTML='<div class="empty"><b>該当するニュースがありません</b><br>'+
+        '絞り込みや検索条件を変えてみてください。'+
+        '<br><button class="reset" id="resetBtn">条件をリセット</button></div>';
+      document.getElementById("resetBtn").onclick=function(){
+        state={scope:"all",tag:null,q:""};
+        document.getElementById("q").value=""; render();
+      };
+      return;
+    }
+    var frag=document.createDocumentFragment();
+    items.forEach(function(a){ frag.appendChild(card(a)); });
+    list.appendChild(frag);
+  }
+
+  function card(a){
+    var el=document.createElement("article");
+    el.className="card";
+
+    var badges=document.createElement("div");
+    badges.className="badges";
+    (a.company_ids||[]).forEach(function(id){
+      var c=companyMap[id]; if(!c) return;
+      var b=document.createElement("span");
+      b.className="badge "+(c.category==="総合"?"sogo":"senmon");
+      b.textContent=c.name; badges.appendChild(b);
+    });
+    el.appendChild(badges);
+
+    var t=document.createElement("a");
+    t.className="title"; t.href=a.url||"#"; t.target="_blank"; t.rel="noopener noreferrer";
+    t.textContent=a.title; el.appendChild(t);
+
+    var src=document.createElement("div");
+    src.className="src";
+    src.innerHTML=esc(a.source||"")+'<span class="dot"></span>'+esc(relTime(a.published));
+    el.appendChild(src);
+
+    if(a.summary){
+      var s=document.createElement("p"); s.className="summary"; s.textContent=a.summary;
+      el.appendChild(s);
+    }
+
+    if((a.tags||[]).length){
+      var ht=document.createElement("div"); ht.className="hashtags";
+      a.tags.forEach(function(tag){
+        var b=document.createElement("button");
+        b.className="htag"; b.textContent="#"+tag;
+        b.onclick=function(){ state.tag=tag; window.scrollTo({top:0,behavior:"smooth"}); render(); };
+        ht.appendChild(b);
+      });
+      el.appendChild(ht);
+    }
+    return el;
+  }
+
+  // 検索入力
+  var qEl=document.getElementById("q");
+  var timer=null;
+  qEl.addEventListener("input",function(){
+    clearTimeout(timer);
+    timer=setTimeout(function(){ state.q=qEl.value.trim(); render(); },120);
+  });
+
+  // フッター
+  document.getElementById("foot").innerHTML=
+    "見出し・出典・元記事へのリンクを表示します。記事タップで元記事（別タブ）に移動します。<br>"+
+    "個人の就活準備用。ニュースは Google ニュース等から自動収集しています。";
+
+  // データ読み込み: GitHub Pages では data/news.json を読む。失敗時はサンプル。
+  function init(){
+    if(location.protocol==="file:"){ boot(loadFallback()); return; }
+    fetch("./data/news.json",{cache:"no-store"})
+      .then(function(r){ if(!r.ok) throw 0; return r.json(); })
+      .then(function(j){ boot(j); })
+      .catch(function(){ boot(loadFallback()); });
+  }
+  init();
+
+  // PWA（GitHub Pages のときだけ登録。artifact ドメインでは登録しない）
+  if("serviceWorker" in navigator && location.protocol==="https:" &&
+     !/claude|anthropic|artifact/i.test(location.hostname)){
+    navigator.serviceWorker.register("./sw.js").catch(function(){});
+  }
+})();
+</script>
