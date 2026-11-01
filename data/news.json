@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T22:25:13.226209+00:00",
+  "updated_at": "2026-11-01T03:40:48.158277+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -539,6 +539,21 @@
       ],
       "tags": [],
       "summary": "三井物産[8031]：変更報告書 提出者：三井物産株式会社：日経会社情報DIGITAL 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "551590f922497260",
+      "title": "三井物産都市開発、仙台市宮城野区において物流施設開発用地を取得",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wbUdlaHZkdHkxRERZdDFUbVRQN21ib1VCNkF6R044RDUzLXJkOHZrTHplTXlMZ2xWbHVWamlGb1ZBS0o5bGJLZEhZUlFMWThpZ3NZMWpCdUpVVmpYZlBHNVNSVmkyNWZ4WjVSNw?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-10-29T06:56:57+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "三井物産都市開発、仙台市宮城野区において物流施設開発用地を取得 日本経済新聞",
       "source_count": 1
     },
     {
@@ -1307,6 +1322,21 @@
       "source_count": 1
     },
     {
+      "id": "93abaedcd01de3ae",
+      "title": "豊田通商、ブラジルでサトウキビからバイオガス実証 経産省事業に採択",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56NGpraGRfNEtDX1N6SDFOTDZzb0VBLTFqdS1INElZV0FqZmlENkhYbjJ5YmNqMDRXR0w2S1V2RjFmR1A1cmdWNXBsWXpmNkVmM2pMa2RXaU9VQXRFOVcyUHNhQktCdVBwNlRmZA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-10-23T08:22:06+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "海外"
+      ],
+      "summary": "豊田通商、ブラジルでサトウキビからバイオガス実証 経産省事業に採択 日本経済新聞",
+      "source_count": 1
+    },
+    {
       "id": "a1f86d1f43133ed1",
       "title": "韓国大手ビューティー・パーソナルケア企業iFamilySC Co., Ltd.の株式取得について",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnaERrUDNCSmQ5S0czYjc4X3lwWlNUY3BSNEtxRU1xWWJNTWNreVRDbFgyTUctYUI0clVQWC1pV3hHUmVLcTRqYy1wOXBKRG54RUpCWi02aGp6YXU5ZmZfUW1oSTZTVjg?oc=5",
@@ -1857,6 +1887,19 @@
       "source_count": 1
     },
     {
+      "id": "143bc71578a0ca7b",
+      "title": "長瀬産業、「独自事業」売上高1000億円 生分解性SAPなど30年代めど",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82ZTNvZnE5b0htbFgtdC1jV0tuMkJxdWZsRlQ5OE9WS0hCNjJJTExSV2FaYThNc0Y3b1djQzJiblBOblB1Ym9tVlRhZnpXeDhRMzFfdDl5WWY?oc=5",
+      "source": "日刊工業新聞",
+      "published": "2026-10-12T07:00:00+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [],
+      "summary": "長瀬産業、「独自事業」売上高1000億円 生分解性SAPなど30年代めど 日刊工業新聞",
+      "source_count": 1
+    },
+    {
       "id": "a59fcaf34a6809ea",
       "title": "長瀬産業(株)【8012】：企業情報（決算時期・代表者名・大株主情報・IR動画など）",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52czFZbHA2RjVOS3N2Q0lPQWxMWVliLUlGZjlCZVF2LVJrVDc4Rlhnay1DVTlyeklTbDVEVmhxZG4tSEdlVUVJaVliMWpqN3FLTHBqMUo4SHlYUTlibzBiNUVGUzVuM0Nyc1NDSklLa0JjTjBfeEE?oc=5",
@@ -2331,6 +2374,21 @@
         "提携"
       ],
       "summary": "住友商事、MILIZEと資本業務提携 Sumitomo Corporation",
+      "source_count": 1
+    },
+    {
+      "id": "76ea1a093116be08",
+      "title": "ＪＦＥ商事／「新潟ＪＦＥ商事会」開く／大橋専務「〝エンジン役〟で社会に貢献」／講演でＧＸ戦略学ぶ",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rbTV0YzZVVFJnODFfN3puZGFvLUVwUE04YXVnejNFT0hLTWY0TFdvendzTDJHZjhjQzBfV2I4cWp5dXMxSnY0OW9TUnB4eC0tb1RqTzJFWXNZY2s2TEE?oc=5",
+      "source": "日刊鉄鋼新聞 Japan Metal Daily",
+      "published": "2026-09-30T07:00:00+00:00",
+      "company_ids": [
+        "jfeshoji"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "ＪＦＥ商事／「新潟ＪＦＥ商事会」開く／大橋専務「〝エンジン役〟で社会に貢献」／講演でＧＸ戦略学ぶ 日刊鉄鋼新聞 Japan Metal Daily",
       "source_count": 1
     },
     {
@@ -3019,7 +3077,8 @@
         "DX",
         "就活"
       ],
-      "summary": "鉄鋼流通大手のメタルワン、デジタルプラットフォーム事業拡大に伴うセキュリティ基盤の更なる強化にSecureNaviを採用 PR TIMES"
+      "summary": "鉄鋼流通大手のメタルワン、デジタルプラットフォーム事業拡大に伴うセキュリティ基盤の更なる強化にSecureNaviを採用 PR TIMES",
+      "source_count": 1
     },
     {
       "id": "7e8d203892a6793f",
@@ -4227,6 +4286,21 @@
       "source_count": 1
     },
     {
+      "id": "3293a03a8a06de19",
+      "title": "2026年度入社式 社長メッセージ | 住友商事",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XZE1EZHVfc21OX0J2UHhYU2hjVHA5QVBycUxIS2l3YllMRG1ON1dBeF9zYTVDUjk1MXM4NkxEaUZXVmQtd29sYXFlQlhHcEtoZVlUbEhQeTRqZUV4MzFmdEZsSEZ3MkNvLXcxblloSDhpeHVH?oc=5",
+      "source": "Sumitomo Corporation",
+      "published": "2026-04-01T07:00:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "人事"
+      ],
+      "summary": "2026年度入社式 社長メッセージ | 住友商事 Sumitomo Corporation",
+      "source_count": 1
+    },
+    {
       "id": "f128982632910e1d",
       "title": "エネルギー&パワーソリューショングループ | 事業紹介 | 会社情報 | 三菱商事",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVmVHQ0tPT2hHc0hzWEIzTmVDaTNuVkFjczJ6ekpVMlpYQWpINWVDN0xubkJGZTVVZzlxRUhvMm41ZnZOSkw0aTg5WERYT2dpazdsZ1h6eFFTTzltdWhoRjhUMmozTV9jWjRsV2VvcURsTGhiek9raE1Tb2lLazRfOTdVMjNQRjg?oc=5",
@@ -4567,7 +4641,8 @@
         "DX",
         "人事"
       ],
-      "summary": "メタルワングループ会社社長人事／サステック＝井上氏／エムオーテック＝宮本氏／協和製作所＝竹内氏 日刊鉄鋼新聞 Japan Metal Daily"
+      "summary": "メタルワングループ会社社長人事／サステック＝井上氏／エムオーテック＝宮本氏／協和製作所＝竹内氏 日刊鉄鋼新聞 Japan Metal Daily",
+      "source_count": 1
     },
     {
       "id": "8c2ee31fc86f6a03",
@@ -5407,7 +5482,8 @@
       "tags": [
         "投資"
       ],
-      "summary": "メタルワン・日東工業・アイキテック、波力発電のグローバルエナジーハーベストに４億円出資 日本経済新聞"
+      "summary": "メタルワン・日東工業・アイキテック、波力発電のグローバルエナジーハーベストに４億円出資 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "b89700f2e3d9eb0d",
@@ -5419,7 +5495,8 @@
         "metalone"
       ],
       "tags": [],
-      "summary": "メタルワン系2社統合、「特殊鋼」と「鉄鋼製品販売」 来年4月 WEB産業新聞"
+      "summary": "メタルワン系2社統合、「特殊鋼」と「鉄鋼製品販売」 来年4月 WEB産業新聞",
+      "source_count": 1
     },
     {
       "id": "b11254dfb1ad935a",
@@ -5513,7 +5590,8 @@
         "人事",
         "投資"
       ],
-      "summary": "メタルワン「シン・経営計画2027」／渡邉善之社長／課題解決力ナンバーワン／4つの重点領域、成長投資加速 WEB産業新聞"
+      "summary": "メタルワン「シン・経営計画2027」／渡邉善之社長／課題解決力ナンバーワン／4つの重点領域、成長投資加速 WEB産業新聞",
+      "source_count": 1
     },
     {
       "id": "5f888715674ddecb",
@@ -5574,7 +5652,8 @@
         "人事",
         "投資"
       ],
-      "summary": "商社の経営戦略 ―需給・収益構造対策―／メタルワン渡邉善之社長／協調と競争 投資最適化／流通業務デジタル基盤 普及進む WEB産業新聞"
+      "summary": "商社の経営戦略 ―需給・収益構造対策―／メタルワン渡邉善之社長／協調と競争 投資最適化／流通業務デジタル基盤 普及進む WEB産業新聞",
+      "source_count": 1
     },
     {
       "id": "12f0c53d36203c01",
@@ -5647,7 +5726,8 @@
         "metalone"
       ],
       "tags": [],
-      "summary": "「Excel＋メール」から脱却！住商メタルワン鋼管が挑んだ予算編成プロセスの改革とは EnterpriseZine"
+      "summary": "「Excel＋メール」から脱却！住商メタルワン鋼管が挑んだ予算編成プロセスの改革とは EnterpriseZine",
+      "source_count": 1
     },
     {
       "id": "5aca51aa7265e143",
@@ -5706,7 +5786,8 @@
       "tags": [
         "人事"
       ],
-      "summary": "新社長に聞く／メタルワン／渡邉善之氏／機能重視 成長施策を加速／次期中計、北中米で案件創出へ WEB産業新聞"
+      "summary": "新社長に聞く／メタルワン／渡邉善之氏／機能重視 成長施策を加速／次期中計、北中米で案件創出へ WEB産業新聞",
+      "source_count": 1
     },
     {
       "id": "c42781e477aee283",
@@ -5734,6 +5815,32 @@
         "資源"
       ],
       "summary": "金属資源グループ | 事業紹介 | 会社情報 | 三菱商事 Mitsubishi Corporation",
+      "source_count": 1
+    },
+    {
+      "id": "a7867b9d88bc5894",
+      "title": "Mitsubishi Corporation RtM International | プロジェクト事例 | 会社情報 | 三菱商事",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GN193aURQZWw1NjY2WmNYYVdoX3pFWWI3RVBwWFB1LUwwZ0hEZlZyTHlXUDhoZGJocWQ4VU1XSlB4ck9HNUNfUTg0ZlRyRDZETzdkaDNma1p5dzBOX0ZtQ0I5U09scFdPcTY0?oc=5",
+      "source": "Mitsubishi Corporation",
+      "published": "2024-11-07T21:26:12+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "Mitsubishi Corporation RtM International | プロジェクト事例 | 会社情報 | 三菱商事 Mitsubishi Corporation",
+      "source_count": 1
+    },
+    {
+      "id": "80157d31b8f55512",
+      "title": "Triland Metals | プロジェクト事例 | 会社情報 | 三菱商事",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kU2NYZWdoX2dOOWRlNGgxS29KWXA4aFJHY3hvVm9raHFIdmlaWVBGUlEtQ1ItMEMwTWRKMDFFcVAxNDVzMnFScFlXbXB6ZHpqdVlmb1poMjV4SkNYZGpBOHJBSmJTdVFxaTlIbWxiRkttLS1P?oc=5",
+      "source": "Mitsubishi Corporation",
+      "published": "2024-11-07T21:10:01+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "Triland Metals | プロジェクト事例 | 会社情報 | 三菱商事 Mitsubishi Corporation",
       "source_count": 1
     },
     {
@@ -5804,7 +5911,8 @@
       "tags": [
         "人事"
       ],
-      "summary": "メタルワン社長に渡邉氏 WEB産業新聞"
+      "summary": "メタルワン社長に渡邉氏 WEB産業新聞",
+      "source_count": 1
     },
     {
       "id": "a2b9e64cba9247f6",
@@ -5816,7 +5924,8 @@
         "metalone"
       ],
       "tags": [],
-      "summary": "企業統合後の「融合」と「実行」にこだわった中期事業計画策定 | 事例 | ABeam Consulting ABeam Consulting"
+      "summary": "企業統合後の「融合」と「実行」にこだわった中期事業計画策定 | 事例 | ABeam Consulting ABeam Consulting",
+      "source_count": 1
     },
     {
       "id": "265308717a8bc1b4",
@@ -5875,7 +5984,8 @@
       "tags": [
         "M&A"
       ],
-      "summary": "メタルワン、イタリア変圧器部品大手を買収 鋼材を提供 日本経済新聞"
+      "summary": "メタルワン、イタリア変圧器部品大手を買収 鋼材を提供 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "3d724c3d61808c03",
@@ -5905,7 +6015,8 @@
       "tags": [
         "DX"
       ],
-      "summary": "伊藤忠・兼松・三井物産…商社がDX・サイバーセキュリティで攻勢かける ニュースイッチ by 日刊工業新聞社"
+      "summary": "伊藤忠・兼松・三井物産…商社がDX・サイバーセキュリティで攻勢かける ニュースイッチ by 日刊工業新聞社",
+      "source_count": 1
     },
     {
       "id": "dc923a6e00c8c087",
@@ -6027,7 +6138,8 @@
       "tags": [
         "投資"
       ],
-      "summary": "スパイバーに大手商社の兼松が出資、繊維以外の用途開拓に本腰 WWDJAPAN"
+      "summary": "スパイバーに大手商社の兼松が出資、繊維以外の用途開拓に本腰 WWDJAPAN",
+      "source_count": 1
     },
     {
       "id": "10aec958c2b6bdfc",
@@ -6067,7 +6179,22 @@
         "sojitz"
       ],
       "tags": [],
-      "summary": "「双日」元社員を逮捕、前の勤務先「兼松」から営業秘密を不正持ち出しか…元同僚のＩＤ使う 読売新聞"
+      "summary": "「双日」元社員を逮捕、前の勤務先「兼松」から営業秘密を不正持ち出しか…元同僚のＩＤ使う 読売新聞",
+      "source_count": 1
+    },
+    {
+      "id": "35d1260526830ea7",
+      "title": "大手商社「双日」元社員を逮捕 前職「兼松」から機密情報を不正に持ち出した容疑",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKSllHWG1Kcjl5ZjNDT3hkSFlRci04UnhVX0xEX09LYmFtR0JZRE5aU2VHaWlHampSWVRkakVWQk5wNE5odkdiQ24zQTNRZkVhSWxzUVdja0RNM0hjWlRFTTVNOThmM1BMUUE?oc=5",
+      "source": "ITmedia",
+      "published": "2023-09-28T07:00:00+00:00",
+      "company_ids": [
+        "kanematsu",
+        "sojitz"
+      ],
+      "tags": [],
+      "summary": "大手商社「双日」元社員を逮捕 前職「兼松」から機密情報を不正に持ち出した容疑 ITmedia",
+      "source_count": 1
     },
     {
       "id": "95ea301bdced5f07",
@@ -6117,7 +6244,8 @@
         "提携",
         "海外"
       ],
-      "summary": "商社のグローバル展開 海外戦略／メタルワン 北村京介社長／市場対応型、北中米に照準／パートナー戦略、越で次の一手 WEB産業新聞"
+      "summary": "商社のグローバル展開 海外戦略／メタルワン 北村京介社長／市場対応型、北中米に照準／パートナー戦略、越で次の一手 WEB産業新聞",
+      "source_count": 1
     },
     {
       "id": "dfa72a7564ff0218",
@@ -6129,7 +6257,8 @@
         "kanematsu"
       ],
       "tags": [],
-      "summary": "老舗商社の兼松が描く「地球低軌道ビジネス」とは--Sierra SpaceやBlue Originと商用宇宙ステーション利活用へ CNET Japan"
+      "summary": "老舗商社の兼松が描く「地球低軌道ビジネス」とは--Sierra SpaceやBlue Originと商用宇宙ステーション利活用へ CNET Japan",
+      "source_count": 1
     },
     {
       "id": "b9e815d1779ff135",
@@ -6208,7 +6337,8 @@
       "tags": [
         "M&A"
       ],
-      "summary": "商社の兼松､一気に2社の子会社TOBに動いた当然の背景 四季報オンライン"
+      "summary": "商社の兼松､一気に2社の子会社TOBに動いた当然の背景 四季報オンライン",
+      "source_count": 1
     },
     {
       "id": "0ab51ccdfeefcb29",
@@ -6327,7 +6457,8 @@
         "kanematsu"
       ],
       "tags": [],
-      "summary": "兼松 老舗商社、再建の内幕 四季報オンライン"
+      "summary": "兼松 老舗商社、再建の内幕 四季報オンライン",
+      "source_count": 1
     },
     {
       "id": "884836ca7bb43e1d",
@@ -6339,7 +6470,8 @@
         "kanematsu"
       ],
       "tags": [],
-      "summary": "兼松（8020）の株価・業績・比較銘柄 四季報オンライン"
+      "summary": "兼松（8020）の株価・業績・比較銘柄 四季報オンライン",
+      "source_count": 1
     },
     {
       "id": "c1c9bfe94ed73f7c",
@@ -6369,6 +6501,19 @@
       ],
       "tags": [],
       "summary": "双日(株)【2768】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "5b6b3a27ed7d4b65",
+      "title": "三菱商事(株)【8058】：株価・株式情報（夜間PTS含む）",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rU2tUeVVaaTRLTFk2WnpMTDBBS0FacXRCVkVZR0cwTm5vNjcwa3ZETVRHVFZjV1dZYkZWY1Ewdi1jYUVBZ1lRUjd3cEYzNW04VWc?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2021-03-22T11:57:47+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "三菱商事(株)【8058】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス",
       "source_count": 1
     },
     {
@@ -6422,7 +6567,8 @@
         "kanematsu"
       ],
       "tags": [],
-      "summary": "本社移転についてのお知らせ 兼松株式会社"
+      "summary": "本社移転についてのお知らせ 兼松株式会社",
+      "source_count": 1
     },
     {
       "id": "7b1032093808ef98",
@@ -6474,7 +6620,8 @@
         "sumitomo"
       ],
       "tags": [],
-      "summary": "住友商事グループとメタルワングループの国内鋼管事業統合会社 住商メタルワン鋼管設立について Sumitomo Corporation"
+      "summary": "住友商事グループとメタルワングループの国内鋼管事業統合会社 住商メタルワン鋼管設立について Sumitomo Corporation",
+      "source_count": 1
     },
     {
       "id": "4ba438a49a6279e0",
