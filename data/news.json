@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T03:40:48.158277+00:00",
+  "updated_at": "2026-11-01T10:26:09.344466+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -183,6 +183,19 @@
       "source_count": 1
     },
     {
+      "id": "71b56bd57daeb8ad",
+      "title": "三菱商事(株)【8058】：掲示板",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41MHNNbmFfMHhUVTR2NmNOSkU0VlNjMVlWMmtrcUM3UnpXOWpxN252Rmh5SlB2Vjg1bG40NVBpaDBldEFCNzVKMHlZWGU4bndUQVJ5bjVPOTVfZw?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-10-30T07:09:08+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "三菱商事(株)【8058】：掲示板 Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
       "id": "38eaa663a5465c35",
       "title": "豊田通商、バングラ子会社に追加出資＝特定子会社に、モビリティ事業拡大(時事通信)",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeU1kMmtDRFJVRkRCbkpVTUJoTzQzWGJxSk1XMzQ5M1UtSWZ6WHBzYmptNWNSb0pLT3FBUXBNdkF6WHN5TWdxdHF5T00xTWl4V1pqS0EwcEJxNmhzSnZ2a3VSMVZkSVRLRmJET0RkOUtqYkdyenVBVmYxVzFOWlpoVWFhTHAyRzg?oc=5",
@@ -207,6 +220,32 @@
       ],
       "tags": [],
       "summary": "電通総研、伊藤忠グループによる公開買付けに賛同を表明 ニュースメディアVOIX",
+      "source_count": 1
+    },
+    {
+      "id": "574c88a4e6c3e966",
+      "title": "豊田通商(株)【8015】：株価・株式情報（夜間PTS含む）",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PdWlSMU9fMlpVOXNkeU90SUxiOWt4bklCRzg2OXVLOUJxMkJYVmtNSlg2X28wbm5JbzAwdXN3T3RYRk1TY0V6d003V3phX0JRc2c?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-10-30T07:00:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "豊田通商(株)【8015】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "e31dee27c19245d0",
+      "title": "双日(株)【2768】：掲示板",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Na1Z5OFRjSy1NSXNLTlREeG82Uk5XTnAzRGZ1cktCUjR2SW9wVDd5WnJZb2E1QzM4QlRlQ3RMVERFb0xCZmZoanR0R0xmVWp6b05TeU9iT2lOUQ?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-10-30T07:00:00+00:00",
+      "company_ids": [
+        "sojitz"
+      ],
+      "tags": [],
+      "summary": "双日(株)【2768】：掲示板 Yahoo!ファイナンス",
       "source_count": 1
     },
     {
@@ -504,6 +543,21 @@
       "source_count": 1
     },
     {
+      "id": "10f02ccc788a62e5",
+      "title": "三菱商事(株)【8058】：企業情報（決算時期・代表者名・大株主情報・IR動画など）",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fUFZhenhQQVh1R0wwVkN6RW5IRHdYNjJqNTEzQldkTUJKbDZKZ2dBQ25JQmZxdlJZcE9xY3lCakNxUTdQbXlmeWZQOHoyRmgwN0dseG1zdmtEZVNWMmNjdGItaU5lenJ1cG5PRUpuejNsOXdHOGc?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-10-29T10:02:26+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "決算"
+      ],
+      "summary": "三菱商事(株)【8058】：企業情報（決算時期・代表者名・大株主情報・IR動画など） Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
       "id": "fd6519d448888060",
       "title": "豊田通商が東京・八重洲に本社移転 30年度メド、名古屋本社は存続",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IcU1nZFZZVnFVOXFxWWZDaC1xQ09RNVRsZHR5WW12d1FDcTBIc2xIOGtRcFdJWWNJSk55TWoyYmlEcFJPTFZONGZ2MnE2RUxLRWpnQ2wtLUNNaGRCTkxBU1VLRFZZVjVCQmhMUg?oc=5",
@@ -539,6 +593,21 @@
       ],
       "tags": [],
       "summary": "三井物産[8031]：変更報告書 提出者：三井物産株式会社：日経会社情報DIGITAL 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "85878f26fc93c166",
+      "title": "ジェネレーションパス[3195]：伊藤忠商事株式会社とのアパレル向け機能性繊維の共同開発・販売に関する事業進捗ならびに基本合意書の契約期間延長および一部変更に関するお知らせ 2026年10月29日(適時開示) ：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5MHlHU2YtcVMyT1VnR0Q4ZGZVWF9oUHRVXzloQXVvRTVEV05zaEI1dVFMenNTVkVvd3VTWUR6QmxaaWpXamZoWE9SOTFsOFM1R19iMlAzek9kOVJ6T29lX1Q1UFBTSWowY0E?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-10-29T07:30:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "提携"
+      ],
+      "summary": "ジェネレーションパス[3195]：伊藤忠商事株式会社とのアパレル向け機能性繊維の共同開発・販売に関する事業進捗ならびに基本合意書の契約期間延長および一部変更に関するお知らせ 2026年10月29日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
       "source_count": 1
     },
     {
@@ -688,6 +757,21 @@
       "source_count": 1
     },
     {
+      "id": "d6ba0b014dcf0af7",
+      "title": "豊田通商(株)【8015】：決算情報",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GOGdWMlBFdGE2d3BqLWtvcFU3X1c5eXEwaUE3dTVBZjFadTBUNjV5bl9wb1JjT2pFa2VxdkNKeVZSckpEV0FJZGFxSFBGNXBiQ3ZieXBYaV9TY3VpZVE5dA?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-10-29T06:00:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "決算"
+      ],
+      "summary": "豊田通商(株)【8015】：決算情報 Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
       "id": "e5eda01a881e45d2",
       "title": "【マレーシア】三井物産出資のＬＧＭＳ、ＡＩ活用の５製品発表 (NNA)",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVXk4LXZ0d204SHNQc0k0dGVWdXI1dlgzc0RQb2pFSDVlWkZoTS1CZFdJMWJ5N0QxMjJCZmRyYTBwVFJab3RSQk41TVNvaUJMN3U3d1lodmFXSnZkejF3Wl8zVjUyQk12Qml4Z0NOQkdrSE5aYUgwdjktQWN3eWpobU1wVGl0bUJfMVd5UG13?oc=5",
@@ -783,7 +867,8 @@
       "tags": [
         "就活"
       ],
-      "summary": "プロシップ－続落 新リース会計基準対応「ProPlus＋」を長瀬産業が採用〔DZH 個別株情報〕(時事通信) Yahoo!ファイナンス"
+      "summary": "プロシップ－続落 新リース会計基準対応「ProPlus＋」を長瀬産業が採用〔DZH 個別株情報〕(時事通信) Yahoo!ファイナンス",
+      "source_count": 1
     },
     {
       "id": "3bd0f47e2f5bbe84",
@@ -931,6 +1016,22 @@
         "資源"
       ],
       "summary": "三菱商事、米国Copper World銅鉱山に追加投資…2029年に生産開始へ レスポンス（Response.jp）",
+      "source_count": 1
+    },
+    {
+      "id": "d45801f48014b09f",
+      "title": "半導体株から資金シフト鮮明、「日本の商社株」──今買うなら三菱商事か伊藤忠か？ 執筆 - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Ba05fUVQ1elpuZ2pWbGZHQWVla013OGIxOVd1d2JidG5ZOGktRUJ4clZzYzJ6WDZ5QjAxQWRJejVMUDdUd2ZLajJTTURLeFJDOW1MUkdieTNkZHN4U0FzWnZQU2JRVnBvM0RidjN1aDA?oc=5",
+      "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
+      "published": "2026-10-28T02:43:00+00:00",
+      "company_ids": [
+        "itochu",
+        "mitsubishi"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "半導体株から資金シフト鮮明、「日本の商社株」──今買うなら三菱商事か伊藤忠か？ 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
       "source_count": 1
     },
     {
@@ -1550,7 +1651,8 @@
       "tags": [
         "人事"
       ],
-      "summary": "シン・ＴＯＫＹＯさぬき人＝石谷誠さん（６６） 伊藤忠丸紅鉄鋼代表取締役社長 善通寺市出身 持続可能な社会支える｜四国新聞WEB朝刊 四国新聞"
+      "summary": "シン・ＴＯＫＹＯさぬき人＝石谷誠さん（６６） 伊藤忠丸紅鉄鋼代表取締役社長 善通寺市出身 持続可能な社会支える｜四国新聞WEB朝刊 四国新聞",
+      "source_count": 1
     },
     {
       "id": "06a93fcf1f2c22bd",
@@ -2346,7 +2448,8 @@
         "DX",
         "人事"
       ],
-      "summary": "伊藤忠丸紅鉄鋼、設立２５周年／石谷誠社長に聞く／業界に先駆け統合、収益トップクラスに成長／「トレード×インベストメント」で基礎収益力強化 日刊鉄鋼新聞 Japan Metal Daily"
+      "summary": "伊藤忠丸紅鉄鋼、設立２５周年／石谷誠社長に聞く／業界に先駆け統合、収益トップクラスに成長／「トレード×インベストメント」で基礎収益力強化 日刊鉄鋼新聞 Japan Metal Daily",
+      "source_count": 1
     },
     {
       "id": "e27d951d6dc06f25",
@@ -2473,7 +2576,8 @@
         "marubeni"
       ],
       "tags": [],
-      "summary": "Power Appsは「プロ開発」、kintoneは「利用者開発」──伊藤忠丸紅鉄鋼の“いいとこどり”ツール選定戦略 ビジネス+IT"
+      "summary": "Power Appsは「プロ開発」、kintoneは「利用者開発」──伊藤忠丸紅鉄鋼の“いいとこどり”ツール選定戦略 ビジネス+IT",
+      "source_count": 1
     },
     {
       "id": "4286af91dd12ab3e",
@@ -3574,7 +3678,8 @@
         "benichu"
       ],
       "tags": [],
-      "summary": "低炭素鉄鋼製品の開発・販売支援サービスを通じた非化石電力鋼材の販売開始 東京ガス"
+      "summary": "低炭素鉄鋼製品の開発・販売支援サービスを通じた非化石電力鋼材の販売開始 東京ガス",
+      "source_count": 1
     },
     {
       "id": "ead2bb45b1aa0ddc",
@@ -3588,7 +3693,8 @@
       "tags": [
         "決算"
       ],
-      "summary": "鉄鋼主力商社9社 前期、6社が営業減益 国際市場の混乱響く（日刊産業新聞） Yahoo!ニュース"
+      "summary": "鉄鋼主力商社9社 前期、6社が営業減益 国際市場の混乱響く（日刊産業新聞） Yahoo!ニュース",
+      "source_count": 1
     },
     {
       "id": "dbdb346cd8b44717",
@@ -3889,7 +3995,8 @@
         "人事",
         "海外"
       ],
-      "summary": "ひと／中国／伊藤忠丸紅鉄鋼中国支社長に就任した／小野真氏／マツダ関連、業務・実務向上最優先 日刊鉄鋼新聞 Japan Metal Daily"
+      "summary": "ひと／中国／伊藤忠丸紅鉄鋼中国支社長に就任した／小野真氏／マツダ関連、業務・実務向上最優先 日刊鉄鋼新聞 Japan Metal Daily",
+      "source_count": 1
     },
     {
       "id": "9bbfe1179b4b99be",
@@ -3921,7 +4028,8 @@
         "DX",
         "人事"
       ],
-      "summary": "伊藤忠丸紅鉄鋼／石谷社長「稼ぐ力は変わらず」／田代副社長「ホルムズ解放なら油井管バブルも」 日刊鉄鋼新聞 Japan Metal Daily"
+      "summary": "伊藤忠丸紅鉄鋼／石谷社長「稼ぐ力は変わらず」／田代副社長「ホルムズ解放なら油井管バブルも」 日刊鉄鋼新聞 Japan Metal Daily",
+      "source_count": 1
     },
     {
       "id": "931769e5fd5f9716",
@@ -4047,7 +4155,8 @@
         "marubeni"
       ],
       "tags": [],
-      "summary": "#47 | Adubos Real | Scope | 丸紅株式会社 Marubeni Corporation"
+      "summary": "#47 | Adubos Real | Scope | 丸紅株式会社 Marubeni Corporation",
+      "source_count": 1
     },
     {
       "id": "3b953cb0897bfb77",
@@ -4105,6 +4214,19 @@
         "新規事業"
       ],
       "summary": "法人向け中古IT機器の再流通および第三者保守事業への参入について 伊藤忠商事株式会社",
+      "source_count": 1
+    },
+    {
+      "id": "09065da17847f4d2",
+      "title": "「Any Wear, Anywhere」事業をコスモスホテルマネジメントへ承継 | 住友商事",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15OUtYNk9RSlljVno2R09QSDhpM1lyNWR0dm8tTmpaa1NpdVRWUWNjbTVqazVaa2J6X09rLU8wU2JyNFlzYUxncFUtaHZqOXJ4NkN0Zl9mZ2JTQU5hZTFBZVRRc2lIZjQwVGJ5X01ta1VXUkdl?oc=5",
+      "source": "Sumitomo Corporation",
+      "published": "2026-04-21T07:00:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "「Any Wear, Anywhere」事業をコスモスホテルマネジメントへ承継 | 住友商事 Sumitomo Corporation",
       "source_count": 1
     },
     {
@@ -4252,7 +4374,8 @@
         "DX",
         "人事"
       ],
-      "summary": "新執行役員プロフィール／４月１日就任／伊藤忠丸紅鉄鋼／石黒基二郎氏／いしぐろ・もとじろう（米州支配人代行）／デトロイトを本拠に 日刊鉄鋼新聞 Japan Metal Daily"
+      "summary": "新執行役員プロフィール／４月１日就任／伊藤忠丸紅鉄鋼／石黒基二郎氏／いしぐろ・もとじろう（米州支配人代行）／デトロイトを本拠に 日刊鉄鋼新聞 Japan Metal Daily",
+      "source_count": 1
     },
     {
       "id": "6b50d0717666ab93",
@@ -4268,7 +4391,8 @@
         "DX",
         "人事"
       ],
-      "summary": "新執行役員プロフィール／４月１日就任／伊藤忠丸紅鉄鋼／田中英一氏／たなか・えいいち（鋼材第三本部長）／電磁鋼板営業を長く経験 日刊鉄鋼新聞 Japan Metal Daily"
+      "summary": "新執行役員プロフィール／４月１日就任／伊藤忠丸紅鉄鋼／田中英一氏／たなか・えいいち（鋼材第三本部長）／電磁鋼板営業を長く経験 日刊鉄鋼新聞 Japan Metal Daily",
+      "source_count": 1
     },
     {
       "id": "fd690967219bf5f7",
@@ -4430,7 +4554,8 @@
         "投資",
         "脱炭素"
       ],
-      "summary": "伊藤忠丸紅鉄鋼出資のアイルランド社・マークＣＣＯ／「浮体式洋上風力のコスト、リスク低減」／係留アンカー製造・施工で日本のサプライチェーン活用 日刊鉄鋼新聞 Japan Metal Daily"
+      "summary": "伊藤忠丸紅鉄鋼出資のアイルランド社・マークＣＣＯ／「浮体式洋上風力のコスト、リスク低減」／係留アンカー製造・施工で日本のサプライチェーン活用 日刊鉄鋼新聞 Japan Metal Daily",
+      "source_count": 1
     },
     {
       "id": "9b10f7f9389e34e0",
@@ -4445,6 +4570,21 @@
         "DX"
       ],
       "summary": "住商メタルワン鋼管／大阪で安全大会 日刊鉄鋼新聞 Japan Metal Daily",
+      "source_count": 1
+    },
+    {
+      "id": "62e3031dfc0f393e",
+      "title": "豊田通商、JOGMECのナミビアにおけるレアアース開発事業に参画",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iZ1oxWi13NTd5NzR2VG5FSVRVaTNwUzJKZTA3RlRZOFhOZnhKazNZTlVuT0xWU2FWTFJQaWE3YlhoNm8zMnE1cFk3UTVMeTVHNTZocEV5aWtwZjJBX0NEdUtwRDRCbUl0R3FZU1pn?oc=5",
+      "source": "豊田通商株式会社",
+      "published": "2026-03-18T07:00:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "豊田通商、JOGMECのナミビアにおけるレアアース開発事業に参画 豊田通商株式会社",
       "source_count": 1
     },
     {
@@ -4521,7 +4661,8 @@
       "tags": [
         "人事"
       ],
-      "summary": "伊藤忠丸紅住商テクノスチール社長に平川氏 WEB産業新聞"
+      "summary": "伊藤忠丸紅住商テクノスチール社長に平川氏 WEB産業新聞",
+      "source_count": 1
     },
     {
       "id": "e0b8a30d73bce768",
@@ -4537,6 +4678,23 @@
         "食料"
       ],
       "summary": "ベトナムVINATEA社との戦略的パートナーシップ協定締結について 【丸紅食料】 Marubeni Corporation",
+      "source_count": 1
+    },
+    {
+      "id": "8bdced160002104a",
+      "title": "伊藤忠丸紅鉄鋼のタイ・ＰＳＰＣ／能率協会「グッドファクトリー賞」で表彰式／石谷社長「ものづくりへさらに貢献」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDdHNCR3RXcW1IMDJRcHVYWUVUMDZuTlVWWTJWMWM0eVVfVXVoendzZTZ1MTdyTkZmRkdXeFlnbVl0bHlmUlFUSmFiVlkwbHZZN1gxcHVadVlKU2ZhSFE?oc=5",
+      "source": "日刊鉄鋼新聞 Japan Metal Daily",
+      "published": "2026-03-11T07:00:00+00:00",
+      "company_ids": [
+        "benichu",
+        "marubeni"
+      ],
+      "tags": [
+        "DX",
+        "人事"
+      ],
+      "summary": "伊藤忠丸紅鉄鋼のタイ・ＰＳＰＣ／能率協会「グッドファクトリー賞」で表彰式／石谷社長「ものづくりへさらに貢献」 日刊鉄鋼新聞 Japan Metal Daily",
       "source_count": 1
     },
     {
@@ -4686,6 +4844,21 @@
         "DX"
       ],
       "summary": "株式会社メタルワンに財務管理システム「ConSeek TM」を導入｜プレスルーム 日鉄ソリューションズ",
+      "source_count": 1
+    },
+    {
+      "id": "860f4474439bf801",
+      "title": "株式会社メタルワンに財務管理システム「ConSeek TM」を導入",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5Bd0hrNlprQmhhNVAxUGUxZ0E2U1dGTVZLcldYZGZyR0g0d0hZTExSN1EzNFhYYy14bW9OV1dkd19oZEE?oc=5",
+      "source": "Digital PR Platform",
+      "published": "2026-02-25T08:00:00+00:00",
+      "company_ids": [
+        "metalone"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "株式会社メタルワンに財務管理システム「ConSeek TM」を導入 Digital PR Platform",
       "source_count": 1
     },
     {
@@ -4977,6 +5150,19 @@
       "source_count": 1
     },
     {
+      "id": "70ba96937402e3c7",
+      "title": "気候変動特設サイト | 住友商事",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nbGVieEd1bTVZR0VNR0k1ZTFIcjlxZERxZVpmTG14cGNMNzJ1YkJaSzVEdURTVlRBVy14dEc3WkV4bVZVMXRlVWkzVDFzYnNjRlE2dll3TnhsZ2xOakd1NmJxbw?oc=5",
+      "source": "Sumitomo Corporation",
+      "published": "2026-02-04T04:05:19+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "気候変動特設サイト | 住友商事 Sumitomo Corporation",
+      "source_count": 1
+    },
+    {
       "id": "911b3d3deddf0263",
       "title": "伊藤忠丸紅鉄鋼系元部長の詐欺事件、地面師と重なる手口 面会の「役員」は別人",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBneEV6OWEzeERmWE9jNVU0YTJ1cFFjY1dkblJqOGx0MHRtOUt3ZG50YkloQmwycjFHbndxdkoxVHI0aU9zWndxZDNxLWtWSWxEQzNyVUZKWUxSLW8wQlpyVFZiUERsLUxWa2J3Yg?oc=5",
@@ -5108,7 +5294,8 @@
       "tags": [
         "脱炭素"
       ],
-      "summary": "伊藤忠丸紅住商テクノスチールの元部長を逮捕 再エネ巡る融資金7億円詐取疑い 日本経済新聞"
+      "summary": "伊藤忠丸紅住商テクノスチールの元部長を逮捕 再エネ巡る融資金7億円詐取疑い 日本経済新聞",
+      "source_count": 1
     },
     {
       "id": "9154566d79b6123a",
@@ -5155,7 +5342,8 @@
         "DX",
         "人事"
       ],
-      "summary": "伊藤忠丸紅住商テクノスチール発足１０周年／株主祝辞／伊藤忠丸紅鉄鋼・石谷誠社長／グループ要の中核企業 日刊鉄鋼新聞 Japan Metal Daily"
+      "summary": "伊藤忠丸紅住商テクノスチール発足１０周年／株主祝辞／伊藤忠丸紅鉄鋼・石谷誠社長／グループ要の中核企業 日刊鉄鋼新聞 Japan Metal Daily",
+      "source_count": 1
     },
     {
       "id": "b351adc04f520fb9",
@@ -5772,6 +5960,21 @@
         "海外"
       ],
       "summary": "商社の経営戦略―需給・収益構造対策― 伊藤忠丸紅鉄鋼 石谷誠社長／国内流通機能見直し急ぐ／米・欧阿中東の収益基盤を拡充 WEB産業新聞",
+      "source_count": 1
+    },
+    {
+      "id": "4e541f4a2dc7e521",
+      "title": "2万社との取引を成長戦略の土台に、兼松・宮部社長が語る独自の「立ち位置」こそが強みの真意",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UVi1QUDc0YXVraEVSREktWWFaUTNhUFZ4SE02WVJQS21qcGdTVWs1SmY0UmVrSGxkM182OVlTZmZJcUlWRDJNVWNRNUpTd2c2THVBV0dR?oc=5",
+      "source": "JBpress",
+      "published": "2024-11-25T08:00:00+00:00",
+      "company_ids": [
+        "kanematsu"
+      ],
+      "tags": [
+        "人事"
+      ],
+      "summary": "2万社との取引を成長戦略の土台に、兼松・宮部社長が語る独自の「立ち位置」こそが強みの真意 JBpress",
       "source_count": 1
     },
     {
