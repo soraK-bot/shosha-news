@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T10:45:32.458155+00:00",
+  "updated_at": "2026-11-02T22:30:54.669132+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -93,6 +93,22 @@
   ],
   "articles": [
     {
+      "id": "439ccee6b05516ef",
+      "title": "三菱商事、カナダLNG子会社の49.9%をブラックストーンに16億ドルで売却へ",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mcVBEbjJ3ZVRfdUhGalVkZWlnSEJWdTBjcjc0MldlUFRHTFJlY1dCbndkZE1pT2F2eHdiQnNIc3dBTmd6ejFhWV9JWmdHeXc4TDV2MFlXcHdYS0JMbDBlc0FNVzNqdGtzRVl1eHQyc2lJMXBD?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-11-02T17:02:08+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "M&A",
+        "資源"
+      ],
+      "summary": "三菱商事、カナダLNG子会社の49.9%をブラックストーンに16億ドルで売却へ BigGo ファイナンス",
+      "source_count": 1
+    },
+    {
       "id": "1d314658083b0370",
       "title": "〔決算〕住友商事、27年3月期純利益予想を上方修正＝中東影響が想定下回る(時事通信)",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPODhPRkFGc3BrbGRrVndRSGxiNkFjOWQ2UWVMbjNGSVBHSHpva0Z5My1KRWZyazNDU2dSdkc3RDR2UUJUQmFqbU9TUXlHT0NUZDlBVUExQ29LU1ZHbDRDRWJCRk92TXhrS2gtNm1uT29RSDlSeTVRemV5dUpuWkN6b1BlbXI4amc?oc=5",
@@ -123,7 +139,7 @@
         "資源"
       ],
       "summary": "三菱商事のカナダLNG事業､ブラックストーンらが一部取得－約4900億円 TBS NEWS DIG",
-      "source_count": 1
+      "source_count": 2
     },
     {
       "id": "01dd4d6bf163b614",
@@ -194,6 +210,7 @@
       ],
       "tags": [
         "株主還元",
+        "業績予想",
         "決算"
       ],
       "summary": "決算:住友商事の純利益6700億円、27年3月期に上振れ 実質増配 日本経済新聞",
@@ -212,7 +229,7 @@
         "M&A"
       ],
       "summary": "三菱商事、カナダＬＮＧ事業の一部を米ブラックストーンに売却 約2500億円で（ロイター） Yahoo!ニュース",
-      "source_count": 1
+      "source_count": 2
     },
     {
       "id": "7a4c5283f8009652",
@@ -369,6 +386,21 @@
         "決算"
       ],
       "summary": "住友商事、通期純利益6,700億円へ上乗せ 中間15.5％増で増配も BigGo ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "7b1a213362531c9d",
+      "title": "【決算】住友商事。なんで株価下がるん？",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBbUFpckltTVlCbzcxM2wxRk80b1BaWXZXZ1BUM3NweHQtcmpvcFMxbEMxUEpqVlJuc1p4QUlhd29NbldrcDNqYUFZd3dYcXpCOVpjZGtVM1BKejV5?oc=5",
+      "source": "YouTube",
+      "published": "2026-11-02T05:22:30+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "決算"
+      ],
+      "summary": "【決算】住友商事。なんで株価下がるん？ YouTube",
       "source_count": 1
     },
     {
@@ -896,6 +928,19 @@
         "DX"
       ],
       "summary": "丸紅系、AIで駐車場の出庫時間を予測 LOGISTICS TODAY",
+      "source_count": 1
+    },
+    {
+      "id": "99b2bc98fb3e98cc",
+      "title": "ＪＦＥ商事(株)【8110】：株価・株式情報",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VekhWdU14RTBSMDNCbEpZd0owYkRaQXBHQ2pBYjFlb2RZNW4yMUs5OG5aNEFXOHJLNlZ2OF9ZMjg2dl9oeTZWd0NVZjk4eGpiWHc?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-10-30T14:59:59+00:00",
+      "company_ids": [
+        "jfeshoji"
+      ],
+      "tags": [],
+      "summary": "ＪＦＥ商事(株)【8110】：株価・株式情報 Yahoo!ファイナンス",
       "source_count": 1
     },
     {
@@ -1431,6 +1476,21 @@
       "source_count": 1
     },
     {
+      "id": "165760c79f6f5c00",
+      "title": "豊田通商(株)【8015】：企業情報（決算時期・代表者名・大株主情報・IR動画など）",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTczRPelhON2JnRkcyMUxBMjlyeTNvUG9HLW05SUxtaTlmeE95UFVWUkdlMmlJVXRqVk9pY2I0eTBoaGdsbDh4bWplUUM1SFhpS0NiT09UeDYzNnkxUkRiaVoxUFdzZ1R4eGtBVHhHWGFfakFN?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-10-29T10:02:26+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "決算"
+      ],
+      "summary": "豊田通商(株)【8015】：企業情報（決算時期・代表者名・大株主情報・IR動画など） Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
       "id": "fd6519d448888060",
       "title": "豊田通商が東京・八重洲に本社移転 30年度メド、名古屋本社は存続",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IcU1nZFZZVnFVOXFxWWZDaC1xQ09RNVRsZHR5WW12d1FDcTBIc2xIOGtRcFdJWWNJSk55TWoyYmlEcFJPTFZONGZ2MnE2RUxLRWpnQ2wtLUNNaGRCTkxBU1VLRFZZVjVCQmhMUg?oc=5",
@@ -1902,6 +1962,19 @@
         "海外"
       ],
       "summary": "三井物産出資のＬＧＭＳ、ＡＩ活用の５製品発表 NNAアジア",
+      "source_count": 1
+    },
+    {
+      "id": "47342728ca84197e",
+      "title": "JR九州と住友商事、長崎県に16メガワットの蓄電所 28年12月稼働",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HODFpcWhEV1M2aUctR2ZxU0VDNDZ1N284bFQ4SENHblVIYWRmaXBkZUF4T3l6NUdtdUF0UFZKOWdZTFBMWXlqZ0FfcUtoUmxHYmM5N285U2dpVHlyZmZjcUtqbFRwXzhXTTFDSg?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-10-28T08:13:24+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "JR九州と住友商事、長崎県に16メガワットの蓄電所 28年12月稼働 日本経済新聞",
       "source_count": 1
     },
     {
@@ -2565,6 +2638,19 @@
       "source_count": 1
     },
     {
+      "id": "1f3d72a766afdb50",
+      "title": "専門商社（製造系）業界の企業ランキング｜業界研究",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52WmVxNXVYU0xHX19XRUthUUZtZE50bGk2Q1ZYN3loNGdUSlR2cUlNeWFyQW5xbUNJWVNFUlJnX3JjV0xMSktGU2IzLUhiQWZmWF9CbW9MNkhWanUwWkVseFdQZTlBYmZMNWFn?oc=5",
+      "source": "四季報オンライン",
+      "published": "2026-10-21T07:31:32+00:00",
+      "company_ids": [
+        "benichu"
+      ],
+      "tags": [],
+      "summary": "専門商社（製造系）業界の企業ランキング｜業界研究 四季報オンライン",
+      "source_count": 1
+    },
+    {
       "id": "fce533359dfbc6b4",
       "title": "三菱商事、米銅鉱山の開発決定 総額1526億円で",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PdjhKeWR0RVktRG1sWHFMY2RHX0FnZFZCd1V3ZXp0SU92bTUtNTl1eVJXM3hqN0FDVXdQOEE5eGJ4aEtXeHZ2WDJNOEhwTU5fYjVzRHBrSmtPazZnOVhnYklqTmFHQjBMcnMyaw?oc=5",
@@ -3216,6 +3302,21 @@
         "投資"
       ],
       "summary": "伊藤忠商事の中CFO 相次ぐ大型投資「規律は緩めずリスク最小化」 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "42d468a8d5a224a2",
+      "title": "三井物産流通グループ、300社超のデータ共有アプリを「Snowflake」で刷新--20年もののシステム脱却",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TNDVQc3FjWVExRmxqaTl6UW9obG05ZmNnbFJiVkQ3T0wtdWU1NkxVQ1d1ZHhUbzltd2F0VllDQ29Xa3JpcUJqeDFBM25wNnBzbFBV?oc=5",
+      "source": "ZDNET Japan",
+      "published": "2026-10-08T07:00:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "三井物産流通グループ、300社超のデータ共有アプリを「Snowflake」で刷新--20年もののシステム脱却 ZDNET Japan",
       "source_count": 1
     },
     {
@@ -4002,6 +4103,21 @@
       "source_count": 1
     },
     {
+      "id": "95cbeeced27550c3",
+      "title": "経験を生かし、新たな挑戦へ。住友商事のキャリア採用を知るための記事4選",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWdWt1SE8tM0wxQkIwWlp3QUx5elVIVFNvYTBNbmlaUEkyaGZ4RFlIWF9JejRNNjlFaF9JaUl1S2U5bE56LS1yaTRpRjVDYkIxcUpxbm1TdFBoUXVvWXNSa2RkckdVQQ?oc=5",
+      "source": "Sumitomo Corporation",
+      "published": "2026-08-19T07:00:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "就活"
+      ],
+      "summary": "経験を生かし、新たな挑戦へ。住友商事のキャリア採用を知るための記事4選 Sumitomo Corporation",
+      "source_count": 1
+    },
+    {
       "id": "a9ff2f4594868051",
       "title": "〈Leader's Voice〉高級鋼の加工設備新設を検討 JFE商事 祖母井紀史社長",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMVFFQcTdCazZhZm1DNnlkaFhwRmcyNWhWUGo4QzdrTWlaYkR0ZFN2Z21Ecm9yN3dVMjlKYmlseWVCdmFGT0hzYWZrMG5oLUZBMjRmMFZrdHpxSExJS282ODh4UjVuSlhPMUViaQ?oc=5",
@@ -4721,6 +4837,22 @@
         "投資"
       ],
       "summary": "株主総会の模様 | IRカレンダー | 投資家情報 | 三菱商事 Mitsubishi Corporation",
+      "source_count": 1
+    },
+    {
+      "id": "b62a0aba3905a3da",
+      "title": "住商メタルワン鋼管／代取副社長に木島氏",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44NkplSmVVeTZGTS1hLVNaZVdRQmVFVzJsS08xbFU4TXBxdldiTkVER2JWUWZKWjI0aS1tX2lPS2F0VmoySU5Lc2RzRnBLVGRkV2RmWHlXVW40OEYyREE?oc=5",
+      "source": "日刊鉄鋼新聞 Japan Metal Daily",
+      "published": "2026-06-29T07:00:00+00:00",
+      "company_ids": [
+        "metalone"
+      ],
+      "tags": [
+        "DX",
+        "人事"
+      ],
+      "summary": "住商メタルワン鋼管／代取副社長に木島氏 日刊鉄鋼新聞 Japan Metal Daily",
       "source_count": 1
     },
     {
@@ -5495,6 +5627,21 @@
       "source_count": 1
     },
     {
+      "id": "90e382d16f8e28f2",
+      "title": "メタルワン、タイのステンレス鋼板加工会社PSCTHを完全子会社化",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11ZVBFR1JhX3duM1ZYNG9xVUVmTW91dkVNVXhnMWFvYnY1bGZic2FMWEtvNXZFcWhULWtFWERZdWFjdWJUVG5oQzdQUTljREZqSjNsVHBfVU9zbUVobnN3?oc=5",
+      "source": "レスポンス（Response.jp）",
+      "published": "2026-04-03T07:00:00+00:00",
+      "company_ids": [
+        "metalone"
+      ],
+      "tags": [
+        "M&A"
+      ],
+      "summary": "メタルワン、タイのステンレス鋼板加工会社PSCTHを完全子会社化 レスポンス（Response.jp）",
+      "source_count": 1
+    },
+    {
       "id": "61727846bae2a69d",
       "title": "鉄鋼関連企業が入社式／住商メタルワン鋼管／新人２１人が仲間入り",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0Y21tRnRYSkhrV1JLUzRwZFJzRGRvYVk1TU54UWJuNzNWN3M2YzZtdG4wV29sOTdHMWdhdDUxYlZ0X0hGYmJUSkJNS1ZpQk85VzZtLXlPTzZHMlVpUmc?oc=5",
@@ -5935,6 +6082,19 @@
       "source_count": 1
     },
     {
+      "id": "0c57708b75272800",
+      "title": "JFE商事、ダッカに駐在員事務所開設",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBpTVJ0dl9QS1RyYUNZUmpFUWVxZlZVc1pGbHRkdGs2aFFoVVpmbTdjS3NudnU0Mlp4amdicXNlQ01MM0ZPb1BNdA?oc=5",
+      "source": "LOGISTICS TODAY",
+      "published": "2026-03-10T07:00:00+00:00",
+      "company_ids": [
+        "jfeshoji"
+      ],
+      "tags": [],
+      "summary": "JFE商事、ダッカに駐在員事務所開設 LOGISTICS TODAY",
+      "source_count": 1
+    },
+    {
       "id": "b1d8d92fdf32c83d",
       "title": "「健康経営銘柄2026」に4年連続5度目の選定 ～「健康経営優良法人（ホワイト500）」にも9年連続で認定～",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MeVRiNzVSRzdMWjZXaENKVVpUS0ZFZTZCY3RpU3M0VGk3NlFMV1M5ZVF3c0JYc3ByTU54UmFTYVJRcGpvc3BQVlVaSWR6clAxNTNSUndDLWt1SUVxcG9iZlROdw?oc=5",
@@ -6368,6 +6528,22 @@
         "人事"
       ],
       "summary": "商社の経営戦略 ―事業・人財ポートフォリオ―／メタルワン 渡邉善之社長／重点領域・レイヤー二軸で／大胆な事業創造できる人財育成 WEB産業新聞",
+      "source_count": 1
+    },
+    {
+      "id": "733d1e6a204f2985",
+      "title": "伊藤忠丸紅鉄鋼系元部長、3億円詐取疑いで再逮捕 再エネ融資巡り",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtRGVEMmlHaWRqcGpQNG1HX3lQRE0wdlVNRWNfd1dQaThCREhuak1jNzd4S0pGMFBBSVhadldXRVZoR200aDVYcVNVaDdHQm9OeTZGTWVvcUJWVEpaUlFaTFpzVVp5dElnNWdsTA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-02-04T08:00:00+00:00",
+      "company_ids": [
+        "benichu",
+        "marubeni"
+      ],
+      "tags": [
+        "脱炭素"
+      ],
+      "summary": "伊藤忠丸紅鉄鋼系元部長、3億円詐取疑いで再逮捕 再エネ融資巡り 日本経済新聞",
       "source_count": 1
     },
     {
