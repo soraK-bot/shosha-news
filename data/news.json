@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T22:25:25.379142+00:00",
+  "updated_at": "2026-11-02T03:43:55.675757+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -93,6 +93,185 @@
   ],
   "articles": [
     {
+      "id": "8714a858584a882a",
+      "title": "「死角から近づいてくる車」を見抜けるってマジ？ ヒヤリハット19%減！ 見通しの悪い交差点で何が起きているのか",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VYjdONlM2UGEtRzU0SXNRUDI1QWRpQndiaVR6TVkwTWNoem9UdGMwN0xuNzNHNzlVZVVUM3ZDVUJBcmw5TnFxMWdBeE9VU2ducUIySjV3MHpWY3J3NGR1ZHNsZ240dU9TNW44UGlB?oc=5",
+      "source": "au Webポータル",
+      "published": "2026-11-02T02:51:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "業績予想"
+      ],
+      "summary": "「死角から近づいてくる車」を見抜けるってマジ？ ヒヤリハット19%減！ 見通しの悪い交差点で何が起きているのか au Webポータル",
+      "source_count": 1
+    },
+    {
+      "id": "1e4e816f13d89e54",
+      "title": "グレーターチャイナ及びASEANの地域統括会社を設立",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRUzZhR2xrcHFudGkwZWNpNGxPSUtaTjlRNTV6VXJDZVNVRjdiY1dtM19XbUhYRGVHS1Q3U1NsS0VnVjBXbjFibDlMdV9laWk0NkpicThBVi1TTFU?oc=5",
+      "source": "共同通信PRワイヤー",
+      "published": "2026-11-02T02:30:00+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [
+        "提携"
+      ],
+      "summary": "グレーターチャイナ及びASEANの地域統括会社を設立 共同通信PRワイヤー",
+      "source_count": 1
+    },
+    {
+      "id": "fb51ddfd7dee7c1e",
+      "title": "住友商事とSCSK、SDVデジタルエンジニアリングサービスの提供を開始",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MQ0lnczF1cHR2bjhnMnFaOHFTSVBKVTZDeXVqTzhJZmtyazN0dzBWYVExZ3JfT3c4ekpoMG5saUJQdHcwbl9MQ0lVOVF4X1JlVmZzWnRtOVpsdWo3UjJkQVpOTzRXTUpnbV9OdA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-02T02:28:55+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "住友商事とSCSK、SDVデジタルエンジニアリングサービスの提供を開始 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "cc9888c5865ad297",
+      "title": "三井物産都市開発 仙台市で物流施設開発用地を取得、２９年１月竣工へ｜物流ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fN3VfOGIzWVcyUFl1ckIzeGxKSUNxTzdYcE9MTlh1ZGkyQU1lS1MyeElEMzZtdURXVDRQRjMxb3djOGV4TEhTNnJQdzBMQQ?oc=5",
+      "source": "物流ウィークリー",
+      "published": "2026-11-02T02:13:53+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "三井物産都市開発 仙台市で物流施設開発用地を取得、２９年１月竣工へ｜物流ニュース 物流ウィークリー",
+      "source_count": 1
+    },
+    {
+      "id": "302721a958d25061",
+      "title": "三菱商事都市開発がナウキャストのAIツール導入、不動産DXを加速",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LQ1BhTC1CMk14R05HaVR2R0lRVU16eEZjZzdVd05PWnlvblNweXQ1bWNPSEM1Mk41Z25ESzhDUmpSenEzYW9IZnlFNTlzZjRzRFlz?oc=5",
+      "source": "ニュースメディアVOIX",
+      "published": "2026-11-02T02:01:49+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "三菱商事都市開発がナウキャストのAIツール導入、不動産DXを加速 ニュースメディアVOIX",
+      "source_count": 1
+    },
+    {
+      "id": "5c0598172f07294a",
+      "title": "ナウキャスト、三菱商事都市開発へ法人営業AXツール「DataLens法人営業」およびデータベースサービス「DataLens CRE営業」を提供開始",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FakwtWTlCc2lEVFczUWJUM3l4ZWZfeng3bndhd3lYRDllaktMU2dneFRVOHlVaVhTS2VHODdUVjZJbGRVdVhnWWV6QWRhdzkydUpRcFlJaHVabnVDb0JNSDc2UDRQWUdtbkE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-02T02:00:02+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "ナウキャスト、三菱商事都市開発へ法人営業AXツール「DataLens法人営業」およびデータベースサービス「DataLens CRE営業」を提供開始 PR TIMES",
+      "source_count": 1
+    },
+    {
+      "id": "65e7eac319ef75f1",
+      "title": "Ｆｉｎａｔｅｘｔホールディングス[4419]：ナウキャスト、三菱商事都市開発へ法人営業AXツール「DataLens法人営業」およびデータベースサービス「DataLens CRE営業」を提供開始 2026年11月2日(適時開示) ：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Sc0FrMHNXMGpWTkZva3M4Q1NBVzJZckpiQXBiY0ZfMHdHQ3JtNGNIanRhUmpaWDB5dllUYjFZNGlFNnhWdjBkOUFzOXdSTzU1SDc2Q1paTEhHUDZYNmJ3YV9UUWQ2VXhiZnc?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-02T02:00:00+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "Ｆｉｎａｔｅｘｔホールディングス[4419]：ナウキャスト、三菱商事都市開発へ法人営業AXツール「DataLens法人営業」およびデータベースサービス「DataLens CRE営業」を提供開始 2026年11月2日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "2aaf854041b7a27e",
+      "title": "伊藤忠商事[8001]：自己株式の取得状況に関するお知らせ 2026年11月2日(適時開示) ：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uWmRETkk2bmpoLW5rWFdzMi1ycUNlQm81Z25fQjJxWTJOT05idGp6ZVRIRU9aMUhNLVUzeVVhNmJLbGdqMW5qSzg2R0MyYkw0OEJoMzF4MzdacEpKVkhfTU1YS1FNZlZMcFE?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-01T23:50:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "投資",
+        "株主還元"
+      ],
+      "summary": "伊藤忠商事[8001]：自己株式の取得状況に関するお知らせ 2026年11月2日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "61c22503166fc25a",
+      "title": "三井物産[8031]：自己株式の取得状況（途中経過） 2026年11月2日(適時開示) ：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqdDlVT0ZTQ0ZzWUd4c0RmYzNoMkF2YjEyNUZ2am1NeWU1eE9iWXY1Y0RLOG15Snd4RWhJRXR1X2QzdlFFSEY0QW9BckJRT2xnN2Z6Rzl3SkRLa0RDOGtVTEZKXzNfX2dWT0E?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-01T23:45:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "投資",
+        "株主還元"
+      ],
+      "summary": "三井物産[8031]：自己株式の取得状況（途中経過） 2026年11月2日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "075a987aab37aea4",
+      "title": "丸紅[8002]：自己株式の取得状況に関するお知らせ 2026年11月2日(適時開示) ：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aU3NDejFoU0dpYzN5RlJURHdUUmdQV2dNaF8ybEpQUUZkcmFZWlFBcnp6TlVWU3E4NUVJaFhOa2hRNDlPRnVaYzE3NUNILXZHMF9hYzZOU1FwcG90NWVTbFcwTW5YbndYLUE?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-01T23:45:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "投資",
+        "株主還元"
+      ],
+      "summary": "丸紅[8002]：自己株式の取得状況に関するお知らせ 2026年11月2日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "db74bdde259a5143",
+      "title": "きょうの主な経済指標・スケジュール＞ＭａｂＧｅｎｅｓｉｓがＩＰＯ、住友商決算発表など(ウエルスアドバイザー)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRDJQVnJTRkphMVVybGZabkhWUEZUWm9zREZ1ZkNSZER0R0lzVk5Ia0ZKaFkwSS1ubkdMNkF5WlYtYzBpUUJ2MURRY1VGYVc0LWFFcWNPMm1nNGNXSnllbVo3ZXNYc3c5VmpWblpMZ0NUREJWbjlCLW40Vk1wcVJ6US1TRGkweTQ?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-01T22:38:12+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "決算"
+      ],
+      "summary": "きょうの主な経済指標・スケジュール＞ＭａｂＧｅｎｅｓｉｓがＩＰＯ、住友商決算発表など(ウエルスアドバイザー) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "450940c945738a15",
+      "title": "豊田通商、サステナ材普及へセミナー開催",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtOHpXMHc4WWc3S3MwOVdfd2tJT2ZfaXZvTTRzVVhmcjlKdDVzNVVzSkVWUzBCWHNPTlp5WHoxeldRMjM1RmhJV192LV9JUTQyV3dN?oc=5",
+      "source": "化学工業日報 電子版",
+      "published": "2026-11-01T20:03:08+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "サステナ"
+      ],
+      "summary": "豊田通商、サステナ材普及へセミナー開催 化学工業日報 電子版",
+      "source_count": 1
+    },
+    {
       "id": "4402f74dc4e61515",
       "title": "豊田通商、バングラの連結子会社に追加出資",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE44OHRkUm1kTXdOX3pkNWllMmwyNU1TOEU4eTNFcU5MWm41MGtnSEZSVEdpX1ZOQ1ZGTGdKR0dxUDVVX0ZWUHc?oc=5",
@@ -119,6 +298,35 @@
       ],
       "tags": [],
       "summary": "【S/Jリーグ2026-27】BIPROGY、トナミ運輸が３−０で制し2連勝！豊田通商は今季の初白星を獲得！＜横手大会・2日目／男子結果＞ BADMINTON SPIRIT",
+      "source_count": 1
+    },
+    {
+      "id": "806601eeb6b0d80d",
+      "title": "【売買】宮城のイオンモールで三井物産デジタルがSTO、取得価格は240億円",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80ekFxSm1za1VBajVwbHl2MnBhdzFNU1M2NEFtZkNlOURUYmJJWFNQalVGVk5xekVPUVF5Qnd0RXBEbVZ4eHRhZGJtRUVWTkJVWkRhdGE4eTZsdG9oSm1YM0tn?oc=5",
+      "source": "日経不動産マーケット情報",
+      "published": "2026-11-01T07:06:09+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "DX",
+        "投資"
+      ],
+      "summary": "【売買】宮城のイオンモールで三井物産デジタルがSTO、取得価格は240億円 日経不動産マーケット情報",
+      "source_count": 1
+    },
+    {
+      "id": "c6eb5a66f784455f",
+      "title": "【移転】八重洲一丁目北地区再開発に東京本社、豊田通商",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qSnoyb2FMX1pxV2pSU2Y1SmZveTlGTXNpMlAxbVA2cC00ZC1WRTVrWlNlWDBSdEROeXk4Z19PQUhMUndiWXU5OFNfWHJpVTVDOWM0Q0Q2Tlg5Ty1uTWI1TDN3?oc=5",
+      "source": "日経不動産マーケット情報",
+      "published": "2026-11-01T03:01:17+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "【移転】八重洲一丁目北地区再開発に東京本社、豊田通商 日経不動産マーケット情報",
       "source_count": 1
     },
     {
@@ -150,6 +358,19 @@
         "決算"
       ],
       "summary": "豊田通商 2026年9月中間決算【会見全文】：記者会見録 中日BIZナビ",
+      "source_count": 1
+    },
+    {
+      "id": "5eb6d212c23d6bfe",
+      "title": "【開発】沖縄県庁そばに200室のホテル、丸紅都市開発など3社",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Mamx2OWl0ZGM4VFl2eXV1aUpaaUlaR0k2SjF2QXdmLXZWT1ptcjRhWUZiejgwUmwzWkF0U2QyWEJ4cHlIMU5xazZHX0ExOGxudzFfWDFlNEM1Rm9VbjE1QmtB?oc=5",
+      "source": "日経不動産マーケット情報",
+      "published": "2026-10-31T03:21:53+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "【開発】沖縄県庁そばに200室のホテル、丸紅都市開発など3社 日経不動産マーケット情報",
       "source_count": 1
     },
     {
@@ -289,6 +510,34 @@
       ],
       "tags": [],
       "summary": "双日(株)【2768】：株つぶやき Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "8b2da42429a4d4bc",
+      "title": "三井物産(株)【8031】：現物信用売買内訳時系列",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HUFY3OV9PdVVtekdINi1BRFV3NEFaYzJnZW5MUWdFeEY1ZnBianVqMWZfUjlUYms5S3BBeHlCVzY3bDNNLXFhaXFieGlNamRhZUVxT3NrWUVyTVFienpj?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-10-30T07:00:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "三井物産(株)【8031】：現物信用売買内訳時系列 Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "d475a1de3cfc775a",
+      "title": "丸紅(株)【8002】：今の株価の理由は？値動きの背景をAIが解説",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94M3NCN3B4aktIMXhJWUZncEY3VUNlZTNUVzNwenJqUWhIX3BqNlJHLWZkd0FXQ1hSY0NERWU5Zng5cU5nLThQa1BDRkYwbVdObllWYlh4b2lTaHhYbU00?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-10-30T06:56:31+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "丸紅(株)【8002】：今の株価の理由は？値動きの背景をAIが解説 Yahoo!ファイナンス",
       "source_count": 1
     },
     {
@@ -742,6 +991,21 @@
       "source_count": 1
     },
     {
+      "id": "c2b67593e75e0dfa",
+      "title": "長瀬産業が「ProPlus＋」と「Steward」を採用し新リース会計基準に対応する理由",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsSmxheTl1YXZkWWNSVHFCaUtsVjFMdUthUlI3TS1qOXF2YUJDT0dLU2NrUTNqMUc2NHU4NVFhcXhSU0hubVBZS3BOdTVLcXNsR3dGTF94TDdjQWJqRERhTjA3dzFMYkhQMlN4Wk1R?oc=5",
+      "source": "ニュースメディアVOIX",
+      "published": "2026-10-29T06:14:41+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [
+        "就活"
+      ],
+      "summary": "長瀬産業が「ProPlus＋」と「Steward」を採用し新リース会計基準に対応する理由 ニュースメディアVOIX",
+      "source_count": 1
+    },
+    {
       "id": "46eb25b7e39003f4",
       "title": "東京本社を移転～多様なパートナーとの接点を広げ、新たな価値創造を加速する拠点へ～ | 豊田通商株式会社",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qTHI4UUo2SnFqc1BNSW5SeU1HRmtSYTgwdkx1Z09WT01hWldQazZFWm9HZzZaTjR2ankxOFFuU09DM2E0ZFlRTFpKdHRib0xTQUYyZzZDYndxT0dDVHZLTWFLT2tMSWVKQWE1OGdB?oc=5",
@@ -855,6 +1119,21 @@
         "決算"
       ],
       "summary": "豊田通商(株)【8015】：決算情報 Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "0eb37ae04ea713d2",
+      "title": "長瀬産業が選んだ新リース会計基準対応の最適解「ProPlus＋」と「Steward」の連携効果",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNFNRRm9LU1h3SDNISGwxd3JGN1ZFNWFPM0xPbVNfS1hPNWhLbzJqQmUyYVY1V3A1Uzl5SFlOeVhvZ29EVXBCd09XSGMyTkFrTjl3Q3lpTkI5Nl9vckIzRjJyVmRSS3U3Vnk5QXJYOXJHMWtHTzhDaVp1ZDJMOTVmelphcWpsZw?oc=5",
+      "source": "ニュースメディアVOIX",
+      "published": "2026-10-29T05:25:50+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [
+        "提携"
+      ],
+      "summary": "長瀬産業が選んだ新リース会計基準対応の最適解「ProPlus＋」と「Steward」の連携効果 ニュースメディアVOIX",
       "source_count": 1
     },
     {
@@ -1247,6 +1526,21 @@
       "source_count": 1
     },
     {
+      "id": "d9ed3acffda4fc44",
+      "title": "東邦ガス・豊田通商、ブラジルでバイオガス生産／サトウキビ残渣を活用 –",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YNjFvX2lDTGNUTEJQVmp2aU1WMWNHUHJaZ1puYmxzWFlpNldvZDh6LTdCWU85Y3ItSjUyN1VsdWVlZmZMbkpFSzhQQUJEYkxjejg2NS1USQ?oc=5",
+      "source": "電気新聞ウェブサイト",
+      "published": "2026-10-27T14:29:27+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "海外"
+      ],
+      "summary": "東邦ガス・豊田通商、ブラジルでバイオガス生産／サトウキビ残渣を活用 – 電気新聞ウェブサイト",
+      "source_count": 1
+    },
+    {
       "id": "bfaf492c5f28dcc1",
       "title": "伊藤忠商事、IAGのエンジン整備会社に出資へ 少数株主として参画",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4d2laaFhsZHBvdXBFMnR4aE5OamNPTW9oRV9fQUdXOWpUX3N4bE5wN1pyNnRGWkxSZThGOEE2RDliX2lsNWNyN2NrX2k5UF9mOWxxdGc3cw?oc=5",
@@ -1328,7 +1622,8 @@
       "tags": [
         "DX"
       ],
-      "summary": "MIRAI LAB PALETTEが「FCAJ AWARDフューチャーセンター賞」を受賞 Sumitomo Corporation"
+      "summary": "MIRAI LAB PALETTEが「FCAJ AWARDフューチャーセンター賞」を受賞 Sumitomo Corporation",
+      "source_count": 1
     },
     {
       "id": "59097c8dd018db71",
@@ -3893,6 +4188,25 @@
       "source_count": 1
     },
     {
+      "id": "a41824b9a512b8f8",
+      "title": "日本製鉄、ＵＳスチール買収から１年／鉄鋼商社、米国展開を強化／４社が支店・事務所新設／伊藤忠丸紅鉄鋼は薄板加工で投資",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKUVctOVpaeVJhTXptWVlDY01GdnVTVFpVbXl4S3NmZnBLeEJpd3ptWldYa2pHWWE2VFpGQ2NlQWNlSFNnblRUQmRtcVdmRnVZUnUyY0ZmVnBEbEV0Y0E?oc=5",
+      "source": "日刊鉄鋼新聞 Japan Metal Daily",
+      "published": "2026-06-19T07:00:00+00:00",
+      "company_ids": [
+        "benichu",
+        "marubeni"
+      ],
+      "tags": [
+        "DX",
+        "M&A",
+        "投資",
+        "海外"
+      ],
+      "summary": "日本製鉄、ＵＳスチール買収から１年／鉄鋼商社、米国展開を強化／４社が支店・事務所新設／伊藤忠丸紅鉄鋼は薄板加工で投資 日刊鉄鋼新聞 Japan Metal Daily",
+      "source_count": 1
+    },
+    {
       "id": "a1920e2a0ed456d7",
       "title": "米国における天然ガス開発・生産事業会社EagleRidge社の完全子会社化について",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtTC1PSVRQWXBvMzRhMnVkd19uV2hxMUVXTmdzVWFRS0t5MUtXNUVxZGdub1M5VFk1N0RFcTRndU1NUjF3OG9KSlNfbUVncUVTM1I4WmJ1cF9KR2FIbURwRXFJUGp3eVU?oc=5",
@@ -4886,6 +5200,21 @@
       "source_count": 1
     },
     {
+      "id": "d38cc86b812c96ec",
+      "title": "【勝ち組？】兼松の就職偏差値･難易度と平均年収の企業研究【激務？やばい？】",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIWlNtOUV4TDM1bHJFY1NfZGlTck5SSUtRNGZuTXEtYzFoMy1yYlMtLVpCcjlmNWJSTWZkQnZTVnJ6SUd3M3pzeHlLVGhvaFR2d2tYX000MA?oc=5",
+      "source": "就職偏差値.com",
+      "published": "2026-03-16T07:00:00+00:00",
+      "company_ids": [
+        "kanematsu"
+      ],
+      "tags": [
+        "就活"
+      ],
+      "summary": "【勝ち組？】兼松の就職偏差値･難易度と平均年収の企業研究【激務？やばい？】 就職偏差値.com",
+      "source_count": 1
+    },
+    {
       "id": "84d5a1db807510db",
       "title": "なぜ今、兼松エレクトロニクス（8096）なのか――オラクル製品の国内有力ディストリビューターが、AI特需の陰で静かに動き始めている｜日本個別株デューデリジェンスセンター",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PSV9jbTluV2RBTVI5UUcxbHZrUlB5UmJqZ0xHY3VVYjdfRFg3LTFQVllaZ0RKMmM1NE9wQnM5Tzg4M0kxRnNQbUJCNFhCb0pvemdZWVZ3MHhNM0E?oc=5",
@@ -5368,6 +5697,21 @@
         "海外"
       ],
       "summary": "半導体の高純度化学品製造…長瀬産業、中国に新会社の狙い ニュースイッチ by 日刊工業新聞社",
+      "source_count": 1
+    },
+    {
+      "id": "dd4d4baf9e7bd5b5",
+      "title": "伊藤忠商事(株)【8001】：今の株価の理由は？値動きの背景をAIが解説",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45VUdkaVA1ZURmNk5mclBtUkZhTkMzenhiQ0dOTkE1OE01T3BXVHhYUWQtdDkxS1BkcVZVVkVDVzlMSHhxenFEdHNMWnB5eWptcHZYZWpnZFFrdEJDQzFr?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-02-16T09:06:16+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "伊藤忠商事(株)【8001】：今の株価の理由は？値動きの背景をAIが解説 Yahoo!ファイナンス",
       "source_count": 1
     },
     {
