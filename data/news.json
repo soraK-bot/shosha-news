@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T03:43:55.675757+00:00",
+  "updated_at": "2026-11-02T10:45:32.458155+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -92,6 +92,503 @@
     "就活"
   ],
   "articles": [
+    {
+      "id": "1d314658083b0370",
+      "title": "〔決算〕住友商事、27年3月期純利益予想を上方修正＝中東影響が想定下回る(時事通信)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPODhPRkFGc3BrbGRrVndRSGxiNkFjOWQ2UWVMbjNGSVBHSHpva0Z5My1KRWZyazNDU2dSdkc3RDR2UUJUQmFqbU9TUXlHT0NUZDlBVUExQ29LU1ZHbDRDRWJCRk92TXhrS2gtNm1uT29RSDlSeTVRemV5dUpuWkN6b1BlbXI4amc?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-02T08:53:30+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "業績予想",
+        "決算",
+        "海外"
+      ],
+      "summary": "〔決算〕住友商事、27年3月期純利益予想を上方修正＝中東影響が想定下回る(時事通信) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "acb064784b277260",
+      "title": "三菱商事のカナダLNG事業､ブラックストーンらが一部取得－約4900億円",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BY1ZSRVhObDZFTGtwalhvam5CV25XeWtoTm8yMGFReFd3T2pNSDBaSDVGUXdyeUVDNWc4UHQ0aVhhQVZoRmlLU1NBdmdLVGVIY0FpRlFEeGVYS2lwY2d6OUIzdW9RekEwcTJfODg0VEd4bjdL?oc=5",
+      "source": "TBS NEWS DIG",
+      "published": "2026-11-02T08:34:00+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "投資",
+        "資源"
+      ],
+      "summary": "三菱商事のカナダLNG事業､ブラックストーンらが一部取得－約4900億円 TBS NEWS DIG",
+      "source_count": 1
+    },
+    {
+      "id": "01dd4d6bf163b614",
+      "title": "業績修正（取引時間中）－京セラ、住友商事、住友化学、マクニカＨＤなど(トレーダーズ・ウェブ)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRURBSUVad2I4M0xsTXBRM2ppNncwTV8wa0JIUUFERjBVd2pNT093SlJtZW5pejh0TTdyWTFVaTdsRjJsOTRZS2JXY2R3dHNLQUFlUXlIT011aVZ5aHdtMFh2cEV1U2VnR2ozMDZFWGZMMUpDTGRQckc5UkJmNnVKUFhlbWlkYkE?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-02T08:33:02+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "業績修正（取引時間中）－京セラ、住友商事、住友化学、マクニカＨＤなど(トレーダーズ・ウェブ) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "430fd059ea5ce5a1",
+      "title": "【今週発表の注目決算】トヨタ、ソニーグループ、任天堂、三菱重工、三菱商事｜決算ウォッチ",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oekxFMklQSUwzcmx4TG1MMUJZdm8yUDFpMHRZa29kSlBhNjNIdzNvR1FNREZRMW40dENic3pabENxT210dTlUY1FQOC1qXzRjMzJLb25ZV3Y2SEkwTHVN?oc=5",
+      "source": "ライブドアニュース",
+      "published": "2026-11-02T08:11:42+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "決算"
+      ],
+      "summary": "【今週発表の注目決算】トヨタ、ソニーグループ、任天堂、三菱重工、三菱商事｜決算ウォッチ ライブドアニュース",
+      "source_count": 1
+    },
+    {
+      "id": "14564183f50a53c1",
+      "title": "豊田通商、バングラデシュに70億円投資 自動車販売を拡大",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDX3NaaXY2OWZLZkdjdE9MMFVnSWRmWDNNZG5pcGFkMGk4VVF1VjN0dHJiLWo4Q3VvM0lTWEpfX00xcWZKdi1Mb0pPQ2J3YWtaSWFfRGRObEl4RWNZeHltaUlnVnU3LW9IM3RvMQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-02T08:08:40+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "豊田通商、バングラデシュに70億円投資 自動車販売を拡大 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "1d78012d76869f86",
+      "title": "メタルワンの線材向けDX基盤／利用企業70社突破、27年度末までに250社目指す／受発注機能・納期調整機能、12月から順次導入",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGY1JpY1Bmc1F6UHZGQzNBeHFMNC1KeUk4Uml5S3ByTkdzUUtpemRUUmRZSFZiY042VGthalZEUW9hUHZndEdaaGN0VWtSYTk4dFhpQmNB?oc=5",
+      "source": "ニッキンONLINE",
+      "published": "2026-11-02T08:00:00+00:00",
+      "company_ids": [
+        "metalone"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "メタルワンの線材向けDX基盤／利用企業70社突破、27年度末までに250社目指す／受発注機能・納期調整機能、12月から順次導入 ニッキンONLINE",
+      "source_count": 1
+    },
+    {
+      "id": "a15e74d77bec0a28",
+      "title": "決算:住友商事の純利益6700億円、27年3月期に上振れ 実質増配",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wQ1NDTmd0NVlVaXcyRTZsY1dGdFJmSEJ5a01lbzFrUU9pOUtPel9Bem9wSGZ6QmxBLWVuQVY3c3RrOHJnYnpCaS1TYjFBdVVEdUJIWlR1OURrYThubVpsNmw2S3g5d0VEXzYyVg?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-02T07:41:11+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "株主還元",
+        "決算"
+      ],
+      "summary": "決算:住友商事の純利益6700億円、27年3月期に上振れ 実質増配 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "68ee4c8473284d71",
+      "title": "三菱商事、カナダＬＮＧ事業の一部を米ブラックストーンに売却 約2500億円で（ロイター）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TcVYyODZUZUdVdF9zNzRrQUV1WTlTbjZUY0dKbzFhdHQzN1ctNDVMek1FN2xkMGVHZHZTV01td1JXd1VkRmN2eHZpWHpqUnRWQnlIOW5EMkVJem5yWTN6S0tzSmNBQnlhdVR3Qk01bm5EN2Vab1A5bTJieG1id2M?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-02T06:58:14+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "M&A"
+      ],
+      "summary": "三菱商事、カナダＬＮＧ事業の一部を米ブラックストーンに売却 約2500億円で（ロイター） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "7a4c5283f8009652",
+      "title": "マングローブに思いを込めて植林 奄美世界遺産登録から5年 伊藤忠などが出張環境教室 鹿児島（MBC南日本放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0bkJVeENIcF9BUmY4THEtV1ljSURxelJ5akFTamIyMVh0NGdMdlpaeVZFTmpJbHpJMHY5bkNjUlN0RXpvcUZ2bjJtajZFZTZZc1dOcTNoaTVseE9KOVdhbDBVeHdhYi1yemprWXJBMUhyUVg0UGtabTdSY2FwcWM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-02T06:58:14+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "サステナ"
+      ],
+      "summary": "マングローブに思いを込めて植林 奄美世界遺産登録から5年 伊藤忠などが出張環境教室 鹿児島（MBC南日本放送） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "d465713d4fb4e1f8",
+      "title": "三菱商事、カナダＬＮＧ事業の一部を米ブラックストーンに売却 約2500億円で",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSl9xNnRIYkIzQkVKeVR0bS12Y0ttY3Q5QzRScHQ5b2txYkpMRDZtM1RJZWhNcmxPbzF4R25Sb2E2VVliM3dmNThJYkQ1b1BjVWdjbng0UEhNSk0zWjdZNkx6Q1BiSGxmVF9tMmlRRDR0dm9ZX2dJc251X3VUaVYyd0s0aUdnQQ?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-02T06:58:00+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "M&A"
+      ],
+      "summary": "三菱商事、カナダＬＮＧ事業の一部を米ブラックストーンに売却 約2500億円で Reuters",
+      "source_count": 3
+    },
+    {
+      "id": "28d48d957cad5035",
+      "title": "◎〔決算〕住友商事、２７年３月期純利益予想を上方修正",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyVVNpSkRGOTFOWm1WczdMRkJzTUdURTVhRDRRQzB1YktiTlplMkNUVDVERXdXaXVSOXB1SFVGREJtMmpwX2xONUNxcHRLdWtneXZwXw?oc=5",
+      "source": "時事通信ニュース",
+      "published": "2026-11-02T06:53:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "業績予想",
+        "決算"
+      ],
+      "summary": "◎〔決算〕住友商事、２７年３月期純利益予想を上方修正 時事通信ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "8d3e8575d8f589dc",
+      "title": "伊藤忠商事[8001]：コーポレート・ガバナンスに関する報告書 2026/11/02 2026年11月2日(適時開示) ：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUVc4aDJFWFRfV2pOWEVIenFBMDlfRENTc2VoMnBfdldxa184RENCZGRCbVZkakpGamRGRm41bWVhb2VrYzhBN3BkenRkTzhyRjVKUWpQQ21Tc0I1YTZfdVlaU0I5ZnY3Y0Q2UXQtREJQakQ5Y09UZXJiNm5CZE4zVGxVUU54cncwWDdwME5EYXZsbmNhX252MEx2OW1Xb2g3QTJKU2RpN2EzekczdzBhalJOaS0tS01LcDVWclpmeThMRnhHMWNVWVFJRTE?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-02T06:42:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "伊藤忠商事[8001]：コーポレート・ガバナンスに関する報告書 2026/11/02 2026年11月2日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "a23fb001f9faedfb",
+      "title": "後場コメント No.4 ＮＡＮＫＡＩ、亀田菓、矢作建、三菱商、愛時計、アドウェイズ(トレーダーズ・ウェブ)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX0ZWaElTdzl2eFpubVctQkpKbmVPeEtwblNsZGMyVlF2UVdPbEd0NU9lOUdkYkRDWmFoXzg0dkJxZWFhRzJYOHI0R3ZNTkdqMGFDWnNZRVV3VUJ2QTZCY0dvRTlWTldQOWp5a2lvd0NmYTVtZkoxVktlQXpSbk15RHlsUm1EOW8?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-02T06:37:03+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "後場コメント No.4 ＮＡＮＫＡＩ、亀田菓、矢作建、三菱商、愛時計、アドウェイズ(トレーダーズ・ウェブ) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "80042c29722a555d",
+      "title": "後場コメント No.4 ＮＡＮＫＡＩ、亀田菓、矢作建、三菱商、愛時計、アドウェイズ | 個別記事 | ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02MWFERkdwU0lPTnUyQm1IeDV1REtqNEgzZm55UFVGTlF5WUluczdBdDgwUjJOWXFUTkJOcUFfWmoxX0Y1elNOQnZ4ZGs3UGF5anBhal8wZmhZZFFQ?oc=5",
+      "source": "トレーダーズ・ウェブ",
+      "published": "2026-11-02T06:36:00+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "後場コメント No.4 ＮＡＮＫＡＩ、亀田菓、矢作建、三菱商、愛時計、アドウェイズ | 個別記事 | ニュース トレーダーズ・ウェブ",
+      "source_count": 1
+    },
+    {
+      "id": "470782c69b264d75",
+      "title": "三菱商事[8058]：特定子会社の異動に関するお知らせ 2026年11月2日(適時開示) ：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wUHdPUl95NlQ3Y0JjT0g1NkVRSlpDWU0ybm1YVHVRWU94dWk5VFVsS0prT0dCblE2aVFLTXlyTHNQRnJUdC1zSjl4aGZtVENIR1ZPOG0wLVhwTVRmUTVmNmd6a3MwUDE3cGc?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-02T06:30:00+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "三菱商事[8058]：特定子会社の異動に関するお知らせ 2026年11月2日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "bebad7c0433771e4",
+      "title": "住友商、中間連結純利益15．5％増 3478億6500万円(時事通信)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNkc1SzlyOEIzUmw3TW9obTI3TDQ1SGJBZEZyRF9jdmVpdHU5QkdoMUJIYUFmY3lrdWtxbWpRYVhTSml6ZXYwTkhDQTQzTnFXYl9HbU0zenZUSlBnb1o2Z2pvSXFBX2ZPUVhnVUhIb0FZYkxyR1lnUktnRWZPQ0tHb3haVXNBUUU?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-02T06:01:47+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "決算"
+      ],
+      "summary": "住友商、中間連結純利益15．5％増 3478億6500万円(時事通信) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "b21761adf7f97500",
+      "title": "豊田通商、バングラデシュにおけるモビリティ事業を拡大 ～4,500万米ドルの追加投資で拠点網拡充と人材育成を加速～",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByUGdBMGY1VVlzeTljU281V3FmV1NpSkQzczY0TEwzd0JFcGxmLUZfSzFVUTJOaWsxUnNTek5Dbm9SeGsxbnFZel9MQ3JKR2NySWFJY0k1dFg5U0hybHp3YUd0ekM2QVZYdElIeXVB?oc=5",
+      "source": "豊田通商株式会社",
+      "published": "2026-11-02T06:01:33+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "豊田通商、バングラデシュにおけるモビリティ事業を拡大 ～4,500万米ドルの追加投資で拠点網拡充と人材育成を加速～ 豊田通商株式会社",
+      "source_count": 1
+    },
+    {
+      "id": "9d4e62aa0e2f1608",
+      "title": "豊田通商、バングラデシュで車両・部品事業拡大",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1EbEJRVWJKTzJyc3I1cTNLejJ3eS1yVUlRN0lRRlB2MTVHNGV5cmozQndqbUVudVNvbEtuU1F2U092Nk9IOS00ZU9B?oc=5",
+      "source": "LOGISTICS TODAY",
+      "published": "2026-11-02T06:00:23+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "豊田通商、バングラデシュで車両・部品事業拡大 LOGISTICS TODAY",
+      "source_count": 1
+    },
+    {
+      "id": "764ee6901e954ea2",
+      "title": "住友商事、通期純利益6,700億円へ上乗せ 中間15.5％増で増配も",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FN0pqOWU4VERlcEhCM2pVZnQwRTlxQjhxTkZVdlZZSWtPQkllZWU1WlBXb2lwdnlLZzVHSzd0ZEI1SmlBdkZGSmg1ckIwOGFCS09XUTlzamxZLXZrMHQzdmk1a0U4MjdWbnkzOHhHVExPc1p1?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-11-02T05:25:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "株主還元",
+        "決算"
+      ],
+      "summary": "住友商事、通期純利益6,700億円へ上乗せ 中間15.5％増で増配も BigGo ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "0dee275af5c3c6ef",
+      "title": "三菱商事－底堅い LNGカナダを米ファンドに一部売却 2500億円、資本効率化＝日経(トレーダーズ・ウェブ)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQkc2MVlpTEp6TmdTdHpaWFk4Z1ZQM3g4LUlvdHFESFFWUS1zQmZOd19XYkJhdFh0VDZvdmxwTGR2MEVwTldZa2ZPNmMtbGJVT1ZRZml4QXF0eTE1QllZUHRzTU5kSkZSZFFXamtTUkxyTlNtZ0lYekdjOTlucW5UVTRjZ2RrX0k?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-02T05:18:03+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "M&A",
+        "資源"
+      ],
+      "summary": "三菱商事－底堅い LNGカナダを米ファンドに一部売却 2500億円、資本効率化＝日経(トレーダーズ・ウェブ) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "ace11c0b90323389",
+      "title": "住友商が一時５％安から下げ幅縮小、通期上方修正と増配発表(ウエルスアドバイザー)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX1pncXlWd1otek4yVWdMYldneHJmcHk3Z0VZaU45QjN6ZWgwWmdQQ1kxc3VrVXAyLXBqWW1wV3pVX0owbkZ0S0xYOG9BQk0tTEtMMEF6SWRuLXYzdHY1N0Q4VG9MMkdvaVYzOTNTVHkwaTlQU25PbE9DX205aEM1OGRhUnpUdEE?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-02T05:07:14+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "株主還元",
+        "業績予想",
+        "決算"
+      ],
+      "summary": "住友商が一時５％安から下げ幅縮小、通期上方修正と増配発表(ウエルスアドバイザー) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "640e9a2d3b295f58",
+      "title": "住友商事、上期増益受け通期利益予想を上方修正 執筆 - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JdlFvNkpERVlMYVlaYWZkcktVZzZXSEZJeU9uZW43bC0ya3pTR2tOUGxBcVhUMWxMTktnQzhHX25EWmVXMnZNQ2x0N1I5ckFHdHNQb1NNLVlxNkMyVS10VUFwOU8?oc=5",
+      "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
+      "published": "2026-11-02T05:04:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "業績予想",
+        "決算"
+      ],
+      "summary": "住友商事、上期増益受け通期利益予想を上方修正 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "69ed6172c1735d25",
+      "title": "SCSK、ソフト定義車両の開発を支援 住友商事と協業",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aU1BPTm1TSHNVN1FjS09HZE84WG1vLTRDTU5QRERid2ZScy1GcmpQRHBsZ3NhTDdPZ2phbE1oc281WllqQWNKcmlSMjNMelNmRUY1aVRSUzBuWTR1ckhLVFpVejAyR2pwS1NwNA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-02T05:02:45+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "提携"
+      ],
+      "summary": "SCSK、ソフト定義車両の開発を支援 住友商事と協業 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "a8f0bf872e8cca13",
+      "title": "Sauconyの体験型ポップアップ「ENDORPHIN HUB」を11月3日（火）よりRuntrip BASE YOYOGI PARK 内に期間限定オープン",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OSkd4SnZsUWttdzZkajdFZHdIeVhDUzk0U3hJNWZtUUhXMjZrNlJzLUtxZTlTYUdrRVJrSHJLQVhOXzRvbnAyTFVWMXlOQUdRQ25PbWZ6Q292Sm9xcTRzbUh3TFRSZVFxN3c?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-02T05:00:02+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "Sauconyの体験型ポップアップ「ENDORPHIN HUB」を11月3日（火）よりRuntrip BASE YOYOGI PARK 内に期間限定オープン PR TIMES",
+      "source_count": 1
+    },
+    {
+      "id": "6c427c6e8cbe2812",
+      "title": "三菱商事がLNGカナダを米ファンドに一部売却 2500億円、資本効率化",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPeXNGUXZ4NUNxc29EN1l2eml4eXlzeWdoV29EQmFWMk5JdEtDVlRoWlEyVlRJWjBHaEk1MUlrcW84QnhNOUJlNmtUWTRnRG04ZDluWHBWVDdXOUdiNWFlc0ltRGdRY3p6VVBYXw?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-02T05:00:00+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "M&A",
+        "資源"
+      ],
+      "summary": "三菱商事がLNGカナダを米ファンドに一部売却 2500億円、資本効率化 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "612c22aefe8ee0ef",
+      "title": "住友商事－後場下げ幅拡大 通期純利益を上方修正も材料出尽くし 上期は16％増〔DZH 個別株情報〕(時事通信)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZXVRa0pBRDhYMW5Nb1NNYXFMM0tnb2tWOTllNzFwVzVNWVB6bXJ1U1BzTV8wUE5CSzJLS3lhLTRvcGN1WU4wcEVETy13bGJBYXlCcVlEU0lLbnJycWZoOXZ4TmxmYmJ4VjJtcW00SVZkSDVTbGVBbVNlUF9STVV2WUR4QmdNeTA?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-02T04:30:43+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "業績予想",
+        "決算"
+      ],
+      "summary": "住友商事－後場下げ幅拡大 通期純利益を上方修正も材料出尽くし 上期は16％増〔DZH 個別株情報〕(時事通信) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "c364a03b9a63b210",
+      "title": "住友商事、通期純利益6700億円に上方修正 配当も増額（ロイター）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zbFV3ZUY2Y2lYU0Fhdkh3R1J5NEpnaUNKaEhmSzVKMXljeVJfaWY1N2JSU1E1X05JWDd2S29uRHV5T3ZCTWd5OFZBam8xcTdoM1lHMVplRU42c1BQTG1peEQ3UDFOSTN6clM4WjNtcW8yZy1lb3pDZXZ1d2h5bE0?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-02T04:22:21+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "株主還元",
+        "業績予想",
+        "決算"
+      ],
+      "summary": "住友商事、通期純利益6700億円に上方修正 配当も増額（ロイター） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "b125dff707442112",
+      "title": "住友商事、通期純利益6700億円に上方修正 配当も増額",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kb20tdjlhRnNNNkxpUWl0a3lyRXJTb2NuR1AtUjk1SmtvSVVVX0Y5SDA5SHFPZ0JWM2tZenR2UW1TQnd3OE5BSExtLXdDNFR2M0k5UWFkZ3F1OHlxY0tVTWJWOEtWdGwtakYxWTZDQlZGOXZ4U3BHWF9FWQ?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-02T04:22:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "株主還元",
+        "業績予想",
+        "決算"
+      ],
+      "summary": "住友商事、通期純利益6700億円に上方修正 配当も増額 Reuters",
+      "source_count": 2
+    },
+    {
+      "id": "698b4cda60a4b3e8",
+      "title": "住友商、今期最終を6％上方修正・最高益予想を上乗せ、配当も実質10％増額",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WcE5qaTRrVlg3WTZhSzV0SkJqR0dRWmFFNUI4MjQ5QXk3M0s1TndLdzhsbnJOR1MyTTVCd1dHUC1sdldrYnk0d1h0VTdZNXBLRFE?oc=5",
+      "source": "株探",
+      "published": "2026-11-02T04:00:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "株主還元",
+        "業績予想"
+      ],
+      "summary": "住友商、今期最終を6％上方修正・最高益予想を上乗せ、配当も実質10％増額 株探",
+      "source_count": 1
+    },
+    {
+      "id": "949077a370ff49c2",
+      "title": "住友商事[8053]：2027年3月期 連結業績予想の修正 並びに 剰余金の配当（中間配当）及び 配当予想の修正（増配）に関するお知らせ 2026年11月2日(適時開示) ：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nVzB5RV8wemhNSDFQZ2wxbm5PZXU3aktyM1lhTHVaOWtBcWRzd1hHUWlvUzJ5U2lnSFVodElLZ05BVmN1VXJ2R05NS2R3aVh3c2Z5RDFzWG00WV9udWI4b0RDRUw2TjNIY2c?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-02T04:00:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "株主還元",
+        "業績予想"
+      ],
+      "summary": "住友商事[8053]：2027年3月期 連結業績予想の修正 並びに 剰余金の配当（中間配当）及び 配当予想の修正（増配）に関するお知らせ 2026年11月2日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "57f30eec3edf98d5",
+      "title": "住友商事[8053]：2027年3月期第2四半期決算短信〔IFRS〕（連結） 2026年11月2日(適時開示) ：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSVQwUlpudWZMSWNuWUZuVURpLTRQMGdmMzJjZllOT040WElWbHBYYzFWUl9VQldSa2RPNTlHRXFiSlNJeFVTTUplazBfNWdVdm9lMGxQRGI5YjNKbkhFTTczdlVmbWlRZjlSVkhoNEhNeU5fZkw4cmJlVFdvRWpaMFFudXJMaENxeUZjbjM2dF9OSFZ6TzA5aWJ3MGFlWkZHWlVPYUZ0WXVPY1BhTXhEelZiMzVMZ3JPNUcyVHlZbHg0OWN6cHJ5VThvNFU?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-02T04:00:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "決算"
+      ],
+      "summary": "住友商事[8053]：2027年3月期第2四半期決算短信〔IFRS〕（連結） 2026年11月2日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "4031a620c6c6de05",
+      "title": "住友商事、中間純利益15.5％増の3479億円 基礎的収益750億円増、税引前では減益",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5UV291WHhYNzNaM2dldkFLbEtxQjNnUm5yMEZQVUxxa1UxVnVacDl6UGhQSEU5R2k3THhCVmxZNXNMdw?oc=5",
+      "source": "エコノミックニュース",
+      "published": "2026-11-02T03:46:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "決算"
+      ],
+      "summary": "住友商事、中間純利益15.5％増の3479億円 基礎的収益750億円増、税引前では減益 エコノミックニュース",
+      "source_count": 1
+    },
+    {
+      "id": "59f200d0f2e3e677",
+      "title": "住友商事(株)【8053】：現物信用売買内訳時系列",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kdzhCbGUyaWo1Qi0tN1o4TnpHRnFOdzVuVHhEdGdIUWlDamk0UjlkWjFDbVRYUEtEbGUtX3pKRG5obllqSzlNMWZHbE1sUUJaYlYtdDRSZ2tLUFJwRXdz?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-02T03:22:07+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "住友商事(株)【8053】：現物信用売買内訳時系列 Yahoo!ファイナンス",
+      "source_count": 1
+    },
     {
       "id": "8714a858584a882a",
       "title": "「死角から近づいてくる車」を見抜けるってマジ？ ヒヤリハット19%減！ 見通しの悪い交差点で何が起きているのか",
@@ -254,6 +751,19 @@
         "決算"
       ],
       "summary": "きょうの主な経済指標・スケジュール＞ＭａｂＧｅｎｅｓｉｓがＩＰＯ、住友商決算発表など(ウエルスアドバイザー) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "84cd3ba409079195",
+      "title": "【無料公開】名門、丸住製紙が民事再生法を申請、「2つの致命傷」とは？コンサルや銀行、ファンドも大混乱で再建は“茨の道”",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjb1AtYjBzdHJZdUxPRi1OMkNIeEhzdnUyb25rUFROSTZPX3NzR1VmaXhURVBXbjYwVExSZ25ZWV9WNEdqMTBlT0drdjPSAU9BVV95cUxOeFBvTFpJbXp0c01rbzNqU2wwVGhwY251bWl2Qnp0cUJUcWxTXzRzdVMyN3hISlFIYWd2Mm5Pc21nOUNrVjdwbnBoWXQ3RlFz?oc=5",
+      "source": "ダイヤモンド・オンライン",
+      "published": "2026-11-01T20:30:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "【無料公開】名門、丸住製紙が民事再生法を申請、「2つの致命傷」とは？コンサルや銀行、ファンドも大混乱で再建は“茨の道” ダイヤモンド・オンライン",
       "source_count": 1
     },
     {
@@ -523,6 +1033,34 @@
       ],
       "tags": [],
       "summary": "三井物産(株)【8031】：現物信用売買内訳時系列 Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "a6fa9656a56e3925",
+      "title": "伊藤忠商事(株)【8001】：現物信用売買内訳時系列",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVM1NmcGY0RTNRd0REZHlQUGIxRnhyWnBXa2wzSFh5bS1odVJnSGVLeXl4RDJkT29KOUdoemt0LThJLW41dHRNWVRxRXY4VHJucUF5Q1hxbkFwOUFveWNz?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-10-30T07:00:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "伊藤忠商事(株)【8001】：現物信用売買内訳時系列 Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "cd31dc264340f398",
+      "title": "住友商事(株)【8053】：今の株価の理由は？値動きの背景をAIが解説",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HZURaMU5UYVdObE53dVpyczRRVXlFRjAtbS1ncEg4OERsM3RmSEJDV0RhanBKd0lqa0tEMlZiSU9IWjYyWEJmWGJEVnJnOTlreDE3dDhSa1NNWjBKZGl3?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-10-30T06:57:01+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "住友商事(株)【8053】：今の株価の理由は？値動きの背景をAIが解説 Yahoo!ファイナンス",
       "source_count": 1
     },
     {
@@ -1018,6 +1556,21 @@
         "提携"
       ],
       "summary": "東京本社を移転～多様なパートナーとの接点を広げ、新たな価値創造を加速する拠点へ～ | 豊田通商株式会社 豊田通商株式会社",
+      "source_count": 1
+    },
+    {
+      "id": "2118d2bde10675d4",
+      "title": "豊田通商、東京本社を移転 ～多様なパートナーとの接点を広げ、新たな価値創造を加速する拠点へ～",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qTHI4UUo2SnFqc1BNSW5SeU1HRmtSYTgwdkx1Z09WT01hWldQazZFWm9HZzZaTjR2ankxOFFuU09DM2E0ZFlRTFpKdHRib0xTQUYyZzZDYndxT0dDVHZLTWFLT2tMSWVKQWE1OGdB?oc=5",
+      "source": "豊田通商株式会社",
+      "published": "2026-10-29T06:01:47+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "提携"
+      ],
+      "summary": "豊田通商、東京本社を移転 ～多様なパートナーとの接点を広げ、新たな価値創造を加速する拠点へ～ 豊田通商株式会社",
       "source_count": 1
     },
     {
@@ -2982,6 +3535,19 @@
       ],
       "tags": [],
       "summary": "JFEホールディングス、稼ぎ頭は商社事業。セグメント利益の6割超を鉄鋼以外で稼ぐ構造（LIMO） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "88b6183a42f108c0",
+      "title": "福島県浪江町で系統用蓄電所の建設を開始 | 住友商事",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wUmotV2NoTldJcmpsYmh2VWFrSnpIbVNLNlR5LWlGeTRVTU1KTEdyUGJ3Z2hJVm1KM2NoRzI4dU1obGh6V2ZLQ2FIQ201aHktUFJUZXVlUzZja0hobnMwbGE1QnNpaWVxUWVvRWM2Snd3UQ?oc=5",
+      "source": "Sumitomo Corporation",
+      "published": "2026-10-01T07:00:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "福島県浪江町で系統用蓄電所の建設を開始 | 住友商事 Sumitomo Corporation",
       "source_count": 1
     },
     {
@@ -6326,6 +6892,19 @@
         "資源"
       ],
       "summary": "老舗商社の兼松が「ROEで伊藤忠超え」達成！非資源100％へ脱皮後の2大“稼ぎ頭”と、さらなる成長の種とは ダイヤモンド・オンライン",
+      "source_count": 1
+    },
+    {
+      "id": "9ce742f9c1a3483c",
+      "title": "兼松(株)【8020】：掲示板",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IR3pVblQwTVZNWlA3QVdTNVJfMFJCdlRDLXNJM0VBVkdla3RkbFZFaFotNGFMM2lKMTJtZjBCQ2d3ZEpWZFdDVFFBcjc0ek9ZNFRuQUIxWURCdw?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2025-10-07T11:40:52+00:00",
+      "company_ids": [
+        "kanematsu"
+      ],
+      "tags": [],
+      "summary": "兼松(株)【8020】：掲示板 Yahoo!ファイナンス",
       "source_count": 1
     },
     {
