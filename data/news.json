@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T03:40:56.901601+00:00",
+  "updated_at": "2026-11-03T10:44:57.316387+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -93,6 +93,19 @@
   ],
   "articles": [
     {
+      "id": "d9e51ae5a60cfbb8",
+      "title": "シーホース三河U15が白星発進！「第16回豊田通商カップ」初戦で三遠ネオフェニックスU15に勝利",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OS2RXQ0lSb1ItX0R1THFCeEh3VTd3Qm16M1VTTlhBT0I3dUJnYW85VUxuWjlTazRHNDRiM0RrbTVEdVZ6ZzZVX1U0aExmdEM3MW93b0ZMSHFpaDFYWFpNZGN0Wmo3V2dNaGQxeUR0dFFzX0phUkE?oc=5",
+      "source": "Excite エキサイト",
+      "published": "2026-11-03T05:45:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "シーホース三河U15が白星発進！「第16回豊田通商カップ」初戦で三遠ネオフェニックスU15に勝利 Excite エキサイト",
+      "source_count": 2
+    },
+    {
       "id": "1a7efa92a11b1cd0",
       "title": "長瀬産業が香港に新会社、グレーターチャイナ・ASEAN統括",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zY2RMbXBnZ2RFRXJFb3NOQ0lBY1R0UjgzZ2swZ01tcnlHZ1JlS0V2XzhXdm9wV2ViaTM3VWc3dktxb21CVzctYzI1Wnp2bWd2aDdHel9OT3VWN0FvYlNVby1yMHo1NXZy?oc=5",
@@ -102,7 +115,8 @@
         "nagase"
       ],
       "tags": [
-        "新規事業"
+        "新規事業",
+        "海外"
       ],
       "summary": "長瀬産業が香港に新会社、グレーターチャイナ・ASEAN統括 ashu-chinastatistics.com",
       "source_count": 1
@@ -399,6 +413,19 @@
       "source_count": 1
     },
     {
+      "id": "1174e1e441a448e4",
+      "title": "住友商事（住友商）【8053】の大株主と資本異動情報｜株探（かぶたん）",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84R0xxUXktVFhBZXV2RGRsb0FyZGUyd2t0RlpMUDMtb2tjR2cwR1hsMkgtdWFXYzVIX1RKOGpBTmRzbExXTFFyLUJ0My0taXAxMlk0T3lMS1JySDJQT3FvZnRsbU5UR1NI?oc=5",
+      "source": "株探",
+      "published": "2026-11-02T06:30:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "住友商事（住友商）【8053】の大株主と資本異動情報｜株探（かぶたん） 株探",
+      "source_count": 1
+    },
+    {
       "id": "ccb4e8f68e75dd82",
       "title": "ナウキャスト、三菱商事都市開発向けにAI活用の法人営業支援ツールを提供開始",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhRlRFeVduelB0TzJrZVU0V0l5UnlaQ1lBOUlDVmdLcjdfQ3RaeEE2a3o4Z0cyQXZVQ3JRUXloSDJmdzRtSS1XOElzMlVWUW1Qd2k3dktmUjVlTkNfWDhab21ZV0RldWhxcUYyX2Nn?oc=5",
@@ -454,6 +481,19 @@
       ],
       "tags": [],
       "summary": "豊田通商、バングラデシュで車両・部品事業拡大 LOGISTICS TODAY",
+      "source_count": 1
+    },
+    {
+      "id": "3c6c3ea87f998ff4",
+      "title": "豊田通商、バングラデシュにおけるモビリティ事業を拡大",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XUWF4WkNWR2xRT1NpZWdsOS1iTkRQWnlKZEFONGVycHpuMGZldGZHRUx4dER0ZnhxeHotSkVaZXpqejlMZjlWRFBLc0FrX2ktU00yVUxFaVNLaUxVR0piZC02VXZWeUQwbUE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-02T06:00:02+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "豊田通商、バングラデシュにおけるモビリティ事業を拡大 PR TIMES",
       "source_count": 1
     },
     {
@@ -581,6 +621,21 @@
       "source_count": 1
     },
     {
+      "id": "c2de321246ae0287",
+      "title": "住友商事、税引き前の利益は減ったのに最終利益が増えた裏側 | スマートニュース",
+      "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNeXkwS0VHUXhIX1Y0VDNvN3d0RUVFUjBjMHhISWx6TkszOU1MNXVNT2hqYjI2VU1LVy1QQkxnZklJZGE5TGs0SzVFRVBvdGtkSUVRUjFleEpCVUZJOFRLR2hlUHlTaUNlMmQzYXZxYVNmUi16M0Y1THBreFlsSFVpM090VVFua2w2WmVuVzI5M3NEZnhqSkhpTHFUNmQwMGY5dE5YWGZlclBNRUIxQ3hJZDRfS2pwQllVcDhfN2RqUURsZ3d1MThkaDhxWUw5MVdMVFdMTlN6Umdjal9SdXlRdDZmOWhvb1VmUnR4QUFQY0NEOFE2cUs4X0xmTHAtVERYYy1UcGpFRElNUzVLdldMT1Zld3ZKbHBMSXhvR0FoX0p2bzZzVEhfWkhnNjhtTm1QeDY0d0xEUGtPSGpMZFFid0JENEFLckI2Y3JHUWtSOWFVdWtXQTc0VHB5dXd1WXppNnhDS0IzS0FMck4zQzZoLXdidXFzc0ZVVTE0NU8yVG5DYTB1d3J4aGdBT3k0NnZOSnRRTkpEaFVaT0xnS2FtV1JOOHpBMTkxTXN6dlZRaHFhRmU1NFluRTU3dw?oc=5",
+      "source": "SmartNews",
+      "published": "2026-11-02T04:34:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "決算"
+      ],
+      "summary": "住友商事、税引き前の利益は減ったのに最終利益が増えた裏側 | スマートニュース SmartNews",
+      "source_count": 1
+    },
+    {
       "id": "612c22aefe8ee0ef",
       "title": "住友商事－後場下げ幅拡大 通期純利益を上方修正も材料出尽くし 上期は16％増〔DZH 個別株情報〕(時事通信)",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZXVRa0pBRDhYMW5Nb1NNYXFMM0tnb2tWOTllNzFwVzVNWVB6bXJ1U1BzTV8wUE5CSzJLS3lhLTRvcGN1WU4wcEVETy13bGJBYXlCcVlEU0lLbnJycWZoOXZ4TmxmYmJ4VjJtcW00SVZkSDVTbGVBbVNlUF9STVV2WUR4QmdNeTA?oc=5",
@@ -631,6 +686,22 @@
       "source_count": 2
     },
     {
+      "id": "105f1c72dd5b0722",
+      "title": "住友商事－後場下げ幅拡大 通期純利益を上方修正も材料出尽くし 上期は16％増",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iNFhpSUlvdmFGbV81NzNVaUg2aDJ2dW5fOG80QmtTYnpoWmVaNzlvT3NhcDM3N2hCOHVnY1Uta3VKcXVtbE5WZk9HN2htTm1qOXZEV1JuS1RyRk0yWi1jSWlqcVEwWmQ5Z05nSkwwNA?oc=5",
+      "source": "TradingView",
+      "published": "2026-11-02T04:05:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "業績予想",
+        "決算"
+      ],
+      "summary": "住友商事－後場下げ幅拡大 通期純利益を上方修正も材料出尽くし 上期は16％増 TradingView",
+      "source_count": 1
+    },
+    {
       "id": "698b4cda60a4b3e8",
       "title": "住友商、今期最終を6％上方修正・最高益予想を上乗せ、配当も実質10％増額",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WcE5qaTRrVlg3WTZhSzV0SkJqR0dRWmFFNUI4MjQ5QXk3M0s1TndLdzhsbnJOR1MyTTVCd1dHUC1sdldrYnk0d1h0VTdZNXBLRFE?oc=5",
@@ -641,7 +712,8 @@
       ],
       "tags": [
         "株主還元",
-        "業績予想"
+        "業績予想",
+        "決算"
       ],
       "summary": "住友商、今期最終を6％上方修正・最高益予想を上乗せ、配当も実質10％増額 株探",
       "source_count": 1
@@ -1506,6 +1578,36 @@
       "source_count": 1
     },
     {
+      "id": "4c4eafcbe0e7fb2e",
+      "title": "「ごみ」から湧く油田 資源小国の新たな鉱脈、眠る国富稼ぐ資源に",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55dTUxNktTeV9ZeGRHczg1WmxQLUZEWlNjQUlRR3VoTklDOTFoTWgyaU41amJIYmJRTmZHelB1SWY4eUpBTGdMeVZnTFhmWkRUcXdPMkRjekVYangzeExSdV9ubUw?oc=5",
+      "source": "日経ビジネス電子版",
+      "published": "2026-10-29T15:00:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "資源"
+      ],
+      "summary": "「ごみ」から湧く油田 資源小国の新たな鉱脈、眠る国富稼ぐ資源に 日経ビジネス電子版",
+      "source_count": 1
+    },
+    {
+      "id": "bdf10045da247e7a",
+      "title": "バングラでトヨタ車を生産、豊通が検討",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBrRGxCWDBEYkRISUE1cHJJMTg1NTVHc0E3SGhUZDJfZVZ5bXNITzA2Y3JrbzNzVlR5TjlTZ2NFTE9XYTY3akE?oc=5",
+      "source": "NNAアジア",
+      "published": "2026-10-29T15:00:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "海外"
+      ],
+      "summary": "バングラでトヨタ車を生産、豊通が検討 NNAアジア",
+      "source_count": 1
+    },
+    {
       "id": "085e14a7a6c37b66",
       "title": "豊田通商、東京本社を移転 2030年度に、品川から八重洲へ：ニュース",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uU184SHJqbExUWDZGMU9kZGNNTXhxYVRFMS1ZcC1Oc0pJUGl1TVhkLWl2TnUxNXpFdThIU3M3VnZoM1R3TnQ0cUdBb0lNU3phczZteTBvRUF3Q041Zl9R?oc=5",
@@ -1598,6 +1700,21 @@
       ],
       "tags": [],
       "summary": "◎豊田通商、東京本社を移転 時事通信ニュース"
+    },
+    {
+      "id": "73cb46744e65139a",
+      "title": "豊田通商、中間連結純利益40．2％増 2620億2600万円(時事通信)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON3Jqdm5USG1vS1FUU0FZbExWZjFQdTUyN0g4TV8xa3JQOUtNb09HVnRTa01rWEJuVUloUDVKVmpjcy1lNUFEcWMwdTVoSXMzZHFsSHdFTzdwblpJaktTUm1HYzBjVEJxUGxzLUQyQmw1WHJtRWgyM1NvaWtES25qX3BER1FQSVE?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-10-29T08:03:08+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "決算"
+      ],
+      "summary": "豊田通商、中間連結純利益40．2％増 2620億2600万円(時事通信) Yahoo!ファイナンス",
+      "source_count": 1
     },
     {
       "id": "c29fd25934d15f12",
@@ -2867,6 +2984,22 @@
       "source_count": 1
     },
     {
+      "id": "38a3519feab19dd5",
+      "title": "【無料公開】住友商事の建機ビジネスの鍵握る「アフリカ投資」、コマツなどの代理店業務で狙う一攫千金！中国メーカーとの勝負の行方は？",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1DNGd2WTNTblg1eTA2TXlXek1Ea21hZ3RZc1pnOUNCSlJGZlFjLUJuOEZRNVkzRjIwUXo1TjA1LTlSTDB1V0liUHNsaXnSAU9BVV95cUxNdTEzRjl5bHVCeDFGYjVHS2lXbEVfY1RHLW5HbFVJdVhsUm9ocHFGTU84R01LcFdSX1BXTmNTbjh3amQwQTFNbjNUUnhIUmcw?oc=5",
+      "source": "ダイヤモンド・オンライン",
+      "published": "2026-10-19T07:00:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "投資",
+        "海外"
+      ],
+      "summary": "【無料公開】住友商事の建機ビジネスの鍵握る「アフリカ投資」、コマツなどの代理店業務で狙う一攫千金！中国メーカーとの勝負の行方は？ ダイヤモンド・オンライン",
+      "source_count": 1
+    },
+    {
       "id": "06a93fcf1f2c22bd",
       "title": "三菱商事撤退後の洋上風力 欧米失速、中国独走の中でJERAは勝てるか",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mSUg4M1ltbUE2UG56cUdOZHdRblh0WFVNZWNzYVltNU9IWTYxS0RjMUlBQUVSTkVDWHNWem8tM1R6NFN6Z2VZRVFaT092YkRvTzZHOFNMOXNPdmpnYlBJNUJyQXUwTlE?oc=5",
@@ -3502,6 +3635,19 @@
       "source_count": 1
     },
     {
+      "id": "0e1fc7ad84abff14",
+      "title": "住友商事と三菱電機ビルソリューションズがエレベーターを活用した地域企業向け広告配信サービスを開始",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxOVlUdGZJQUEtZW5uRWJrM2pZbmxBZnlFVlFmSXZEYkw5OTNiWURucnpGV3R6cWNINEFMTmQ0Wk90Tk1XRWpoekVXZGNtMUNsX2NYMEdGdEpXMnlIamNsVzNCeVk2eDlITDBScHowOGVXNTdl?oc=5",
+      "source": "Sumitomo Corporation",
+      "published": "2026-10-06T07:00:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "住友商事と三菱電機ビルソリューションズがエレベーターを活用した地域企業向け広告配信サービスを開始 Sumitomo Corporation",
+      "source_count": 1
+    },
+    {
       "id": "828eaec84e8b7bf1",
       "title": "三井物産（8031）、「中期経営計画2029」初年度は好発進 成長投資の果実化と株主還元を推進",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3anZxZUw2M3U5clI1SEc2QWpGSlhiWlhBZE04WkdDUVY0SnAwSjNNY0lPZ19JdGlreDVOeHRtRHRrQUJvclFYTHZMNkw2bW5nSVE?oc=5",
@@ -3887,6 +4033,24 @@
       ],
       "tags": [],
       "summary": "アニメーション「7万人の大旅団」を公開～世界で働く7万人の多様な力と、豊田通商グループが目指す未来を表現 豊田通商株式会社",
+      "source_count": 1
+    },
+    {
+      "id": "616e2f712f5ec399",
+      "title": "データセンター参入報道で上昇の伊藤忠商事（8001）──1Q営業益20％増と「損保4社向けTOB」の中身を振り返る（LIMO）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBITWJnMUNidHdOY2x6VkRIS0lMRmZwckRMYnI5N3V3VjI1T0d1QlVHc0tzRG91cVp2RjNNTmwwbDFPaVlNbzBSZ0lscDZhRE1hTGdLcnlEQmg4UzdSdU9tam5aN1Bra3Z1SXVKd1ZwUzdnSUd5Yzhzd3UtTkQtT0E?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-09-10T07:00:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "DX",
+        "M&A",
+        "新規事業",
+        "決算"
+      ],
+      "summary": "データセンター参入報道で上昇の伊藤忠商事（8001）──1Q営業益20％増と「損保4社向けTOB」の中身を振り返る（LIMO） Yahoo!ニュース",
       "source_count": 1
     },
     {
