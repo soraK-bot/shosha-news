@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T10:44:57.316387+00:00",
+  "updated_at": "2026-11-03T22:30:16.386828+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -92,6 +92,96 @@
     "就活"
   ],
   "articles": [
+    {
+      "id": "061579705368725e",
+      "title": "伊藤忠商事がAI創薬のMOLCUREに資本参加、創薬・臨床データ統合基盤の構築視野に",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92SGVXbG40Z0djeE5XTXFsb1BIYXBvRmdYemliVi1IMHNySTRtMXJJVUZxdnJpN3dUMTBpckVzd0pYU2I3OWJsb2cxaTRLdWoxSllMUmtyNk9pbzBmcU5QR1RpQXhwdw?oc=5",
+      "source": "日経バイオテクONLINE",
+      "published": "2026-11-03T22:00:09+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "伊藤忠商事がAI創薬のMOLCUREに資本参加、創薬・臨床データ統合基盤の構築視野に 日経バイオテクONLINE",
+      "source_count": 1
+    },
+    {
+      "id": "db38da429b093265",
+      "title": "「形骸化した報告では意味がない」 丸紅が280拠点のIT検査で「泥臭い手法」を貫く理由",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GZEJyVDQ3bG5Sa04xMS04X0g0T1Q2eEF0NEhrcEJzNUo3dm9HWk1Ob1pnNHNPYVZwaGx2OE9qSkNNUlRKNEpjd19tbWxLazJ1LTFlSDhn?oc=5",
+      "source": "JBpress",
+      "published": "2026-11-03T21:00:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "「形骸化した報告では意味がない」 丸紅が280拠点のIT検査で「泥臭い手法」を貫く理由 JBpress",
+      "source_count": 1
+    },
+    {
+      "id": "025b28b01ef7e0d6",
+      "title": "三菱商事の「投資ファンド協業」始動 LNGカナダにブラックストーン",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yV2RJU2lpMkNTY01SdVZUWUFERjBPMHc0djRCTnAtbXFWdUtjSVR6bHlBa29mZThvTjFkQmVIb2FtQ2RpUURJcE13ZVRodk5GLXN5T3JnRlFndG1aSG04Qjd6MERNRGRrSmZKdg?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-03T20:00:00+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "投資",
+        "提携",
+        "資源"
+      ],
+      "summary": "三菱商事の「投資ファンド協業」始動 LNGカナダにブラックストーン 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "f6b6eb220414909f",
+      "title": "住友商事・鉄鋼グループ／４～９月期純利益１４％増の３８９億円／ＳＣＧＭの通期予想は３００億円超え",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95MzlTYS1sRzJwcTRXVXpLYzVCaWpucGFaMlVvUV9aMktDNmhEa2VMckNMVmdqbURJLTU4dkFnNDFmSnd0RkFIMnR4d3E0Z2h0OFBndzNwUS1ZVmV0Zmc?oc=5",
+      "source": "日刊鉄鋼新聞 Japan Metal Daily",
+      "published": "2026-11-03T20:00:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "DX",
+        "決算"
+      ],
+      "summary": "住友商事・鉄鋼グループ／４～９月期純利益１４％増の３８９億円／ＳＣＧＭの通期予想は３００億円超え 日刊鉄鋼新聞 Japan Metal Daily",
+      "source_count": 1
+    },
+    {
+      "id": "5eb809815ce301a9",
+      "title": "秋の叙勲／加留部氏（元豊田通商社長）に旭日重光章／野口氏（元日本アルミ協会専務理事）、瑞宝小綬章",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BSzAxcFQzbGZqSnF0ZUFXY2otenV2N3VHdklsOWJHN0VmRlNNN3hmeGp1Y2xQXy1GR2phWW5lV19BTklVMXhZMEpSWnRaeDk0WE9QcVpSbGpJOVFIX0E?oc=5",
+      "source": "日刊鉄鋼新聞 Japan Metal Daily",
+      "published": "2026-11-03T20:00:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "DX",
+        "人事"
+      ],
+      "summary": "秋の叙勲／加留部氏（元豊田通商社長）に旭日重光章／野口氏（元日本アルミ協会専務理事）、瑞宝小綬章 日刊鉄鋼新聞 Japan Metal Daily",
+      "source_count": 1
+    },
+    {
+      "id": "5549f48d575ea633",
+      "title": "長瀬産業、東京本社の新社屋を完成",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGcFotQ0NpajBsa0pzQllfcmFiZzRfeURJWmZjb2RhS0N5MHNGYlFFQU1jc0NkZEJRMmxrMU4yWFJyWFNUZFM3Z3FsWUtZZ1N1YnQxTk84Z1Q?oc=5",
+      "source": "日刊工業新聞",
+      "published": "2026-11-03T20:00:00+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [],
+      "summary": "長瀬産業、東京本社の新社屋を完成 日刊工業新聞",
+      "source_count": 1
+    },
     {
       "id": "d9e51ae5a60cfbb8",
       "title": "シーホース三河U15が白星発進！「第16回豊田通商カップ」初戦で三遠ネオフェニックスU15に勝利",
@@ -1850,6 +1940,21 @@
       "source_count": 1
     },
     {
+      "id": "b7d61979c757b1cc",
+      "title": "【決算速報】豊田通商、中間税引前400,961百万。(アイフィス株予報)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdlREMzRoMkJLSTlqS1pUVDFoWWpoMzJxNmZhVmVpQlRMVzEtWVNpWldLMTFHVTBpZ3doYVk1dEMza3F1Z3hUWk9wZXcxVTduOUdoQnJjc2hoVU5DcFBmdTktSTJiLUh6LXFPODNVZ2M0ZmppSjRHaC1lUDJNVDRnZjZWclFNdk0?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-10-29T06:00:40+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "決算"
+      ],
+      "summary": "【決算速報】豊田通商、中間税引前400,961百万。(アイフィス株予報) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
       "id": "09ca7e02cb133a89",
       "title": "「八重洲一丁目北地区第一種市街地再開発事業」においてオフィスフロアを取得決定、豊田通商と賃貸借契約を締結",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hTnpTNEd3bGt2X2oxUXRSZFktUGtDV09wVlBudGtIWHVWRTcyQUdudG8wYUFsSjZHeFBuc3JiM1lhWE9sX1pIazZDZ00xeUgtOFFKY0VZZnF2MXFnVGhDSEZ2R1JpMkZvaFE?oc=5",
@@ -2047,6 +2152,21 @@
         "就活"
       ],
       "summary": "プロシップ－続落 新リース会計基準対応「ProPlus＋」を長瀬産業が採用〔DZH 個別株情報〕(時事通信) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "2ffab8d724f916c6",
+      "title": "クリエイターコラボCM 第4弾公開 「豊田通商システムズ×VRアーティスト せきぐちあいみ」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWUlN5MndYazdkMzFjc2JSZmM2NVdodGwzN2JKTXpvZy1pNnY4TVNiaXJWQ3hjdEpOTzlzdGdwVm9kbVpyVEZETlZDd21iUG43dUpONUFSTEJPZ3MySkE?oc=5",
+      "source": "沖縄タイムス社",
+      "published": "2026-10-29T01:12:35+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "クリエイターコラボCM 第4弾公開 「豊田通商システムズ×VRアーティスト せきぐちあいみ」 沖縄タイムス社",
       "source_count": 1
     },
     {
@@ -5670,7 +5790,8 @@
       "tags": [
         "人事"
       ],
-      "summary": "会長CEO挨拶 伊藤忠商事株式会社"
+      "summary": "会長CEO挨拶 伊藤忠商事株式会社",
+      "source_count": 1
     },
     {
       "id": "577137da84e04ae7",
@@ -6076,6 +6197,19 @@
       "source_count": 1
     },
     {
+      "id": "15cae88e73c71097",
+      "title": "自社スタジオ「ToyoTube SHINAGAWA STUDIO」を開設",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EQ0ZOUnBEY0VoN3FmRWJ5ZUlPTXB1eXBzLTgwb29BclNGV2ExYndaenI1VFNOaVU3RkdJbHVodC1yQmRjVlpjVnFHZjI2WURwNFA2eXdFbDZhSGp1Y29vSGdvZ3EtX1NFMnFzWXZB?oc=5",
+      "source": "豊田通商株式会社",
+      "published": "2026-03-30T07:00:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "自社スタジオ「ToyoTube SHINAGAWA STUDIO」を開設 豊田通商株式会社",
+      "source_count": 1
+    },
+    {
       "id": "9fdbc92846de236b",
       "title": "鉄鋼流通プラットフォームをASEANへ、第1弾はミルシート管理を「基本無償」提供：製造ITニュース",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qSUc5MHZZdTlQQWFPLV8wQWlrMDhNV1Nyb0RoZ3BmODZ6N05vOVB1WlZVMHJsWjJLbDBjQllrYWEwNTgwb3FGdkpZel9EZTEycEYxVXpwNzBBYU9DMTdsbEdSaE5QSE5fSkVmMWZCRQ?oc=5",
@@ -6102,6 +6236,21 @@
         "提携"
       ],
       "summary": "メタルワン／鉄鋼向けデジタル情報基盤「メタルエックスＵＰ」／タイ・ベトナムでもサービス開始／ミルシート電子化、越ＩＣＴ最大手と協業 日刊鉄鋼新聞 Japan Metal Daily",
+      "source_count": 1
+    },
+    {
+      "id": "8e9f7296e83aa8b3",
+      "title": "メタルワン 鋼材流通デジタルプラットフォーム 東南アで提供",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5azQ4UTVGcnNfWXZLcU1ROUZmSlhTUFNQQkFqY2ZRSV9DbEF5bUxNX0d5ZU1sNXNGdkFXWEFZRVVrOUhDakRpRXE5WFZyZ3pEX3dRTzRsYTFpTXdWMndlM3RB?oc=5",
+      "source": "japanmetal.com",
+      "published": "2026-03-25T07:00:00+00:00",
+      "company_ids": [
+        "metalone"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "メタルワン 鋼材流通デジタルプラットフォーム 東南アで提供 japanmetal.com",
       "source_count": 1
     },
     {
@@ -6770,6 +6919,19 @@
       "source_count": 1
     },
     {
+      "id": "224d800b338fac97",
+      "title": "JFE商事エレクトロニクスの小型GPSトラッカー「Jiot」、荷待ち・荷役時間の自動記録機能を2月16日より提供開始",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBUWjN1YWlBYjRqSW1acnl0M3VsYmxGVW8xZkRRSHBGc3YwZkRJWE5yWHZhWWRCdlV5d242OEhQX19Tb1B2Y1ln?oc=5",
+      "source": "Newscast.jp",
+      "published": "2026-02-16T08:00:00+00:00",
+      "company_ids": [
+        "jfeshoji"
+      ],
+      "tags": [],
+      "summary": "JFE商事エレクトロニクスの小型GPSトラッカー「Jiot」、荷待ち・荷役時間の自動記録機能を2月16日より提供開始 Newscast.jp",
+      "source_count": 1
+    },
+    {
       "id": "f87506f75b02b590",
       "title": "長瀬産業・上島宏之社長「成長投資で『One NAGASE』創る」（4ページ目） | 日経ESG",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYRFFBUnpXWUtNLUd5cmdkVEdzTzhZS20wYURNQVJxSEprQ3c1OHVaMTBydU5BU19kcmdwVUtjZDRDcy0xSHBIdmFqMmpERElhb0RlSkdXVnhIRjFRTDZXTGpOQUU0eVotS1h0QkkzYk9JUnFnaHc?oc=5",
@@ -6906,6 +7068,19 @@
         "提携"
       ],
       "summary": "台湾最大手ITサービス事業者SYSTEX Corporationとの資本・業務提携について 伊藤忠商事株式会社",
+      "source_count": 1
+    },
+    {
+      "id": "3bcbad130e2be9b7",
+      "title": "豊田通商が描く、グローバル・サーキュラーエコノミーの未来",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MTVUyUS1HbEh1Wk5PMk9XcFBUWXF0Q2ExSlFXRE9WWnI0TmVNOVBNS19RUmRvZmc5R2lXdUhLczhoR1FITTlxam4ycC0tMlRxZzFJbW5fUDZZTVJ5aFpxRA?oc=5",
+      "source": "豊田通商株式会社",
+      "published": "2026-01-30T08:00:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "豊田通商が描く、グローバル・サーキュラーエコノミーの未来 豊田通商株式会社",
       "source_count": 1
     },
     {
@@ -7945,6 +8120,20 @@
       "source_count": 1
     },
     {
+      "id": "d1aa482d6d159c5e",
+      "title": "伊藤忠丸紅鉄鋼 スペイン独立系鉄鋼最大手 持ち分法会社化で合意",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFU3F1NXYxQVJHZnFSMWFuRXpEd3dkYWloN3dITE12dHVuclUtUDMtOGVzcGQzZ2xWUTkxWUxSZVVXRjZ6a3I2UTRJUmlOUzRtZUt5b0Zhd1JXQ2lreGlLRER3?oc=5",
+      "source": "WEB産業新聞",
+      "published": "2024-07-25T07:00:00+00:00",
+      "company_ids": [
+        "benichu",
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "伊藤忠丸紅鉄鋼 スペイン独立系鉄鋼最大手 持ち分法会社化で合意 WEB産業新聞",
+      "source_count": 1
+    },
+    {
       "id": "c6a4128817f74f7a",
       "title": "メタルワン、イタリア変圧器部品大手を買収 鋼材を提供",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUaUZDN19CUFE4MThhS2wyUnhUcnNvN0pjY29ZOHJDWldXLWUtc2t6dGEyYjZ3OG95THFYTTVvQ1JadUNwTXQtazZVaHZ3Nk1DVG9wM0s2UGlFbXJqeTI4VGdJaW80RVBtelFUdg?oc=5",
@@ -8299,6 +8488,22 @@
       "source_count": 1
     },
     {
+      "id": "20d852963b9d716d",
+      "title": "伊藤忠丸紅鉄鋼社長に石谷氏",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5UFlsVmQ4dlFnbWZORE9uQnBCYkZDb1JIejFoZU9qVlhyVXdDZzk0YTNSWG1QVVRWMk5WT2o4NG5CZ1hSYmhfNTQ3YlZiZFFYakd4ZTZwQjRTdGZCNHNJYkNvQkVULXNtclFMWQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2023-03-08T08:00:00+00:00",
+      "company_ids": [
+        "benichu",
+        "marubeni"
+      ],
+      "tags": [
+        "人事"
+      ],
+      "summary": "伊藤忠丸紅鉄鋼社長に石谷氏 日本経済新聞",
+      "source_count": 1
+    },
+    {
       "id": "05c5088811cd4330",
       "title": "商社の兼松､一気に2社の子会社TOBに動いた当然の背景",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3THpGSThpbFpBQVphaTNFYldhdkh3Y3dTUXp0Y01sZktCMGktN0otdEJud1pQdnA4dV9ZTmluMHZIV2VQSnpDUWdOYnBiNDhCV2pJSUszUQ?oc=5",
@@ -8464,6 +8669,21 @@
       "source_count": 1
     },
     {
+      "id": "92aace8670c409be",
+      "title": "世界で事業展開する総合商社「双日株式会社」、 AI契約審査プラットフォーム「LegalForce」を導入 ～総勢70名による大規模法務部の活用事例を公開～",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE11QXgzQkVPT0RkczRvTnJCTDhSOEFaUmhMSlEybGs5a0pMTHplYmRuMk5fc2JYWnlOV2JJZUZHZUZhUQ?oc=5",
+      "source": "株式会社LegalOn Technologies",
+      "published": "2022-01-18T08:00:00+00:00",
+      "company_ids": [
+        "sojitz"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "世界で事業展開する総合商社「双日株式会社」、 AI契約審査プラットフォーム「LegalForce」を導入 ～総勢70名による大規模法務部の活用事例を公開～ 株式会社LegalOn Technologies",
+      "source_count": 1
+    },
+    {
       "id": "2b46c85244509106",
       "title": "双日(株)【2768】：株価・株式情報（夜間PTS含む）",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zVFhWdVQtNXV5dzV5Yzd5dHdfd2tfUXdGZnpjbXVpNDExU3JwT0dCUkZhajVXRThHUU5INGdoZTZVcGJlamctclM4UjRXNEF1NVE?oc=5",
@@ -8624,6 +8844,23 @@
       ],
       "tags": [],
       "summary": "国内鉄鋼建材事業の統合について | 住友商事 Sumitomo Corporation",
+      "source_count": 1
+    },
+    {
+      "id": "43fcfc93651fd1bf",
+      "title": "中国浙江省における自動車用鋼管の製造・販売合弁会社設立について【伊藤忠丸紅鉄鋼】",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92Tjh5YWFOZ1hzV2dHYVBqbDl6eGhZRU0yWFNrQ2RVRkxObjFGQXpDOWQ3Ullwa1A3bjRPZEV6alZQYVAxS1BEZEZmNEM0YXlQcXdiTXdkOW1ldEVnUUFsbTNtVmY?oc=5",
+      "source": "Marubeni Corporation",
+      "published": "2013-05-16T07:00:00+00:00",
+      "company_ids": [
+        "benichu",
+        "marubeni"
+      ],
+      "tags": [
+        "提携",
+        "海外"
+      ],
+      "summary": "中国浙江省における自動車用鋼管の製造・販売合弁会社設立について【伊藤忠丸紅鉄鋼】 Marubeni Corporation",
       "source_count": 1
     },
     {
