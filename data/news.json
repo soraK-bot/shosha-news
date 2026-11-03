@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T22:30:54.669132+00:00",
+  "updated_at": "2026-11-03T03:40:56.901601+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -92,6 +92,75 @@
     "就活"
   ],
   "articles": [
+    {
+      "id": "1a7efa92a11b1cd0",
+      "title": "長瀬産業が香港に新会社、グレーターチャイナ・ASEAN統括",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zY2RMbXBnZ2RFRXJFb3NOQ0lBY1R0UjgzZ2swZ01tcnlHZ1JlS0V2XzhXdm9wV2ViaTM3VWc3dktxb21CVzctYzI1Wnp2bWd2aDdHel9OT3VWN0FvYlNVby1yMHo1NXZy?oc=5",
+      "source": "ashu-chinastatistics.com",
+      "published": "2026-11-03T02:42:00+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [
+        "新規事業"
+      ],
+      "summary": "長瀬産業が香港に新会社、グレーターチャイナ・ASEAN統括 ashu-chinastatistics.com",
+      "source_count": 1
+    },
+    {
+      "id": "01bebc0f596d9bf7",
+      "title": "長崎県諫早に蓄電所整備へ ＪＲ九州と住友商事など ２０２８年１２月の運転開始を予定",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14LXNieUVvVTNvUkdlRHRNbkhHTk41UU51ekw4SGFkRHlzMFNRQURWRGV1V2FpVkcyYVpVTGdzS3hlZmxJRmNOV2dDYw?oc=5",
+      "source": "47NEWS",
+      "published": "2026-11-03T01:20:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "長崎県諫早に蓄電所整備へ ＪＲ九州と住友商事など ２０２８年１２月の運転開始を予定 47NEWS",
+      "source_count": 1
+    },
+    {
+      "id": "4a8b68e73ddfc8d2",
+      "title": "長崎県諫早に蓄電所整備へ JR九州と住友商事など 2028年12月の運転開始を予定",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PYVliZTZvYXd0OGdtNFJYazhoOWNUdVlwSTN3TGpmNmQ5Z1FHTXhmU0Itd2lvLUpvc3BGNFpCOVpkbWpwX1h1X3EwWDdBZw?oc=5",
+      "source": "NEWSjp",
+      "published": "2026-11-03T01:20:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "長崎県諫早に蓄電所整備へ JR九州と住友商事など 2028年12月の運転開始を予定 NEWSjp",
+      "source_count": 1
+    },
+    {
+      "id": "50cad5b02a4164b0",
+      "title": "丸紅コンシューマーリンク、「サッカー」の体験型ポップアップ「ENDORPHIN HUB」をを代々木公園内のランニングステーションに期間限定オープン",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JSEkwSk56Y2l5TEFSUDM0YUMybnNsVjBNOUszc09rNnZxSmc1c2VjSldwYnRNOFdTbkI1MkdBREI3YmNGMFlIRGYxcw?oc=5",
+      "source": "シューズポストオンライン",
+      "published": "2026-11-03T01:03:23+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "丸紅コンシューマーリンク、「サッカー」の体験型ポップアップ「ENDORPHIN HUB」をを代々木公園内のランニングステーションに期間限定オープン シューズポストオンライン",
+      "source_count": 1
+    },
+    {
+      "id": "b70610576103b34e",
+      "title": "三井物産都市開発 物流開発用地を取得第3弾の開発地",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRNDZ3TE4wd2Z3bEEyeW9ualV3eVdNNjJiSUt0a1hjSlNjTkJhcWxjTXg1LXVXOTYxbFU3MmRfVTRRN0ViMktXblpqcXp6VFFEYmc?oc=5",
+      "source": "住宅新報",
+      "published": "2026-11-02T21:48:19+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "三井物産都市開発 物流開発用地を取得第3弾の開発地 住宅新報",
+      "source_count": 1
+    },
     {
       "id": "439ccee6b05516ef",
       "title": "三菱商事、カナダLNG子会社の49.9%をブラックストーンに16億ドルで売却へ",
@@ -327,6 +396,21 @@
       ],
       "tags": [],
       "summary": "三菱商事[8058]：特定子会社の異動に関するお知らせ 2026年11月2日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "ccb4e8f68e75dd82",
+      "title": "ナウキャスト、三菱商事都市開発向けにAI活用の法人営業支援ツールを提供開始",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhRlRFeVduelB0TzJrZVU0V0l5UnlaQ1lBOUlDVmdLcjdfQ3RaeEE2a3o4Z0cyQXZVQ3JRUXloSDJmdzRtSS1XOElzMlVWUW1Qd2k3dktmUjVlTkNfWDhab21ZV0RldWhxcUYyX2Nn?oc=5",
+      "source": "ニュースメディアVOIX",
+      "published": "2026-11-02T06:27:50+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "ナウキャスト、三菱商事都市開発向けにAI活用の法人営業支援ツールを提供開始 ニュースメディアVOIX",
       "source_count": 1
     },
     {
@@ -707,7 +791,7 @@
       ],
       "tags": [],
       "summary": "ナウキャスト、三菱商事都市開発へ法人営業AXツール「DataLens法人営業」およびデータベースサービス「DataLens CRE営業」を提供開始 PR TIMES",
-      "source_count": 1
+      "source_count": 2
     },
     {
       "id": "65e7eac319ef75f1",
@@ -3072,6 +3156,19 @@
       "source_count": 1
     },
     {
+      "id": "b70e7af15acddda3",
+      "title": "なぜ「トヨタは生産が止まらない!?」 世界的な部品不足にも強い理由！ 知られざる総合商社「豊田通商」の実力とは",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yaHBNa3NQUGZ2eUlMN3dHT2kxRjdqSWxROTN4dlNRcDZMVGtubUIwQlhobjVQcGtLWWpQUE84dDJIelFNNWgwalV3bFNWSmxKME9talZTZw?oc=5",
+      "source": "ベストカーWeb",
+      "published": "2026-10-14T07:00:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "なぜ「トヨタは生産が止まらない!?」 世界的な部品不足にも強い理由！ 知られざる総合商社「豊田通商」の実力とは ベストカーWeb",
+      "source_count": 1
+    },
+    {
       "id": "d33252a3ef7bd062",
       "title": "三菱商事の不動産事業トップが明かす“半歩先”戦略、JR東と異例タッグの伊藤忠や大手デベの包囲網に挑む「独自路線」の勝算",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MRF84Wldoa1o0R25wWU5WY2tveHVLRE9GVjJNZllxTE55Z0xlUHhmbVh5ckxDbWtSWkFSVHFBaDRuOVd2dGl3Tl94d03SAU9BVV95cUxQcTdSamRhckkydWFNbHZCMVFVNFZaS2VCcEtUU1gtSWVIeXRuLWtSTEJ5ejE4bHVYSGUxZEpaU181bkEzdkpKWnBPdG9wVWZF?oc=5",
@@ -3692,6 +3789,19 @@
       ],
       "tags": [],
       "summary": "キラキラじゃないキャリアの話 伊藤忠商事社員に聞く 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "c8cb7497bd1cc55f",
+      "title": "伊藤忠商事の若手社員が語る 特別キャリアセミナー | 日経電子版 for Education",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CVWE5MUNlR2F6bldfdWZ1SlBROVpDMVZZU1UyTmFWa09LVUhLd0pyMURzSUl1YWlSQzNqbldSTThVREw2VV9yOGdQbUtJMDVYMWNUTDUzbUk2TjZhVml6ZWtsOGFqMWt5MmpUMXEzU1ctMGpqWWFB?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-09-29T07:00:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "伊藤忠商事の若手社員が語る 特別キャリアセミナー | 日経電子版 for Education 日本経済新聞",
       "source_count": 1
     },
     {
@@ -5539,6 +5649,22 @@
       "source_count": 1
     },
     {
+      "id": "fac4de072a9a2747",
+      "title": "大手商社、一般・事務職に脚光のワケ…三菱商事は新卒採用８年ぶり再開",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5QZ3kxRTd5WGR1QWFDSE5sYzNlQl9rWjM5b2liallFVUFNWkNWVktUVGhFUGpDeWhnUmhFdENmcF80Zw?oc=5",
+      "source": "ニュースイッチ by 日刊工業新聞社",
+      "published": "2026-04-15T07:00:00+00:00",
+      "company_ids": [
+        "mitsubishi",
+        "sojitz"
+      ],
+      "tags": [
+        "就活"
+      ],
+      "summary": "大手商社、一般・事務職に脚光のワケ…三菱商事は新卒採用８年ぶり再開 ニュースイッチ by 日刊工業新聞社",
+      "source_count": 1
+    },
+    {
       "id": "44d6272d305d331e",
       "title": "住友商事株式会社、タイ王国／バイオエタノールの日本向け輸出に関する調査事業が、経済産業省の令和6年度補正グローバルサウス未来志向型共創等事業費補助金（小規模実証・FS事業）に採択",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kWWpSVFRGcTVhbm5UeWg0X0luVDNSUmVMdWxYWDB0TFhrZlJPTUlXYmRrSFprN1FrRGFjandnekNXVDJicGRTRXBpdzUxVExfZlRUUkhiaFVNQnE4Rmt6UjBNZ092M1N0NGlJSEE0QkYtZw?oc=5",
@@ -5731,6 +5857,19 @@
         "人事"
       ],
       "summary": "2026年度入社式 社長メッセージ | 住友商事 Sumitomo Corporation",
+      "source_count": 1
+    },
+    {
+      "id": "80249fdbcffca39a",
+      "title": "住友商事、HalliburtonへSekal ASの株式を譲渡",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XUHFUdXNzQ2FwMnJkN0tKazhpMVNjZThpTklyT3I2YmpfMjkzQWl1cG9nMjktZ25KOWhIQ2ZnWk1ia1dCZEdPYngxZEpad1NJNk9aNS1ZajBHemdXeUI0OFFLWGt3enZhNnd4YVF2cFItZWZwajk0?oc=5",
+      "source": "Sumitomo Corporation",
+      "published": "2026-04-01T07:00:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "住友商事、HalliburtonへSekal ASの株式を譲渡 Sumitomo Corporation",
       "source_count": 1
     },
     {
