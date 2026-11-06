@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T10:50:31.156822+00:00",
+  "updated_at": "2026-11-06T22:29:31.224748+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -92,6 +92,36 @@
     "就活"
   ],
   "articles": [
+    {
+      "id": "3892bf7858939de4",
+      "title": "アフリカ芸術家を表彰 豊田通商 ：地域ニュース",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43b1NuZHd2X2JfeXpGSDRXT3JHM3FFS1RsUk9TVnFtd3dqLUJ4eldUTFRkbjZaenBtTW8xa2RXSzRnS2hLWHJPdng5STZwTEJheGtqSFkzaHAzSC14UE84TDVYRHRYZjFaT1dqQ1cyMzk?oc=5",
+      "source": "読売新聞",
+      "published": "2026-11-06T20:00:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "海外"
+      ],
+      "summary": "アフリカ芸術家を表彰 豊田通商 ：地域ニュース 読売新聞",
+      "source_count": 1
+    },
+    {
+      "id": "77c1d62215906b41",
+      "title": "伊藤忠商事、コンサルのシグマクシスに追加出資 52億円で持ち分法化",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PR1FldjdJUVdWRUhEMzBfXzdZWktnUm13alJuNDQ0UlBLb09xakowTnp6MHRVSlpYQWxMVjdYbE9wbjI5Q2tRcElJWHFTekN3NmlCNVMxbFlSTkU1ekpzTDlSLTc5MWV4allJQQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-06T11:33:18+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "伊藤忠商事、コンサルのシグマクシスに追加出資 52億円で持ち分法化 日本経済新聞",
+      "source_count": 1
+    },
     {
       "id": "b8c9b40dd0fdbb93",
       "title": "北海道電力や三井物産、苫小牧周辺のアンモニア拠点事業化へ新会社",
@@ -230,6 +260,21 @@
       "source_count": 1
     },
     {
+      "id": "f6b441ce61054675",
+      "title": "伊藤忠商事株式会社と資本・業務提携契約を新たに締結",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZTno3a3pKcDVWM1J0ejZFMDI2aUhXdzl3aC1SdHZrTDV6NUNlSjRCSTVucmhOM2JwT1JaV1M3SzlZNjJaTU91clRGdERVRVVwNnJweGN3VjhXbVN0S2Z4WlVZWm9tcERfd2c?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-06T08:03:31+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "提携"
+      ],
+      "summary": "伊藤忠商事株式会社と資本・業務提携契約を新たに締結 PR TIMES",
+      "source_count": 1
+    },
+    {
       "id": "818bf00c1afba9e9",
       "title": "株式会社シグマクシス・ホールディングスとの資本・業務提携について",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94ajFzMlFHblJ3TGdtSHVlQmRLRDg0WWN1SXJiOUEteGoyTXItZmdlQWlVYjVKb3dIUmpGcnRQTWdDYmZ4eVJTTU91WVJzZEh6MDNqUkhKakRTbWxncWQ0Q05Db0lyUQ?oc=5",
@@ -350,6 +395,23 @@
       "source_count": 1
     },
     {
+      "id": "4f32912084885208",
+      "title": "【Marubeni FY2026 Q2 決算説明会】丸紅、中間純利益11%増の3,380億円で過去最高更新 GC2027目標を1年前倒し達成へ、通期6,300億円に上方修正・10円増配",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9raU1faEJNSEpqODZKOEZrUUd4S1VOWTNQeTlxYVo2TWN5ZGhtWUt0X3N1Tm5MS0hMaEwxeGxnWFBoSE9TaXN2d2xiZmQ1MUhGUnJCNHFQV3J3V3JiWVhj?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-11-06T06:24:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "株主還元",
+        "業績予想",
+        "決算"
+      ],
+      "summary": "【Marubeni FY2026 Q2 決算説明会】丸紅、中間純利益11%増の3,380億円で過去最高更新 GC2027目標を1年前倒し達成へ、通期6,300億円に上方修正・10円増配 BigGo ファイナンス",
+      "source_count": 1
+    },
+    {
       "id": "b10c8f8be72cb3e1",
       "title": "三井物産、株価一段安 ロシア事業の地政学リスクで連想売り",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoMERmdmt1S1B3aFpmdnlRbHlUdkNaOThvUUdQcE1XMjRrRGZWWXVuRGt5OERfQU1maXFFV19aRWFLMnNMYldJVkxsemdUSkdUR3NGU0pIdHlfeGt4NGVOQ1ZEZDBPMlFTWlY1Rg?oc=5",
@@ -408,6 +470,19 @@
         "業績予想"
       ],
       "summary": "三菱商事、上限1兆円の自社株買いを発表 過去最高益予想で市場も好感 東京報道新聞",
+      "source_count": 1
+    },
+    {
+      "id": "ac61ba2ab35e352b",
+      "title": "ロシアの「企業管理」措置、日本にも 商社など100社以上が拠点",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IYkU2bkFpbHdzM0JoTVdaLURjX1BkTXN6aGZsQm5tZVZIN2V3SEJpa0U3ZkFKUXRja19SMjNhbTRMZEVvSW5wQU1QcVZ2dzRQTHBKemlzcWdVVTFVTGhlN3h1Vi15Z3lQVzNyWg?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-06T01:08:03+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "ロシアの「企業管理」措置、日本にも 商社など100社以上が拠点 日本経済新聞",
       "source_count": 1
     },
     {
@@ -7074,6 +7149,21 @@
       "source_count": 1
     },
     {
+      "id": "5933098be48d77b2",
+      "title": "タイにおけるガス火力発電事業の保有株式の一部を売却 | 住友商事",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DM0JGa1Rkd0UxZnBMZ2V5LTQzaFFNTVAyYTJYWS1wTTdEYXpfNnFWcmFkR3BhUnMzYzJZb2hncl9keXlnTTl2SVN1NUpoLVhfYzMzQ09TSTM1Sm9RaS0zZjZsdy1OSVFZMmw5RnhXUURmQQ?oc=5",
+      "source": "Sumitomo Corporation",
+      "published": "2026-09-17T07:00:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "M&A"
+      ],
+      "summary": "タイにおけるガス火力発電事業の保有株式の一部を売却 | 住友商事 Sumitomo Corporation",
+      "source_count": 1
+    },
+    {
       "id": "ff7a03e8c60c08b0",
       "title": "Power Appsは「プロ開発」、kintoneは「利用者開発」──伊藤忠丸紅鉄鋼の“いいとこどり”ツール選定戦略",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ndnlJNEFRenZaOW10dUxvYmM4SFVLZThSNUNpWGtuVVpzdzV3d2g0NnktUElHZHpDdW5XSmJZUHpvWWNlemtnX2UzdEpmQmc?oc=5",
@@ -8946,96 +9036,6 @@
       ],
       "tags": [],
       "summary": "住友商事株式会社、タイ王国／バイオエタノールの日本向け輸出に関する調査事業が、経済産業省の令和6年度補正グローバルサウス未来志向型共創等事業費補助金（小規模実証・FS事業）に採択 Sumitomo Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "4cb2a7f3dc5f63b9",
-      "title": "「デジタルトランスフォーメーション（DX）銘柄2026」に選定",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXUy1CaFNwU3dKM2UtQ2pwbzRlN0FDVlp2My1UNDBQaWhNSUZnX0NLb1RsdmNGdC15UWJRM1hLUmM5Unc5Mm1NUFljaDJMb3FlaVh2cDdoZVF3MWs2ZTBSMkpHMXBqdw?oc=5",
-      "source": "伊藤忠商事株式会社",
-      "published": "2026-04-10T07:00:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "「デジタルトランスフォーメーション（DX）銘柄2026」に選定 伊藤忠商事株式会社",
-      "source_count": 1
-    },
-    {
-      "id": "652971fded7850dc",
-      "title": "2026年度（第52回）丸紅基金 社会福祉助成金申込募集開始について",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TMUtHU1RhYzh3VlRHdXlvOEkwMXA4ajNYSzh4LWFUaDh5RVk1V0NFLWJodmJ5eEVUcE9kd0ZqdGs2YWJtZnJ2WTZFckFNMVFBaUFSRlljM1VhLVlUMVBIMzJuTDFVbUU?oc=5",
-      "source": "Marubeni Corporation",
-      "published": "2026-04-10T07:00:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [],
-      "summary": "2026年度（第52回）丸紅基金 社会福祉助成金申込募集開始について Marubeni Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "52fc2cde40d435cb",
-      "title": "丸紅グループが描く生成AI活用の全貌 〜内製開発・AIエージェント活用で変わる総合商社の姿〜",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN3RKODRzN3FEaktTMklCNmVlUWMyVG96aFZzNmdGVF81Wm4zMHl5Qk9XeGZZQ2Q2dDhTVTBBanpyd0ExX2VGdkMtb2RmZWFxeXFTd2F2RGJTRjdkLVZzOHRhVDg2SjR1UFQ2am1aYXdPU0RxUkhDY3NMMk5pZHl2OHBNeWt5WnFWaWk4?oc=5",
-      "source": "Amazon Web Services (AWS)",
-      "published": "2026-04-10T07:00:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "丸紅グループが描く生成AI活用の全貌 〜内製開発・AIエージェント活用で変わる総合商社の姿〜 Amazon Web Services (AWS)",
-      "source_count": 1
-    },
-    {
-      "id": "0789c5e83789fd20",
-      "title": "メタルワン、タイのステンレス鋼板加工会社PSCTHを完全子会社化 (レスポンス)",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPSC13aFJjTktOeGN0ZTlJTzgzWE5ic2ZFc2JtcktEdGw0OVhKVTUtbWNJWlNJcnNrMXRTeWpxd0JLYjFQdUNDYXpKN3RHeEs0c0tmeDhMRGNIN0hFQ0RNWWFJNm9NcFdlLUxOQTRocXVGVGF3MHBYdWc2ZVVxOXBOREtCdk1ocl9aMFBNY3VHYVZJSXRPRlpKNmFuc2ZHMDNBMGQ5a0xFNzdkLXg3U2drOWJxTXdxOUgyT0RuSjNDbVFhT1NrVUlwcWJtZXpwX05EYmI4S3lGT29CRnpHRDFZUzZ3UXJGZjZnVnZPeVF3cmZXUmcxNWdfczhhNWNzNU9sNWx1c19wTmRmZ00?oc=5",
-      "source": "NewsPicks",
-      "published": "2026-04-03T07:00:00+00:00",
-      "company_ids": [
-        "metalone"
-      ],
-      "tags": [
-        "M&A"
-      ],
-      "summary": "メタルワン、タイのステンレス鋼板加工会社PSCTHを完全子会社化 (レスポンス) NewsPicks",
-      "source_count": 1
-    },
-    {
-      "id": "0c5541561af3442e",
-      "title": "米国DASI社の株式追加取得による完全子会社化について～航空機アフターマーケット・アセットトレード領域における事業プラットフォームの拡充～",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56S1d0QVhIN0p1QkZYdEFDNk54MlNzMThRdzZoVE5LNmZUUE9OLUVoWnFzQ3dOWF9CUGZTTFd4WjEwczE4OHg0WUNNbEFSTE9EMjNTS0RDMlhiNTRTWnhYMTdEYjJvZ1U?oc=5",
-      "source": "Marubeni Corporation",
-      "published": "2026-04-03T07:00:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "M&A",
-        "投資",
-        "海外"
-      ],
-      "summary": "米国DASI社の株式追加取得による完全子会社化について～航空機アフターマーケット・アセットトレード領域における事業プラットフォームの拡充～ Marubeni Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "90e382d16f8e28f2",
-      "title": "メタルワン、タイのステンレス鋼板加工会社PSCTHを完全子会社化",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11ZVBFR1JhX3duM1ZYNG9xVUVmTW91dkVNVXhnMWFvYnY1bGZic2FMWEtvNXZFcWhULWtFWERZdWFjdWJUVG5oQzdQUTljREZqSjNsVHBfVU9zbUVobnN3?oc=5",
-      "source": "レスポンス（Response.jp）",
-      "published": "2026-04-03T07:00:00+00:00",
-      "company_ids": [
-        "metalone"
-      ],
-      "tags": [
-        "M&A"
-      ],
-      "summary": "メタルワン、タイのステンレス鋼板加工会社PSCTHを完全子会社化 レスポンス（Response.jp）",
       "source_count": 1
     }
   ]
