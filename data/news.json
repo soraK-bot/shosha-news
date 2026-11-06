@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T22:38:54.539716+00:00",
+  "updated_at": "2026-11-06T03:43:29.815803+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -92,6 +92,69 @@
     "就活"
   ],
   "articles": [
+    {
+      "id": "c0dfee368d806b31",
+      "title": "三菱商事･三井物産･住友商事･丸紅…商社大手の通期見通し、4社が当期益上方修正の要因（ニュースイッチ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80TE50UHE5dGNmMkRtaGRHbTUtUWdLSG14Q1RNdTFmUnpoYkMzQVJtWUgwMnhoR3l0VUpralhDS3F6NjhrdjAwVE44cS1WdERkcjRjU2dpLXYxNEZ4Mmhpa0hoYTZpdHMzZnd4OUFVVHJydkxLaDZZR2laWGxLdlk?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-06T02:20:09+00:00",
+      "company_ids": [
+        "marubeni",
+        "mitsubishi",
+        "mitsui",
+        "sumitomo"
+      ],
+      "tags": [
+        "業績予想",
+        "決算"
+      ],
+      "summary": "三菱商事･三井物産･住友商事･丸紅…商社大手の通期見通し、4社が当期益上方修正の要因（ニュースイッチ） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "4f458d4de39888b6",
+      "title": "三菱商事、上限1兆円の自社株買いを発表 過去最高益予想で市場も好感",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzYndMTHgzM0dmQTVUM2Roa1k4SlFHaEVHVnZPc2xwSTNIQ0xrMGN4TVVTeE9GRUNYbF9pXy00N08ya3UxU1I3eXJDa2JvYWl4SWI0?oc=5",
+      "source": "東京報道新聞",
+      "published": "2026-11-06T02:02:55+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "株主還元",
+        "業績予想"
+      ],
+      "summary": "三菱商事、上限1兆円の自社株買いを発表 過去最高益予想で市場も好感 東京報道新聞",
+      "source_count": 1
+    },
+    {
+      "id": "9a9858de56e52169",
+      "title": "住友商事とSCSK、SDVデジタルエンジニアリングサービスの提供を開始 グループの総合力でSDV車両の一括開発に対応",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCbnNRTXNPWTEzUmhjdTZ5QVlnWk1TQUJRTzZhVzJBTDlGOHBVOURnbjBwTFl6WmJkTGpaUHNLNTVGRVlfeUJxX2Y4dEh0bzkzSm94X0U0Y1pvTDlUVWc?oc=5",
+      "source": "LIGARE（リガーレ）",
+      "published": "2026-11-05T23:34:55+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "住友商事とSCSK、SDVデジタルエンジニアリングサービスの提供を開始 グループの総合力でSDV車両の一括開発に対応 LIGARE（リガーレ）",
+      "source_count": 1
+    },
+    {
+      "id": "4abe2a9d564397b5",
+      "title": "伊藤忠商事とソニーミュージック、「音楽に出逢える雑貨店」を原宿に期間限定オープン",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Za18weDBzTjk3MVhvQTFiVU5KLURVODRHQ1BjNWowVFBIVTJxTFhMZ0U5MzItZldiMmZidDN4ajNJR05nbW5TM3QwMnFma3c?oc=5",
+      "source": "MarkeZine",
+      "published": "2026-11-05T22:30:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "伊藤忠商事とソニーミュージック、「音楽に出逢える雑貨店」を原宿に期間限定オープン MarkeZine",
+      "source_count": 1
+    },
     {
       "id": "f284b65c5e664620",
       "title": "三菱商事･三井物産･住友商事･丸紅…商社大手の通期見通し、4社が当期益上方修正の要因",
@@ -359,7 +422,8 @@
       "published": "2026-11-05T04:55:00+00:00",
       "company_ids": [
         "itochu",
-        "mitsubishi"
+        "mitsubishi",
+        "sumitomo"
       ],
       "tags": [
         "決算"
@@ -534,6 +598,22 @@
       "source_count": 1
     },
     {
+      "id": "f83a310f42c301e9",
+      "title": "アドウェイズは続急騰、伊藤忠と資本・業務提携締結し電力事業の設備投資など実施",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NZ0FZc3JHN2pZcjFZa050bUpGVlBJZld2VVBuc1FRS2FTZ2tVWGU2LUdlX2VrMUZjY3FncXpnMEVISjFaUm9xbTJzYzFBV0Z6eFRLZktzNlVrSmJYeWlBWA?oc=5",
+      "source": "株探",
+      "published": "2026-11-05T00:40:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "投資",
+        "提携"
+      ],
+      "summary": "アドウェイズは続急騰、伊藤忠と資本・業務提携締結し電力事業の設備投資など実施 株探",
+      "source_count": 1
+    },
+    {
       "id": "996f1264947ebbce",
       "title": "丸紅情報システムズが「Zoom Contact Center」を提供、コンタクトセンターDXをワンストップで支援（クラウド Watch）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yVGlPQlR6Q3RpUXJORDEtekdfdlp3b0h6RmdrRDFPQTNmeVd1dTg3QjJKXzZSdGhmV1A1Sk5CMlN0NnlQckdqQm9jWGl5bkc1Q2hMcHJiNnRFZFYwUkVseHFHRXV0YnVGQlFpaXJya0VReW5jZ0VMY0QxWU5udlU?oc=5",
@@ -576,6 +656,19 @@
         "株主還元"
       ],
       "summary": "アドウェイズ－買い気配 伊藤忠商事と資本業務提携 伊藤忠が筆頭株主に(トレーダーズ・ウェブ) Yahoo!ファイナンスプレスリリース：伊藤忠商事株式会社との資本業務提携、及び同社を割当予定先とする第三者割当による新株式発行及び自己株式処分、経営株主による株式の一部譲渡に関するお知",
+      "source_count": 1
+    },
+    {
+      "id": "6d72b9cb6bcf2b4f",
+      "title": "伊藤忠商事(株)【8001】：掲示板",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QcE04SzBETGczMV9WUU5qdi13SDNBeFMxemNhRHQ2bl9YenFJRFcwdEJpWW04N0FhWTZEbEdJSW8wLVhzOEduTjlDZVA0dXZZU3N3UHpHOXRJZw?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-04T23:43:47+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "伊藤忠商事(株)【8001】：掲示板 Yahoo!ファイナンス",
       "source_count": 1
     },
     {
@@ -1061,6 +1154,22 @@
         "決算"
       ],
       "summary": "〔決算〕三井物産、２７年３月期純利益予想を上方修正 ｄメニューニュース",
+      "source_count": 1
+    },
+    {
+      "id": "d02b0189e891466b",
+      "title": "◎〔決算〕三井物産、２７年３月期純利益予想を上方修正",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yb3lwa2I1YnNyelpqaWd3S0ZodUF3SG9IVVVoNTQzZVdOMUpoMWVscEF2blZmbGFmcmUybEx2QmN6cXlUdDBrTkdfUi1RdDBXal9xaQ?oc=5",
+      "source": "時事通信ニュース",
+      "published": "2026-11-04T08:54:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "業績予想",
+        "決算"
+      ],
+      "summary": "◎〔決算〕三井物産、２７年３月期純利益予想を上方修正 時事通信ニュース",
       "source_count": 1
     },
     {
@@ -1628,6 +1737,19 @@
       "source_count": 1
     },
     {
+      "id": "1ce9bfe4cdaaa31f",
+      "title": "三井物産の株価が本日急落した理由とは 執筆 - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2bGlVaHF5Y1JxTTBfTlh2Ulo1X1dmUnRDZHFxdW1iUmhQU1NSX0wyaEsyVXZjWHlMZ2toNEFwX05RUTR6dWdlNXRPdUU2RUc4Y1FUd3lMaDdrS1VZZ2s5WElaaHBvTGU3R3NUanhWOXVQY3QxRWpj?oc=5",
+      "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
+      "published": "2026-11-04T04:57:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "三井物産の株価が本日急落した理由とは 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "source_count": 1
+    },
+    {
       "id": "12e5878196eba194",
       "title": "伊藤忠、中間純利益16％増の5804億円 非資源分野が牽引し過去最高",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yU19KVmt2YlNOaEhCVmZPY2gtY1RfYlRNMW9rRUV4N05OeDVLQl94bks3YjBMbG5SUTJCb1AyQWZJaENHYlRpRk84Sm5IZncyQUw4Z0FCX1RBRjJLRW40OThDbkhUWHN6N0xtNXlxcDI3RVF5?oc=5",
@@ -1896,6 +2018,22 @@
         "資源"
       ],
       "summary": "三井物産、27年3月期純利益を1兆500億円へ上積み 資源高追い風に市場予想超え BigGo ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "c6d4bb5da4753e40",
+      "title": "三井物産－3日続落 通期純利益を上方修正 上期は36％増〔DZH 個別株情報〕(時事通信)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdWh1NVZDc25lWkZPTzlMWl9tWDlNVFM4SGVYMy15T2xZSkRjcFR1ekZESjZOWEV0NVp0dHdpNmtHcjZrNjRaWmtBZnVoVnY5WmtMcUt1dHhTSUtoWkhLTnFLUnY1dXBmOUcwTnZVNTVqOTdFbjMxdnVkYkY1RjVmZ3ZJUVY4SkE?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-04T03:54:55+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "業績予想",
+        "決算"
+      ],
+      "summary": "三井物産－3日続落 通期純利益を上方修正 上期は36％増〔DZH 個別株情報〕(時事通信) Yahoo!ファイナンス",
       "source_count": 1
     },
     {
@@ -8898,146 +9036,6 @@
         "DX"
       ],
       "summary": "住商メタルワン鋼管／大阪で安全大会 日刊鉄鋼新聞 Japan Metal Daily",
-      "source_count": 1
-    },
-    {
-      "id": "62e3031dfc0f393e",
-      "title": "豊田通商、JOGMECのナミビアにおけるレアアース開発事業に参画",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iZ1oxWi13NTd5NzR2VG5FSVRVaTNwUzJKZTA3RlRZOFhOZnhKazNZTlVuT0xWU2FWTFJQaWE3YlhoNm8zMnE1cFk3UTVMeTVHNTZocEV5aWtwZjJBX0NEdUtwRDRCbUl0R3FZU1pn?oc=5",
-      "source": "豊田通商株式会社",
-      "published": "2026-03-18T07:00:00+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "投資"
-      ],
-      "summary": "豊田通商、JOGMECのナミビアにおけるレアアース開発事業に参画 豊田通商株式会社",
-      "source_count": 1
-    },
-    {
-      "id": "6967fc8702d97b47",
-      "title": "課題解決力ナンバーワンへ／メタルワングループの総合力／４／ＭＯＢＹ／「サステナブル」な独自事業モデルが強み／産業容器のワンストップ機能発揮",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtTWZxbXJBYWtWNndKZUN1QkZPYjBDQnhyM0FESFpWZFVfUDhwTk9ZN05IS3hSWEpjZU9aMjZiSzBNNS1BZzJqdU9nMC02dndydk9heHQ2S0ppU2VJdGc?oc=5",
-      "source": "日刊鉄鋼新聞 Japan Metal Daily",
-      "published": "2026-03-16T07:00:00+00:00",
-      "company_ids": [
-        "metalone"
-      ],
-      "tags": [
-        "DX",
-        "サステナ"
-      ],
-      "summary": "課題解決力ナンバーワンへ／メタルワングループの総合力／４／ＭＯＢＹ／「サステナブル」な独自事業モデルが強み／産業容器のワンストップ機能発揮 日刊鉄鋼新聞 Japan Metal Daily",
-      "source_count": 1
-    },
-    {
-      "id": "d38cc86b812c96ec",
-      "title": "【勝ち組？】兼松の就職偏差値･難易度と平均年収の企業研究【激務？やばい？】",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIWlNtOUV4TDM1bHJFY1NfZGlTck5SSUtRNGZuTXEtYzFoMy1yYlMtLVpCcjlmNWJSTWZkQnZTVnJ6SUd3M3pzeHlLVGhvaFR2d2tYX000MA?oc=5",
-      "source": "就職偏差値.com",
-      "published": "2026-03-16T07:00:00+00:00",
-      "company_ids": [
-        "kanematsu"
-      ],
-      "tags": [
-        "就活"
-      ],
-      "summary": "【勝ち組？】兼松の就職偏差値･難易度と平均年収の企業研究【激務？やばい？】 就職偏差値.com",
-      "source_count": 1
-    },
-    {
-      "id": "84d5a1db807510db",
-      "title": "なぜ今、兼松エレクトロニクス（8096）なのか――オラクル製品の国内有力ディストリビューターが、AI特需の陰で静かに動き始めている｜日本個別株デューデリジェンスセンター",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PSV9jbTluV2RBTVI5UUcxbHZrUlB5UmJqZ0xHY3VVYjdfRFg3LTFQVllaZ0RKMmM1NE9wQnM5Tzg4M0kxRnNQbUJCNFhCb0pvemdZWVZ3MHhNM0E?oc=5",
-      "source": "note",
-      "published": "2026-03-15T07:00:00+00:00",
-      "company_ids": [
-        "kanematsu"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "なぜ今、兼松エレクトロニクス（8096）なのか――オラクル製品の国内有力ディストリビューターが、AI特需の陰で静かに動き始めている｜日本個別株デューデリジェンスセンター note",
-      "source_count": 1
-    },
-    {
-      "id": "51cc90149d82c0d0",
-      "title": "双日、レアアースの輸入量を拡大へ 新たな鉱山開発の検討にも着手",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04emJQSGc2RHZZTlFiSEExN2tJZjJnbWR0T3FHb29vTHRXb29VaVJ0bTBrbEExT19iMVBaUWtYOU9KT192bXlOLVRPODVKTnBDbnl4eWw0Szh5NXpKSmt6OE95ZTNPTkU?oc=5",
-      "source": "朝日新聞",
-      "published": "2026-03-13T07:00:00+00:00",
-      "company_ids": [
-        "sojitz"
-      ],
-      "tags": [
-        "資源"
-      ],
-      "summary": "双日、レアアースの輸入量を拡大へ 新たな鉱山開発の検討にも着手 朝日新聞",
-      "source_count": 1
-    },
-    {
-      "id": "3d5bd29a7beb9eca",
-      "title": "双日 豪でレアアース開発の企業と新鉱山開発に向けて基本合意",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mQ3FBUDFicFlWc1VRdVVQZHNuR293WEtRYjhleVpGTTZ0MVZtR2hFNThKLUFTZ09EbWJzeW93ckNha0V0Qm54dGpGenhYWG1tUzFEV01FemdTaFFDUFJJ?oc=5",
-      "source": "NHKニュース",
-      "published": "2026-03-13T07:00:00+00:00",
-      "company_ids": [
-        "sojitz"
-      ],
-      "tags": [
-        "資源"
-      ],
-      "summary": "双日 豪でレアアース開発の企業と新鉱山開発に向けて基本合意 NHKニュース",
-      "source_count": 1
-    },
-    {
-      "id": "a7e6f44df8f6147f",
-      "title": "伊藤忠丸紅住商テクノスチール社長に平川氏",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UT3REcTRBS1l2UXJxRHBKb3dERXpsWXR0ZGNKUTN1Y2U4alBUN0hRZmlOVlMyMnR3ME1CdXBicmdfV1ViNVo4UVlLZ293LUpyekNUVnBaUjZLdnphOGNBaExR?oc=5",
-      "source": "WEB産業新聞",
-      "published": "2026-03-12T07:00:00+00:00",
-      "company_ids": [
-        "benichu",
-        "marubeni"
-      ],
-      "tags": [
-        "人事"
-      ],
-      "summary": "伊藤忠丸紅住商テクノスチール社長に平川氏 WEB産業新聞",
-      "source_count": 1
-    },
-    {
-      "id": "e0b8a30d73bce768",
-      "title": "ベトナムVINATEA社との戦略的パートナーシップ協定締結について 【丸紅食料】",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vWUdyZ0p3TWpxN2FfMTdqZlZ6aktNMHU0VW9STlAxVDFhZTJLdngxQkR2S3ZaOU5FT3daajlSaWpDb2N3bDNuYXh2UnlMRldUdlZGRDRsc0l3MzlPX1pBTlJLRjk?oc=5",
-      "source": "Marubeni Corporation",
-      "published": "2026-03-12T07:00:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "提携",
-        "食料"
-      ],
-      "summary": "ベトナムVINATEA社との戦略的パートナーシップ協定締結について 【丸紅食料】 Marubeni Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "8bdced160002104a",
-      "title": "伊藤忠丸紅鉄鋼のタイ・ＰＳＰＣ／能率協会「グッドファクトリー賞」で表彰式／石谷社長「ものづくりへさらに貢献」",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDdHNCR3RXcW1IMDJRcHVYWUVUMDZuTlVWWTJWMWM0eVVfVXVoendzZTZ1MTdyTkZmRkdXeFlnbVl0bHlmUlFUSmFiVlkwbHZZN1gxcHVadVlKU2ZhSFE?oc=5",
-      "source": "日刊鉄鋼新聞 Japan Metal Daily",
-      "published": "2026-03-11T07:00:00+00:00",
-      "company_ids": [
-        "benichu",
-        "marubeni"
-      ],
-      "tags": [
-        "DX",
-        "人事"
-      ],
-      "summary": "伊藤忠丸紅鉄鋼のタイ・ＰＳＰＣ／能率協会「グッドファクトリー賞」で表彰式／石谷社長「ものづくりへさらに貢献」 日刊鉄鋼新聞 Japan Metal Daily",
       "source_count": 1
     }
   ]
