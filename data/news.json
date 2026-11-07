@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T22:29:31.224748+00:00",
+  "updated_at": "2026-11-07T03:39:29.995214+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -105,6 +105,20 @@
         "海外"
       ],
       "summary": "アフリカ芸術家を表彰 豊田通商 ：地域ニュース 読売新聞",
+      "source_count": 1
+    },
+    {
+      "id": "9c74bae92a0559ce",
+      "title": "ロシア事業、日本企業65社が継続 撤退には巨額損失伴う事例も",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CdURlTDFFUVdHMjNsbE9YZFZ0b2ZxQ3VwbnN5bEpONnV3cDdsaXJrSWdwMU9CTU5NUy1GemUyT2UxWHRMQlFYR0FrcHRhNHZaMDZPNlk4VHRPZlVIbGw3aGExN0xFMlhQaEY0RA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-06T17:00:00+00:00",
+      "company_ids": [
+        "mitsubishi",
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "ロシア事業、日本企業65社が継続 撤退には巨額損失伴う事例も 日本経済新聞",
       "source_count": 1
     },
     {
@@ -272,6 +286,21 @@
         "提携"
       ],
       "summary": "伊藤忠商事株式会社と資本・業務提携契約を新たに締結 PR TIMES",
+      "source_count": 1
+    },
+    {
+      "id": "ad2229938daba187",
+      "title": "伊藤忠商事株式会社と資本・業務提携契約を新たに締結 (2026年11月6日掲載)",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XaDJpTjR4T2ZZOTZuSzF5cWtxQWFtNmlMNVhsVzd4MnpVQ1BQbkZQa1czdE9oQlNwV1BSQ0hjT2hFUVBQV2dESmwtS0h4UndlOUZROWRQUnF3M2dRd2ZzdTB3?oc=5",
+      "source": "ライブドアニュース",
+      "published": "2026-11-06T08:03:31+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "提携"
+      ],
+      "summary": "伊藤忠商事株式会社と資本・業務提携契約を新たに締結 (2026年11月6日掲載) ライブドアニュース",
       "source_count": 1
     },
     {
@@ -1425,6 +1454,23 @@
       "source_count": 1
     },
     {
+      "id": "bda79f7403b4ee2e",
+      "title": "総合商社4社が上方修正、三菱商事など最高益へ 中東情勢で資源高騰（朝日新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93RmhReDJvNVpjLVcxZ2JSdDhzdUJZcVBuck9feWE3eVJHcWJvczdlS3dYbkMzZmd5NUVXME5SS05oTVk5dENvMXhFcnhfb0YzcHhlTGQ1UHl5b0VsOTdSQ1ZhSy11OXhnNXFYSXhjcVJ4a2E0Z0s3eDZpdDRnYWc?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-04T11:16:00+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "業績予想",
+        "海外",
+        "資源"
+      ],
+      "summary": "総合商社4社が上方修正、三菱商事など最高益へ 中東情勢で資源高騰（朝日新聞） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
       "id": "e357a3eb80fc89f2",
       "title": "〔決算〕三井物産、27年3月期純利益予想を上方修正＝エネルギー、金属の好調反映(時事通信)",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMzc2LWh3Q2pKSzh6R2xVdHdyN0V6eFJYQ0RmS1ZGdmVlNkJSNGxIaFFBV3JscUtKTWNQOHgwM21fSnRZMkFLcHpmVThVbm9IVTlVTlE3U2pEREx2Tjd4ei1rVUFOWmV2bTFralI3OHFHZ0FUcVluVm9hYkszMXRRX2JJUlkyMUU?oc=5",
@@ -1590,6 +1636,21 @@
         "株主還元"
       ],
       "summary": "プレスリリース：伊藤忠商事株式会社との資本業務提携、及び同社を割当予定先とする第三者割当による新株式発行及び自己株式処分、経営株主による株式の一部譲渡に関するお知らせ（PR TIMES） 毎日新聞",
+      "source_count": 1
+    },
+    {
+      "id": "45299571472727b8",
+      "title": "丸紅 FY2026 Q2 決算説明会",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqVDhJTW1zSUdTdFVmYzJra3dGRmV3X0pBSUs0VmJ6QzFQX2oyU0dVeEdIT051ZVNQU2FXZXN5Y3VNZkxtdXFFUlpkNGJjd3RIQzl2eUdxSk5kejJQR0w0UERrcGQtOGtMaGRqV1NDeVFvdVJic2VHRk5jVUs?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-11-04T08:00:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "決算"
+      ],
+      "summary": "丸紅 FY2026 Q2 決算説明会 BigGo ファイナンス",
       "source_count": 1
     },
     {
@@ -2896,6 +2957,21 @@
         "業績予想"
       ],
       "summary": "丸紅、今期最終を9％上方修正・最高益予想を上乗せ、配当も10円増額 株探",
+      "source_count": 1
+    },
+    {
+      "id": "94bcd23ef0207aab",
+      "title": "丸紅(株)【8002】：決算情報",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxN256SWlJbklYNnlWMHhVaTBRTHFxRGlVYzBIT19GNzc5Z2V3TmM0eTF2YVI3dEtvLThCZ2NkTXNCM3lvbEdVaGdWMUw3MVJKcFp0aHlxeWotODZ5ZXh4Mw?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-04T02:00:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "決算"
+      ],
+      "summary": "丸紅(株)【8002】：決算情報 Yahoo!ファイナンス",
       "source_count": 1
     },
     {
@@ -8964,78 +9040,6 @@
         "新規事業"
       ],
       "summary": "法人向け中古IT機器の再流通および第三者保守事業への参入について 伊藤忠商事株式会社",
-      "source_count": 1
-    },
-    {
-      "id": "09065da17847f4d2",
-      "title": "「Any Wear, Anywhere」事業をコスモスホテルマネジメントへ承継 | 住友商事",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15OUtYNk9RSlljVno2R09QSDhpM1lyNWR0dm8tTmpaa1NpdVRWUWNjbTVqazVaa2J6X09rLU8wU2JyNFlzYUxncFUtaHZqOXJ4NkN0Zl9mZ2JTQU5hZTFBZVRRc2lIZjQwVGJ5X01ta1VXUkdl?oc=5",
-      "source": "Sumitomo Corporation",
-      "published": "2026-04-21T07:00:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [],
-      "summary": "「Any Wear, Anywhere」事業をコスモスホテルマネジメントへ承継 | 住友商事 Sumitomo Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "8056714831070285",
-      "title": "SmartestEnergyによるイベリアおよび中南米における電力・ガス卸売・小売事業への参入について",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtb3pGWF9BN2RfUDA1SkgzTG9Cdk40X1l4UjhuekhfSFByZW8yUXhURmZoTnpva1huNEltUEEyeVV2TmE4Nm9oWDJCNTlla2VhUEFLNVpTWHJndmMzSmdrU0c0ZHoyR28?oc=5",
-      "source": "Marubeni Corporation",
-      "published": "2026-04-17T07:00:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "新規事業"
-      ],
-      "summary": "SmartestEnergyによるイベリアおよび中南米における電力・ガス卸売・小売事業への参入について Marubeni Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "fac4de072a9a2747",
-      "title": "大手商社、一般・事務職に脚光のワケ…三菱商事は新卒採用８年ぶり再開",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5QZ3kxRTd5WGR1QWFDSE5sYzNlQl9rWjM5b2liallFVUFNWkNWVktUVGhFUGpDeWhnUmhFdENmcF80Zw?oc=5",
-      "source": "ニュースイッチ by 日刊工業新聞社",
-      "published": "2026-04-15T07:00:00+00:00",
-      "company_ids": [
-        "mitsubishi",
-        "sojitz"
-      ],
-      "tags": [
-        "就活"
-      ],
-      "summary": "大手商社、一般・事務職に脚光のワケ…三菱商事は新卒採用８年ぶり再開 ニュースイッチ by 日刊工業新聞社",
-      "source_count": 1
-    },
-    {
-      "id": "cec6eab706460c7a",
-      "title": "長瀬産業、グループの食品素材等の販売事業を段階的に統合",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12ekpwV1k0UHN4a1Y2NU5BclBDcHB0Q1h3bjU1RE1DQzc2a3h5LWI2T2NQS2VPS1JMdkR5YmNMVXFHWkpFc2VyUFVMTXJMMklMVUJjbXk0b0g2RmlSMEx1R2l3RnFPaGVEcmVFOA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-04-15T07:00:00+00:00",
-      "company_ids": [
-        "nagase"
-      ],
-      "tags": [
-        "食料"
-      ],
-      "summary": "長瀬産業、グループの食品素材等の販売事業を段階的に統合 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "44d6272d305d331e",
-      "title": "住友商事株式会社、タイ王国／バイオエタノールの日本向け輸出に関する調査事業が、経済産業省の令和6年度補正グローバルサウス未来志向型共創等事業費補助金（小規模実証・FS事業）に採択",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kWWpSVFRGcTVhbm5UeWg0X0luVDNSUmVMdWxYWDB0TFhrZlJPTUlXYmRrSFprN1FrRGFjandnekNXVDJicGRTRXBpdzUxVExfZlRUUkhiaFVNQnE4Rmt6UjBNZ092M1N0NGlJSEE0QkYtZw?oc=5",
-      "source": "Sumitomo Corporation",
-      "published": "2026-04-14T07:00:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [],
-      "summary": "住友商事株式会社、タイ王国／バイオエタノールの日本向け輸出に関する調査事業が、経済産業省の令和6年度補正グローバルサウス未来志向型共創等事業費補助金（小規模実証・FS事業）に採択 Sumitomo Corporation",
       "source_count": 1
     }
   ]
