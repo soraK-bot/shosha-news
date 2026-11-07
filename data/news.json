@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T03:39:29.995214+00:00",
+  "updated_at": "2026-11-07T10:29:22.660054+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -92,6 +92,22 @@
     "就活"
   ],
   "articles": [
+    {
+      "id": "d8dfe3d91796ba47",
+      "title": "リーガルコーポレーション、「REGAL」のオリジナルソール「EARTH GRIP by MILVASTA」が2026年度グッドデザイン賞を受賞 ーー日進ゴム、伊藤忠商事との共同開発。多様な路面環境への対応を評価",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LczVhVGNpMEY5MmszU3ZBNHc4TUxTSklVako5UjlMRW1tS19GbGFwX0pOeHN5Q1l0eFk3MnBvYTRVWktRdHAycUdnSQ?oc=5",
+      "source": "シューズポストオンライン",
+      "published": "2026-11-07T07:02:15+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "サステナ",
+        "提携"
+      ],
+      "summary": "リーガルコーポレーション、「REGAL」のオリジナルソール「EARTH GRIP by MILVASTA」が2026年度グッドデザイン賞を受賞 ーー日進ゴム、伊藤忠商事との共同開発。多様な路面環境への対応を評価 シューズポストオンライン",
+      "source_count": 1
+    },
     {
       "id": "3892bf7858939de4",
       "title": "アフリカ芸術家を表彰 豊田通商 ：地域ニュース",
@@ -334,6 +350,23 @@
       "source_count": 1
     },
     {
+      "id": "c5aad96eed7cb248",
+      "title": "【決算速報】長瀬産、今期経常を29％上方修正・最高益予想を上乗せ、配当も3円増額(株探ニュース)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYnFGUzFHVDNCUWh1WHJrWm9HYU5oWk5mX2ZoeUtQZ1VoMkU3X0pSUFZHY0tpc3NpazI1ZlBwNkFUYWd5M0RZVnNXeTBGOTJIWGdfYWhjcVBNN2daam9KU1lqX3BqQXZHZEtIU29ibTlwRW53UmNnZmVLb1hjTzRrZFBIRlVVcm8?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-06T06:31:22+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [
+        "株主還元",
+        "業績予想",
+        "決算"
+      ],
+      "summary": "【決算速報】長瀬産、今期経常を29％上方修正・最高益予想を上乗せ、配当も3円増額(株探ニュース) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
       "id": "2c427a2df3b4422a",
       "title": "28卒就職人気ランキング、伊藤忠が圧倒的な強さ 東宝、任天堂、カドカワ…アニメゲーム企業人気も健在（オタク総研）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96ZDhYWXVtemJIMnVuUlZIUWU2a2ZZNEFqc25zYnZyYWMyM1RLRm9UdnhNaWE2UjM4c0FUY1M2LUNFRUpxUlhOU3VCUFJQVDd3clRYR0xSZ1NNaWg1Qzl2QlFaWWJlR0Z2YnpOMjBQZUJsekxGdFdxaXRtbjdwdUE?oc=5",
@@ -555,8 +588,11 @@
         "sumitomo"
       ],
       "tags": [
+        "投資",
+        "株主還元",
         "業績予想",
-        "決算"
+        "決算",
+        "資源"
       ],
       "summary": "三菱商事･三井物産･住友商事･丸紅…商社大手の通期見通し、4社が当期益上方修正の要因 ニュースイッチ by 日刊工業新聞社",
       "source_count": 1
@@ -9010,36 +9046,6 @@
         "脱炭素"
       ],
       "summary": "チュニジアで100MWの太陽光発電所が完工～豊田通商としてチュニジア初の再エネ・IPP事業を開始 豊田通商株式会社",
-      "source_count": 1
-    },
-    {
-      "id": "b4bbda840067ae6f",
-      "title": "〝結露〟予測し、さび予防作業いち早く／ＪＦＥ商事電磁鋼板の名古屋工場／結露監視ソフトを自社開発",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wUHNEMDhhSFFiQ0RwV3V1U1JMN3NBR2QzVTQ3QU1RN09udll2NmlvLVJLU1Z1N21XRkphLU5kam1mMXpqM285b2R1aHVYVUNkREdqelNMSGJVVk44Ymc?oc=5",
-      "source": "日刊鉄鋼新聞 Japan Metal Daily",
-      "published": "2026-04-24T07:00:00+00:00",
-      "company_ids": [
-        "jfeshoji"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "〝結露〟予測し、さび予防作業いち早く／ＪＦＥ商事電磁鋼板の名古屋工場／結露監視ソフトを自社開発 日刊鉄鋼新聞 Japan Metal Daily",
-      "source_count": 1
-    },
-    {
-      "id": "7b21a962a2eb81d2",
-      "title": "法人向け中古IT機器の再流通および第三者保守事業への参入について",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04ZW8zOWZDeGVyVkFhdDdfVXdINVZPS1NWZWJxVjNOMkljR191Z1B0b2xTSmJWVEpXamhBbFphU011S2ljb3J0RDFabjJDQk1LTk5HekU4d0tyZmoxbmdBaHFzU2dWZw?oc=5",
-      "source": "伊藤忠商事株式会社",
-      "published": "2026-04-22T07:00:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "新規事業"
-      ],
-      "summary": "法人向け中古IT機器の再流通および第三者保守事業への参入について 伊藤忠商事株式会社",
       "source_count": 1
     }
   ]
