@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T10:29:22.660054+00:00",
+  "updated_at": "2026-11-07T22:25:51.809177+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -302,7 +302,7 @@
         "提携"
       ],
       "summary": "伊藤忠商事株式会社と資本・業務提携契約を新たに締結 PR TIMES",
-      "source_count": 1
+      "source_count": 2
     },
     {
       "id": "ad2229938daba187",
@@ -454,6 +454,35 @@
         "株主還元"
       ],
       "summary": "長瀬産、自社株買いの実施を発表 株探",
+      "source_count": 1
+    },
+    {
+      "id": "0d0f49aed1ee6a01",
+      "title": "長瀬産業[8012]：自己株式取得に係る事項の決定に関するお知らせ 2026年11月6日(適時開示) ：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YS29XR3R5RnJwSXd4Y0RsazhDa1AyZTA5TEVZWjdEVXZFcGgwN3V3U29MTHlZekNnMUdLNVo4N0NCLXA4Skd5a2FET1dSeFZvTzRHUTRTMEF5aDRVcmsyN0JraHFyTWptTHc?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-06T06:30:00+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [
+        "投資",
+        "株主還元"
+      ],
+      "summary": "長瀬産業[8012]：自己株式取得に係る事項の決定に関するお知らせ 2026年11月6日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "4bb17ab001f500ca",
+      "title": "長瀬産",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQc2NnclA1NW5yejc2dTFSWG1weG1GSzVIbEZtUFFPV1ViQXowOEpKaGdnY3FzQ2NCWEdNSGFlbklBRlVNQ1hoQ0d2bmo0UjZwemY3M2EzT0FPZk1Mdm9aT2dpZzBqV2dXcGc?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-06T06:30:00+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [],
+      "summary": "長瀬産 日本経済新聞",
       "source_count": 1
     },
     {
@@ -893,6 +922,7 @@
       "source": "https://kabu-ir.com/",
       "published": "2026-11-05T03:50:14+00:00",
       "company_ids": [
+        "itochu",
         "marubeni",
         "mitsubishi",
         "mitsui"
@@ -1006,6 +1036,32 @@
       "source_count": 1
     },
     {
+      "id": "3c6dd13c0e8f9cbf",
+      "title": "新生＜Campus＞が音楽カルチャーと共鳴！伊藤忠商事×ソニー・ミュージックレーベルズの「MASHROOM Our Goodies」プロジェクトに参加 | コクヨ株式会社のプレスリリース",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zY1V0Ukg1Z3o5WWQ2YXhDTXVrLWFYVm1LZzdTT01PcmJhUEY4TjZtU0VxWjQzem91S2N6aEF3b2pHZU94UHVBQjNyLW5iS2JzRUI5bzBYYW1KZE1tcVh6VWZ5aWZmb1M4QUE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-05T02:00:02+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "新生＜Campus＞が音楽カルチャーと共鳴！伊藤忠商事×ソニー・ミュージックレーベルズの「MASHROOM Our Goodies」プロジェクトに参加 | コクヨ株式会社のプレスリリース PR TIMES",
+      "source_count": 1
+    },
+    {
+      "id": "9c434624074de5a8",
+      "title": "SBI損保、お見積りセンターの電話基盤をクラウド型プラットフォームに刷新",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13blJzay14Y1AyRXJPZW9MTmNKMGlDMUVqS3JkekFMNDlIZ1A4VTRBVmJlRG45cjRRX09feXp0ZGlmWDJ3Wng1ckRsbTRPR1AyeFpvMy1uSFgwd0ZVYjZKQnY3QzM1YUxQakE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-05T02:00:02+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "SBI損保、お見積りセンターの電話基盤をクラウド型プラットフォームに刷新 PR TIMES",
+      "source_count": 1
+    },
+    {
       "id": "4ad34220b06d594d",
       "title": "ＡＤＷＡＹＳが急騰、伊藤忠との資本業務提携を好感(ウエルスアドバイザー)",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOGQwV1dpOFB6X0IxZzd4T3RMeGo4MTF4WTBtSlM1b29Vb3RIRzhBYzlQWmJzVDBKYl83UWlIUmJKNm10X0daWXktbUZ3UkJqQUlKN3VLSkhmMWlTcGVSbi04VzUzOEU1T2pSWUlhRWlTUmdDV0pPWVh2aG1pS0NaOUJfb1Jrcms?oc=5",
@@ -1078,6 +1134,19 @@
       ],
       "tags": [],
       "summary": "話題株先取り【寄り付き】（3）：スカＪＳＡＴ、丸紅、オルガノなど(株探ニュース) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "85c096ee199665e6",
+      "title": "話題株先取り【寄り付き】（1）：千代建、ヤマトＨＤ、伊藤忠など(株探ニュース)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSVNsMkxvVEpCTzdGN2JpWXMxbVNPQnBHdnpXQ2VLNUppRFpBd080VWR0MmduVXgtS3pCM2RNYzI3eEdINTlvSTZDMW40NUVxYXg2R3lPaGJLdmJHUzN3MnA5eUZiaFpaM0Zvb0NVSkFfMnQ4TDFqQWpUM3lzdGo5UGNkWnlialU?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-05T00:22:50+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "話題株先取り【寄り付き】（1）：千代建、ヤマトＨＤ、伊藤忠など(株探ニュース) Yahoo!ファイナンス",
       "source_count": 1
     },
     {
@@ -1844,6 +1913,21 @@
         "決算"
       ],
       "summary": "三菱商事、通期利益目標を過去最高の1.2兆円に引き上げ 1兆円の自社株買いも発表 BigGo ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "e586296041d8afa9",
+      "title": "AIを活用してCXを向上させる「Zoom Contact Center」の取り扱い開始",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80d1Q0MHlFYkpTb0w2OHJMOFQxcnlrR2loaEhwMVlFVTliT2xoTWhWUGZwclRMQ2dmUEprSVVLMmJXc0VuRXlSWW5FamRZVE5VX3dkLTkyeWFoWHI4QkNGazdHUm9SdXktVWJNN2dVSlJWNXYweEJ2ZjN4TQ?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-11-04T06:15:29+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "AIを活用してCXを向上させる「Zoom Contact Center」の取り扱い開始 ニコニコニュース",
       "source_count": 1
     },
     {
@@ -6828,6 +6912,21 @@
       "source_count": 1
     },
     {
+      "id": "c1295554e6cad3c8",
+      "title": "IWS Fleet、洋上風力向け支援船CSOVを4隻追加発注 | 住友商事",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XSXZvOEVkb3N3ZE0ySE0zNWxjT19tS0FTaDFBaHFhalg4V19XYlhOMWhoVTF5aVJMUHpuMHRvV05kMEVRa1hKa1QyM2c4S0RqYWRFNGFyYmNVSHpReEpic09GMEdzeGx5TEJ6RmR1aDc2c25v?oc=5",
+      "source": "Sumitomo Corporation",
+      "published": "2026-10-07T07:00:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "脱炭素"
+      ],
+      "summary": "IWS Fleet、洋上風力向け支援船CSOVを4隻追加発注 | 住友商事 Sumitomo Corporation",
+      "source_count": 1
+    },
+    {
       "id": "feb94b9937b393fd",
       "title": "丸紅や住友林業、インドネシア森林火災克服へ監視増員や土壌チェック",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iS1JRdWZKbE9YY0xZMWVlVzQzVUZEbjZlcENjMllObVJibW1LY21fYXFhdDZ4TnBkVUthR1RNYjh6eDU5VmhEaWpDZXBYYTVBd2t1Mzl2dnhFVk9fRjlMdi1hNkViRFFEUEszaw?oc=5",
@@ -7243,6 +7342,21 @@
       ],
       "tags": [],
       "summary": "総合商社 売上高ランキング 企業一覧 PERAGARU",
+      "source_count": 1
+    },
+    {
+      "id": "a897b4119ac79a0c",
+      "title": "三菱商事、フィリピン財閥アヤラに追加出資 1200億円で持ち分法会社へ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xbXVVbFBuLUVMUXFsTk0wSGNFYTl6bjJqNUt6a2Exa1lHaTZjMDJOSC1tc2N1cjh4bmdJTzRjMHAySi1QeGxGOEpFc2p6YUZFUDVBeHZzTThGTi03NFBZM0xvaGJQYUFGd25nUw?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-09-21T07:00:00+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "三菱商事、フィリピン財閥アヤラに追加出資 1200億円で持ち分法会社へ 日本経済新聞",
       "source_count": 1
     },
     {
@@ -8543,6 +8657,22 @@
       "source_count": 1
     },
     {
+      "id": "d1703b8cb9c1bae9",
+      "title": "南アフリカにおけるカーメンテナンス事業への参入について",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OWFNWLWhCN0ltSVd2dDgzWXhRbDlqSFdUem4zd045Qm1GMXV6VHpqNFNib2c3ZEozSlhaNWFPUnVvYlVleFUta3lDTFJvT3d3QnY1VVJITDRTTjJiVVlkOERfeU5xekU?oc=5",
+      "source": "Marubeni Corporation",
+      "published": "2026-06-10T07:00:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "新規事業",
+        "海外"
+      ],
+      "summary": "南アフリカにおけるカーメンテナンス事業への参入について Marubeni Corporation",
+      "source_count": 1
+    },
+    {
       "id": "ead2bb45b1aa0ddc",
       "title": "鉄鋼主力商社9社 前期、6社が営業減益 国際市場の混乱響く（日刊産業新聞）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tVlROenN3emc4WHQwQlFGQmlEeXdSYjN5TnNlYmpyemdkb0h3b0pvZlZNSWl3RTAtaGQ0Vm9kT1FTWDB3MFFfYzZXTUo2c1dQdWR2OFBIc3QzazhBWllYa25ER1JBSFdEM2dTNU9yeGMzU1FXTU52azEzejV0bWM?oc=5",
@@ -8918,134 +9048,6 @@
       ],
       "tags": [],
       "summary": "長瀬産業[8012]：中期経営計画 Walk the Talk 2028 策定に関するお知らせ 2026年5月7日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "d2544e8a3bde9277",
-      "title": "中東情勢を気にしながらも先行きに自信を持つ商社業界【業界研究ニュース】",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xNTktYnBjR3V0bndZc2RFOVlUZFNiaTBYcFhqMUpGVXlZbmVhRmdvMFJWamxVdExPV2EtVVY4bEZUY1NCaFcxX0JnX1RfZG5YcWVxNmZOVnNKS1lDdHVRMk5fejk4WkY4Ukl0ckVNTUZXdV9u?oc=5",
-      "source": "就活ニュースペーパーｂｙ朝日新聞",
-      "published": "2026-05-07T07:00:00+00:00",
-      "company_ids": [
-        "sojitz"
-      ],
-      "tags": [
-        "就活",
-        "海外"
-      ],
-      "summary": "中東情勢を気にしながらも先行きに自信を持つ商社業界【業界研究ニュース】 就活ニュースペーパーｂｙ朝日新聞",
-      "source_count": 1
-    },
-    {
-      "id": "0b421c1d8bffbf6f",
-      "title": "「カーボンニュートラル社会へのロードマップ2.0」の策定 | ニュースリリース | ニュース | 三菱商事",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMcUh5WHRoTG9pVmJQbW1STkt5eE1KMEZjQlRzVENyeFA4SXNtME5NTEtUV1NGMkVqYzNYVUFYeVpMNDZhSWtGMUhpN3ctdlN4aHg4OGN5S2NUbnAyNmVfTElGVjNXTzBVTVVubU5IRUdmTVBkZDVuM2t5QQ?oc=5",
-      "source": "Mitsubishi Corporation",
-      "published": "2026-05-01T07:00:00+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "脱炭素"
-      ],
-      "summary": "「カーボンニュートラル社会へのロードマップ2.0」の策定 | ニュースリリース | ニュース | 三菱商事 Mitsubishi Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "8e51a3b1603d2645",
-      "title": "会長CEO挨拶",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yX3I5ckdPcnkxanVsQlJjU0JZODNQTmlDWUx2NEdTZTZxV2hjaFhkV0RrbW05cGk0NUpYajNyWExoZWlaR1JBckhsWWxRZWZIOGxuZzVvU1NwWkVzQUpCdFJR?oc=5",
-      "source": "伊藤忠商事株式会社",
-      "published": "2026-05-01T07:00:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "人事"
-      ],
-      "summary": "会長CEO挨拶 伊藤忠商事株式会社",
-      "source_count": 1
-    },
-    {
-      "id": "577137da84e04ae7",
-      "title": "中期経営計画2029実現に向けたオペレーティング・セグメントの改定について | 2026年 | リリース | 三井物産株式会社",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BM1ZmU0wwaFVmSnF2YXZmVG40b2pjci12OE5reVBRQkV3MjA0ZXRLcXA1c1kyc1R1RTRLRFZtNUhEN1JTOVpTdmpKWUJmcm1nVFF5a245V00zQ2ttWGl2cUZ3el90elFQdVh0Vw?oc=5",
-      "source": "MITSUI & CO., LTD.",
-      "published": "2026-05-01T07:00:00+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [],
-      "summary": "中期経営計画2029実現に向けたオペレーティング・セグメントの改定について | 2026年 | リリース | 三井物産株式会社 MITSUI & CO., LTD.",
-      "source_count": 1
-    },
-    {
-      "id": "74208d2599be7fc0",
-      "title": "メタルワングループ唯一のASEAN線材加工拠点で高精度ニーズに対応",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZGMyOHY1OUNkcVNUaGNnOTFqMnV6OEV5QlhsU1J5bDNUWHAxdmQxRDY3RTJsVFZPMzhqeTJDRzJfVW9hSzVGQmVieWVCVEQwNC1NYTktRWNHdF9QdTR4WDFRb1dteEpOZEN6T2xsZmc1eWg2X05tNEltbkRWYkx6VnpGLVA3UQ?oc=5",
-      "source": "ジェトロ（日本貿易振興機構）",
-      "published": "2026-04-30T07:00:00+00:00",
-      "company_ids": [
-        "metalone"
-      ],
-      "tags": [],
-      "summary": "メタルワングループ唯一のASEAN線材加工拠点で高精度ニーズに対応 ジェトロ（日本貿易振興機構）",
-      "source_count": 1
-    },
-    {
-      "id": "9206bcd9777eabff",
-      "title": "髙島屋と丸紅新電力、日本橋髙島屋S.C.本館でオフサイトPPAによる再生可能エネルギー電力調達に関する契約を締結【丸紅新電力】",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tYmZ1cnhoSnNFNU9JbnpOT1JyQjNhQmg1R1BzM29BM1ZsR1FqcWhHZUI0U1pqVGlBal9ucUNhSlFvZEExZjdhTXlBYW5YaXlLM1VrbDc4V1MwTl9GdVl0ZVJ0TjE?oc=5",
-      "source": "Marubeni Corporation",
-      "published": "2026-04-28T07:00:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "脱炭素"
-      ],
-      "summary": "髙島屋と丸紅新電力、日本橋髙島屋S.C.本館でオフサイトPPAによる再生可能エネルギー電力調達に関する契約を締結【丸紅新電力】 Marubeni Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "e71c5b5a3bdf4270",
-      "title": "#47 | Adubos Real | Scope | 丸紅株式会社",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CT0JYSkM3amtxemhrblhLeE9keE1sT1hvUzlzNkdYczljYTY0ZWRGR0VmOHd1NGZCSDR4a1lLM3JrQ1p4TEtRTjZxMFBkb29XYk1KUU1paGZvS2g2MDI4QmhSVDhVclZ2?oc=5",
-      "source": "Marubeni Corporation",
-      "published": "2026-04-27T01:06:43+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [],
-      "summary": "#47 | Adubos Real | Scope | 丸紅株式会社 Marubeni Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "3b953cb0897bfb77",
-      "title": "JFE商事エレクトロニクスがNTTデバイスクロステクノロジと業務委託基本契約を締結",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iQkx6QnNIeDJJeXVGek1ocjZtZkhHcjY2ckhycEtkVXhUMmtqZzFFazV5a1ZNNmVRY1VDQVByYlZqMVFFZG5pZHo0RTAwam50YVJhTGxxeUJhT21HbTdad1J0b1prcW1lV0E?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-04-24T07:00:00+00:00",
-      "company_ids": [
-        "jfeshoji"
-      ],
-      "tags": [],
-      "summary": "JFE商事エレクトロニクスがNTTデバイスクロステクノロジと業務委託基本契約を締結 PR TIMES",
-      "source_count": 1
-    },
-    {
-      "id": "b5ad65c13cda2f6d",
-      "title": "チュニジアで100MWの太陽光発電所が完工～豊田通商としてチュニジア初の再エネ・IPP事業を開始",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QMHczVExWNksxZWo5YXV0dWpxTkw1UGRtZ3liMmlTRl9kbjBKa0xvVzVsa2h6dEQ3cE1LanluMG83VUxhYUQ0aVNDOWxUT2Q5ZkUybGQ2ckVOQTlFNC1LMlh3cENDMU1WQnFOVzVn?oc=5",
-      "source": "豊田通商株式会社",
-      "published": "2026-04-24T07:00:00+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "脱炭素"
-      ],
-      "summary": "チュニジアで100MWの太陽光発電所が完工～豊田通商としてチュニジア初の再エネ・IPP事業を開始 豊田通商株式会社",
       "source_count": 1
     }
   ]
