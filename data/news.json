@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T03:42:19.233623+00:00",
+  "updated_at": "2026-11-08T10:29:19.232307+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -317,6 +317,45 @@
         "提携"
       ],
       "summary": "伊藤忠商事株式会社と資本・業務提携契約を新たに締結 (2026年11月6日掲載) ライブドアニュース",
+      "source_count": 1
+    },
+    {
+      "id": "5b6b3a27ed7d4b65",
+      "title": "三菱商事(株)【8058】：株価・株式情報（夜間PTS含む）",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rU2tUeVVaaTRLTFk2WnpMTDBBS0FacXRCVkVZR0cwTm5vNjcwa3ZETVRHVFZjV1dZYkZWY1Ewdi1jYUVBZ1lRUjd3cEYzNW04VWc?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-06T08:00:00+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "三菱商事(株)【8058】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "f0d0959bc97789b5",
+      "title": "三井物産(株)【8031】：株価・株式情報（夜間PTS含む）",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kYUd6UzJTWS1vY3FGcnVrT1pXTi1qU1BSMXRQUnBkekhKeTNuT3NFZmZsY2VYRlNSdFh1SnZaV2treDRfVnBQaThVNkRaN1pvY3c?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-06T08:00:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "三井物産(株)【8031】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "791e29009c9f49b3",
+      "title": "長瀬産業(株)【8012】：株価・株式情報（夜間PTS含む）",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oNW5tNTBZU0ppVDJlX251NG1iUlZjd0NJVTFsNzY5UzJoUGhPNF8zWllYN29RWWZwdnZ3V05ndm1IZC1lOE90M1dCRnNGYWQ2N0E?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-06T08:00:00+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [],
+      "summary": "長瀬産業(株)【8012】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス",
       "source_count": 1
     },
     {
@@ -655,6 +694,21 @@
         "資源"
       ],
       "summary": "三菱商事、金属資源で攻勢 銅権益拡大 日刊工業新聞",
+      "source_count": 1
+    },
+    {
+      "id": "97e1e1e46f069276",
+      "title": "AGC、使用済み太陽光パネルから再生ガラス 再エネバブルの大量廃棄に備える",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJaUsyQzk0TXdaYU5uRW1PemhnaUItbEZDSFVaYTliSDVIdUVRS3FJUVNVTmFyYllyMzBBQ1NKajVHc0ZEN1k0U1lONFllcGVzcWlNTGRfd3Vxc3NEaEd1Z3p3R2hYRVU?oc=5",
+      "source": "日経ビジネス電子版",
+      "published": "2026-11-05T20:00:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "脱炭素"
+      ],
+      "summary": "AGC、使用済み太陽光パネルから再生ガラス 再エネバブルの大量廃棄に備える 日経ビジネス電子版",
       "source_count": 1
     },
     {
@@ -8986,72 +9040,6 @@
         "新規事業"
       ],
       "summary": "オセアニアにおける電池リサイクル事業化の検討を開始 | 住友商事 Sumitomo Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "4c66bf0c678450cd",
-      "title": "ひと／中国／伊藤忠丸紅鉄鋼中国支社長に就任した／小野真氏／マツダ関連、業務・実務向上最優先",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4ya1NtZHBONTNYZC1ScXZ5bUN5eS03Vm5XT0FYZDl1dlAyRHVsaklGQ2Vzc21UN3V0ak5aX1dUVU5fVVF1RDA0dTF1TzdMcU5ORnloa280V0p2VG9XUVE?oc=5",
-      "source": "日刊鉄鋼新聞 Japan Metal Daily",
-      "published": "2026-05-15T07:00:00+00:00",
-      "company_ids": [
-        "benichu",
-        "marubeni"
-      ],
-      "tags": [
-        "DX",
-        "人事",
-        "海外"
-      ],
-      "summary": "ひと／中国／伊藤忠丸紅鉄鋼中国支社長に就任した／小野真氏／マツダ関連、業務・実務向上最優先 日刊鉄鋼新聞 Japan Metal Daily",
-      "source_count": 1
-    },
-    {
-      "id": "9bbfe1179b4b99be",
-      "title": "長瀬産業、28年度に営業利益500億円超 3年間で1000億円投資",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jQnNkYUhtXzhjaVBVRHowY2VERml1T3ZhbFB2dkF5b1lvWGNsX1Nzd1VpWlJ6dUFNNmVZU2lFdDZJM1dKNFZnSmt4R2VDSUI2MzdsVkxaY0NxV2QyOTQ5c3NzTjFhem5aVHBVUw?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-05-08T07:00:00+00:00",
-      "company_ids": [
-        "nagase"
-      ],
-      "tags": [
-        "投資",
-        "決算"
-      ],
-      "summary": "長瀬産業、28年度に営業利益500億円超 3年間で1000億円投資 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "0dfc60a8df5c24f8",
-      "title": "伊藤忠丸紅鉄鋼／石谷社長「稼ぐ力は変わらず」／田代副社長「ホルムズ解放なら油井管バブルも」",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hT0NXUmdya094MGRNT0NJMlBBMWExQ1c5bzdGNk1IeUtCMWEzb0NsczFhdTRiMGltVzFpbU5iZXBzZ2hpUFJOUUM1MVN5Q181UXM2dl9TSlVFcnlLclE?oc=5",
-      "source": "日刊鉄鋼新聞 Japan Metal Daily",
-      "published": "2026-05-07T07:00:00+00:00",
-      "company_ids": [
-        "benichu",
-        "marubeni"
-      ],
-      "tags": [
-        "DX",
-        "人事"
-      ],
-      "summary": "伊藤忠丸紅鉄鋼／石谷社長「稼ぐ力は変わらず」／田代副社長「ホルムズ解放なら油井管バブルも」 日刊鉄鋼新聞 Japan Metal Daily",
-      "source_count": 1
-    },
-    {
-      "id": "931769e5fd5f9716",
-      "title": "長瀬産業[8012]：2026年3月期 決算短信〔日本基準〕（連結） 2026年5月7日(適時開示) ：日経会社情報DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sekhiZ1k3TGZadHJtLVFKUVVxRDdkU2RtTGFIUVlUbWtabHVfY3lJb19ESmVOTXNIQi1ESVF0VHZraUN5YXhOb09JREJnN2tteTVPbGdXSWJKcWNUdHpudjBQeFJ5OG9vS1E?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-05-07T07:00:00+00:00",
-      "company_ids": [
-        "nagase"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "長瀬産業[8012]：2026年3月期 決算短信〔日本基準〕（連結） 2026年5月7日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
       "source_count": 1
     }
   ]
