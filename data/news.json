@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T22:25:51.809177+00:00",
+  "updated_at": "2026-11-08T03:42:19.233623+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -1573,6 +1573,23 @@
         "資源"
       ],
       "summary": "総合商社4社が上方修正、三菱商事など最高益へ 中東情勢で資源高騰（朝日新聞） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "24f95bcc103035ba",
+      "title": "ヤマトHDに物言う株主…決算のNTT大幅安、三菱商事は大幅高！/日経平均続落【今日の注目株＆日本株市場見通し】「デイリーZAi」11月4日号（ダイヤモンド・ザイ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10NW1CRF8yY1RBTEFzeW16U19aU1k3MEtTZnNPQ0FKOThpOUZCQWlpMXRyVmdYcXByMG53Q3g0emJaUlhaNy1fZ1hyXzFKTGkzVFBMUk90LVJLbU9ONTdsTVliaHhwMUhON0NVSWpINTJyUGNRRDRHVUZyTHVYcVE?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-04T11:10:28+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "DX",
+        "業績予想",
+        "決算"
+      ],
+      "summary": "ヤマトHDに物言う株主…決算のNTT大幅安、三菱商事は大幅高！/日経平均続落【今日の注目株＆日本株市場見通し】「デイリーZAi」11月4日号（ダイヤモンド・ザイ） Yahoo!ニュース",
       "source_count": 1
     },
     {
@@ -9035,19 +9052,6 @@
         "決算"
       ],
       "summary": "長瀬産業[8012]：2026年3月期 決算短信〔日本基準〕（連結） 2026年5月7日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "66f7c3f99baa93ac",
-      "title": "長瀬産業[8012]：中期経営計画 Walk the Talk 2028 策定に関するお知らせ 2026年5月7日(適時開示) ：日経会社情報DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwSHlxM0k1emkyRXd2LU0zWEJiMUY3RV9nQjM4M2xsbmsxWDdlaG5haTFvODNLNHFPT05CZS13aUhPeWVZSmFwMkExc3dCd3pJbDA5SFVzSG15V1NmTExWRWdVREdsUmZ0WXc?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-05-07T07:00:00+00:00",
-      "company_ids": [
-        "nagase"
-      ],
-      "tags": [],
-      "summary": "長瀬産業[8012]：中期経営計画 Walk the Talk 2028 策定に関するお知らせ 2026年5月7日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
       "source_count": 1
     }
   ]
