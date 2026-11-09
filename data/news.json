@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T10:44:10.236651+00:00",
+  "updated_at": "2026-11-09T22:36:41.228175+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -93,6 +93,166 @@
   ],
   "articles": [
     {
+      "id": "2cd9d675a5b2f2de",
+      "title": "伊藤忠テクノロジーベンチャーズ、「ハイブリッドVC」としてディープテックに照準",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tdHVBQkpycnVMZHZNSGpOMlVXdzBqaDh0NzZBUHQycEwyVUxvaFhZRnQtZ2F1TzhHZGNFYzdGQi1IVjBCSWdBTFZYZ2UtVDRXWVdjcThYblBuMWIzZWNKTFVXWW9FQQ?oc=5",
+      "source": "日経バイオテクONLINE",
+      "published": "2026-11-09T22:02:05+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "伊藤忠テクノロジーベンチャーズ、「ハイブリッドVC」としてディープテックに照準 日経バイオテクONLINE",
+      "source_count": 1
+    },
+    {
+      "id": "f468fec043c9eb2f",
+      "title": "住友商事CVCはファンド化でリターン追求姿勢を鮮明に、43兆円の診療市場に照準",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96MjVBVzRibnFabGU3ZkNKRmRyYTlDRTNSSVBRV0RMSG83aE0waU1MQ0NXTHc4UTBGZmpyRW5yRlJtcEs1d2pXNWVkNjl3NEFqeTdMMk1sRThyN0tiUzQxUkNPU2Z6UQ?oc=5",
+      "source": "日経バイオテクONLINE",
+      "published": "2026-11-09T22:02:05+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "住友商事CVCはファンド化でリターン追求姿勢を鮮明に、43兆円の診療市場に照準 日経バイオテクONLINE",
+      "source_count": 1
+    },
+    {
+      "id": "1d92a72d97dd5888",
+      "title": "双日テックイノベーション、丸紅の機械品を取り扱う3部門への国産ERP「GRANDIT」の導入事例を公開",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GSzc5VWx5Qm1qUUU3QWVBX3hqTFUzMXotWHk0TnFhbk5VTmQ3UEFjYm5ILUp4OTZTMWtJdkQ1S0FiYlNfSmFWYThod1ZLaUt2d2IyMUowNDA0bnh1RXlqT3kwd243UmE1bXc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-09T22:00:01+00:00",
+      "company_ids": [
+        "marubeni",
+        "sojitz"
+      ],
+      "tags": [],
+      "summary": "双日テックイノベーション、丸紅の機械品を取り扱う3部門への国産ERP「GRANDIT」の導入事例を公開 PR TIMES",
+      "source_count": 1
+    },
+    {
+      "id": "5ec0a7682e776078",
+      "title": "住友商事も三井物産も怒った！モノタロウが業界のタブーを破った「今なら100円！」の衝撃 | ニュースな本",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDUHkyallfSWg1SkYzSFBIZHdSQnlyWklwNUp0bHJ0SmtjbjAwLWItM2ljVFpTU19ySTh5ajhhejlMZUxZcGxKc3hwN2w?oc=5",
+      "source": "ダイヤモンド・オンライン",
+      "published": "2026-11-09T21:30:00+00:00",
+      "company_ids": [
+        "mitsui",
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "住友商事も三井物産も怒った！モノタロウが業界のタブーを破った「今なら100円！」の衝撃 | ニュースな本 ダイヤモンド・オンライン",
+      "source_count": 1
+    },
+    {
+      "id": "adf77b58aea236fd",
+      "title": "金属資源で攻勢、銅権益拡大…三菱商事の強み",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE82SFFYTjBzazFOYmJPSkVfV3JpeUI1dHY0YUVDc1FRR3VWNWRjZkJWOGR0RDNhbUZTRDh5QjRvWFdzQQ?oc=5",
+      "source": "ニュースイッチ by 日刊工業新聞社",
+      "published": "2026-11-09T21:01:00+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "投資",
+        "資源"
+      ],
+      "summary": "金属資源で攻勢、銅権益拡大…三菱商事の強み ニュースイッチ by 日刊工業新聞社",
+      "source_count": 1
+    },
+    {
+      "id": "bc53543262037f06",
+      "title": "三菱電機ビルソリューションズの30代後半、係長級の年収は？【1万件の口コミ情報データ】",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1IaG1yaDZkbVcwUTdaN3FOaDhzMmlYX1ZwQTJmcHFMRFpOSFV1Sk13SC0zcUNxcVVPWUtXZ20xaG9UamlIeEN5NXNpRkw?oc=5",
+      "source": "ダイヤモンド・オンライン",
+      "published": "2026-11-09T20:30:00+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "就活"
+      ],
+      "summary": "三菱電機ビルソリューションズの30代後半、係長級の年収は？【1万件の口コミ情報データ】 ダイヤモンド・オンライン",
+      "source_count": 1
+    },
+    {
+      "id": "01752305eeb861a1",
+      "title": "豊田通商／バングラデシュでモビリティ事業拡大／4500万ドル追加投資",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80ZkJXV2JGaFh4a1FybEVyR2hkS0pTbDcxb2pkblVYSGRiT21yTmNTODRMUlQxcDNYdkFoRFpfa3AzcGhIQUwxYkpOWHJIRWRfY1E4NWFn?oc=5",
+      "source": "ニッキンONLINE",
+      "published": "2026-11-09T20:10:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "豊田通商／バングラデシュでモビリティ事業拡大／4500万ドル追加投資 ニッキンONLINE",
+      "source_count": 1
+    },
+    {
+      "id": "c8ecc015e74fc38c",
+      "title": "丸紅・大本晶之社長（超短波）",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ybDZTLWVSS0U0WENNTTYzTkh0YVIweklFUEIyUG5HWmVqNXBoZEk4aXVQU0g3X0FwMnhaTmpiSnNlckg3NEdwSU9jMEFiUjJjUi0w?oc=5",
+      "source": "化学工業日報 電子版",
+      "published": "2026-11-09T20:00:45+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "人事"
+      ],
+      "summary": "丸紅・大本晶之社長（超短波） 化学工業日報 電子版",
+      "source_count": 1
+    },
+    {
+      "id": "0b6bc4f968276b35",
+      "title": "丸紅がタイで商用EVリース コスト分析も提供、契約2倍",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LZUNJbzhHRG1EcUxJb2U4SUJERUNZSmFrWlJ1MFpYcDFZSG92OER6WXZYNE0xLWpwWjFaT1paOGJQZFpyQUU2cGFhbjdseHFvOEIyaExyMVZzOFpxbTVLTmRvYlpScy05eVVMOVBpWHJlSzN4NDhzSVFVS0dGUDg?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-09T20:00:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "丸紅がタイで商用EVリース コスト分析も提供、契約2倍 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "1d7a0641b2215e7e",
+      "title": "【農業経営に役立ったITツールランキング・ベスト15】AIが上位に食い込む中、1位に輝いた三菱商事や農機メーカーが出資する「農業アプリ」の実力とは…freee、kintone、マネフォは何位に？農家823人が回答",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9tZTBLYkJ2NHBqWllqV3JjT1ZkY2pmTFhvLW14T1lBVENPWUhhWXhCOEhESW5fNTJGcFRuMktFcDFuU242VkowNTBVSE4?oc=5",
+      "source": "ダイヤモンド・オンライン",
+      "published": "2026-11-09T19:30:00+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "DX",
+        "投資",
+        "食料"
+      ],
+      "summary": "【農業経営に役立ったITツールランキング・ベスト15】AIが上位に食い込む中、1位に輝いた三菱商事や農機メーカーが出資する「農業アプリ」の実力とは…freee、kintone、マネフォは何位に？農家823人が回答 ダイヤモンド・オンライン",
+      "source_count": 1
+    },
+    {
+      "id": "b747391016834616",
+      "title": "トヨタ不動産 八重洲でオフィス取得へ 豊田通商と賃貸借契約",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JN3QycWFzVUo2bGVwV1JHMVVZeGh2U0hYSEI4cS0xWE44X1lkdzRaRWlEQmQwZ2NjOFZDcFFqbG5VY3RocHJFVVNONmlLUy0t?oc=5",
+      "source": "住宅新報",
+      "published": "2026-11-09T15:00:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "トヨタ不動産 八重洲でオフィス取得へ 豊田通商と賃貸借契約 住宅新報",
+      "source_count": 1
+    },
+    {
       "id": "f671d93b3fb091d3",
       "title": "日本の総合商社である双日は、馬山ハイテクマテリアルズの株式5％を取得する計画だ。",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaDlDTnEtRDJmZWhULVFabkdqMU50elk0QzZQUmlpSC11dk1wV3dzWkVhb2lqUWtNZ3dUaDU0emR4ay1HMWMzdzREbHlpc2gyWDA2ZExUOFU1VXE5Sm8zNko2S3ZfSUZOZFctX3Y0OUwzaVFybU5kX3hqQmFNR2FqNEVPdzdOQTh6OE9rbUdDaUZlbHRnQ1ZhSURfMUFwNU0?oc=5",
@@ -135,6 +295,23 @@
         "DX"
       ],
       "summary": "住友商事とSCSK、SDVデジタルエンジニアリングサービス開始…自動車開発を一括支援 1枚目の写真・画像 レスポンス（Response.jp）",
+      "source_count": 1
+    },
+    {
+      "id": "f16a8ac7de6261da",
+      "title": "日商双日、ベトナムのタングステン工場MSRに5%出資 半導体・AI材料サプライチェーンに参入",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nanA2UldPQzlPVkFLVTVrZVJqN0dvWFlsemF0ZHB5ajlITzlYOFpHdEgxcDRUcjNzR1J1NmYtcWt5Q3Q4a0U2UTZjZXpVcUZ5SU5GQ2gtQlNJa1YyV2VVM1NhRU1GNmlfTzk3TTNQTG5nMk5i?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-11-09T07:25:00+00:00",
+      "company_ids": [
+        "sojitz"
+      ],
+      "tags": [
+        "DX",
+        "投資",
+        "新規事業"
+      ],
+      "summary": "日商双日、ベトナムのタングステン工場MSRに5%出資 半導体・AI材料サプライチェーンに参入 BigGo ファイナンス",
       "source_count": 1
     },
     {
@@ -421,6 +598,19 @@
         "業績予想"
       ],
       "summary": "長瀬産、利益・配当予想を増額も買い一巡後は失速(ウエルスアドバイザー) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "4f3ca05b2321424e",
+      "title": "【28卒就職人気企業ランキング】男女別/伊藤忠が男性トップ返り咲き、女性も初の1位。大手電機メーカーの男性人気復活。女性トップ10は「マスコミ」が4社占める | 株式会社学情のプレスリリース",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85blJYcTZDMDVqbVdoUDIwMklMWm1ob3hCRlJiZzJyakU0aC04OFB5V0VUeS1iVndBYTdMMkpYX3FBZnJMU1RKbmZReWNIQXlMYTRfdS1LcHZneHhDUy1nSTEyUnM3S3VkaUE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-09T01:00:02+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "【28卒就職人気企業ランキング】男女別/伊藤忠が男性トップ返り咲き、女性も初の1位。大手電機メーカーの男性人気復活。女性トップ10は「マスコミ」が4社占める | 株式会社学情のプレスリリース PR TIMES",
       "source_count": 1
     },
     {
@@ -8814,201 +9004,6 @@
         "就活"
       ],
       "summary": "総合商社の給料ランキング【主要7社】伊藤忠が大幅増！「年収2100万円」突破でトップに立ったのはどこ？ ダイヤモンド・オンライン",
-      "source_count": 1
-    },
-    {
-      "id": "72ff4a724c5d0f86",
-      "title": "兼松ケミカル、化学・ライフサイエンスで成長継続",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UcFByaXJ6SlhyMklNYktsT0p3ZEN6dEtDbHJ2UG5Db3M0aGR0bVh2UU1tUUJRQUVJSUh0MTRNRktJN0R4T2dGdEc5aUZpellNWDk0?oc=5",
-      "source": "化学工業日報 電子版",
-      "published": "2026-07-21T07:00:00+00:00",
-      "company_ids": [
-        "kanematsu"
-      ],
-      "tags": [],
-      "summary": "兼松ケミカル、化学・ライフサイエンスで成長継続 化学工業日報 電子版",
-      "source_count": 1
-    },
-    {
-      "id": "339ca707bf53e593",
-      "title": "三菱商事・中西社長「食関連で1000億円投資」 穀物メジャーとSAF",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DRE9mMkpEY3RGRmVHXzVrWTBYdlRLRTMzNWhtd28wV1hOUnB4ZkJNRXdtWF9VWC1BQXlMcnNDOEtnLXd6dGV3dnoxMWhMVDVUMHNrRndRRFRTbDVEcElsUnBmN3J2WllHbHlydA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-07-19T07:00:00+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "人事",
-        "投資",
-        "脱炭素",
-        "食料"
-      ],
-      "summary": "三菱商事・中西社長「食関連で1000億円投資」 穀物メジャーとSAF 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "d31e30316dcc32d7",
-      "title": "ニュースリリース",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rWFNfZTZHNU54Q29obHQzZlBpY2VjalVBaDFQdDVTNTdST3gwZ1czWi1TRmVrT1ZzYjd6SldDUldjLUNrZTJjeVpCM2wwckZ1UWU5OUFNNzhsOWhQa0tJT2pvZXhtU3NzMEZHRGZkUF9PcTVxaEk0?oc=5",
-      "source": "株式会社ドトールコーヒー",
-      "published": "2026-07-16T07:00:00+00:00",
-      "company_ids": [
-        "nagase"
-      ],
-      "tags": [],
-      "summary": "ニュースリリース 株式会社ドトールコーヒー",
-      "source_count": 1
-    },
-    {
-      "id": "eae9b09c13265046",
-      "title": "双日、米系大手証券が中立維持も目標株価5200円に引き上げ",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qVUFvWWtDclFYQ2VPZXc5UHQ1eEx5ODVkTlBqZ1ItbTA5RmZoVGs0SzA2T0ZFblIwNlBpVE5CX29FekZNQkI4N0h0eFkzVjBNZEI0cFZxTVVORmdkQktpUF9aZXNrUFFSY0FHdkE3T1FMd2lQ?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-07-16T07:00:00+00:00",
-      "company_ids": [
-        "sojitz"
-      ],
-      "tags": [],
-      "summary": "双日、米系大手証券が中立維持も目標株価5200円に引き上げ BigGo ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "54bcee2e71340a27",
-      "title": "「垂直懸下式」太陽光発電パネルを実証 JFE商事、いちご栽培ハウスに導入",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82bEhZREE5WV9LcFdpMnZLQ3F0SFU4dWRUMUhxV0E2NWlXQmNHOHF0SkFjNTk3czUyQWt2cFlTdGpJSUFtZW9XczkycFJqM2FEYmRRTThsUGxZMnVKd3hsbVFHbUx1eFlLWEFCMTVlOWJWOVJhOE1hOWxrc0M?oc=5",
-      "source": "環境ビジネスオンライン",
-      "published": "2026-07-16T07:00:00+00:00",
-      "company_ids": [
-        "jfeshoji"
-      ],
-      "tags": [
-        "サステナ",
-        "脱炭素"
-      ],
-      "summary": "「垂直懸下式」太陽光発電パネルを実証 JFE商事、いちご栽培ハウスに導入 環境ビジネスオンライン",
-      "source_count": 1
-    },
-    {
-      "id": "db9461ee945a4758",
-      "title": "鍵を握るのは、SCSKとの協業。住商グループのデジタル・AI戦略「DAIS」、その全貌 | 住友商事",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uVHF0c0J2LXVRLWpLRlJZMDZqQnZ1dFZlWC1yM1UweVdKV3pGMmQ5ZHJKcnl2VHNMVjNnWl9fQVh2Vkt5NHctLS12M3JLNHA3aGhUSUp3RGhKazFxVzVIMHY3U3hGZw?oc=5",
-      "source": "Sumitomo Corporation",
-      "published": "2026-07-15T04:12:37+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "DX",
-        "提携"
-      ],
-      "summary": "鍵を握るのは、SCSKとの協業。住商グループのデジタル・AI戦略「DAIS」、その全貌 | 住友商事 Sumitomo Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "a0fe6e88e3f6e906",
-      "title": "米国GreenTek Solutionsへ出資、IT機器リユース・リサイクル事業に参入 | 住友商事",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zbk1panVHUks4UkR2TE92a1pVRTlEQ1R4a29oM0YyMTdrSi0zMXNLZk0zYVl2dlQwWVdqdWZoOTNONUVvOWl6SV9JQmVZakdMVG11dTJaMkRjYnFxc05PMG1hMElUbkFzdW10bktaUjF1UWJu?oc=5",
-      "source": "Sumitomo Corporation",
-      "published": "2026-07-14T07:00:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "投資",
-        "新規事業",
-        "海外"
-      ],
-      "summary": "米国GreenTek Solutionsへ出資、IT機器リユース・リサイクル事業に参入 | 住友商事 Sumitomo Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "2a7e764c2f8325bc",
-      "title": "JFE商事、いちご栽培ハウス内における太陽光発電の実証試験を開始",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92dHcyazFhV29zcTdGTWQ1blduMGJCaGswY21RZ3pYYXJEUm11V3NVVHVuLVdWTHNqdC1ORDlXdmdIU283X09hZUtkQjVJTXZnLVhCZWdJUW9OQk1INnZBam5OTHNKQkZGRms5MA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-07-14T07:00:00+00:00",
-      "company_ids": [
-        "jfeshoji"
-      ],
-      "tags": [
-        "脱炭素"
-      ],
-      "summary": "JFE商事、いちご栽培ハウス内における太陽光発電の実証試験を開始 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "678fce7c072189ba",
-      "title": "伊藤忠商事が Azure を基盤とした生成 AI プラットフォームを構築、グループ全体で 26,000 人以上が利用し年間 227 万時間以上の業務時間を削減",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbk9ZdV9zYTNZMTF6OEVIWDdWOGRUbTF1UTJId255cVlxbUhLRG84UW1sSzBDWVdiTVQwS2k0eXprSzNOWDJfUmFidFN2RnB2WDh1YXM2elpaVlh4RVB0NHhoOHM0NVF5eWJUWFhoYmhJWWh1VWpZTGxoTWlISmtTRmk4SDQ?oc=5",
-      "source": "Microsoft",
-      "published": "2026-07-14T07:00:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "伊藤忠商事が Azure を基盤とした生成 AI プラットフォームを構築、グループ全体で 26,000 人以上が利用し年間 227 万時間以上の業務時間を削減 Microsoft",
-      "source_count": 1
-    },
-    {
-      "id": "c2b9a47b496468d3",
-      "title": "商社の経営戦略 構造変化を見据えて／伊藤忠丸紅鉄鋼 石谷誠社長／圧倒的な利益基盤構築／次世代経営層の育成に注力",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JZ3otRzR3NUw1Rk8zaGNRa1l2Qy1EaWdDUzVSdkVuMWRva18wY3EtWDZreTBPbEZNZjM1ZW54VG1BOUxfQXpDbEJsSlRhZ3NkSEgteUxFYU5CSkNTY3VDT2p4SQ?oc=5",
-      "source": "WEB産業新聞",
-      "published": "2026-07-13T07:00:00+00:00",
-      "company_ids": [
-        "benichu",
-        "marubeni"
-      ],
-      "tags": [
-        "人事"
-      ],
-      "summary": "商社の経営戦略 構造変化を見据えて／伊藤忠丸紅鉄鋼 石谷誠社長／圧倒的な利益基盤構築／次世代経営層の育成に注力 WEB産業新聞",
-      "source_count": 1
-    },
-    {
-      "id": "6db1fbd7f780ab63",
-      "title": "兼松、国内SaaSの海外輸出支援 まずメキシコの日系工場開拓",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WU0J0cExQZ0JHR2hJTjNkbTBFQnE2NFJlcXF1SEhwNmhsdFlPMzRxelNqRl9kV2xNZUFFMmx2a1BvWVBPVFlYZFFzUTg5VUlBanl6c2VqN0dPQ0ZRTTRkRHAwQ1htdk40OWpyag?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-07-13T07:00:00+00:00",
-      "company_ids": [
-        "kanematsu"
-      ],
-      "tags": [
-        "海外"
-      ],
-      "summary": "兼松、国内SaaSの海外輸出支援 まずメキシコの日系工場開拓 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "6f37262aeaadf3b9",
-      "title": "総合商社は\"5大\"だけじゃない—双日（2768）という「6番目の選択肢」に妙味あり｜日本個別株デューデリジェンスセンター",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yZTYycVcxMEhhaDZvTHdRUDVtanlOLXJpTEk4WVlrRXA4UzVsTFVwWnh4NDQ1ZjNUTk5NMFZFTlZEaURUeHhDYXNocWhnMHcxUUFJc1IwZ1MwcDg?oc=5",
-      "source": "note",
-      "published": "2026-07-13T07:00:00+00:00",
-      "company_ids": [
-        "sojitz"
-      ],
-      "tags": [],
-      "summary": "総合商社は\"5大\"だけじゃない—双日（2768）という「6番目の選択肢」に妙味あり｜日本個別株デューデリジェンスセンター note",
-      "source_count": 1
-    },
-    {
-      "id": "b4961a87fdf2d9b1",
-      "title": "スイス・オーストリアの工作機械販売会社TOLUS Group AGの完全子会社化について～工作機械領域における事業プラットフォームの拡充～",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuaHNCa0FlclNjdkI5WEE5N2xIa0tVLXNUcmtQMlotT1dCcF9RaHRxRUtsV2VZZS12TG9WS3R0OVdNUnplbVhLWnRxRkQ1b1VwQ2MteU9jYXFSMVFQNmRvTUtWTkZVeU0?oc=5",
-      "source": "Marubeni Corporation",
-      "published": "2026-07-10T07:00:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "M&A"
-      ],
-      "summary": "スイス・オーストリアの工作機械販売会社TOLUS Group AGの完全子会社化について～工作機械領域における事業プラットフォームの拡充～ Marubeni Corporation",
       "source_count": 1
     }
   ]
