@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T22:36:41.228175+00:00",
+  "updated_at": "2026-11-10T03:40:45.437992+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -93,6 +93,78 @@
   ],
   "articles": [
     {
+      "id": "069b4b96f3a90763",
+      "title": "脱炭素経営ランキング「NIKKEI GX500」で2年連続最高評価「S」を獲得",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrUUxmS243a1dLQlc3bEF6MjB1a1BwaDNrcnJNWk5JZkZqU0I5MXhRZnMtZ1hENEdTbzB2dE90SC1TbGlTSEllbUdKOElSOTdUOUtlb2FQX3FDNHc0VWItQ0d5eFcxVWtabG9vakNR?oc=5",
+      "source": "豊田通商株式会社",
+      "published": "2026-11-10T02:02:18+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "脱炭素"
+      ],
+      "summary": "脱炭素経営ランキング「NIKKEI GX500」で2年連続最高評価「S」を獲得 豊田通商株式会社",
+      "source_count": 1
+    },
+    {
+      "id": "acd27d8085c68ce5",
+      "title": "【28卒就職人気企業ランキング】文理別/文系1位は9年連続で伊藤忠。理系1位は10年連続味の素、伊藤忠2位に急浮上。トップ50激変、「マスコミ」が11社",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVOFVkUThrMGwzd1FUMjhHQW1RZWwxcHFHNkgtWTJEX3U5OUlTTlJfaW8zc3FIR2NZS0RRdEVqWXpGOUQ2TEYwcTlNYlpwVEtFQnVwdVd1OXZNRHNrdHloMFNPSzQwc2YwMEE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-10T01:00:03+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "【28卒就職人気企業ランキング】文理別/文系1位は9年連続で伊藤忠。理系1位は10年連続味の素、伊藤忠2位に急浮上。トップ50激変、「マスコミ」が11社 PR TIMES",
+      "source_count": 2
+    },
+    {
+      "id": "818b0431afa4daef",
+      "title": "【28卒就職人気企業ランキング】伊藤忠商事が総合・男女別で首位。男性は電機メーカー、女性はマスコミ16社がトップ50入り",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mMGFQZmgtWUdRaXZPM0V5ZHE0dDZRZjByQUtUQ3RrTExQaDdpZUVBajFsODl1b3B6SlNHOUVKTnRsX2p1cVNvd1dWTW0yckctRjYtZS1WMWlMN0JyZVNTMg?oc=5",
+      "source": "HRプロ",
+      "published": "2026-11-10T01:00:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "【28卒就職人気企業ランキング】伊藤忠商事が総合・男女別で首位。男性は電機メーカー、女性はマスコミ16社がトップ50入り HRプロ",
+      "source_count": 1
+    },
+    {
+      "id": "861fdc93245c05ac",
+      "title": "長瀬産業[8012]：自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果および自己株式の取得終了に関するお知らせ 2026年11月10日(適時開示) ：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42SlJUSTNYNEc1YzZfckZfZ0Q1cERnWV8zbGtOSnlmdE16MGJKQzhjRU43R1dURTRVV05kX3I2dTZpWDE1VGhneThSRmlkNzBlRm85dlRiSHJiWVE3LVVudG5BMFJUNFI5Tnc?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-10T01:00:00+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [
+        "投資",
+        "株主還元"
+      ],
+      "summary": "長瀬産業[8012]：自己株式立会外買付取引（ToSTNeT-3）による自己株式の取得結果および自己株式の取得終了に関するお知らせ 2026年11月10日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "5a55b03fbd535932",
+      "title": "インナービューティー市場の活性へ。アイスタイル、三井物産ら4社、食と美容をつなぐ戦略的提携を締結",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xTmM2WTNwLXRLOVdOZE9fRURxNTlrLVg1NmhxVDRpMmZKSGNKNGhTLU5hNkdVTW5qT0VscUZ5aUFaV0JtbU12TmxvQmcybU0?oc=5",
+      "source": "MarkeZine",
+      "published": "2026-11-09T23:45:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "提携"
+      ],
+      "summary": "インナービューティー市場の活性へ。アイスタイル、三井物産ら4社、食と美容をつなぐ戦略的提携を締結 MarkeZine",
+      "source_count": 1
+    },
+    {
       "id": "2cd9d675a5b2f2de",
       "title": "伊藤忠テクノロジーベンチャーズ、「ハイブリッドVC」としてディープテックに照準",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tdHVBQkpycnVMZHZNSGpOMlVXdzBqaDh0NzZBUHQycEwyVUxvaFhZRnQtZ2F1TzhHZGNFYzdGQi1IVjBCSWdBTFZYZ2UtVDRXWVdjcThYblBuMWIzZWNKTFVXWW9FQQ?oc=5",
@@ -130,6 +202,19 @@
       ],
       "tags": [],
       "summary": "双日テックイノベーション、丸紅の機械品を取り扱う3部門への国産ERP「GRANDIT」の導入事例を公開 PR TIMES",
+      "source_count": 1
+    },
+    {
+      "id": "8258e85518914e49",
+      "title": "丸紅株式会社の機械品を取り扱う3部門に国産ERP「GRANDIT」を導入",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TS2FiZ21yTmN2M25tSTlLbXJEUDk1WlU5VFdXMEU0cjlUT0FRdXFPSFlqWlFaeHhMa3g4YWptekV6aEVGMjN1OW54UEdzd1l6WE4tcU5kZ0MtZEhHZUUwU2RGUUUta0Y5NHNsYWJodmxZVWoxLTAzWGxhUQ?oc=5",
+      "source": "産経ニュース",
+      "published": "2026-11-09T22:00:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "丸紅株式会社の機械品を取り扱う3部門に国産ERP「GRANDIT」を導入 産経ニュース",
       "source_count": 1
     },
     {
@@ -218,6 +303,19 @@
       ],
       "tags": [],
       "summary": "丸紅がタイで商用EVリース コスト分析も提供、契約2倍 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "b81aa65e25e36788",
+      "title": "三井物産、レガッタで磨く商社力 部門・国境超えて社員大会に700人",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCWjZJRVlPd0lzdVpIaEM5VmpQM1Z1SUdrVjRzeTVCbVU2cml4RDJnNlp1YUcxUlQ5eVpfeXJhRV84NUlFWUVSeVp5QkdLNUVjVmxRZWNEZGxtM2YwRkVibl81aC1JSGw5cS1GZQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-09T20:00:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "三井物産、レガッタで磨く商社力 部門・国境超えて社員大会に700人 日本経済新聞",
       "source_count": 1
     },
     {
@@ -8900,110 +8998,6 @@
         "海外"
       ],
       "summary": "最強の商社：トップインタビュー「勝ち筋へ大型投資 レアアースと豪州インフラに活路」植村幸祐・双日社長 週刊エコノミスト Online",
-      "source_count": 1
-    },
-    {
-      "id": "5735aa53b800f82c",
-      "title": "メタルワンの効率化サービス 鉄スクラップ向け開始（日刊産業新聞）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOZW1OVHRacGw0MjdDMjFzQzg2QWI1VXduTDRZUEp3SGVsSEFtMkJON1p6MWZwVzliRUNJZ1d0dlRnams0dXluTnczMnk0V1FDcGJtRjlGOC03dkRDVnlpaHdNNVV5UGV2SHl0SWRnV2FNRTBLVlBBSXhRdERrcXM?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-07-31T07:00:00+00:00",
-      "company_ids": [
-        "metalone"
-      ],
-      "tags": [],
-      "summary": "メタルワンの効率化サービス 鉄スクラップ向け開始（日刊産業新聞） Yahoo!ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "52744b933558f9b5",
-      "title": "メタルワン／鉄スクラップ取引の通知業務／デジタル化サービスを提供、東日本から開始／「価格変更」など自動配信",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nT1ZoRFhWaXR4NV9sVk5qclA1d0Nqdk9LTzhjT0ExSjdfMWliOU8xV3lPeGV4cUQ2R1hBZVNKUmRXX1hrWkh6UFlrekQwcXNDU2V2ZUtwQ3Z4ZzdaUkE?oc=5",
-      "source": "日刊鉄鋼新聞 Japan Metal Daily",
-      "published": "2026-07-31T07:00:00+00:00",
-      "company_ids": [
-        "metalone"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "メタルワン／鉄スクラップ取引の通知業務／デジタル化サービスを提供、東日本から開始／「価格変更」など自動配信 日刊鉄鋼新聞 Japan Metal Daily",
-      "source_count": 1
-    },
-    {
-      "id": "afe09d3f629c46dc",
-      "title": "【太陽光発電】JFE商事：いちご栽培ハウス内で垂直懸下式太陽光を実証、空調電化と高温対策を検証",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nWWtlNGY3TDk0NnRYZkpNVlV2MjVBZXo0RGhaLUpyMm9mS19ncndXZFlKWkxqeUYybGUyXzNRSS1ybHdyQldMb0JjcTZGM053a3JPM3ZrWU1jLW95R3A0VGI2eFJ1Rm1TSzFSZEc4d1JtQQ?oc=5",
-      "source": "みんなの広報宣伝部",
-      "published": "2026-07-23T07:00:00+00:00",
-      "company_ids": [
-        "jfeshoji"
-      ],
-      "tags": [
-        "脱炭素"
-      ],
-      "summary": "【太陽光発電】JFE商事：いちご栽培ハウス内で垂直懸下式太陽光を実証、空調電化と高温対策を検証 みんなの広報宣伝部",
-      "source_count": 1
-    },
-    {
-      "id": "275b11793e04f7c9",
-      "title": "米国Penske Automotive Group, Inc.の浮動株買収を目的とした、法的拘束力を持たない提案書のPenske Corporationとの共同提出 | 2026年 | リリース | 三井物産株式会社",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBucGM4ejY0WlRzeHBwSWtOLXpfWXNHLWFZeTUwYW5SaHFBWk5Sbi1ITm5leTdlMTRFRmZXZkV3amhHbk51X2NKMlNfVmtuSkVuajhPSFBISHl5ZlEwalFsTWFsZHJkbFBDRmYzbQ?oc=5",
-      "source": "MITSUI & CO., LTD.",
-      "published": "2026-07-22T07:00:00+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "M&A",
-        "提携",
-        "海外"
-      ],
-      "summary": "米国Penske Automotive Group, Inc.の浮動株買収を目的とした、法的拘束力を持たない提案書のPenske Corporationとの共同提出 | 2026年 | リリース | 三井物産株式会社 MITSUI & CO., LTD.",
-      "source_count": 1
-    },
-    {
-      "id": "b2a2c83784c4dd46",
-      "title": "鉄鋼流通大手のメタルワン、デジタルプラットフォーム事業拡大に伴うセキュリティ基盤の更なる強化にSecureNaviを採用",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vMXFQM0NoSXZMVUFtYXdZVC1wMDl0Rjl6TjI3Q0xSQTloUDNKYnhsdGRfMUVuWlBXVmlHc2VTbE5fUW5YX0VLNHF0am91MHExYmpFTTF1eW84MGRDTE85RFBBV2ZXSGY4cVE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-07-22T07:00:00+00:00",
-      "company_ids": [
-        "metalone"
-      ],
-      "tags": [
-        "DX",
-        "就活"
-      ],
-      "summary": "鉄鋼流通大手のメタルワン、デジタルプラットフォーム事業拡大に伴うセキュリティ基盤の更なる強化にSecureNaviを採用 PR TIMES",
-      "source_count": 1
-    },
-    {
-      "id": "7e8d203892a6793f",
-      "title": "東京本社移転日のお知らせ 【2026年8月24日】",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tNHJLY3g0eEpZeTltX3BEaDFZZjhIaGZDbTVpTFd6dHN3Rk9fVzhZRzNjcVg4bHNCM0hGOC15emxVOGhyazd4SGlpcFJWR3hqSURybElvU1dJQVB2Mmhhc0k3aTc?oc=5",
-      "source": "伊藤忠商事株式会社",
-      "published": "2026-07-21T07:00:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [],
-      "summary": "東京本社移転日のお知らせ 【2026年8月24日】 伊藤忠商事株式会社",
-      "source_count": 1
-    },
-    {
-      "id": "f98e1c6a0bde69f9",
-      "title": "総合商社の給料ランキング【主要7社】伊藤忠が大幅増！「年収2100万円」突破でトップに立ったのはどこ？",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BcDJXMUhKNkZralhIVUhyaVdvblN6dG94Znp0Y3lrMFk0UjV0dXFzaVNkYmx6amhmUHBNclMwSUhrMi1acm5DX3F4OVXSAU9BVV95cUxOVW44SzBYTWs4N2NsbTg3Ym5KQlFkZlNjRjNlcjlGX0pTXzVJdjEtNEt3dXU0SGRGbExwUldnNFhqcXlnclVnbFNocDZvX0FB?oc=5",
-      "source": "ダイヤモンド・オンライン",
-      "published": "2026-07-21T07:00:00+00:00",
-      "company_ids": [
-        "sojitz"
-      ],
-      "tags": [
-        "就活"
-      ],
-      "summary": "総合商社の給料ランキング【主要7社】伊藤忠が大幅増！「年収2100万円」突破でトップに立ったのはどこ？ ダイヤモンド・オンライン",
       "source_count": 1
     }
   ]
