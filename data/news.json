@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T03:40:45.437992+00:00",
+  "updated_at": "2026-11-10T10:44:18.862636+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -93,6 +93,210 @@
   ],
   "articles": [
     {
+      "id": "b10ba0ad5aaac914",
+      "title": "シグマクシスHD、AI・データマネジメント需要が堅調、顧客数は前年同期比14％増 伊藤忠商事との資本業務提携を強化",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBJRDJ3UzFfbnRwZTJGbzNHZVZVc2tJSmVhcTlXanQ2VGJvbHpRekZoWWF3TVhJV3RPWG4wYjRSTUEtOEw5bWc?oc=5",
+      "source": "みんかぶ",
+      "published": "2026-11-10T10:00:01+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "DX",
+        "提携"
+      ],
+      "summary": "シグマクシスHD、AI・データマネジメント需要が堅調、顧客数は前年同期比14％増 伊藤忠商事との資本業務提携を強化 みんかぶ",
+      "source_count": 1
+    },
+    {
+      "id": "1e7428abd234813b",
+      "title": "丸紅[8002]：半期報告書－第103期(2026/04/01－2027/03/31) (有価証券報告書) ：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nOGJWTzFGczB5UUdXZkt0SlQyUnNCQ2s2dS1DZmE1cU1LNTBTd1Q2YUtzc2NZektVWWVoX2lXMzF6TGxHUzhfSldzci1xa182WlhNQk5NVElSVlZNV2dVRmdjb1gtdlNDd2tsTg?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-10T09:45:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "丸紅[8002]：半期報告書－第103期(2026/04/01－2027/03/31) (有価証券報告書) ：日経会社情報DIGITAL 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "893144b6ae46d8ea",
+      "title": "【決算速報】丸紅---27年3月期2Qは増益、経常利益は14.3％増(フィスコ)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTFBuVmJkMHpPSnNPMzNvS2NkbzJVNDZSdVNFZmVGb1lUakdJNUhVaUxlWkktTDJ3VnN0V21PYTYxQnQyTjFNYzE3WFlsN0g2Y1VQUW9WQ1d6X2t2Zk9SQTRCSEFVRElfSlo3S2VIQXNneVV1Y3ZDYlkyYXludWYtT1pKYWtNM0k?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-10T08:34:58+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "決算"
+      ],
+      "summary": "【決算速報】丸紅---27年3月期2Qは増益、経常利益は14.3％増(フィスコ) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "071548892f274f4d",
+      "title": "丸紅[8002]：確認書 (有価証券報告書) ：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0MGUtMEI2dEpGTGpMTXkyYUVTcGFyOXFQMVAwd0pmNE9lTDd1Q0JxV0lYczl2V29ORkx1Z0dSdFpOQVlFSHFiTTlyNU42QU80ZGNjYl91cE1FankxRkw2VmZDUktSbUQtSkdOYg?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-10T08:24:35+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "丸紅[8002]：確認書 (有価証券報告書) ：日経会社情報DIGITAL 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "4968be09c4efa159",
+      "title": "アイスタイル、三井物産含む3社と戦略的提携を締結 インナービューティー市場活性化を目指す",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ScjJEY09JZjU1MVlQLVFEMVZNVE5ScVhqZWxhVTdveFlpcjVWTnNIZjJBd29yNHI5bUVhMWdhQkZVM3IwaUVPdGYwZHFrRXl2dFpXUEwwZVBVZw?oc=5",
+      "source": "国際商業オンライン",
+      "published": "2026-11-10T07:14:48+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "提携"
+      ],
+      "summary": "アイスタイル、三井物産含む3社と戦略的提携を締結 インナービューティー市場活性化を目指す 国際商業オンライン",
+      "source_count": 2
+    },
+    {
+      "id": "8f0fd5af1fb39a87",
+      "title": "SCSKがコンサル事業強化、専門会社で製造業を上流から支援 住友商事と連携",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQb21MTzJiM2RNaU1tWU5icFpNWjAtS1J5Z3JYNENudjhmVkl4WFVlZ29sNk5BMG9jUXBYbzdfTHJLRWVTbVF6dm5jckl1ZWZwVGJQRGtSS3pYZlZQbzV6MUNucW1Pdlk?oc=5",
+      "source": "日経クロステック",
+      "published": "2026-11-10T06:30:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "提携"
+      ],
+      "summary": "SCSKがコンサル事業強化、専門会社で製造業を上流から支援 住友商事と連携 日経クロステック",
+      "source_count": 1
+    },
+    {
+      "id": "e2173d06c1270eeb",
+      "title": "シグマクシスResearch Memo：4%近い配当利回り、伊藤忠商事と新たな資本・業務提携を発表（2） 執筆 Fisco - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aY1JhcWcwZElnajdYbEVkOUU0MUVsM0NzMFgzejJEMmFtcERBZ0U4QWluYmZPZTZoUWhPVVdkc1pfQnJYT01jLW9SaXpVLTgtc3dZdHZvd1hkMzdTenhlcTFwOEpvVGEzZzhzZmVhRlE?oc=5",
+      "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
+      "published": "2026-11-10T06:02:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "提携",
+        "株主還元"
+      ],
+      "summary": "シグマクシスResearch Memo：4%近い配当利回り、伊藤忠商事と新たな資本・業務提携を発表（2） 執筆 Fisco Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "900878b10e84a70b",
+      "title": "シグマクシスResearch Memo：4%近い配当利回り、伊藤忠商事と新たな資本・業務提携を発表（2）(フィスコ)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPamZUMThRbWlLaXpPOS1DTEQxM1Y3Q3VHcUtFeGgtcWYyaFRBNUZUX3NGUFJYTlliQXJjeEJ6cm9pSUQ5dmgtbTNoZDZpYy1zUlFZSWJiWUdSQjRvUDJBX2FmcUZYWlpCbWJ4andfdThwVHdyeEhReHFSTVl4NzF4RDR0VFdzbFk?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-10T06:02:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "提携",
+        "株主還元"
+      ],
+      "summary": "シグマクシスResearch Memo：4%近い配当利回り、伊藤忠商事と新たな資本・業務提携を発表（2）(フィスコ) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "856190972eab13bf",
+      "title": "シグマクシスResearch Memo：4%近い配当利回り、伊藤忠商事と新たな資本・業務提携を発表（1）",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR0c1anZ3N2tMM0lFUFZ2R0wyUWF6QlptWUQ0QVJVcXhJaWUyRFNtTXhuSGY4TnAxOGluazR4MnJoODk3UWpKVWVDc2I5Smk4ZmlZWUlfa2RLZnZLWjlHczZmQXFFeUlrUzZOQ0xTR096WnZzelNRUkxXVkV0cFUtcG1QRUxwT1HSAYwBQVVfeXFMT0s2SGFkSm9RQ2tUY2FXbHdLZGNyWG1iRk03cDFtT0lZcU45VGphcmVSMTBiQ2t4LVVYbjlsVlRlcHJIbW5BZV9Ib2VPMDFYWWtwSlVoRTlGeERDNzJGUG1CQ1hLdWxQVjFOMndiYjAycDRsTGdGWDFEZUd1NVl2aWtKeFVydG5PZWVVbG4?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-11-10T06:01:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "提携",
+        "株主還元"
+      ],
+      "summary": "シグマクシスResearch Memo：4%近い配当利回り、伊藤忠商事と新たな資本・業務提携を発表（1） ｄメニューニュース",
+      "source_count": 1
+    },
+    {
+      "id": "42809bff6301753a",
+      "title": "三井物産デジタル・アセットマネジメント、「TOKYO BOOK FIGHT in 後楽園ホール」に協賛",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DWWhWQ3ZRbmRVSTJpdVNMaGRYcjgteU9CNVozZXYzenY1MXZSSWUzRVB3dkhkX2x1TVFpOTE2ZFF6dkxpNGtabHBfUTU0MzNuODlXMEs3MnRhcnV2NEtEUThGY09SMnhiRFE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-10T06:00:02+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "三井物産デジタル・アセットマネジメント、「TOKYO BOOK FIGHT in 後楽園ホール」に協賛 PR TIMES",
+      "source_count": 1
+    },
+    {
+      "id": "82a7d3b50d6cbc92",
+      "title": "福地桃子出演、伊藤忠商事のCM「商人は水であれ 世界中の心を満たすまで」篇で流れる曲は？",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SYkFhX3hmcV9rNnVIcnY4SVlTZWhHT0lrY1VJWlVNbzRiRFhxVVpXRW16VFNjNjItbjdEU0pVWkRnNEIzVkZlbGxUNWJSb2tpa2VYNGNrMzg?oc=5",
+      "source": "CDJournal.com",
+      "published": "2026-11-10T04:15:27+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "福地桃子出演、伊藤忠商事のCM「商人は水であれ 世界中の心を満たすまで」篇で流れる曲は？ CDJournal.com",
+      "source_count": 1
+    },
+    {
+      "id": "934a8ea7d668e539",
+      "title": "科学の力で美と健康の新時代を切り拓く 【化粧品製造・開発最前線】三菱商事ライフサイエンス、海外市場への展開も加速",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UcC1QODZ3TnpTT1hrTkFCYlIzMXhXT3JtMnVYVGdTeWdZQVdkWjI0aGJ1WGoxZGhrNV9QdkFxSkRvMzF6S3FKVkJXRTNNbjNSek54VXZn?oc=5",
+      "source": "ウェルネスデイリーニュース",
+      "published": "2026-11-10T04:01:38+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "海外"
+      ],
+      "summary": "科学の力で美と健康の新時代を切り拓く 【化粧品製造・開発最前線】三菱商事ライフサイエンス、海外市場への展開も加速 ウェルネスデイリーニュース",
+      "source_count": 1
+    },
+    {
+      "id": "9b2e8788a98380c0",
+      "title": "日本承継寄付協会、「三井物産共創基金」に非営利団体として初採択。約1億円の助成で、遺贈寄付を広げる取り組みを加速",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wcUU5bE9uWE8tUFZaay1iUVVUU0QzYkZMN2MxQ185eFdhSmtZemR4bzU5MGl5eVpwdkNqYjJ0V2VvaWxRb19zdm9fMWpaQWZCdTJMYnBMVDJjal9yNlhubDdpemhCZC0xQjU5TE4yUmtsQQ?oc=5",
+      "source": "Infoseek",
+      "published": "2026-11-10T04:00:06+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "日本承継寄付協会、「三井物産共創基金」に非営利団体として初採択。約1億円の助成で、遺贈寄付を広げる取り組みを加速 Infoseek",
+      "source_count": 1
+    },
+    {
+      "id": "34d7aac83838c83d",
+      "title": "丸紅の事業資産を武器に企業変革の新領域を拓く",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lODZmc1hWZHhBT0ZrcU5DTUNxck1VSG53RHhMN1hENmRqN2d4MkJtVDdLWjVoUWtlMkthOWs3QVQwY1VobFFNaHViQkFBM215TVE?oc=5",
+      "source": "DIAMOND ハーバード・ビジネス・レビュー",
+      "published": "2026-11-10T04:00:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "丸紅の事業資産を武器に企業変革の新領域を拓く DIAMOND ハーバード・ビジネス・レビュー",
+      "source_count": 1
+    },
+    {
       "id": "069b4b96f3a90763",
       "title": "脱炭素経営ランキング「NIKKEI GX500」で2年連続最高評価「S」を獲得",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrUUxmS243a1dLQlc3bEF6MjB1a1BwaDNrcnJNWk5JZkZqU0I5MXhRZnMtZ1hENEdTbzB2dE90SC1TbGlTSEllbUdKOElSOTdUOUtlb2FQX3FDNHc0VWItQ0d5eFcxVWtabG9vakNR?oc=5",
@@ -105,6 +309,21 @@
         "脱炭素"
       ],
       "summary": "脱炭素経営ランキング「NIKKEI GX500」で2年連続最高評価「S」を獲得 豊田通商株式会社",
+      "source_count": 1
+    },
+    {
+      "id": "5fc01a7329d2caa7",
+      "title": "【SIGNATE】日経ビジネスLIVE 2026 Fallに登壇。三菱商事と語る「AIエージェント時代の業務・組織・人材の再設計」",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wRERGNE1QLXlLd2hoR0R5T1V6bElHTFRoWVJzN0hJb3p2ZXBOeFZzTGpUSHQ2dGxNSFZQOHE0OThKdThha1I0dkk0dkM0MGpVUGFUekx0Sm9oSGVRdmdVMW9Xb29zdElya2c?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-10T02:00:03+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "【SIGNATE】日経ビジネスLIVE 2026 Fallに登壇。三菱商事と語る「AIエージェント時代の業務・組織・人材の再設計」 PR TIMES",
       "source_count": 1
     },
     {
@@ -229,6 +448,20 @@
       ],
       "tags": [],
       "summary": "住友商事も三井物産も怒った！モノタロウが業界のタブーを破った「今なら100円！」の衝撃 | ニュースな本 ダイヤモンド・オンライン",
+      "source_count": 1
+    },
+    {
+      "id": "ca8dfc0128917159",
+      "title": "住友商事も三井物産も怒った！モノタロウが業界のタブーを破った「今なら100円！」の衝撃",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDUHkyallfSWg1SkYzSFBIZHdSQnlyWklwNUp0bHJ0SmtjbjAwLWItM2ljVFpTU19ySTh5ajhhejlMZUxZcGxKc3hwN2w?oc=5",
+      "source": "ダイヤモンド・オンライン",
+      "published": "2026-11-09T21:30:00+00:00",
+      "company_ids": [
+        "mitsui",
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "住友商事も三井物産も怒った！モノタロウが業界のタブーを破った「今なら100円！」の衝撃 ダイヤモンド・オンライン",
       "source_count": 1
     },
     {
@@ -495,7 +728,7 @@
       ],
       "tags": [],
       "summary": "28卒「就職人気企業ランキング」発表! 1位は9年連続で伊藤忠商事、2位は味の素 au Webポータル",
-      "source_count": 1
+      "source_count": 2
     },
     {
       "id": "c61196d4954e1d76",
@@ -1445,6 +1678,19 @@
       ],
       "tags": [],
       "summary": "三井物産、株価一段安 ロシア事業の地政学リスクで連想売り 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "bf91c7b82fe00521",
+      "title": "JFE商事、JFE商事鉄鋼建材とJFE商事鋼管管材の統合について発表",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pTEIteDJZNHJtTWk4M2JxQXEwbGlsWElzcUE1ZGxGMGdrU1VTVzhRZE5RTHVzeWZjZlJpNmhfMlpqRDk0dVFFOXlKTU93VFNxOHBLaTZWb1VmNW92Q1JwTmRxTEd6aVdub3N1Sw?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-06T03:20:53+00:00",
+      "company_ids": [
+        "jfeshoji"
+      ],
+      "tags": [],
+      "summary": "JFE商事、JFE商事鉄鋼建材とJFE商事鋼管管材の統合について発表 日本経済新聞",
       "source_count": 1
     },
     {
@@ -8735,269 +8981,6 @@
         "株主還元"
       ],
       "summary": "長瀬産業[8012]：自己株式の取得状況および取得終了に関するお知らせ 2026年8月25日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "47b9da197864e296",
-      "title": "デンマークにおける世界初のe-メタノール、販売先・用途を拡大 | 2026年 | リリース | 三井物産株式会社",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05V2QzUkNlU09jajllQ0ZMd0JNRVVsOFBUYlV1aDRZNF9HYkFoMENldkFsZExma3BIUFdULVZTTkVCZ05lVGpKck9iR3BYTGhiTEY0ai1DV3FVV3p3TDJBLUJaYlA3aGYwVDd6aw?oc=5",
-      "source": "MITSUI & CO., LTD.",
-      "published": "2026-08-20T07:00:00+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [],
-      "summary": "デンマークにおける世界初のe-メタノール、販売先・用途を拡大 | 2026年 | リリース | 三井物産株式会社 MITSUI & CO., LTD.",
-      "source_count": 1
-    },
-    {
-      "id": "95cbeeced27550c3",
-      "title": "経験を生かし、新たな挑戦へ。住友商事のキャリア採用を知るための記事4選",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWdWt1SE8tM0wxQkIwWlp3QUx5elVIVFNvYTBNbmlaUEkyaGZ4RFlIWF9JejRNNjlFaF9JaUl1S2U5bE56LS1yaTRpRjVDYkIxcUpxbm1TdFBoUXVvWXNSa2RkckdVQQ?oc=5",
-      "source": "Sumitomo Corporation",
-      "published": "2026-08-19T07:00:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "就活"
-      ],
-      "summary": "経験を生かし、新たな挑戦へ。住友商事のキャリア採用を知るための記事4選 Sumitomo Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "a9ff2f4594868051",
-      "title": "〈Leader's Voice〉高級鋼の加工設備新設を検討 JFE商事 祖母井紀史社長",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMVFFQcTdCazZhZm1DNnlkaFhwRmcyNWhWUGo4QzdrTWlaYkR0ZFN2Z21Ecm9yN3dVMjlKYmlseWVCdmFGT0hzYWZrMG5oLUZBMjRmMFZrdHpxSExJS282ODh4UjVuSlhPMUViaQ?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-08-17T07:00:00+00:00",
-      "company_ids": [
-        "jfeshoji"
-      ],
-      "tags": [
-        "人事"
-      ],
-      "summary": "〈Leader's Voice〉高級鋼の加工設備新設を検討 JFE商事 祖母井紀史社長 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "3e4eb7cd056a532b",
-      "title": "兼松とNSテクノロジーズが共同で出展 台湾・台北の国際展示会「Semicon Taiwan 2026」",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rZzdjbGJpY2V3LWl5LWJxell0VjdmV0h3Z3ZJRlQ5Sm9qRlQ2N28wTU9KWkVpMHNqeVdrT3N0Rl81ZkVEc1pSdzVjLUpvTlRaVG4yOGJNdmpDUzZG?oc=5",
-      "source": "株式会社共同通信社",
-      "published": "2026-08-17T07:00:00+00:00",
-      "company_ids": [
-        "kanematsu"
-      ],
-      "tags": [
-        "DX",
-        "提携"
-      ],
-      "summary": "兼松とNSテクノロジーズが共同で出展 台湾・台北の国際展示会「Semicon Taiwan 2026」 株式会社共同通信社",
-      "source_count": 1
-    },
-    {
-      "id": "4d58035374f18b2c",
-      "title": "英国浮体式洋上風力発電事業「Gwynt Glas」に参画 | 住友商事",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01UHR6eVZoaU9MSkRXUFJDVWJCOFhwWWJIeE5OYXlYdWp2ZkVCWU1Hekw1R0g5dVRNLWpNZzVRX1hjNmJ6TVFZMDF2TlJsaDlRM05Md25WSDkzYVpvblFqSE9leTRfUGM4MmhsX1EtaXByZw?oc=5",
-      "source": "Sumitomo Corporation",
-      "published": "2026-08-10T07:00:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "投資",
-        "脱炭素"
-      ],
-      "summary": "英国浮体式洋上風力発電事業「Gwynt Glas」に参画 | 住友商事 Sumitomo Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "4d5547a61129395f",
-      "title": "今期は黒字転換へ！ パルと双日が仕掛けるオフプライスストア「ローカスト」の野望",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45LThpT05kVjV5TXQzLWJ1UUxBUkFpQ3VxN2NnRXM1cjh2d3NheUpuWFo4MHpyUUZYSWtBWTRlOW9JTmRvR2c1MW9uMWdxRFJDLWU0?oc=5",
-      "source": "ダイヤモンド・チェーンストアオンライン",
-      "published": "2026-08-10T07:00:00+00:00",
-      "company_ids": [
-        "sojitz"
-      ],
-      "tags": [],
-      "summary": "今期は黒字転換へ！ パルと双日が仕掛けるオフプライスストア「ローカスト」の野望 ダイヤモンド・チェーンストアオンライン",
-      "source_count": 1
-    },
-    {
-      "id": "483c2694bd046c6f",
-      "title": "世界トップだった日本の銀行はなぜ消え、「冬の時代」の商社は復活したのか…30年で明暗を分けた人事とは",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15c0dSZmhCaGZOQTk3el9CUUtEZGVDdnlza2ZsZ3lMRkQ1bmJSczh4LVJfQll1NkdJLVNXU3dqN19leGxNemVNVEVnZ3JzWmxLYlVxN1VB0gFPQVVfeXFMT25zWVNaaUo1anVyNUdLdXRmTjF0V24tZDNvdEd5MFpNWmZkUWpDdkd0bXV4b1pkdW5DSTM0WEVoMFE0bmxzQjNfOFVHWmc3VQ?oc=5",
-      "source": "ダイヤモンド・オンライン",
-      "published": "2026-08-10T07:00:00+00:00",
-      "company_ids": [
-        "sojitz"
-      ],
-      "tags": [
-        "人事"
-      ],
-      "summary": "世界トップだった日本の銀行はなぜ消え、「冬の時代」の商社は復活したのか…30年で明暗を分けた人事とは ダイヤモンド・オンライン",
-      "source_count": 1
-    },
-    {
-      "id": "bc5a01f17406e94d",
-      "title": "伊藤忠グループと日本テレビ放送網が連携し、「TV×リテールメディア」領域における戦略的協業を開始",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14dVFROW4tU05SeHFnZGJZUEhMUDRCb29aM0h3UE9FaEFJenZ6LXZ6N2NaSjFjbFlvZWp6WFdHLWI1aTFreV9zT1d1aGJ4T1BjMWx3X2xaQVhidjB6bHpYT2R0aXR4dw?oc=5",
-      "source": "伊藤忠商事株式会社",
-      "published": "2026-08-07T07:00:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "提携"
-      ],
-      "summary": "伊藤忠グループと日本テレビ放送網が連携し、「TV×リテールメディア」領域における戦略的協業を開始 伊藤忠商事株式会社",
-      "source_count": 1
-    },
-    {
-      "id": "6fe2922712c14754",
-      "title": "最強の商社：双日社長「勝ち筋に集中投資」 純利益1000億円の先に描く成長",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Qd2Y2c0FlSUhvU1VVb3BvOW4zcVNIaXV3YlBEUlE0a243MG55NnpkN2hnbzRuTklsMGxta3Roc084OXZhN1VYTEd0YnpPTjZVNWtJU2V4TndrdEZjc05lSVZZUkVDWDJVTWNRcEItRlc4cDh5ck1Pa0cxdjJiLTA?oc=5",
-      "source": "週刊エコノミスト Online",
-      "published": "2026-08-06T07:00:00+00:00",
-      "company_ids": [
-        "sojitz"
-      ],
-      "tags": [
-        "人事",
-        "投資",
-        "決算"
-      ],
-      "summary": "最強の商社：双日社長「勝ち筋に集中投資」 純利益1000億円の先に描く成長 週刊エコノミスト Online",
-      "source_count": 1
-    },
-    {
-      "id": "ea736c4f26a15757",
-      "title": "長瀬産業が4カ月ぶり上場来高値､1Q決算が95％最終増益",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oeE05Wnc1UkpQQmp1VVF5cHQ0UVBZZFdQV2JfTk02MFlOWnFuVzRjYXZqZXZMaWF6R2dqTzNiRVBSVnJQZFVULXhXU21MbmpnbGpRTUV0SQ?oc=5",
-      "source": "四季報オンライン",
-      "published": "2026-08-05T07:00:00+00:00",
-      "company_ids": [
-        "nagase"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "長瀬産業が4カ月ぶり上場来高値､1Q決算が95％最終増益 四季報オンライン",
-      "source_count": 1
-    },
-    {
-      "id": "12567ba2b100abd7",
-      "title": "長瀬産業---大幅反発、第1四半期は想定以上の大幅増益で好進捗",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zcG1oRE41Mkc1dl9YMWhFeEhoWU1IRmhQQlFqcENjOTFtTWFla21OZ3hLdTlza3ZUclJNN0lSUlNQMTZxeFZ2QXZzZFR1dzY2NHkzc3NBVFFtX3ZSOFVKag?oc=5",
-      "source": "株探",
-      "published": "2026-08-05T07:00:00+00:00",
-      "company_ids": [
-        "nagase"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "長瀬産業---大幅反発、第1四半期は想定以上の大幅増益で好進捗 株探",
-      "source_count": 1
-    },
-    {
-      "id": "83437943711b70f4",
-      "title": "住友商事・豊田通商・双日…大手商社3社の通期見通し、業績底堅く。中東情勢の影響は？",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1lcENYa1psTjRpc2NSdWFUZ3hmbTVjZWJ2cUpkUHNsb3pvYlp0dHhLQktlalJpYTBGTHQwMjJ2WHBZdw?oc=5",
-      "source": "ニュースイッチ by 日刊工業新聞社",
-      "published": "2026-08-04T07:00:00+00:00",
-      "company_ids": [
-        "sojitz",
-        "sumitomo",
-        "toyotatsusho"
-      ],
-      "tags": [
-        "業績予想",
-        "決算",
-        "海外"
-      ],
-      "summary": "住友商事・豊田通商・双日…大手商社3社の通期見通し、業績底堅く。中東情勢の影響は？ ニュースイッチ by 日刊工業新聞社",
-      "source_count": 1
-    },
-    {
-      "id": "1f8172b0a6043bae",
-      "title": "長瀬産業[8012]：自己株式取得に係る事項の決定に関するお知らせ 2026年8月4日(適時開示) ：日経会社情報DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CSDJJRHFZNGJRMDlmTXdxX1R0Y1FUMm91NEVOel81OUVIZDEyaVRiUE9raUNWYnV2TTFHQzF3dHRSaWxITi1hdUN2N0QtaWZJOS1rNE1BT2wtc2ktcW10ZjJmWDVHc3RhdUE?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-08-04T07:00:00+00:00",
-      "company_ids": [
-        "nagase"
-      ],
-      "tags": [
-        "投資",
-        "株主還元"
-      ],
-      "summary": "長瀬産業[8012]：自己株式取得に係る事項の決定に関するお知らせ 2026年8月4日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "cca531a7bfbedaff",
-      "title": "従業員向け株式報酬制度の継続 | 2026年 | リリース | 三井物産株式会社",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xeWRkMVJFVUw5b2hDZE9qZmViYXRuUXRtRHNaQ1g4cVZ0VkQybzNpQmpFTm1uRzVjdmh0MEQya0V1TDhJZnJHMlVMa3N5a0F2Szg5UnkxSmhsT1ZHbWlPNkgxSHdqX19nb21oTg?oc=5",
-      "source": "MITSUI & CO., LTD.",
-      "published": "2026-08-04T07:00:00+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [],
-      "summary": "従業員向け株式報酬制度の継続 | 2026年 | リリース | 三井物産株式会社 MITSUI & CO., LTD.",
-      "source_count": 1
-    },
-    {
-      "id": "50bdd6a2510c5bf3",
-      "title": "米国の大手航空機リース会社Aviation Capital Group LLCの共同経営に参画",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IQ2ZVNW5CVkItNWJtbTZVSUl3WEVEV3c1VUh3MEVhbFk4WUtfeEFsaWk1Vk11bjZpclIwRVpDck5xNU8zajJHTC1QeXc5ME5XalE2VFp5RndOWjdRYXBBbXZqLThyUXpG?oc=5",
-      "source": "伊藤忠商事株式会社",
-      "published": "2026-08-03T07:00:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "投資",
-        "提携",
-        "海外"
-      ],
-      "summary": "米国の大手航空機リース会社Aviation Capital Group LLCの共同経営に参画 伊藤忠商事株式会社",
-      "source_count": 1
-    },
-    {
-      "id": "1ba7d70a6ad9aa3a",
-      "title": "JFE商事・祖母井社長「インド軸に成長、高級鋼の加工設備新設検討」",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95TnkxaTB3QndNUC1IYl95ZVBkeDIyOVdpWFJITWpVak1XRmNMVG8yQTAxLThoU1BiOUF6UEw1QW5mTGN0Tks5ZnhORDdOOC1LRVFCS29XYXY2QU80MFNpeTRRYnd2UlkzZHBXOA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-08-03T07:00:00+00:00",
-      "company_ids": [
-        "jfeshoji"
-      ],
-      "tags": [
-        "人事",
-        "海外"
-      ],
-      "summary": "JFE商事・祖母井社長「インド軸に成長、高級鋼の加工設備新設検討」 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "381d1dadc1285983",
-      "title": "最強の商社：トップインタビュー「勝ち筋へ大型投資 レアアースと豪州インフラに活路」植村幸祐・双日社長",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBidjJLV25uX0p4TG4wa3BwbWowMmpfbjBTN0tUNjZIS2stM1poWmpwcFVWZVpLVElFc0M4M1lYaHFjODdlUVBka0cwZlFTTHo3bTVwb1pWWU5CZzh5MWdfYm1vcVRCQUQ1cmVzNDdtS05WWlRial9DcmUzeDhaS3M?oc=5",
-      "source": "週刊エコノミスト Online",
-      "published": "2026-08-03T07:00:00+00:00",
-      "company_ids": [
-        "sojitz"
-      ],
-      "tags": [
-        "人事",
-        "投資",
-        "海外"
-      ],
-      "summary": "最強の商社：トップインタビュー「勝ち筋へ大型投資 レアアースと豪州インフラに活路」植村幸祐・双日社長 週刊エコノミスト Online",
       "source_count": 1
     }
   ]
