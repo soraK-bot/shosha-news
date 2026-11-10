@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T10:44:18.862636+00:00",
+  "updated_at": "2026-11-10T22:30:30.670116+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -92,6 +92,94 @@
     "就活"
   ],
   "articles": [
+    {
+      "id": "4aab8bf631d58f6a",
+      "title": "伊藤忠商事やヤンマーの経営幹部が広告に出演 ウイングアークのBtoB広告戦略",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBWUUx2c0xrWnZxelM4RUlIMGE3dkhTWlpnTnp3RU5uM1ZhdC0tNkNzSW5wNThWSFM0Yi04dDN5ZnhBNGVwdHBV?oc=5",
+      "source": "アドクロ",
+      "published": "2026-11-10T21:03:06+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "M&A"
+      ],
+      "summary": "伊藤忠商事やヤンマーの経営幹部が広告に出演 ウイングアークのBtoB広告戦略 アドクロ",
+      "source_count": 1
+    },
+    {
+      "id": "82c8138c29a5a110",
+      "title": "プラスオートメーション新社長に三井物産出身の小林氏が就任",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VcU16MFZ4ZGNZVzRiREZrRjNIcUJ2TWpzYmtNbi1iaXZWUUZCVFQwaWtka2tpbWtyZjRtT0Nndzd6Y1N4X1l0aGx0WQ?oc=5",
+      "source": "LOGI-BIZ online",
+      "published": "2026-11-10T21:00:53+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "人事"
+      ],
+      "summary": "プラスオートメーション新社長に三井物産出身の小林氏が就任 LOGI-BIZ online",
+      "source_count": 1
+    },
+    {
+      "id": "3191b22b029356c7",
+      "title": "長崎・諫早に大型蓄電所 JR九州と住友商事 28年12月運用開始目指す",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QX1JjbmdnTVp1aFhIV3g5TGRQQUtYQmV2aTBubkpQaFpuVVRXZ1pVLWJ5RkpxNS1HTDVadjNmTFFRQ3JNVkN0bTdfR3pSNG5YRVQtYWR3?oc=5",
+      "source": "西日本新聞me",
+      "published": "2026-11-10T21:00:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "長崎・諫早に大型蓄電所 JR九州と住友商事 28年12月運用開始目指す 西日本新聞me",
+      "source_count": 1
+    },
+    {
+      "id": "9df93de850790a02",
+      "title": "【サンフロンティア不動産 FY2026 Q2 決算説明会】売上高34%増782億円で中間期過去最高、経常利益進捗率59.5%―齋藤社長「伊藤忠提携で長期目標前倒し目指す」",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5QV9KT3lUc21qZVhNTFYxSHJ3MUZaMGNhVExZcVVJdFZLUFRvbm9jNUJ2Z05aSkEwcXZROTljdzc3bVlteDQ2c0RYUjUxZ3kxOWN5N0JaODcwWUlybkRF?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-11-10T20:04:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "人事",
+        "提携",
+        "決算"
+      ],
+      "summary": "【サンフロンティア不動産 FY2026 Q2 決算説明会】売上高34%増782億円で中間期過去最高、経常利益進捗率59.5%―齋藤社長「伊藤忠提携で長期目標前倒し目指す」 BigGo ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "100e0d2e2f761dcb",
+      "title": "物価高と社会・政治不安",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKR05OMldLdEhSdWNZNEZaUFcyWE9hbi1HQVVDMmIxUG8xWnpPRVFfYWhOeFFCY3J0bjdVVFVsLWw2RGlKemR0d19DN1M4Ul8tZldBeTdjN0d1NWttWGFWTg?oc=5",
+      "source": "住友商事グローバルリサーチ",
+      "published": "2026-11-10T15:03:59+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "物価高と社会・政治不安 住友商事グローバルリサーチ",
+      "source_count": 1
+    },
+    {
+      "id": "54471930d2f2f54f",
+      "title": "商社ERPトレンド紹介 第60回 データスペース時代に商社・卸売業のERPは何をつなぐべきか？企業間データ連携基盤から次の統合管理を考える",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IaTJ0Qk95U0UwdkFsSGtXUnZXRU10SzhRT21yaF9UTmpuU3R2cGhJVjQyNTlOOHI1dUtmYW1xTV9JRTRnTUVaX2QwaTZNVTA4em80?oc=5",
+      "source": "ZDNET Japan",
+      "published": "2026-11-10T15:00:00+00:00",
+      "company_ids": [
+        "sojitz"
+      ],
+      "tags": [
+        "提携"
+      ],
+      "summary": "商社ERPトレンド紹介 第60回 データスペース時代に商社・卸売業のERPは何をつなぐべきか？企業間データ連携基盤から次の統合管理を考える ZDNET Japan",
+      "source_count": 1
+    },
     {
       "id": "b10ba0ad5aaac914",
       "title": "シグマクシスHD、AI・データマネジメント需要が堅調、顧客数は前年同期比14％増 伊藤忠商事との資本業務提携を強化",
@@ -324,6 +412,19 @@
         "DX"
       ],
       "summary": "【SIGNATE】日経ビジネスLIVE 2026 Fallに登壇。三菱商事と語る「AIエージェント時代の業務・組織・人材の再設計」 PR TIMES",
+      "source_count": 1
+    },
+    {
+      "id": "bd8e0ea66bb87b2e",
+      "title": "サハリン２のロシア一時管理、赤沢経産相「あってはならぬ」（ロイター）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KQUx0bEIxaEZjZGl3YkJPSURsd0laZGl5eC1Hd05pVUhVSGtvcnZ3OXJlaUI3eDlfbEtUYlQ2Qkh3OGhFdGllMnBGeFRSMHJabHBvTlNQNkhxejNnbjk4WGR6YU1hdnhDY1NFWXByaENfWW1QV3c1ZTZidFlIQ2M?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-10T01:56:46+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "サハリン２のロシア一時管理、赤沢経産相「あってはならぬ」（ロイター） Yahoo!ニュース",
       "source_count": 1
     },
     {
@@ -8874,113 +8975,6 @@
         "資源"
       ],
       "summary": "カナダ・Tintina Minesへの出資を通じチリDos Amigos銅・金鉱山プロジェクトへ参画 | 住友商事 Sumitomo Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "73d046a2ac602752",
-      "title": "商社の経営戦略 構造変化を見据えて／メタルワン 渡邉善之社長／国内外で統括体制見直し／広い視点で新たな市場開拓",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BekZCSmRJNjJGdG9UNTJSeGw0MnVYOC1OUjgwMlJTcWFIM3FZaWxHc3ZqYXppQjNZR2NhejgyX3puOEw0RDctR0hpYXdJRzJ2YWZMcWtyWkNhRS1wQV81eWtJRQ?oc=5",
-      "source": "WEB産業新聞",
-      "published": "2026-08-28T07:00:00+00:00",
-      "company_ids": [
-        "metalone"
-      ],
-      "tags": [
-        "人事"
-      ],
-      "summary": "商社の経営戦略 構造変化を見据えて／メタルワン 渡邉善之社長／国内外で統括体制見直し／広い視点で新たな市場開拓 WEB産業新聞",
-      "source_count": 1
-    },
-    {
-      "id": "75025c3d6ac4c9ac",
-      "title": "JFE商事エレ 安全分野AI製品拡充 製造向け（日刊産業新聞）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEclNSV25jcW9EYjBoOGRkay0zVTVjY1RlcE5Qamx4ZTlTcE43d09CTEhIQk9EVnpHRDdUYW92M2R1eXFSYW9hcENNNGFJUi1lZlB6ZkJtNWRuNHFSb2NxS0EyQUlMb2xyc2JoY1ZMaUd3ZWNHTjJyaTFMMmplS3M?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-08-28T07:00:00+00:00",
-      "company_ids": [
-        "jfeshoji"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "JFE商事エレ 安全分野AI製品拡充 製造向け（日刊産業新聞） Yahoo!ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "4f1f7f4b7d38237e",
-      "title": "ＪＦＥ商事エレクトロニクス／製造現場の安全確保に寄与するＡＩソリューションをパッケージ提案",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HMDdhNkF4Y25SNmlJaG1Vempoa2h5YzYzVl9sOEdSMFV5WlBtel9SWDctQ2hqMzNwanhicHBCeHFVRENzZEt2QU1adk9ha1pfUTg0RHQwSlFPNjR6UXc?oc=5",
-      "source": "日刊鉄鋼新聞 Japan Metal Daily",
-      "published": "2026-08-28T07:00:00+00:00",
-      "company_ids": [
-        "jfeshoji"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "ＪＦＥ商事エレクトロニクス／製造現場の安全確保に寄与するＡＩソリューションをパッケージ提案 日刊鉄鋼新聞 Japan Metal Daily",
-      "source_count": 1
-    },
-    {
-      "id": "06ebf76468dc56ce",
-      "title": "人財戦略を聞く／商社編／JFE商事 専務執行役員 鬼澤 徹氏／成果と能力軸に制度改定／評価の納得性高め成長の「道しるべ」に",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpaTkwbDJaS1lXUTMzOUxhRVMtM3JMb1FzUDZoU0ItdXNJUVpkNHVkZmVQd2NYaGJNZUVwalU1WlFRdmJKcE5QZTJmZEI4bG83U0xMejc5VkJSWXpZdU4yQ1J5bw?oc=5",
-      "source": "WEB産業新聞",
-      "published": "2026-08-27T07:00:00+00:00",
-      "company_ids": [
-        "jfeshoji"
-      ],
-      "tags": [
-        "人事"
-      ],
-      "summary": "人財戦略を聞く／商社編／JFE商事 専務執行役員 鬼澤 徹氏／成果と能力軸に制度改定／評価の納得性高め成長の「道しるべ」に WEB産業新聞",
-      "source_count": 1
-    },
-    {
-      "id": "d2c42f29de2875af",
-      "title": "JFE商事エレクトロニクス、製造現場の「安全」AIソリューションを拡充・シリーズ化",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12T09rR1owOFoyVHp6a3o2ZllRb1dnek1TVTNEcng5RjEyTzhCdmZwT3RuMS01NzBvaTlVSGtUdlE4WnE1SlJwWXpiSldhaGpUNHVtSXNVdlBuV3ZHZW5yTjN1S3ZpNlJVV2c?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-08-27T07:00:00+00:00",
-      "company_ids": [
-        "jfeshoji"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "JFE商事エレクトロニクス、製造現場の「安全」AIソリューションを拡充・シリーズ化 PR TIMES",
-      "source_count": 1
-    },
-    {
-      "id": "7e1de2595f964085",
-      "title": "伊藤忠商事、広告分析新興に出資 テレビ視聴と購買データを連携",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3d3ZuZGxNYmRqZ2ZOTGdCNF85UzF2d0p6Y2RodWVwZk92cFV5dm45Rk5ySHlFUXAtVXhLMmZpTmZMampNOFU3NU13VHF0ZUZJXzB2eTNOZ3VCSmtrMTA0cWdyWHhrcHlYbXBaTw?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-08-26T07:00:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "投資",
-        "提携"
-      ],
-      "summary": "伊藤忠商事、広告分析新興に出資 テレビ視聴と購買データを連携 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "344910df2bd4858f",
-      "title": "長瀬産業[8012]：自己株式の取得状況および取得終了に関するお知らせ 2026年8月25日(適時開示) ：日経会社情報DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jNEhIbUtwMDZKOXRhemJDWFpuaUxYY3VhenNFTU95X2VaczRxTXp2Si1GUWxIdFdPeUFNR3h3bFJmSnc5Nmx6OVdRQjlQbWVQTE1SdGRYSE11ZlBwcUZMTHBwTTNxRDZnd2c?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-08-25T07:00:00+00:00",
-      "company_ids": [
-        "nagase"
-      ],
-      "tags": [
-        "投資",
-        "株主還元"
-      ],
-      "summary": "長瀬産業[8012]：自己株式の取得状況および取得終了に関するお知らせ 2026年8月25日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
       "source_count": 1
     }
   ]
