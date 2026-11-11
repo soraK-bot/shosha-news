@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T22:30:30.670116+00:00",
+  "updated_at": "2026-11-11T03:44:01.164005+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -92,6 +92,51 @@
     "就活"
   ],
   "articles": [
+    {
+      "id": "d9a8a3181b57931b",
+      "title": "【株主還元１兆円時代】トヨタ・三菱商事に注目、株価を支える還元策の実効性を探る",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ydlJ4UkIwYklIUzk5ajhKYnhJSTFpTm9NZGlPUTROUlZhaWtfZWh6bmkwVFhteHl6Y0M4MF9HNXlNMTk4aUNKYWQ2LUZBaGYwcmw2MQ?oc=5",
+      "source": "https://kabu-ir.com/",
+      "published": "2026-11-11T03:27:55+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "株主還元"
+      ],
+      "summary": "【株主還元１兆円時代】トヨタ・三菱商事に注目、株価を支える還元策の実効性を探る https://kabu-ir.com/",
+      "source_count": 1
+    },
+    {
+      "id": "d9b78bf3bd27ef18",
+      "title": "ヴィンホームズと三菱商事は、都市インフラ開発に向けた包括的な戦略的パートナーシップを締結した。",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSmkzMzlVb3BNRG95eUpmSGYwME9QSWpLZHlfU1d3cGpYamM4b3pobG5fZHYyVG5icEthVFFpbU45REp6NGszOXRrUWFMOC15ekV2RnJieVRSSU9OWGlHY2RjZm1JbEdkYWVmLTI2dG5HMWdGUzBVWnlrR3BmLWNUbWk3UGpoYlJGdnNWaXN4MngtOU5LSkd0UkZMdEd5U2hzaW83M21vZTh5alZoNWNGNlc2dG1tdw?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-11T02:39:41+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "提携"
+      ],
+      "summary": "ヴィンホームズと三菱商事は、都市インフラ開発に向けた包括的な戦略的パートナーシップを締結した。 Vietnam.vn",
+      "source_count": 1
+    },
+    {
+      "id": "fa71a20f8e0f6282",
+      "title": "（17）丸紅ロジスティクス、デジタル・BPOなど融合",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53MVR4Zmd1QWFZRktTeElqaEtKLUgwTzJQaHB2X2VhZ01TZ21NakFYZ3pGUjdMUk9aQU1FVVFBZThXRmlURkRjZ3VtR09ISnJwUmxXNzZ3?oc=5",
+      "source": "日本海事新聞 電子版",
+      "published": "2026-11-10T22:25:59+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "（17）丸紅ロジスティクス、デジタル・BPOなど融合 日本海事新聞 電子版",
+      "source_count": 1
+    },
     {
       "id": "4aab8bf631d58f6a",
       "title": "伊藤忠商事やヤンマーの経営幹部が広告に出演 ウイングアークのBtoB広告戦略",
@@ -313,6 +358,22 @@
         "株主還元"
       ],
       "summary": "シグマクシスResearch Memo：4%近い配当利回り、伊藤忠商事と新たな資本・業務提携を発表（1） ｄメニューニュース",
+      "source_count": 1
+    },
+    {
+      "id": "d123084549caf04e",
+      "title": "シグマクシスResearch Memo：4%近い配当利回り、伊藤忠商事と新たな資本・業務提携を発表（1）(フィスコ)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU3NTd0gyQVZaREtrN1hCQ1VybndHMUZmMEZ2cVFmQzVKQW0yaTRZQTRCd2t0WmVESThkU2lTWWFISm5xTE1pak1KOUhRUFpUMkVqeFhTcEI0Z3pOcGtpUjV1c3oxTnFzcXh0bzRCeHBad28xdVhibGFPZkpqelJXYTM0LXh5SUk?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-10T06:01:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "提携",
+        "株主還元"
+      ],
+      "summary": "シグマクシスResearch Memo：4%近い配当利回り、伊藤忠商事と新たな資本・業務提携を発表（1）(フィスコ) Yahoo!ファイナンス",
       "source_count": 1
     },
     {
@@ -1101,6 +1162,21 @@
       ],
       "tags": [],
       "summary": "｜TVCM｜ 「商人は水であれ 世界中の心を満たすまで」篇 伊藤忠商事株式会社",
+      "source_count": 1
+    },
+    {
+      "id": "dff4435fc107cbf9",
+      "title": "米中間選挙で日経平均はどう動く？ 億超え投資家が「キオクシア・三菱商事・三菱UFJ」に注目するワケ",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE83Y09IQUxJTkRzQTlrWmsya2xvSzZQUUJnOUV4bk9keFY3V1pMVzExc1hIV1Y0WVNWOWxlUlpEb1ZzekE?oc=5",
+      "source": "日刊SPA!",
+      "published": "2026-11-08T23:50:40+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "米中間選挙で日経平均はどう動く？ 億超え投資家が「キオクシア・三菱商事・三菱UFJ」に注目するワケ 日刊SPA!",
       "source_count": 1
     },
     {
@@ -8900,81 +8976,6 @@
         "就活"
       ],
       "summary": "三井物産の人事部長が求める新卒「新しい仕事や変化を面白がれる人」 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "ab6ab7a59a71912b",
-      "title": "伊藤忠商事の人事部長が求める人材「現場で信頼関係築ける人」",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5obnZCTGR1bnE3VVNOMmNmcmFsY1FUV21Eb1hqTlN4d0kwQXFsV25ZZmdFUXZZdWZUSGJSXzY5c1lqNzJGaWFCajFxUEl6TkhScWM1NDkwVFlHMG1QeVpJOHBEVFNXWDdNcVJ2dg?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-09-02T07:00:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "人事"
-      ],
-      "summary": "伊藤忠商事の人事部長が求める人材「現場で信頼関係築ける人」 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "634322bd28b268e5",
-      "title": "三菱商事の人事部長が語る新卒採用「高い志と倫理観を重視」",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mLWRLUHRJb0pVOUtVbmExVkZFbi1iR2Q1ZFkzTzVfUXZubGc4NjBBY3BaSjE4akl0eFdhaDY1YTFDQWpScGJ2ajRvSTdBSFFBa3Eyc01fTnk2VnhhMjZ3dUZYY0xrdU1YUUdDcA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-09-01T07:00:00+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "人事",
-        "就活"
-      ],
-      "summary": "三菱商事の人事部長が語る新卒採用「高い志と倫理観を重視」 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "a06312ad91694a8e",
-      "title": "伊藤忠グループ会社と電通グループ会社によるITサービス・リテールメディア領域の戦略的提携",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QNkoxWXVNTkFKeWdURzRPYUtmMFQwQXEzbG9ITk5Wb0E2MFZyYnNPTFlWQ2hEYVFaYkhfRklleGpZUTZXR2M4bWJxbGJ5LWpEbWlMMExlaXMwcHducFV0NHplYldJWjNB?oc=5",
-      "source": "伊藤忠商事株式会社",
-      "published": "2026-08-31T07:00:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "提携"
-      ],
-      "summary": "伊藤忠グループ会社と電通グループ会社によるITサービス・リテールメディア領域の戦略的提携 伊藤忠商事株式会社",
-      "source_count": 1
-    },
-    {
-      "id": "d9fbb90bfac7f2fc",
-      "title": "ＪＦＥ商事、本社・名古屋で／ファミリーデー開催",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yX083Q2dmSTJrZkVQNjhMUEFISG1vRF84VlJWaWZUZkt3MTdQXzNiT01iRENrcGwwSnFiS1lKSDJ1MU12U0FVTEFmV2c2MlJNX0N2NUY2SlpsTHVhVlMyQVdn?oc=5",
-      "source": "japanmetal.com",
-      "published": "2026-08-31T07:00:00+00:00",
-      "company_ids": [
-        "jfeshoji"
-      ],
-      "tags": [],
-      "summary": "ＪＦＥ商事、本社・名古屋で／ファミリーデー開催 japanmetal.com",
-      "source_count": 1
-    },
-    {
-      "id": "529c87d12254bf7e",
-      "title": "カナダ・Tintina Minesへの出資を通じチリDos Amigos銅・金鉱山プロジェクトへ参画 | 住友商事",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81Y2xpNlB6VXppUzE2Yk1Vd3BHNUo2eDhKemt1dFdGeUNhREs3UHJ6LU50c1h4Qkpic05CbUJuNi1fTVNJb3hEeUNVdGVxTmVKNFlhTTRoUm5idmsxSjQtUlNUOXJBeVcyNEdTME8ybm9OYnJS?oc=5",
-      "source": "Sumitomo Corporation",
-      "published": "2026-08-28T07:00:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "投資",
-        "資源"
-      ],
-      "summary": "カナダ・Tintina Minesへの出資を通じチリDos Amigos銅・金鉱山プロジェクトへ参画 | 住友商事 Sumitomo Corporation",
       "source_count": 1
     }
   ]
