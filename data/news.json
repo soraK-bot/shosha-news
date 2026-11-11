@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T10:48:08.198107+00:00",
+  "updated_at": "2026-11-11T22:42:11.401836+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -92,6 +92,137 @@
     "就活"
   ],
   "articles": [
+    {
+      "id": "3c78afc556bb565a",
+      "title": "三菱商事、三井物産、創業家が前代未聞の争い…「純正ごま油」かどや製油で起きている買収合戦《TOB価格の行く末は？》",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XbXo4RHB4LUFtamttRkFLVk5aejRhSW43MmdLOXN1NUFxUEpHZWxheFhaUjZ1bnllYWVhR3dkck1sTWNzVnlkU0lWWQ?oc=5",
+      "source": "文春オンライン",
+      "published": "2026-11-11T22:00:00+00:00",
+      "company_ids": [
+        "mitsubishi",
+        "mitsui"
+      ],
+      "tags": [
+        "M&A"
+      ],
+      "summary": "三菱商事、三井物産、創業家が前代未聞の争い…「純正ごま油」かどや製油で起きている買収合戦《TOB価格の行く末は？》 文春オンライン",
+      "source_count": 1
+    },
+    {
+      "id": "5436468607691f52",
+      "title": "住友商事も三井物産も怒った！モノタロウが業界のタブーを破った「今なら100円！」の衝撃（ダイヤモンド・オンライン）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqX0FSUE9zd3R4M05iRFJRazF6TjEzc2xxUDhrOXpvSkY2RzVfbk5udVRMUDgydW1rUGVlSVBzSVAzV3p3MXRGTEFvOGVjZkh1dG1zbjFkQlRyYndSTlRaN2hXY0YwRjFVREh5V1Z4TDRwbkRaWWpzSDFLR0xod1k?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-11T21:37:03+00:00",
+      "company_ids": [
+        "mitsui",
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "住友商事も三井物産も怒った！モノタロウが業界のタブーを破った「今なら100円！」の衝撃（ダイヤモンド・オンライン） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "5948b614b3d17cd1",
+      "title": "就職人気企業ランキング28年卒【文系男子・ベスト200】3位は三井物産、1位は？",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFByaDJPNlRRVUh3S1lkTmxtMlBkY29rVXFWNzMzQzlRbU9BQkdwOGxNNUJfYVY5NVVNTHdmNmhLRzNuMHFZXzBVa09XYjY?oc=5",
+      "source": "ダイヤモンド・オンライン",
+      "published": "2026-11-11T21:00:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "就職人気企業ランキング28年卒【文系男子・ベスト200】3位は三井物産、1位は？ ダイヤモンド・オンライン",
+      "source_count": 1
+    },
+    {
+      "id": "89a01841700a0e63",
+      "title": "三菱商事、「LNGカナダ」連携 米ファンドに一部売却",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xejg3WkdGRDY4NmRidlFkNmVIRHpiakVEbjhTTWFfblB1SG12dGpNU2JiU0R3SGxiOFpfcnN6U21uWDJSSV94LXpDVjhYWFB4TDVCM0QxNlg?oc=5",
+      "source": "日刊工業新聞",
+      "published": "2026-11-11T20:00:00+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "M&A",
+        "提携",
+        "資源"
+      ],
+      "summary": "三菱商事、「LNGカナダ」連携 米ファンドに一部売却 日刊工業新聞",
+      "source_count": 1
+    },
+    {
+      "id": "426ee3f7ea345d83",
+      "title": "豪州が蛍石やタングステンを探鉱、日本と連携 現地企業と住商など",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TQnNiRXdjVUczc0tBSV9TUXlJSHkyMGRNcjBGNHYtaHpvRERpY1pxU1VxaEEzSTlTcmNpUHJJZjVIdlNrY0lBS0pnRkZ1WjRpdHRWRVd3MzJQNnB6UFZwUEFkVVhlaHItckpOTg?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-11T20:00:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "提携",
+        "海外"
+      ],
+      "summary": "豪州が蛍石やタングステンを探鉱、日本と連携 現地企業と住商など 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "79a71f65205ffc19",
+      "title": "米で民主圧勝、データセンターはモラトリアム 丸紅分析",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU1d2RjRWRVlkVFl1cFFsNVRjMlF6R3JmSGE3bXRDbFduQlcxMU00S2tiNndxRWNEVVRvVjZNcm1teFdQSnI4SGJhaW1CcVlTQm5POERrcE5OYlMzTUd1WlpIb3UtRmFkbV9CazhfTDJPUkdFbW9kczNWWDZTX09jZU9UQlpsTGFxdGlOVg?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-11T20:00:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "米で民主圧勝、データセンターはモラトリアム 丸紅分析 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "a6d5b3ee8986b671",
+      "title": "三菱商事の不動産事業トップが明かす“半歩先”戦略、JR東と異例タッグの伊藤忠や大手デベの包囲網に挑む「独自路線」の勝算《再配信》 | 今だからこそ読みたい！注目特集",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZNnctY0FHN3I5Vm5RdnJCLUp4LXNELXlKazY4RkprYjRlaGllMUpIVXhHeDBIWnd2YkwzSmtkMlI3Zl9YZVRZekdlMnI?oc=5",
+      "source": "ダイヤモンド・オンライン",
+      "published": "2026-11-11T19:20:00+00:00",
+      "company_ids": [
+        "itochu",
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "三菱商事の不動産事業トップが明かす“半歩先”戦略、JR東と異例タッグの伊藤忠や大手デベの包囲網に挑む「独自路線」の勝算《再配信》 | 今だからこそ読みたい！注目特集 ダイヤモンド・オンライン",
+      "source_count": 1
+    },
+    {
+      "id": "2899a0fe26a83579",
+      "title": "【JPIセミナー】「九州大学箱崎キャンパス跡地の土地利用計画とまちづくり戦略」11月30日(月)＜東京開催",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HbTRlUnE5OGg5NHd3LVFLYkFEUk9zakhxTjlEd0VKbVMwUXA1eU0yei1IT18tS2FlMEN5RS1naHdqeWRfR3Npc2FjN1J3YXdSQ3AtMWFLX1NzV0c4MEJSTjhEMTZjSGtOU1JHVG05N1RZN2w5NTBQdlphTQ?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-11-11T18:00:19+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "【JPIセミナー】「九州大学箱崎キャンパス跡地の土地利用計画とまちづくり戦略」11月30日(月)＜東京開催 ニコニコニュース",
+      "source_count": 1
+    },
+    {
+      "id": "bc1244dfa9a507f9",
+      "title": "日本貿易保険、豊田通商などのエジプト風力支援 300億円融資に保険",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Uc0ZTdnEzOEdsZ192dW5GZ2J5SDFJY1c0ZkItODNUWEY4Q0UtTFZ6X2FLMXllTklTYlpSMmhjTExycnNlTEs3QmdtTDRsZXYtMVdvV0xIV1JHS3JLb3ZfV2w2OGFIUjZ3S25XbQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-11T15:01:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "日本貿易保険、豊田通商などのエジプト風力支援 300億円融資に保険 日本経済新聞",
+      "source_count": 1
+    },
     {
       "id": "615c3305d9543819",
       "title": "丸紅社長「未来を見るには過去の分析欠かせない」 世界経営者会議閉幕",
@@ -710,7 +841,7 @@
       ],
       "tags": [],
       "summary": "住友商事も三井物産も怒った！モノタロウが業界のタブーを破った「今なら100円！」の衝撃 ダイヤモンド・オンライン",
-      "source_count": 1
+      "source_count": 2
     },
     {
       "id": "adf77b58aea236fd",
@@ -8846,137 +8977,6 @@
         "投資"
       ],
       "summary": "三菱商事、フィリピン財閥アヤラに追加出資 1200億円で持ち分法会社へ 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "42d8b6c37afa57c5",
-      "title": "双日元社長・加瀬豊の現在と経歴｜名門商社を再建した手腕と功績の真相",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZSzVDMGtpYUhtV0tQYV94MWk5TzNGRXh0REZLWWpBTzRrc25TQVJwQnBwVVM0c2kyUlBoYXVFM1RRUHRlM0tTVE5SUm1Qd0JzSFI2OVVfdG5HMmRic1NqaV9iZm5vZDJLODU2aElDel8wbkpWTVE?oc=5",
-      "source": "elhuyar.eus",
-      "published": "2026-09-19T07:00:00+00:00",
-      "company_ids": [
-        "sojitz"
-      ],
-      "tags": [
-        "人事"
-      ],
-      "summary": "双日元社長・加瀬豊の現在と経歴｜名門商社を再建した手腕と功績の真相 elhuyar.eus",
-      "source_count": 1
-    },
-    {
-      "id": "5933098be48d77b2",
-      "title": "タイにおけるガス火力発電事業の保有株式の一部を売却 | 住友商事",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DM0JGa1Rkd0UxZnBMZ2V5LTQzaFFNTVAyYTJYWS1wTTdEYXpfNnFWcmFkR3BhUnMzYzJZb2hncl9keXlnTTl2SVN1NUpoLVhfYzMzQ09TSTM1Sm9RaS0zZjZsdy1OSVFZMmw5RnhXUURmQQ?oc=5",
-      "source": "Sumitomo Corporation",
-      "published": "2026-09-17T07:00:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "M&A"
-      ],
-      "summary": "タイにおけるガス火力発電事業の保有株式の一部を売却 | 住友商事 Sumitomo Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "ff7a03e8c60c08b0",
-      "title": "Power Appsは「プロ開発」、kintoneは「利用者開発」──伊藤忠丸紅鉄鋼の“いいとこどり”ツール選定戦略",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ndnlJNEFRenZaOW10dUxvYmM4SFVLZThSNUNpWGtuVVpzdzV3d2g0NnktUElHZHpDdW5XSmJZUHpvWWNlemtnX2UzdEpmQmc?oc=5",
-      "source": "ビジネス+IT",
-      "published": "2026-09-14T07:00:00+00:00",
-      "company_ids": [
-        "benichu",
-        "marubeni"
-      ],
-      "tags": [],
-      "summary": "Power Appsは「プロ開発」、kintoneは「利用者開発」──伊藤忠丸紅鉄鋼の“いいとこどり”ツール選定戦略 ビジネス+IT",
-      "source_count": 1
-    },
-    {
-      "id": "5a432029e36131f4",
-      "title": "豊田通商株に見る「為替離れ」 円高の呪縛、成長力が解く",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BSGY3Vm1fd3ZrcnpFNDZVVm44dk56SlkzdUxYVDNHMXZiUjkwUnJGMmRTLU1Pb3NIUllGaGFZb2E3Q0pOUFVnbHVDYTZReFducmZWd1JyR2I0Z1JVd2pIV2VwM085djRmUjlrSA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-09-11T07:00:00+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [],
-      "summary": "豊田通商株に見る「為替離れ」 円高の呪縛、成長力が解く 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "4286af91dd12ab3e",
-      "title": "アニメーション「7万人の大旅団」を公開～世界で働く7万人の多様な力と、豊田通商グループが目指す未来を表現",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GVW9jUU5VMDYtOXkxSlJSSGVHQzRqdENWOXpaS1IzNVVDcjBITUhtMUxpSjlKd1JsRnpFZUNJVDNIUkctU1dnNUpnWVBPS2Utd3hkS0U3YkU0NThHNzVMWVVvQWt3VlJETU52cUJ3?oc=5",
-      "source": "豊田通商株式会社",
-      "published": "2026-09-10T07:00:00+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [],
-      "summary": "アニメーション「7万人の大旅団」を公開～世界で働く7万人の多様な力と、豊田通商グループが目指す未来を表現 豊田通商株式会社",
-      "source_count": 1
-    },
-    {
-      "id": "616e2f712f5ec399",
-      "title": "データセンター参入報道で上昇の伊藤忠商事（8001）──1Q営業益20％増と「損保4社向けTOB」の中身を振り返る（LIMO）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBITWJnMUNidHdOY2x6VkRIS0lMRmZwckRMYnI5N3V3VjI1T0d1QlVHc0tzRG91cVp2RjNNTmwwbDFPaVlNbzBSZ0lscDZhRE1hTGdLcnlEQmg4UzdSdU9tam5aN1Bra3Z1SXVKd1ZwUzdnSUd5Yzhzd3UtTkQtT0E?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-09-10T07:00:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "DX",
-        "M&A",
-        "新規事業",
-        "決算"
-      ],
-      "summary": "データセンター参入報道で上昇の伊藤忠商事（8001）──1Q営業益20％増と「損保4社向けTOB」の中身を振り返る（LIMO） Yahoo!ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "e7b391c7922f7c91",
-      "title": "丸紅、ROE15%へキャッシュ総動員 投資と還元4500億円積み増し",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wT0J6SHI5dV8yaFROS2g4aEd3Q0I4ZWo4ZFFmNmdqLVZUemJ0Qzk1QTF5d2F5Y05fcHhfeUdhLWNjYlVDOUdTNHdPNm5falVXdWdWSGJudVRWT0dyUHBiQzc1TW1yczJRcmwzRA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-09-09T07:00:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "投資"
-      ],
-      "summary": "丸紅、ROE15%へキャッシュ総動員 投資と還元4500億円積み増し 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "14a2b46b565022f0",
-      "title": "総合商社、M&Aプロを社内育成 双日は専門組織で投資精度磨く",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44VFpFTGR4RUoyRjZveF9QUThsUzZWVHY4SXB5bXdhcmlGOEV1S0puU2Q2U2hQSXl5WGhGaWwwNkZfeXdvUHNlN1pxWXRrbFhZdVlRLWNJNG5VcTV1bmlXYVl5cW9pMlAtanhWbQ?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-09-09T07:00:00+00:00",
-      "company_ids": [
-        "sojitz"
-      ],
-      "tags": [
-        "投資"
-      ],
-      "summary": "総合商社、M&Aプロを社内育成 双日は専門組織で投資精度磨く 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "434b9d3f4bb6521d",
-      "title": "“伊藤忠商事”の新入社員育成の現場は「滋賀県」！？",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tX3RHcW55bUxKcnZZcG9GMzFlZnJRWkItUS12dWZjYjdUWVNaN1FwU0gwcEloN1dtaW90QjkwWUtOX1hPbVkwNkdueVFOcExTRG5ac0d2Yw?oc=5",
-      "source": "滋賀県",
-      "published": "2026-09-09T05:52:30+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [],
-      "summary": "“伊藤忠商事”の新入社員育成の現場は「滋賀県」！？ 滋賀県",
       "source_count": 1
     }
   ]
