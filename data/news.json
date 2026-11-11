@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T03:44:01.164005+00:00",
+  "updated_at": "2026-11-11T10:48:08.198107+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -92,6 +92,79 @@
     "就活"
   ],
   "articles": [
+    {
+      "id": "615c3305d9543819",
+      "title": "丸紅社長「未来を見るには過去の分析欠かせない」 世界経営者会議閉幕",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OWGg4WXdmQkd1VjBRVXhMb2trWEZzamRPdWF0U3FHZl8wLXlkMkF3el9FQ1RLcVZ0SndvcGJZU3hucS0xRWFwUlVWejJSTHhTSDJtbHgzeVN5N3pZUmdpWElseGxZaFhqUk1Waw?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-11T09:27:52+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "人事"
+      ],
+      "summary": "丸紅社長「未来を見るには過去の分析欠かせない」 世界経営者会議閉幕 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "8a6ac2d012ba70ac",
+      "title": "【JTを襲ったロシアショック】今後は減損の規模、業績予想・配当の見直しが焦点に 同じリスクを抱える三井物産・三菱商事のロシア事業で確認すべきポイント",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9WT2JtWkZDN2NQVmxjVUFjY3ZYWjV2S1FsU19zUFVhX2E3eTdnX09Xalc2SVVLaFNnN0RKWHJRcndKNGtDVWVN?oc=5",
+      "source": "マネーポストWEB",
+      "published": "2026-11-11T08:02:00+00:00",
+      "company_ids": [
+        "mitsubishi",
+        "mitsui"
+      ],
+      "tags": [
+        "株主還元",
+        "業績予想"
+      ],
+      "summary": "【JTを襲ったロシアショック】今後は減損の規模、業績予想・配当の見直しが焦点に 同じリスクを抱える三井物産・三菱商事のロシア事業で確認すべきポイント マネーポストWEB",
+      "source_count": 1
+    },
+    {
+      "id": "b16d7124e596ef7d",
+      "title": "丸紅の大本社長「変化への対応力で事業成長」 世界経営者会議",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QUTQ1VHlwMmMzeFROUXRCdEkwRHZ4TzdjNzgyUXB1dmUybkNVVFNadThENE83ZGZ0cFpzcm41UTFFYU1jVVZYV2ZKdmdoOHJkb29XeGRGOUJyS3U5YTVjTGlGRnFsRWQwazVqag?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-11T07:30:26+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "人事"
+      ],
+      "summary": "丸紅の大本社長「変化への対応力で事業成長」 世界経営者会議 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "0a9a97b7421326bb",
+      "title": "「世界で急拡大するLFP電池市場とリサイクル競争」と題して、（株）三井物産戦略研究所 技術・イノベーション情報部 趙 健氏によるセミナーを2026年12月15日(火)に開催!!",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzUzNYX3Q4eU5td3ZFbVZyMWZHZ181MXY1dV80cllkUXhjQWc3ZXBWWWF4U1dpbFRtSmFCeDZXLW9UdkxfdGxXSXFXQWxjREt3NTVtaTVyRXQ5Vk5wRkdnNERjTVdxbEhNbkNZ?oc=5",
+      "source": "時事ドットコム",
+      "published": "2026-11-11T07:16:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "「世界で急拡大するLFP電池市場とリサイクル競争」と題して、（株）三井物産戦略研究所 技術・イノベーション情報部 趙 健氏によるセミナーを2026年12月15日(火)に開催!! 時事ドットコム",
+      "source_count": 1
+    },
+    {
+      "id": "5fc401da0ed9f7f2",
+      "title": "伊藤忠商事株式会社が株式会社アドウェイズ＜2489＞株式の変更報告書を提出（保有増加）",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMFBYblZKOW5YOHlBVFNqLXJoaGViLUxrRE40N3FYN0pxRmRQajlOZ3hCbEhhY1dnR0pXQ0VTRl9KVVpJTXIyamNGZjFULS1XUV9SRWtOTXpXTTlHWXNwV2k3b29uaE05RF9sSnBpUDVnSEFzd1FheHJxN2dQVHJwdVN3TTLSAYoBQVVfeXFMTTBnaEpGRVpvTjQ5VGdqME0yd0tOVHBHSElaU0Z4SHpHQS14eWt2dmR6eVBuLWlhNjQxb3NhYk5wNlpCVEVsQnRXWkJXYVQtckxMVko4dE1HdVhzRG0xVXkycmEzb2pUSTZma3pjTkhoQXhlNmFqOF9nRWY3RGJUNzFrd21sZzNOdXhR?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-11-11T06:31:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "伊藤忠商事株式会社が株式会社アドウェイズ＜2489＞株式の変更報告書を提出（保有増加） ｄメニューニュース",
+      "source_count": 2
+    },
     {
       "id": "d9a8a3181b57931b",
       "title": "【株主還元１兆円時代】トヨタ・三菱商事に注目、株価を支える還元策の実効性を探る",
@@ -402,6 +475,19 @@
       ],
       "tags": [],
       "summary": "福地桃子出演、伊藤忠商事のCM「商人は水であれ 世界中の心を満たすまで」篇で流れる曲は？ CDJournal.com",
+      "source_count": 1
+    },
+    {
+      "id": "9929a6b68f678080",
+      "title": "福地桃子出演、伊藤忠商事のCM「商人は水であれ 世界中の心を満たすまで」篇で流れる曲は？（CDJournal）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3Q1E2eWNTQWlFdlNtNEstVUdBS2JzejhmcktjMUZGbUw2a2JWNk9fc1FRNnF3SnZQMll4ZERBM0h4NUdWWXBaMjViR2lvdHg1RFZxdE5OeW1uaWFJVVA4OWxnZ1ZHWUdXdjNGY3FqWXh2NkNvb21oUUhlTkoyUGM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-10T04:13:03+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "福地桃子出演、伊藤忠商事のCM「商人は水であれ 世界中の心を満たすまで」篇で流れる曲は？（CDJournal） Yahoo!ニュース",
       "source_count": 1
     },
     {
@@ -8891,91 +8977,6 @@
       ],
       "tags": [],
       "summary": "“伊藤忠商事”の新入社員育成の現場は「滋賀県」！？ 滋賀県",
-      "source_count": 1
-    },
-    {
-      "id": "8c86f5a07061b29b",
-      "title": "統合報告書2026 | IR投資家情報 | 丸紅株式会社",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sV1JxczAyMlBpRTVYY1M4dEpVeW00bWVsOUI3TTBKYlVNdDJhWXlNeDcwUDFjVUdiZ01xemtINElRZU1CSVJLbTlwYUMwbmJIMi1FeDZvZWxqQ3NLMkQyb2FONmpad0dSUFptSFpKbw?oc=5",
-      "source": "Marubeni Corporation",
-      "published": "2026-09-08T02:02:42+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "投資"
-      ],
-      "summary": "統合報告書2026 | IR投資家情報 | 丸紅株式会社 Marubeni Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "ec7d0a3e0420a3c7",
-      "title": "三信住建と伊藤忠商事が描く不動産の未来 ｜ 日本経済新聞 電子版特集（PR）",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iSFVBNkV2cmZ0MDhZRTMwa0Vlb3hfTjZkNExyRG1sdWl6Z1RwNi1GMUh2NFF6N2ZxeFNzclZxQmhwel8tLTJURmZHajBxeFhPcjdiT3RnNENTQ0FIek04?oc=5",
-      "source": "ps.nikkei.com",
-      "published": "2026-09-07T15:11:30+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [],
-      "summary": "三信住建と伊藤忠商事が描く不動産の未来 ｜ 日本経済新聞 電子版特集（PR） ps.nikkei.com",
-      "source_count": 1
-    },
-    {
-      "id": "0ec14439ccd19a8a",
-      "title": "矢口 雄基 | People | Business & People | 三井物産株式会社",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4QWs5WmN1YkNoMUV1b1JfaGlnQklGYmVxRVBQQ0t2S0duUVVjdWJ3bXhZa3JsWG9YQXlZVElNX3ZxbGNmQXJlM0dLdHI3V2Z5NEtPeEZfQ1BXT2xETmpuTEtCc2RadklfZURQZw?oc=5",
-      "source": "MITSUI & CO., LTD.",
-      "published": "2026-09-04T05:46:50+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [],
-      "summary": "矢口 雄基 | People | Business & People | 三井物産株式会社 MITSUI & CO., LTD.",
-      "source_count": 1
-    },
-    {
-      "id": "bca4d0bb20d37e98",
-      "title": "データドリブン経営 三井物産グループは未来へ | Business Innovation | Business & People | 三井物産株式会社",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMUsyOGlBNGYtNHdyUUlOd3ZBZ29Zd0p2dDBGUUxoREd4cU1vN2FiMzRzdFBOemFsbnZLX0F5ZmVXX192cDZmNGsyOGFGbzItajMyM291ZWx5bFNxcnRMM0htUUtIR1dIczFJYlZURjNBNlRZUF9hdkpWR0tZeVRsUHBaS2p2NHMtVnc?oc=5",
-      "source": "MITSUI & CO., LTD.",
-      "published": "2026-09-04T05:46:48+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [],
-      "summary": "データドリブン経営 三井物産グループは未来へ | Business Innovation | Business & People | 三井物産株式会社 MITSUI & CO., LTD.",
-      "source_count": 1
-    },
-    {
-      "id": "7d4152c0e6fdfb87",
-      "title": "全国19空港とのAIを活用した設備の保守点検、業務高度化の実証実験を開始 | 住友商事",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9raTFrbmdqYml6eldMV21NWUc1VDdwQ3RCSS1TQ2hDVm1rN2VfaXV1ay05UnpTWUxsZ3dpOXcxUFhDYjZsVzNlS3pFR3d2VWNSRVdNdXNldjA4c3U4RWt0M3piakVFR1hRVmxhanRkLUhHQUZD?oc=5",
-      "source": "Sumitomo Corporation",
-      "published": "2026-09-03T07:00:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "全国19空港とのAIを活用した設備の保守点検、業務高度化の実証実験を開始 | 住友商事 Sumitomo Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "76b35096db58d99b",
-      "title": "三井物産の人事部長が求める新卒「新しい仕事や変化を面白がれる人」",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pQTM3V2s4TWtsQ01LOUJuYWc1dDhrX3pxajdGSUJfTEttNDJSbXFsTzU0SlU2RzRBTWhLQnRZRjd5MlU1VVVYZ3pSZHhXeHhiOXg1VElyTG5UQjRQSFFWdjBvZmx3bUVDbG9CUg?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-09-03T07:00:00+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "人事",
-        "就活"
-      ],
-      "summary": "三井物産の人事部長が求める新卒「新しい仕事や変化を面白がれる人」 日本経済新聞",
       "source_count": 1
     }
   ]
