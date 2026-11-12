@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T22:42:11.401836+00:00",
+  "updated_at": "2026-11-12T03:43:08.858523+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -93,6 +93,19 @@
   ],
   "articles": [
     {
+      "id": "7d475da4d3939f91",
+      "title": "丸紅アークログ、東北大学工学部でのBIM講義を継続実施",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52V2w4UDFUZGNTaTJITUdpdXBQSUFodlBZZlFHRC16a2M5d19iemlrOTl2eGhYdXZINE5ZZWdrdlZyWS1qenRySGNlYVFKVjJITTU4djBpdmFpSjdFZ3UyUFFkSU9nMHdSbzY3Q1JobUF2SkJ2Ync5S09lcw?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-11-12T02:30:41+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "丸紅アークログ、東北大学工学部でのBIM講義を継続実施 ニコニコニュース",
+      "source_count": 1
+    },
+    {
       "id": "3c78afc556bb565a",
       "title": "三菱商事、三井物産、創業家が前代未聞の争い…「純正ごま油」かどや製油で起きている買収合戦《TOB価格の行く末は？》",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XbXo4RHB4LUFtamttRkFLVk5aejRhSW43MmdLOXN1NUFxUEpHZWxheFhaUjZ1bnllYWVhR3dkck1sTWNzVnlkU0lWWQ?oc=5",
@@ -106,7 +119,7 @@
         "M&A"
       ],
       "summary": "三菱商事、三井物産、創業家が前代未聞の争い…「純正ごま油」かどや製油で起きている買収合戦《TOB価格の行く末は？》 文春オンライン",
-      "source_count": 1
+      "source_count": 2
     },
     {
       "id": "5436468607691f52",
@@ -120,6 +133,23 @@
       ],
       "tags": [],
       "summary": "住友商事も三井物産も怒った！モノタロウが業界のタブーを破った「今なら100円！」の衝撃（ダイヤモンド・オンライン） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "39a4fcd2c60b29c3",
+      "title": "【JTを襲ったロシアショック】今後は減損の規模、業績予想・配当の見直しが焦点に 同じリスクを抱える三井物産・三菱商事のロシア事業で確認すべきポイント（マネーポストWEB）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZRHlIX1NOWkpqVTFWQ3c1WGx4cmROb0VVcEJOelR2UHlTVndaRktvTzEwajY4aFU1UGpmNE8walItRUI1VzJudjJGWTlMUXNFczlGOFhTTkhiLWwtbnlZaGdkSHB4QjZQUDl4dWlRTDlpbm5KNTZLOXpBS2Z3R28?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-11T21:02:00+00:00",
+      "company_ids": [
+        "mitsubishi",
+        "mitsui"
+      ],
+      "tags": [
+        "株主還元",
+        "業績予想"
+      ],
+      "summary": "【JTを襲ったロシアショック】今後は減損の規模、業績予想・配当の見直しが焦点に 同じリスクを抱える三井物産・三菱商事のロシア事業で確認すべきポイント（マネーポストWEB） Yahoo!ニュース",
       "source_count": 1
     },
     {
@@ -195,6 +225,20 @@
       ],
       "tags": [],
       "summary": "三菱商事の不動産事業トップが明かす“半歩先”戦略、JR東と異例タッグの伊藤忠や大手デベの包囲網に挑む「独自路線」の勝算《再配信》 | 今だからこそ読みたい！注目特集 ダイヤモンド・オンライン",
+      "source_count": 1
+    },
+    {
+      "id": "6d737cf6d09990f3",
+      "title": "三菱商事の不動産事業トップが明かす“半歩先”戦略、JR東と異例タッグの伊藤忠や大手デベの包囲網に挑む「独自路線」の勝算《再配信》",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZNnctY0FHN3I5Vm5RdnJCLUp4LXNELXlKazY4RkprYjRlaGllMUpIVXhHeDBIWnd2YkwzSmtkMlI3Zl9YZVRZekdlMnI?oc=5",
+      "source": "ダイヤモンド・オンライン",
+      "published": "2026-11-11T19:20:00+00:00",
+      "company_ids": [
+        "itochu",
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "三菱商事の不動産事業トップが明かす“半歩先”戦略、JR東と異例タッグの伊藤忠や大手デベの包囲網に挑む「独自路線」の勝算《再配信》 ダイヤモンド・オンライン",
       "source_count": 1
     },
     {
@@ -1053,6 +1097,19 @@
         "提携"
       ],
       "summary": "シグマクシスが伊藤忠と資本業務提携強化(ウエルスアドバイザー) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "d20a8d331f69a8ab",
+      "title": "アイスタイル、ドットミー・エームサービス・三井物産とともに「JAPAN FOOD BEAUTY ALLIANCE」を締結",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2V0dyOFl2enFPY0c1LWsxTkxubE5fd25hNWhLT05tSWhQVnBKNlBsa29VNWVaTUVMTW5vMjBhd0JFZ295UHFHX1pSbklNQzlrdFVvdUZkb3FzM2IxV1hIQWcweXJRZ0R6QlVONQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-09T06:45:04+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "アイスタイル、ドットミー・エームサービス・三井物産とともに「JAPAN FOOD BEAUTY ALLIANCE」を締結 日本経済新聞",
       "source_count": 1
     },
     {
@@ -8919,64 +8976,6 @@
         "DX"
       ],
       "summary": "伊藤忠商事が描く AI エージェント時代の ERP 改革 ー SAP Business AI Platform が AI 活用の中核に SAP News Center",
-      "source_count": 1
-    },
-    {
-      "id": "ce1c0aeca9d7eace",
-      "title": "三井物産株の上値重く 大型投資、収益貢献の道筋が焦点 - 日経ヴェリタス",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10Qjc5TmxHREtTMENnSnBQcXRtVTdrZk1Md1VjRTYweDAycHIyZnJBaUVzSWpUREQxNHJCa2NfQmZKdHVnNU9PejJGOEZZUW5ROHczR0xnZDNpX0JJUnN2TXpVT2x2bHhYbEs1cG9OX290SDM3cWpmR3JnZTAzQQ?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-09-26T07:00:00+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "投資"
-      ],
-      "summary": "三井物産株の上値重く 大型投資、収益貢献の道筋が焦点 - 日経ヴェリタス 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "dd153d1f8f19b367",
-      "title": "ユナイテッド・イミュニティ株式会社への出資について",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tS0k3cFc5OEFDam1SRl9lQ1VpZDA4dUdSVXJ6R0JBZVdWS0dQVGJtNzZ0VlJobWxJMEpPUVFOQkg3US01VFc4N0c3RVRJc0k1UXNWWFBiMWFkSzhVb2hSMWdZTWg?oc=5",
-      "source": "伊藤忠商事株式会社",
-      "published": "2026-09-24T07:00:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "投資"
-      ],
-      "summary": "ユナイテッド・イミュニティ株式会社への出資について 伊藤忠商事株式会社",
-      "source_count": 1
-    },
-    {
-      "id": "8890b61c97b4b8c0",
-      "title": "総合商社 売上高ランキング 企業一覧",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX0NpTU8zZExiMnRWQlBlcWd2cy1SZjItdkszN3BpRHVuemY4RGdPUXJHaDdOa1p0SzE0ODY1NGdWZ2JsVTV3V0hYLTEtZHdDdTJrMXZEYkNkS19tWEppVFRTMU5WRy1VVTBQNW02MnRlMy1TWWRncXY1cElqNlUzT2VESHQ4cDRsWnZyNVRoTTFGMnBXQWZIU3NYS2w?oc=5",
-      "source": "PERAGARU",
-      "published": "2026-09-23T14:29:40+00:00",
-      "company_ids": [
-        "kanematsu"
-      ],
-      "tags": [],
-      "summary": "総合商社 売上高ランキング 企業一覧 PERAGARU",
-      "source_count": 1
-    },
-    {
-      "id": "a897b4119ac79a0c",
-      "title": "三菱商事、フィリピン財閥アヤラに追加出資 1200億円で持ち分法会社へ",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xbXVVbFBuLUVMUXFsTk0wSGNFYTl6bjJqNUt6a2Exa1lHaTZjMDJOSC1tc2N1cjh4bmdJTzRjMHAySi1QeGxGOEpFc2p6YUZFUDVBeHZzTThGTi03NFBZM0xvaGJQYUFGd25nUw?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-09-21T07:00:00+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "投資"
-      ],
-      "summary": "三菱商事、フィリピン財閥アヤラに追加出資 1200億円で持ち分法会社へ 日本経済新聞",
       "source_count": 1
     }
   ]
