@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T10:49:28.449512+00:00",
+  "updated_at": "2026-11-12T22:36:54.595458+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -92,6 +92,64 @@
     "就活"
   ],
   "articles": [
+    {
+      "id": "237b461995c0d0b7",
+      "title": "「ありゃ本気だ」住友商事の株式売却でモノタロウが上場廃止の危機に…創業者が仕掛けた逆転策 | ニュースな本",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xdURoSThfLTlWcDVSYlFlZEpveWYwVEw5UWdzei1fNXZSODFyY1N1WUtPYVFrcjRHdTU4R1l5MmxUTnVIeXlzVkVaZTk?oc=5",
+      "source": "ダイヤモンド・オンライン",
+      "published": "2026-11-12T21:30:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "M&A"
+      ],
+      "summary": "「ありゃ本気だ」住友商事の株式売却でモノタロウが上場廃止の危機に…創業者が仕掛けた逆転策 | ニュースな本 ダイヤモンド・オンライン",
+      "source_count": 1
+    },
+    {
+      "id": "a3c8ebd1e3c3984d",
+      "title": "就職人気企業ランキング28年卒【理系男子・ベスト100】3位は伊藤忠商事、1位は？",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1EZmVTdkd6RDhjSTZtcTRqUG0tX2ZGTkJ4dnV4QWRuX1hSaVBpNFRaQTdCNlRHbHA3cndBb3ptMVRfR1F2TUROSVhnSm4?oc=5",
+      "source": "ダイヤモンド・オンライン",
+      "published": "2026-11-12T21:00:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "就職人気企業ランキング28年卒【理系男子・ベスト100】3位は伊藤忠商事、1位は？ ダイヤモンド・オンライン",
+      "source_count": 1
+    },
+    {
+      "id": "53eb80d8c50fd309",
+      "title": "三井物産とQSimulate、中外製薬との協創で「QIDO」の製薬研究向け機能を高度化、JHPC-quantum採択テーマに参画",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zRkJCYmU1aXdaN0tSaDBCbmRabFgzV3Fid1RvQXk3SzJMNWd4RDlVRG5WWXc1VFlYU0dFdVhDS2pBajZmV1pXcDgzM2RpZFVybmJfakFsTmZEdUJfU2szbzBURjAydDVO?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-11-12T17:00:15+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "三井物産とQSimulate、中外製薬との協創で「QIDO」の製薬研究向け機能を高度化、JHPC-quantum採択テーマに参画 ニコニコニュース",
+      "source_count": 1
+    },
+    {
+      "id": "44ac7b65ee224cc4",
+      "title": "新井ゆたか氏、住友商事顧問に就任 「松参オフィス」を開設",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HY0NxSEV6bGVPY2lVcE05bWFuTEpxMmxPbjJNeXpWanpBS2s0bkduamw0Z0p4UkY2VFk5ZFZ4cW9HbXZWRm5ZdzRaTFRKbXBBVUlIZkdDUXNmcHotUVFjcGtucmkzY1k?oc=5",
+      "source": "日本食糧新聞・電子版",
+      "published": "2026-11-12T15:08:04+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "人事"
+      ],
+      "summary": "新井ゆたか氏、住友商事顧問に就任 「松参オフィス」を開設 日本食糧新聞・電子版",
+      "source_count": 1
+    },
     {
       "id": "9467b26e2356d11e",
       "title": "【貢献実感・自己決定感・新規性・スピード】この4要素がモチベを上げる／累計3万人データ分析／出世する人ほど“不安症”／データと対話で組織変革／やる気は仕組み化できる／元伊藤忠・人事担当／【1on1】",
@@ -5942,6 +6000,22 @@
       "source_count": 1
     },
     {
+      "id": "7cf6593f3c0af4ed",
+      "title": "自己株式の取得状況（途中経過） | 2026年 | リリース | 三井物産株式会社",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BckJZVGxaWXJadUJWcnpJdmhzT1dhQUxEaHpWNDktZXZjWmlGejBUMGRqenkxRjkybG91eGtfVHZKS21BWGNNTlJHX3B6SGlzVVh0Rk9wamVUTjJMZllUekNUZS03VnFFSmdWMg?oc=5",
+      "source": "MITSUI & CO., LTD.",
+      "published": "2026-11-01T23:51:09+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "投資",
+        "株主還元"
+      ],
+      "summary": "自己株式の取得状況（途中経過） | 2026年 | リリース | 三井物産株式会社 MITSUI & CO., LTD.",
+      "source_count": 1
+    },
+    {
       "id": "2aaf854041b7a27e",
       "title": "伊藤忠商事[8001]：自己株式の取得状況に関するお知らせ 2026年11月2日(適時開示) ：日経会社情報DIGITAL",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uWmRETkk2bmpoLW5rWFdzMi1ycUNlQm81Z25fQjJxWTJOT05idGp6ZVRIRU9aMUhNLVUzeVVhNmJLbGdqMW5qSzg2R0MyYkw0OEJoMzF4MzdacEpKVkhfTU1YS1FNZlZMcFE?oc=5",
@@ -8891,83 +8965,6 @@
         "海外"
       ],
       "summary": "丸紅社長、レアアース「豪州と供給網全体で協力」 経済安保で連携強調 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "cfb11d1da04f3775",
-      "title": "総合商社事業を展開する双日株式会社が水産物事業会社を傘下に持つSealaska Foods International Holdingsの全株式を取得",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QZlp6bUdFWnpTM1l6MmZBRU1UaGZlWE9ERTZpRTFsM0t6b3BMcFJ4aVNhY0xCN1l1UUNMTmhYbDVJMXlHUVFGdzBNRFgxTEU?oc=5",
-      "source": "STARTUP LOG",
-      "published": "2026-10-05T07:00:00+00:00",
-      "company_ids": [
-        "sojitz"
-      ],
-      "tags": [
-        "投資",
-        "食料"
-      ],
-      "summary": "総合商社事業を展開する双日株式会社が水産物事業会社を傘下に持つSealaska Foods International Holdingsの全株式を取得 STARTUP LOG",
-      "source_count": 1
-    },
-    {
-      "id": "ad2a1fa00490469e",
-      "title": "八木通商、双日ファッションの全株式取得（WWDJAPAN.com）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fZk5yNlExVFE2VUdOVUlfQVBoeV9QbkFhMzZDRm84VlA1eGZaTEdkT01JNmlVWVgtNDRkTndzT0gtTmZER0tHVlNqUzdQWkk1VVFHRTVHTnBnZGJDRW5JXzU1VW5YQWVXR3F1NG95ODkydVFIZDNYR3VEbV9VTFE?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-10-04T07:00:00+00:00",
-      "company_ids": [
-        "sojitz"
-      ],
-      "tags": [
-        "投資"
-      ],
-      "summary": "八木通商、双日ファッションの全株式取得（WWDJAPAN.com） Yahoo!ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "347fadac83ce11b8",
-      "title": "現地レポート／伊藤忠丸紅鉄鋼のインドネシアＣＣ事業「ＵＳＣ」、統合・設立から２５年／５００社超える顧客獲得／田中社長「ローカル系ＣＣにない安全・品質を追求」",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2aFBSSFdJaFZURFVud2hHY0ZfVmd3cS12QXJ3V1RuMkVmQlNUQjBHemtwX2RSSUI5UGpuRGFZZWZtRWxmcjZkWkFNLXBTWktReEhXeDFRckhEZWpTV3c?oc=5",
-      "source": "日刊鉄鋼新聞 Japan Metal Daily",
-      "published": "2026-10-02T07:00:00+00:00",
-      "company_ids": [
-        "benichu",
-        "marubeni"
-      ],
-      "tags": [
-        "DX",
-        "人事",
-        "海外"
-      ],
-      "summary": "現地レポート／伊藤忠丸紅鉄鋼のインドネシアＣＣ事業「ＵＳＣ」、統合・設立から２５年／５００社超える顧客獲得／田中社長「ローカル系ＣＣにない安全・品質を追求」 日刊鉄鋼新聞 Japan Metal Daily",
-      "source_count": 1
-    },
-    {
-      "id": "adcbf7e00b5b714f",
-      "title": "兼松、損保ジャパンおよび韓国A2Zと自動運転分野で協業",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lUHc3MHhCcUlaYkt5WlN2WkVOLXB4TGJVQzB6OVFCOU43VTlabnVnSXJmbS1ROEFlc2pwRlJkTlBSMFdwa0dIT1pxOHBPbmpHQlhvTlY5OExsdzRJSUtn?oc=5",
-      "source": "千葉テレビ放送株式会社",
-      "published": "2026-10-02T07:00:00+00:00",
-      "company_ids": [
-        "kanematsu"
-      ],
-      "tags": [
-        "提携"
-      ],
-      "summary": "兼松、損保ジャパンおよび韓国A2Zと自動運転分野で協業 千葉テレビ放送株式会社",
-      "source_count": 1
-    },
-    {
-      "id": "c3e07a2c820fcd48",
-      "title": "三菱商事の「いま」と「これから」。事業と歴史と私たちの思い",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mc2FkYm1TUkpGSUZvRHpvWDBOemk5XzAtMks3b2RpVEZ2Q2dhcWtVRDlNU0RaZ0ZrXzU2VF8tQWFXNkE3TXNmdHVzTXBtd3dlUGk5NTZCUDFuVzdZdW14ZXNsV1hCRWpKODlVQU00bUlTUWs?oc=5",
-      "source": "Mitsubishi Corporation",
-      "published": "2026-10-01T07:00:00+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [],
-      "summary": "三菱商事の「いま」と「これから」。事業と歴史と私たちの思い Mitsubishi Corporation",
       "source_count": 1
     }
   ]
