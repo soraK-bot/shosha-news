@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T03:43:08.858523+00:00",
+  "updated_at": "2026-11-12T10:49:28.449512+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -93,6 +93,131 @@
   ],
   "articles": [
     {
+      "id": "9467b26e2356d11e",
+      "title": "【貢献実感・自己決定感・新規性・スピード】この4要素がモチベを上げる／累計3万人データ分析／出世する人ほど“不安症”／データと対話で組織変革／やる気は仕組み化できる／元伊藤忠・人事担当／【1on1】",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WV1k2OHotWVMyaXpzRGZ5VDN0bW5wXzVqZ0M3QjBybTB2QkRtX0ItaEZTVTY3c1UtQWFkQUFuLVB3MS1FQVRtdDAtRXNxMkVLR2p3TEt5ZXp6NUVJMG5VaFFzUUVlNUpkTlZaMEt3c3ZMdkU5?oc=5",
+      "source": "TBS NEWS DIG",
+      "published": "2026-11-12T10:00:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "人事"
+      ],
+      "summary": "【貢献実感・自己決定感・新規性・スピード】この4要素がモチベを上げる／累計3万人データ分析／出世する人ほど“不安症”／データと対話で組織変革／やる気は仕組み化できる／元伊藤忠・人事担当／【1on1】 TBS NEWS DIG",
+      "source_count": 1
+    },
+    {
+      "id": "b6f6d8d98101d968",
+      "title": "相撲・ラグビー部に柔道日本一まで集結 本気すぎる豊田通商綱引きチーム 秘策の特製治具で悲願の頂点へ（テレビ愛知）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xSVF2Yi1rem1uSlZqVVB2Y3JxTGh5OFhJVjJfV1VmRzlUNDlmQWhkdTRHbXdxSTMtTWRoNFMtcGlJZlNSNHBNYk9rd1lJajZxSHY3V0FlbWFMNHhpMXgwYWVsMlNZY3J5MnRQNnNCVlNDd1ctOGx4VEhVZThPRGM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-12T09:57:01+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "相撲・ラグビー部に柔道日本一まで集結 本気すぎる豊田通商綱引きチーム 秘策の特製治具で悲願の頂点へ（テレビ愛知） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "ac4c60493895418a",
+      "title": "エジプトで3件目、過去最大900MWの風力発電IPP事業に参画",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9STHFTS29xNU45RUlTV2s1UXRRQ2NEMHlrckhDZlVUYzd6S3kxRDR1ZXBIUTZZWXJ0amhDZENpUzhNLVI0cnB1S3ZUYU1nOTFXS1h3RWN5eGdqVkx1VlpoNTVKb3dlREtkUUVvblphY29FQQ?oc=5",
+      "source": "Infoseek",
+      "published": "2026-11-12T07:45:37+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "エジプトで3件目、過去最大900MWの風力発電IPP事業に参画 Infoseek",
+      "source_count": 1
+    },
+    {
+      "id": "b22f6ba4fc3981b2",
+      "title": "丸紅コンシューマーリンク、「イフミー」が天王寺動物園のホッキョクグマ「ホウちゃん」モチーフの新作スニーカーを発売――園内で足型測定会や親子向けエクササイズも開催",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5rQ2lBNTZoT0pPR0w0RTRhMUdFSWJLdzVnOTF5Z2tKYnpXeEdEcTAtMjdLTG9wVWI4c2locWpUYjVtUlNFa3FsLUR0MA?oc=5",
+      "source": "シューズポストオンライン",
+      "published": "2026-11-12T07:34:06+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "丸紅コンシューマーリンク、「イフミー」が天王寺動物園のホッキョクグマ「ホウちゃん」モチーフの新作スニーカーを発売――園内で足型測定会や親子向けエクササイズも開催 シューズポストオンライン",
+      "source_count": 1
+    },
+    {
+      "id": "6638d5cbe102e076",
+      "title": "イラン情勢緊張から半年後のアフリカ：(3)西アフリカ",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tcTVMVXd2OFlUd01aa01hbzFPNTF4bzhKUkYwYUoyYlQ2ME0yZlBRMTVBa0VFRm9GXzk0dUdzT2FvamtiOVJfMnpKbTFiSEVuZlVEcW1jbHcyRUtrRGFGaQ?oc=5",
+      "source": "住友商事グローバルリサーチ",
+      "published": "2026-11-12T07:08:40+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "海外"
+      ],
+      "summary": "イラン情勢緊張から半年後のアフリカ：(3)西アフリカ 住友商事グローバルリサーチ",
+      "source_count": 1
+    },
+    {
+      "id": "b50d736104f42b5b",
+      "title": "「IR優良企業賞2026」を受賞",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BUjBFbGZjb3dGclRaUWVuMkNuSVFnQXdVMGxZdlJPNDg4bEo0Ym9adjRHTUxGcTdiNHVvVWR4bzBXZWZUWnN4amdybjQ1RHRmUmdWaXV4Unp1QXRiUkRzazJHQQ?oc=5",
+      "source": "Marubeni Corporation",
+      "published": "2026-11-12T06:40:33+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "「IR優良企業賞2026」を受賞 Marubeni Corporation",
+      "source_count": 1
+    },
+    {
+      "id": "449009f0e4bcad8f",
+      "title": "三井物産株式会社がPHCホールディングス株式会社＜6523＞株式の変更報告書を提出（保有減少）",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa0tnaEl3SW5HNFNqWlJTb0RadmJSOHRQT3JZMUt6TEphTk5xLTd0TktBTjE3RWhqQUU2MVNjelJTOGdyZU9NaS1fM3cyaEs3R3MwRHVZX3otRUhUeDVuZjFZeWFFdUhWb21aWmJrTng0QVJsSFF3RURQLVZUdExtMlpvX2PSAYoBQVVfeXFMTk5QNm9JU3lmSVpNRFc2QnlhcVRyMmd3M21sQTFxdG45cXd4TVNhYm51cWd3X1RiZHF4OGFqRDdPcUhZZEo4U2E4T0FoemU3Tmt6MnFoX1J4bThhWXp0UldJRmxndy12bGpxSmItbFoyWmliLU1SbUFYemRjc2F1SWZLSEItV2V0OXZB?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-11-12T06:30:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "三井物産株式会社がPHCホールディングス株式会社＜6523＞株式の変更報告書を提出（保有減少） ｄメニューニュース",
+      "source_count": 1
+    },
+    {
+      "id": "1974ef70c45e4f1e",
+      "title": "豊田通商、エジプトで過去最大規模の風力発電所を建設へ",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iNFhCQlZMdnN4blA0SHZVQmNMX0pxX2dWOVlaT0VMRjJDclZZLW52Z2tQTjFmaXUzWkdVaFFJQk1ZNDdoekFTd0hzS2Z6QjJQWW5B?oc=5",
+      "source": "ニュースメディアVOIX",
+      "published": "2026-11-12T05:06:24+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "豊田通商、エジプトで過去最大規模の風力発電所を建設へ ニュースメディアVOIX",
+      "source_count": 1
+    },
+    {
+      "id": "0590b659ddbc93cc",
+      "title": "Aviation Capital Group LLCへの出資参画完了について",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RMDZpYTcwd3pobENuLXFxSWhYUDVxa1VPUEE5TDRJR2U4cFQ5RXlfU1Z4SE1yV0FpQmpEV2pxUncyVndKeWNrMFJCbWRpck1HYTFTOHNRb05QNTcycWV5R3VaOWRTdw?oc=5",
+      "source": "伊藤忠商事株式会社",
+      "published": "2026-11-12T04:01:07+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "Aviation Capital Group LLCへの出資参画完了について 伊藤忠商事株式会社",
+      "source_count": 1
+    },
+    {
       "id": "7d475da4d3939f91",
       "title": "丸紅アークログ、東北大学工学部でのBIM講義を継続実施",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52V2w4UDFUZGNTaTJITUdpdXBQSUFodlBZZlFHRC16a2M5d19iemlrOTl2eGhYdXZINE5ZZWdrdlZyWS1qenRySGNlYVFKVjJITTU4djBpdmFpSjdFZ3UyUFFkSU9nMHdSbzY3Q1JobUF2SkJ2Ync5S09lcw?oc=5",
@@ -103,6 +228,19 @@
       ],
       "tags": [],
       "summary": "丸紅アークログ、東北大学工学部でのBIM講義を継続実施 ニコニコニュース",
+      "source_count": 1
+    },
+    {
+      "id": "85079b3e325ba734",
+      "title": "｢伊藤忠の8億円｣は参考になるか…従業員持株会の意外な落とし穴",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUZmptSFhJZzI5ZlFqSl9sdTRpX3pfSTQwN0U3UG1naE5DSmxMTEJZRTZWWHl3bEFxV0ZGbjR3U2ZOYkQzdXJqUG5PSXphTGNUdXJYSmdKOXI?oc=5",
+      "source": "PRESIDENT Online（プレジデントオンライン）",
+      "published": "2026-11-11T23:09:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "｢伊藤忠の8億円｣は参考になるか…従業員持株会の意外な落とし穴 PRESIDENT Online（プレジデントオンライン）",
       "source_count": 1
     },
     {
@@ -120,6 +258,19 @@
       ],
       "summary": "三菱商事、三井物産、創業家が前代未聞の争い…「純正ごま油」かどや製油で起きている買収合戦《TOB価格の行く末は？》 文春オンライン",
       "source_count": 2
+    },
+    {
+      "id": "111df0077f286f20",
+      "title": "10年後の法務に必要な「挑戦・意志・破壊力」 KADOKAWA、三菱商事、パナソニックHDが語る未来",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PbTlwRVJvN08zN3hFUzVjNTVUcU00ZzVaN2RTRmYyQzgwNGxNMWt1T1B3X05fNDFsbk03OU04cmR5WWNuNlFybVl3YWhIOVZP?oc=5",
+      "source": "Biz/Zine",
+      "published": "2026-11-11T22:00:00+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "10年後の法務に必要な「挑戦・意志・破壊力」 KADOKAWA、三菱商事、パナソニックHDが語る未来 Biz/Zine",
+      "source_count": 1
     },
     {
       "id": "5436468607691f52",
@@ -8817,165 +8968,6 @@
       ],
       "tags": [],
       "summary": "三菱商事の「いま」と「これから」。事業と歴史と私たちの思い Mitsubishi Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "4500639ff8e54570",
-      "title": "三菱商事のオウンドメディア『RYOWA』始動！",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tUFlvRFVFS0U3SmlqUnRKYVQ3MG9nSUFZaXBuZXdYSUZtaG5RSDNraVZHN0dwdEJqdDNSZVJnMVNaNXgtdDJ3MzVOMnRSOFJFOUhwY1hiWm1aOU9zWFJBa0pOaGRYTlhWSVhaRDZQYXdmYkU?oc=5",
-      "source": "Mitsubishi Corporation",
-      "published": "2026-10-01T07:00:00+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [],
-      "summary": "三菱商事のオウンドメディア『RYOWA』始動！ Mitsubishi Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "7cf6593f3c0af4ed",
-      "title": "自己株式の取得状況（途中経過） | 2026年 | リリース | 三井物産株式会社",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TOEFZU2E1OXVzZFQ3YmNSZTNFV2NFVDNEVGwtVnJ5Z2x3bDktejVxakNlaXhwcDNQV1NxSXFjSHB3LXJ0RVhGNjdnWFBoUjNLcnZXX2ppcGFMLU4yM1V5SFc2OFd4UWlnc0drNQ?oc=5",
-      "source": "MITSUI & CO., LTD.",
-      "published": "2026-10-01T07:00:00+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "投資",
-        "株主還元"
-      ],
-      "summary": "自己株式の取得状況（途中経過） | 2026年 | リリース | 三井物産株式会社 MITSUI & CO., LTD.",
-      "source_count": 1
-    },
-    {
-      "id": "11b31befc3bab8f2",
-      "title": "伊藤忠丸紅鉄鋼 設立25周年／石谷 誠社長に聞く／鉄鋼流通の世界トップへ／在庫・加工・物流・金融 総合提案を追求",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92SDRCSFdKTE1VT1RtT3BJdHhjVmRoMUJGcEhjVE5pVHNaSzFaQ1NodEw5aFR2am9xc3NqamZ5QVlrWk9UTzFoenRvYXpQSjBHNWw3WW5ucDdTWi1rU1kzVG5ETQ?oc=5",
-      "source": "WEB産業新聞",
-      "published": "2026-10-01T07:00:00+00:00",
-      "company_ids": [
-        "benichu",
-        "marubeni"
-      ],
-      "tags": [
-        "人事"
-      ],
-      "summary": "伊藤忠丸紅鉄鋼 設立25周年／石谷 誠社長に聞く／鉄鋼流通の世界トップへ／在庫・加工・物流・金融 総合提案を追求 WEB産業新聞",
-      "source_count": 1
-    },
-    {
-      "id": "fb019930e5d5faf0",
-      "title": "伊藤忠丸紅鉄鋼、設立２５周年／石谷誠社長に聞く／業界に先駆け統合、収益トップクラスに成長／「トレード×インベストメント」で基礎収益力強化",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93aXFDSThnSW53TF90YkFERlNQNXJQNFQ3cmR6aDRtTWlxUGVlX05qT0lGWGxHMXZ3VjdFcFJ5cXZDNE9tcHQ1T1BxaTN2b3pXSkVvWEJsNE5UQXA0MlE?oc=5",
-      "source": "日刊鉄鋼新聞 Japan Metal Daily",
-      "published": "2026-10-01T07:00:00+00:00",
-      "company_ids": [
-        "benichu",
-        "marubeni"
-      ],
-      "tags": [
-        "DX",
-        "人事"
-      ],
-      "summary": "伊藤忠丸紅鉄鋼、設立２５周年／石谷誠社長に聞く／業界に先駆け統合、収益トップクラスに成長／「トレード×インベストメント」で基礎収益力強化 日刊鉄鋼新聞 Japan Metal Daily",
-      "source_count": 1
-    },
-    {
-      "id": "e27d951d6dc06f25",
-      "title": "JFEホールディングス、稼ぎ頭は商社事業。セグメント利益の6割超を鉄鋼以外で稼ぐ構造（LIMO）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42Y2FSVnhoekNuRHRFRFFOM1JYdkdqbWRRWjh3UUdaR2ViSW9qZ3REWWFmTjZfQmtGZjF2UVNVUTlaSmJNTjZXYTkzcHlrYmh3QXhyZmd3V1o4U3o2U0hRQU05b2xSRkVleGpTZGp2VUIwNnhsOVFaYktTSEhEbGc?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-10-01T07:00:00+00:00",
-      "company_ids": [
-        "jfeshoji"
-      ],
-      "tags": [],
-      "summary": "JFEホールディングス、稼ぎ頭は商社事業。セグメント利益の6割超を鉄鋼以外で稼ぐ構造（LIMO） Yahoo!ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "88b6183a42f108c0",
-      "title": "福島県浪江町で系統用蓄電所の建設を開始 | 住友商事",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wUmotV2NoTldJcmpsYmh2VWFrSnpIbVNLNlR5LWlGeTRVTU1KTEdyUGJ3Z2hJVm1KM2NoRzI4dU1obGh6V2ZLQ2FIQ201aHktUFJUZXVlUzZja0hobnMwbGE1QnNpaWVxUWVvRWM2Snd3UQ?oc=5",
-      "source": "Sumitomo Corporation",
-      "published": "2026-10-01T07:00:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [],
-      "summary": "福島県浪江町で系統用蓄電所の建設を開始 | 住友商事 Sumitomo Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "c3d420ed49c0a7bd",
-      "title": "住友商事、MILIZEと資本業務提携",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpNTJLcEVsekdBa0hYTF9yaEZLbmYxM3N1SmUxeGtLS01BRF9PZklzVjg1QWs2dmx3QngtUzJMREItX3U4VlRfYVBadVhHTTJXb2llSFlndVJMV2IxRG5Vci1Ra2VMWXFXLWxiNGI3c0wzOXZ5?oc=5",
-      "source": "Sumitomo Corporation",
-      "published": "2026-09-30T07:00:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "提携"
-      ],
-      "summary": "住友商事、MILIZEと資本業務提携 Sumitomo Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "76ea1a093116be08",
-      "title": "ＪＦＥ商事／「新潟ＪＦＥ商事会」開く／大橋専務「〝エンジン役〟で社会に貢献」／講演でＧＸ戦略学ぶ",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rbTV0YzZVVFJnODFfN3puZGFvLUVwUE04YXVnejNFT0hLTWY0TFdvendzTDJHZjhjQzBfV2I4cWp5dXMxSnY0OW9TUnB4eC0tb1RqTzJFWXNZY2s2TEE?oc=5",
-      "source": "日刊鉄鋼新聞 Japan Metal Daily",
-      "published": "2026-09-30T07:00:00+00:00",
-      "company_ids": [
-        "jfeshoji"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "ＪＦＥ商事／「新潟ＪＦＥ商事会」開く／大橋専務「〝エンジン役〟で社会に貢献」／講演でＧＸ戦略学ぶ 日刊鉄鋼新聞 Japan Metal Daily",
-      "source_count": 1
-    },
-    {
-      "id": "ec9dc1f2024b076c",
-      "title": "キラキラじゃないキャリアの話 伊藤忠商事社員に聞く",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44dnRyUkNUaUJGZjdyamQ3cnNYUG5Ia2s3UHdxeWpDOS1ISloxbjNoYjBMdlA2NTlDQ0pDeVA4bDNFN1NhS09lRWRMVVVRWXFwa0ZkRGZva0JSQQ?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-09-29T07:00:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [],
-      "summary": "キラキラじゃないキャリアの話 伊藤忠商事社員に聞く 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "c8cb7497bd1cc55f",
-      "title": "伊藤忠商事の若手社員が語る 特別キャリアセミナー | 日経電子版 for Education",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CVWE5MUNlR2F6bldfdWZ1SlBROVpDMVZZU1UyTmFWa09LVUhLd0pyMURzSUl1YWlSQzNqbldSTThVREw2VV9yOGdQbUtJMDVYMWNUTDUzbUk2TjZhVml6ZWtsOGFqMWt5MmpUMXEzU1ctMGpqWWFB?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-09-29T07:00:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [],
-      "summary": "伊藤忠商事の若手社員が語る 特別キャリアセミナー | 日経電子版 for Education 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "95c43a7b5ba7c935",
-      "title": "伊藤忠商事が描く AI エージェント時代の ERP 改革 ー SAP Business AI Platform が AI 活用の中核に",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Md1FuRlJMbTRhQjN6QksyQkR1d2ZxN092ZkFyUHJNNFE1U1lkaXhpVTNQU2ZqUVhyVjR3dTFMRnpZYmM5RkZWVVZJc29IbUdFYUlv?oc=5",
-      "source": "SAP News Center",
-      "published": "2026-09-28T02:49:55+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "伊藤忠商事が描く AI エージェント時代の ERP 改革 ー SAP Business AI Platform が AI 活用の中核に SAP News Center",
       "source_count": 1
     }
   ]
