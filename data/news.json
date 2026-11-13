@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T03:43:11.024340+00:00",
+  "updated_at": "2026-11-13T10:47:02.344117+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -92,6 +92,120 @@
     "就活"
   ],
   "articles": [
+    {
+      "id": "31a87af3cbd46069",
+      "title": "伊藤忠、文化シヤッター株19%を273億円で取得 ダルトン離脱で筆頭株主に",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81bGRxMGVPeDBiUHJTOFNHb3ptZy1zQ1VVM050S2tBcnpLT1Y2ak1CS0VBUmhfVjZSQkY5cnQzOWhDeXV1VlZjLW1BUjQtVEZKODd3MlAyYWV4YS1TODRSSjBVQlpUcVhKWV9XNUhzRjh6WHY3?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-11-13T10:05:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "伊藤忠、文化シヤッター株19%を273億円で取得 ダルトン離脱で筆頭株主に BigGo ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "bf27f4d410fd63a1",
+      "title": "伊藤忠、文化シヤッターの筆頭株主に ダルトンなどから20％弱取得",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTWdlNHdCc0haZldfY1ZuNTVCSHd6TWNlWm9RU2EteG9DOUkxaGwyei02NDd0NzNSQTljS3d0aXpCTlZvSldfNVBDeTIzczNubkxHYW1IakVZWFpDNkhLUURVODRndmVGSnpud290clczazdyV2xMeU1adVBhUjBra3RoVmxkbWhVYXVXOTF1U0tfdw?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-13T09:49:44+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "伊藤忠、文化シヤッターの筆頭株主に ダルトンなどから20％弱取得 Reuters",
+      "source_count": 3
+    },
+    {
+      "id": "686fe4409bbc415f",
+      "title": "アイスタイル、三井物産などがインナービューティー市場の形成をめざす戦略的提携「JAPAN FOOD BEAUTY ALLIANCE」を締結（ネットショップ担当者フォーラム）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iNlI5c01aeEVKZnhLZk4yU1NqVW56XzVoWTYyaU9mZWd6bmcxcmd2TjVwWU9aWDA0N3ZwQWNyRFA3N2pNNHpiODl6Q2Vrdzh2bnU3ZnFzV0NhOFNkMUJWcnV0ejE0amR3MUg5RE04cGc2YWpwWEFlaGdwX3p6bEk?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-13T08:31:08+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "提携"
+      ],
+      "summary": "アイスタイル、三井物産などがインナービューティー市場の形成をめざす戦略的提携「JAPAN FOOD BEAUTY ALLIANCE」を締結（ネットショップ担当者フォーラム） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "64fead93568b1ddf",
+      "title": "伊藤忠、文化シヤッターに19%出資 274億円でダルトンから取得",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTTJLakhya1dGN3plOVQ4eWgxTlpRNUwxUFh3QlcxeFc4d0dEVkk4aDlfNUxNZEM0QllvLUM3MGp0OGV6MzY0MFZvUmpVa0tQTVdxSW13bndEYzZ1ZVpqMjFvaFZkVTFzY1N0MmlSU0FXemstNjBaU3JtZkhYSzJqc1l3cHZsVWhmMUt4ZFRNOA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-13T08:07:13+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "伊藤忠、文化シヤッターに19%出資 274億円でダルトンから取得 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "eef98d25efcb2912",
+      "title": "文化シヤタ",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQURFOWJXSWlCWG04OXp5NE9CclYtYTZJeUpVTWlsajkzcXdIbW9DakkzYnRMamdzbU4tcy1pd2dlNXdLbkNQUGwwNkNqV2Zlem9uVGNBUWVDaENvYmdwREdrQkFSNy12Uk1WVWpCWWxyNDlpbVU5ZjVVODRjWE9kbFFERWtHdXlpWHB6dGJRa2UwaHNkU3BXWHZQSVFfVF9JRl9qcm5lTm1OLS13RU4zSVBOLUVQbGRzVFZkMm8yckRKQ2thNmNSeGI0bm4?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-13T06:30:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "文化シヤタ 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "6860aef41176dec9",
+      "title": "伊藤忠商事株式会社が株式会社シグマクシス・ホールディングス＜6088＞株式の変更報告書を提出（保有増加）",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORFBkZDlRNHRvMTdFQnVsZUt6ZVgtYTBFNFpHQk1IUHQzWnZMZWRCb2poYkI1WEZZa2FyTmMwM2FEZHlockVaVzdNWG56LTJ0a1lnYmNvRUtUR2czS1ZoYnAwTEJwRTIxT2hrV2hNc1lycHllQ1V4LXBaUUVxMFowc290RHlrd1NEaTJidFFXVXRKakp4OXpUTEw4ejR5REhONnhWRzVqYk5fTDdZajhhMHFGU2s0bF9UYTdpOUh6bjFILUNrNW5VbXl1cl84VWlhWklLekVIUHNOQdIBigFBVV95cUxNVjFlVDhhaEJFS1dWb0U0VXlqVmlVUVhXZlRjX3M3ZXlHOVZKSFpNd3BPaUdRZ3R2YWhFTkpSN1E3S0s5WGJxVFFtQVktdmNfb2ljdUV6LXdMdHRFSmk5MTBWMjVfajhwTGxYOE1KM0l6Y0x4dXFnQVlXbndQXzZxS2NmRFpJOXJneGc?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-11-13T06:30:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "伊藤忠商事株式会社が株式会社シグマクシス・ホールディングス＜6088＞株式の変更報告書を提出（保有増加） ｄメニューニュース",
+      "source_count": 1
+    },
+    {
+      "id": "6ce70736ce831191",
+      "title": "丸紅、最高益",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiTHdOZ3ctakZITm5TRjBGX1ExZ3ROUFh4b051WFA0OVFGTlFmQlF0Q3F2ak1zMFdlMTNSSzdzS3N2X2hNQlBrRXUzUlcxMkVIQ1ZpVjZFdE9raTktcTB0Tm1Na3Mtd2FaaVhxdw?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-13T06:21:19+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "業績予想"
+      ],
+      "summary": "丸紅、最高益 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "cc3d5b695d88c949",
+      "title": "豊田通商、エジプト風力発電を900MW上積み",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1LbXlleXJFNlMteGN3blhtV3ctSV83dFZKY1J6V3ZWeWEwSGx3MlVtMWQzU0k3cjBMODB3dGkwME5wUjF5eHRiWDVB?oc=5",
+      "source": "LOGISTICS TODAY",
+      "published": "2026-11-13T05:44:20+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "豊田通商、エジプト風力発電を900MW上積み LOGISTICS TODAY",
+      "source_count": 1
+    },
     {
       "id": "e5b1a907ee37f3b3",
       "title": "相撲・ラグビー部に柔道日本一まで集結　本気すぎる豊田通商綱引きチーム　秘策の特製治具で悲願の頂点へ",
@@ -8841,119 +8955,6 @@
         "DX"
       ],
       "summary": "三井物産流通グループ、300社超のデータ共有アプリを「Snowflake」で刷新--20年もののシステム脱却 ZDNET Japan",
-      "source_count": 1
-    },
-    {
-      "id": "ffd64c26df77312b",
-      "title": "三菱商事、株価が一進一退 「データセンター国内10棟目」報道反応薄",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BYm1UajF5YWZzdTIzRnNPVHlFdkxIVGw4aF84cUpyVG96RWFnMmM2cUV6VFRsUG9WeUpQa0lNVmhKdkY3NXRfUkxBVWloelN5aXBJc2VIZTVuOVBQVFZhNnR5am9XX0lSWE1tMg?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-07T07:00:00+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "三菱商事、株価が一進一退 「データセンター国内10棟目」報道反応薄 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "a57aaff5cda2bdd1",
-      "title": "「ものづくりワールド大阪」に出展 | JFE商事株式会社のプレスリリース",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XVXhKYzRONlp4MDMxeklJODZMX3FyYlRUM2pHWjBxcE5kZTM5Nk5kdU8xM1dlLS02YzFlNi1Rc0ZVclZDd21nWFgtbFZSb3k1X2tuYWRSSzRRM0NlbmUwZVNQakUzZ01ObWc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-10-07T07:00:00+00:00",
-      "company_ids": [
-        "jfeshoji"
-      ],
-      "tags": [],
-      "summary": "「ものづくりワールド大阪」に出展 | JFE商事株式会社のプレスリリース PR TIMES",
-      "source_count": 1
-    },
-    {
-      "id": "b4d144886d73984a",
-      "title": "「ものづくりワールド大阪」に出展",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81V0VkSFJlTGV2Znl5VGcyRmJ0TVVNZHRPeWtSQWhab3RiVUZ0azZ4OUVFQS1mTUdwRmtydWVLT25xQ2tIQWNtaEc0ajVHbUNtX0d2R3R2aHItRGYtS2ZSN2pTMWRNcWExcmZfS3JHbGtEdG9ESnZtcm5FSQ?oc=5",
-      "source": "産経ニュース",
-      "published": "2026-10-07T07:00:00+00:00",
-      "company_ids": [
-        "jfeshoji"
-      ],
-      "tags": [],
-      "summary": "「ものづくりワールド大阪」に出展 産経ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "c1295554e6cad3c8",
-      "title": "IWS Fleet、洋上風力向け支援船CSOVを4隻追加発注 | 住友商事",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XSXZvOEVkb3N3ZE0ySE0zNWxjT19tS0FTaDFBaHFhalg4V19XYlhOMWhoVTF5aVJMUHpuMHRvV05kMEVRa1hKa1QyM2c4S0RqYWRFNGFyYmNVSHpReEpic09GMEdzeGx5TEJ6RmR1aDc2c25v?oc=5",
-      "source": "Sumitomo Corporation",
-      "published": "2026-10-07T07:00:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "脱炭素"
-      ],
-      "summary": "IWS Fleet、洋上風力向け支援船CSOVを4隻追加発注 | 住友商事 Sumitomo Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "feb94b9937b393fd",
-      "title": "丸紅や住友林業、インドネシア森林火災克服へ監視増員や土壌チェック",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iS1JRdWZKbE9YY0xZMWVlVzQzVUZEbjZlcENjMllObVJibW1LY21fYXFhdDZ4TnBkVUthR1RNYjh6eDU5VmhEaWpDZXBYYTVBd2t1Mzl2dnhFVk9fRjlMdi1hNkViRFFEUEszaw?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-06T07:00:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "海外"
-      ],
-      "summary": "丸紅や住友林業、インドネシア森林火災克服へ監視増員や土壌チェック 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "2c8b14d5330be5d4",
-      "title": "経費精算「5件に1件が差し戻し」をどう変えた？ 丸紅I-DIGIOグループが挑む「マニュアルゼロ」の業務改革",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE45UEozbkJkOXVBc09GSGNUS0V5ZGU2cUVWVGxuY3F2S3pFc193Mzk3cXRhQlIyamtSTDdkaWFHTWVQZ0RKc00wMHU3WUJuM25UYzQyc1RNLVphNXB0RmRpZ3NWczVvYTVjLU9COGNsQWpyZw?oc=5",
-      "source": "ITmedia",
-      "published": "2026-10-06T07:00:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [],
-      "summary": "経費精算「5件に1件が差し戻し」をどう変えた？ 丸紅I-DIGIOグループが挑む「マニュアルゼロ」の業務改革 ITmedia",
-      "source_count": 1
-    },
-    {
-      "id": "45d5d3586f2c7fad",
-      "title": "東京ＪＦＥ商事会が総会／祖母井社長「戦略１７分野で商売広げる」",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wREZlRkVYeEF0cGQwNDdLb2kxYjM0NXhuU2k2VGtnaUxEWEQwYUkyTGZOV0t3RThnWkNGSUVVOHVldTJyZHBlcXRPcGllRWJVUzNVeHo2aVY2NTBLUnc?oc=5",
-      "source": "日刊鉄鋼新聞 Japan Metal Daily",
-      "published": "2026-10-06T07:00:00+00:00",
-      "company_ids": [
-        "jfeshoji"
-      ],
-      "tags": [
-        "DX",
-        "人事"
-      ],
-      "summary": "東京ＪＦＥ商事会が総会／祖母井社長「戦略１７分野で商売広げる」 日刊鉄鋼新聞 Japan Metal Daily",
-      "source_count": 1
-    },
-    {
-      "id": "0e1fc7ad84abff14",
-      "title": "住友商事と三菱電機ビルソリューションズがエレベーターを活用した地域企業向け広告配信サービスを開始",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxOVlUdGZJQUEtZW5uRWJrM2pZbmxBZnlFVlFmSXZEYkw5OTNiWURucnpGV3R6cWNINEFMTmQ0Wk90Tk1XRWpoekVXZGNtMUNsX2NYMEdGdEpXMnlIamNsVzNCeVk2eDlITDBScHowOGVXNTdl?oc=5",
-      "source": "Sumitomo Corporation",
-      "published": "2026-10-06T07:00:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [],
-      "summary": "住友商事と三菱電機ビルソリューションズがエレベーターを活用した地域企業向け広告配信サービスを開始 Sumitomo Corporation",
       "source_count": 1
     }
   ]
