@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T22:36:54.595458+00:00",
+  "updated_at": "2026-11-13T03:43:11.024340+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -93,6 +93,47 @@
   ],
   "articles": [
     {
+      "id": "e5b1a907ee37f3b3",
+      "title": "相撲・ラグビー部に柔道日本一まで集結　本気すぎる豊田通商綱引きチーム　秘策の特製治具で悲願の頂点へ",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQalBKQUJXYThpcVR3VGM3VDVoUDN2M3lFQXZldk1Remt0RHhuQmk3U2dHU05mTnFoN2dzQk43aVl5b2cydkpVd01WdURxVUpDd3NnSERpZ3A2bnlKamhHSzRGbWp0T1QwVWJBOTVYOXp3bGJxT2JEN1JQZ1hhYWU4UVN0MHlhSXhKZ1HSAY8BQVVfeXFMT09tN3d0cmJYdmxqRHNRVWdRQ2lyT2loWXdiZDBRNGhQZUFnWkowa1N4cUtUNXN0ejNHYUx4ZnZpQzJYTlJIbk1uN2FoOGVYX0dNZ0VZdWdIbTFEcWdUbUhXeGt0OWlNTTdlbHh5MnNkNzU1MmRGT05pYVNkcEhRTi1nUm42a1BJWGo4YUs2OTg?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-11-13T03:00:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "相撲・ラグビー部に柔道日本一まで集結 本気すぎる豊田通商綱引きチーム 秘策の特製治具で悲願の頂点へ ｄメニューニュース",
+      "source_count": 1
+    },
+    {
+      "id": "5df3130c7897e792",
+      "title": "豊かさを生む北欧経済－高福祉と競争力を両立する3か国の強さと課題－",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tWmxlaWItTGFpeGZFVnNjdFNsRTZMNG11eWRDX3NiZjIxS0hLYkUwRjBMZ3lCZU1CR29ONzB5Z3VYcjNZTmZCTExRbDFhbVB4Nl9NZTNpWndYMEFzNmU0ZQ?oc=5",
+      "source": "住友商事グローバルリサーチ",
+      "published": "2026-11-13T02:09:38+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "豊かさを生む北欧経済－高福祉と競争力を両立する3か国の強さと課題－ 住友商事グローバルリサーチ",
+      "source_count": 1
+    },
+    {
+      "id": "b1d528ba46d960b7",
+      "title": "アイスタイル、三井物産などがインナービューティー市場の形成をめざす戦略的提携「JAPAN FOOD BEAUTY ALLIANCE」を締結",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPR3dicnp2WnRaZ05yU0w2MndWNUF3NVlHeEZ5MTBZaDhjdTdIZ09DNjIzY3hOdENPRmRQRVpnYlVOWWZIWEJObUpteFZtTGxKa0VHcW5vVGpGaE5KNHFEWlY0NHBaLU1RTlRWUkhiUmZuSzEwdkhHMDlTZDlJVExJVVJZUXMxTHFQek9QTlpfOWtMODBRbDUyVzFWSWttRnd2TFRTVUd1Zm5IWEdCTFg5MWxoZktwZllZdkFoQUNGenRYVUgzVEF6Y1dPaVlURE8wcXNxMGwwTjNVWGdKVjAwS1BJbmo2cWlYU2ZQbW9Wdm4wUGh4RW12QTF0czgzYzgtY0xJbdIBtAFBVV95cUxNeXFWZjYzaFd0X0lLZHU1MUZnM1BIUERLVkhXZjJ1ZDhNUzQ3eWY4bFBkS1djOVJMamR2ZVZmQmhET0gxLUZKZ19wWE1WSDFUZHBjdzdPd2Q4UWc3cUcxUkppeVp5SDJEcTV5cktQZ0dxRW1LMVZBblZuMENPMXdpVlJxSy1pZ3BVWUxsTGFqUTRPNWJPbkk5M2Zxb1k4a1NTMkpHNW5LeTA2SzQ5aDZ2UTNmYUg?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-11-13T00:30:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "提携"
+      ],
+      "summary": "アイスタイル、三井物産などがインナービューティー市場の形成をめざす戦略的提携「JAPAN FOOD BEAUTY ALLIANCE」を締結 ｄメニューニュース",
+      "source_count": 1
+    },
+    {
       "id": "237b461995c0d0b7",
       "title": "「ありゃ本気だ」住友商事の株式売却でモノタロウが上場廃止の危機に…創業者が仕掛けた逆転策 | ニュースな本",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xdURoSThfLTlWcDVSYlFlZEpveWYwVEw5UWdzei1fNXZSODFyY1N1WUtPYVFrcjRHdTU4R1l5MmxUTnVIeXlzVkVaZTk?oc=5",
@@ -105,6 +146,21 @@
         "M&A"
       ],
       "summary": "「ありゃ本気だ」住友商事の株式売却でモノタロウが上場廃止の危機に…創業者が仕掛けた逆転策 | ニュースな本 ダイヤモンド・オンライン",
+      "source_count": 1
+    },
+    {
+      "id": "7f6d2f92df98c957",
+      "title": "「ありゃ本気だ」住友商事の株式売却でモノタロウが上場廃止の危機に…創業者が仕掛けた逆転策",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xdURoSThfLTlWcDVSYlFlZEpveWYwVEw5UWdzei1fNXZSODFyY1N1WUtPYVFrcjRHdTU4R1l5MmxUTnVIeXlzVkVaZTk?oc=5",
+      "source": "ダイヤモンド・オンライン",
+      "published": "2026-11-12T21:30:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "M&A"
+      ],
+      "summary": "「ありゃ本気だ」住友商事の株式売却でモノタロウが上場廃止の危機に…創業者が仕掛けた逆転策 ダイヤモンド・オンライン",
       "source_count": 1
     },
     {
@@ -1632,6 +1688,21 @@
         "株主還元"
       ],
       "summary": "長瀬産業－急騰 350万株・30億円を上限に自社株買い 割合0.86％(トレーダーズ・ウェブ) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "5d2828d31a8aeccc",
+      "title": "米中間選挙で日経平均はどう動く？ 億超え投資家が「キオクシア・三菱商事・三菱UFJ」に注目するワケ（SPA!）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tOG1kZE5YbV9rclFOUWRxXzh4M0dFVzNZMVkycEtYSmQwQ09JQUNyUW5sVGl1Ym1TdzFSUE1PUDgtT1hBMDZfRVFNWkZDRHMtY2syTmlRYVByZmFZOU5UbTAtVGRyTi04UmJISHdleGk3VHg4WlFzVEZzb3FjX3M?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-09T00:02:35+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "米中間選挙で日経平均はどう動く？ 億超え投資家が「キオクシア・三菱商事・三菱UFJ」に注目するワケ（SPA!） Yahoo!ニュース",
       "source_count": 1
     },
     {
@@ -8883,88 +8954,6 @@
       ],
       "tags": [],
       "summary": "住友商事と三菱電機ビルソリューションズがエレベーターを活用した地域企業向け広告配信サービスを開始 Sumitomo Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "828eaec84e8b7bf1",
-      "title": "三井物産（8031）、「中期経営計画2029」初年度は好発進 成長投資の果実化と株主還元を推進",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3anZxZUw2M3U5clI1SEc2QWpGSlhiWlhBZE04WkdDUVY0SnAwSjNNY0lPZ19JdGlreDVOeHRtRHRrQUJvclFYTHZMNkw2bW5nSVE?oc=5",
-      "source": "ログミーFinance",
-      "published": "2026-10-05T07:00:00+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "投資",
-        "株主還元"
-      ],
-      "summary": "三井物産（8031）、「中期経営計画2029」初年度は好発進 成長投資の果実化と株主還元を推進 ログミーFinance"
-    },
-    {
-      "id": "84ac62d8d441ed50",
-      "title": "Hero Groupとの協業のもと、インドの大規模再生可能エネルギー事業に参画 | 住友商事",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CRmZHTlo0MHNjWkNuRUVScmRQSzg4THJuVXBBRlU5cHF5R01KUDN6YTFhTUN3MXVHRFVwMGpfMmFlY1lfQTZvLTN4YjFhbkcyek8xWmNRLXl1OXRCVEJCVGRrcTEyUC1zdVJvblFMeGdnUQ?oc=5",
-      "source": "Sumitomo Corporation",
-      "published": "2026-10-05T07:00:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "投資",
-        "提携",
-        "海外",
-        "脱炭素"
-      ],
-      "summary": "Hero Groupとの協業のもと、インドの大規模再生可能エネルギー事業に参画 | 住友商事 Sumitomo Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "0c956a8accb496da",
-      "title": "豊田通商、インドネシアでバイオメタン製造・販売事業に参入 〜パーム油工場廃水を原料に2027年商業運転開始〜",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fNWdjSktjNUtUTFRFS1Z2a203d1VhLVM4MFJienpmc2thNGZpU3BnQ3VYdVk3cEN6c0pMZmV1VHpkSUpSa1RFaWtYNXJ5Zzd0N2E4dGFjRkN1MDMyU1FCaDBYS2hpTkhsQ3FEcjVR?oc=5",
-      "source": "豊田通商株式会社",
-      "published": "2026-10-05T07:00:00+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "新規事業",
-        "海外",
-        "資源"
-      ],
-      "summary": "豊田通商、インドネシアでバイオメタン製造・販売事業に参入 〜パーム油工場廃水を原料に2027年商業運転開始〜 豊田通商株式会社",
-      "source_count": 1
-    },
-    {
-      "id": "d4169f57f396a31f",
-      "title": "東京本社新社屋の完成およびオフィス移転について",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2V1kyMm9hc0xOTFlDek1UN0g1VE81RXh2ZlV4bTlZbXIyV3g3NXhzVVl1dGdKSlFNZkx3TmNFV2lEaVByM3FLdEpyNHp1eW1pZlA4Vkc3Znh0TkE?oc=5",
-      "source": "共同通信PRワイヤー",
-      "published": "2026-10-05T07:00:00+00:00",
-      "company_ids": [
-        "nagase"
-      ],
-      "tags": [
-        "提携"
-      ],
-      "summary": "東京本社新社屋の完成およびオフィス移転について 共同通信PRワイヤー",
-      "source_count": 1
-    },
-    {
-      "id": "289cca9984abb3a0",
-      "title": "丸紅社長、レアアース「豪州と供給網全体で協力」 経済安保で連携強調",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tNG11Z1RUMTNqNTVoTFNzamtLUlE1bmR3aTh2UFF2Z1Q2VVVoX05GcGxjNFRCUEtEODh4QUNNcHJBcjAwM1ZPd09CMUpnbEtlOW9jQWJUdmNiS1F3ZUhBQWg5NlNVbjRBZ0tZTw?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-05T07:00:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "人事",
-        "提携",
-        "海外"
-      ],
-      "summary": "丸紅社長、レアアース「豪州と供給網全体で協力」 経済安保で連携強調 日本経済新聞",
       "source_count": 1
     }
   ]
