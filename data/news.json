@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T10:28:39.411864+00:00",
+  "updated_at": "2026-11-14T22:26:26.648492+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -92,6 +92,21 @@
     "就活"
   ],
   "articles": [
+    {
+      "id": "80c000647eaf232c",
+      "title": "豊田通商、「脱炭素への貢献」を事業収益に計上 従業員の意識高める",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MSGpidDVPOC03Xy13X2Z5NTNyTnBtVGlBWTh6UHZlUk5MWkNKVDFyb0dZZ0hVbnlIcnVST1FjSkZKTERQbWZyQl96dVhmN2huSlAtMHZBVWtLTUFBNnFDc1V1X3liLXppcHNCLQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-14T20:00:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "脱炭素"
+      ],
+      "summary": "豊田通商、「脱炭素への貢献」を事業収益に計上 従業員の意識高める 日本経済新聞",
+      "source_count": 1
+    },
     {
       "id": "5b8c43215a19bc7a",
       "title": "住友商事(株)【8053】：株価・株式情報（夜間PTS含む）",
@@ -8939,21 +8954,6 @@
       ],
       "tags": [],
       "summary": "長瀬産業、「独自事業」売上高1000億円 生分解性SAPなど30年代めど 日刊工業新聞",
-      "source_count": 1
-    },
-    {
-      "id": "dcc2bf977f31f77e",
-      "title": "丸紅(株)【8002】：企業情報（決算時期・代表者名・大株主情報・IR動画など）",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kWWU1Z1dXUXdmeHZvNzdwUk1WQTNNWjBVYlhCZjR5NFZwUlkwNExrb1pxNFNldS1vNjVBaXlhaWtXRmhSZmkzWE8zZ3EwaXM1NXhhS095VnR4bVJUZkpBVkc1MlBuXzU0amt5S05qRHZJV0w2WFE?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-10-12T02:14:27+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "丸紅(株)【8002】：企業情報（決算時期・代表者名・大株主情報・IR動画など） Yahoo!ファイナンス",
       "source_count": 1
     }
   ]
