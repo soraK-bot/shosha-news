@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T22:37:55.642880+00:00",
+  "updated_at": "2026-11-14T03:40:14.292723+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -93,6 +93,88 @@
   ],
   "articles": [
     {
+      "id": "f98311390cdaa88c",
+      "title": "今年も慶大4年生48名の進路は超豪華！ソフトバンク3位左腕らプロ入りに加え、バークレイズ・住友商事内定者も",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ROUlabWREdWlLNmlJclZZdUhFUjYtMDVrYVprQ0xJeGpDYXVMYW1FWEpfdVBTd2RpNW1idnVpWTdXaElyelNteFhXRHNlenctZ1FVanQtaVRab2dwTVdYRkpkQTc1Y3BvVnJMamVlb1ZCRHpzNlFuRlJ2Ylp6elE?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-14T02:17:53+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "就活"
+      ],
+      "summary": "今年も慶大4年生48名の進路は超豪華！ソフトバンク3位左腕らプロ入りに加え、バークレイズ・住友商事内定者も Yahoo!ニュース",
+      "source_count": 2
+    },
+    {
+      "id": "c346acccda24c144",
+      "title": "就職人気企業ランキング28年卒【文系女子】！伊藤忠商事を押さえて初の首位となった企業は？（ダイヤモンド・オンライン）",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYXhHWElNR0dLQjNLZi1LczB0cldFWWdMX2R4amhLT2NfLXY4YmZPYi1INV9OVFFCQnhnN1hlUUNNWVpoMFctUmd0QlNscDU0b1hQNzJUTjFqS1VkSklzbzAtd3lDaDh2Q2hudkdlTXBlVTM5a0RlZ3U3UGxJZ3ByMm1ocFowSFA2?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-13T23:00:35+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "就職人気企業ランキング28年卒【文系女子】！伊藤忠商事を押さえて初の首位となった企業は？（ダイヤモンド・オンライン） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "af764cfbacf6ae59",
+      "title": "就職人気企業ランキング28年卒【文系女子】！伊藤忠商事を押さえて初の首位となった企業は？",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93OGs5c2VISnAzVUVGcWpQQ1lMemVNNzdxMFZ2MzlROHMwbXZkdzZGdWxMV3FWVjdFWjAxbW5HUmdIb1cyUnNTVURBeHJtbnJLNDBaMGlJZ1RQU2h0Y2Vn?oc=5",
+      "source": "ライブドアニュース",
+      "published": "2026-11-13T23:00:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "就職人気企業ランキング28年卒【文系女子】！伊藤忠商事を押さえて初の首位となった企業は？ ライブドアニュース",
+      "source_count": 1
+    },
+    {
+      "id": "f0350a2ae3f68f8e",
+      "title": "就職人気企業ランキング28年卒【文系女子・ベスト200】3位は三井物産、1位は？",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92R3VVeURQdGhkdnpyVXZhZjN5RnFJRE1wcTkxdVJQZUszYkg3djZ0dHJQOUp2OGtESkltNG92UXZYVmVvVUlHMUx4UDQ4NzRLY1JqYXFR?oc=5",
+      "source": "ダイヤモンド・オンライン",
+      "published": "2026-11-13T21:00:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "就職人気企業ランキング28年卒【文系女子・ベスト200】3位は三井物産、1位は？ ダイヤモンド・オンライン",
+      "source_count": 1
+    },
+    {
+      "id": "cbeabce4a29f0072",
+      "title": "文化シヤッター：伊藤忠と資本業務提携",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1GZy1ZRDNVOGFLNlVhQXM0MEV0SU1tVGVPZUd6QjFQRmZvRGsybkh5WDc1R2tGZ0o4VkppQ3NBWjhZdFE?oc=5",
+      "source": "https://c-eye.co.jp/",
+      "published": "2026-11-13T14:36:26+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "提携"
+      ],
+      "summary": "文化シヤッター：伊藤忠と資本業務提携 https://c-eye.co.jp/",
+      "source_count": 1
+    },
+    {
+      "id": "59224169ceef46bb",
+      "title": "屏東県、伊藤忠とMOU締結 パイナップル輸出量は今年3,000トン視野",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2eU5GSDNadVB6VERwdk83UVlJOWhZUDltemJwazVJUmNUd0R5ZWNOeFl1NUgzbHBkdHdLczBvSmNVUm9MVE14Tjd3UUJaWVVaX3UwaVE3WWMwME94YXJoRjgzUEo1ZG5XR3h3c1V2NkZPRks0?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-11-13T10:55:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "屏東県、伊藤忠とMOU締結 パイナップル輸出量は今年3,000トン視野 BigGo ファイナンス",
+      "source_count": 1
+    },
+    {
       "id": "31a87af3cbd46069",
       "title": "伊藤忠、文化シヤッター株19%を273億円で取得 ダルトン離脱で筆頭株主に",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81bGRxMGVPeDBiUHJTOFNHb3ptZy1zQ1VVM050S2tBcnpLT1Y2ak1CS0VBUmhfVjZSQkY5cnQzOWhDeXV1VlZjLW1BUjQtVEZKODd3MlAyYWV4YS1TODRSSjBVQlpUcVhKWV9XNUhzRjh6WHY3?oc=5",
@@ -120,7 +202,7 @@
         "投資"
       ],
       "summary": "伊藤忠、文化シヤッターの筆頭株主に ダルトンなどから20％弱取得 Reuters",
-      "source_count": 3
+      "source_count": 4
     },
     {
       "id": "686fe4409bbc415f",
@@ -284,7 +366,8 @@
       "source": "ダイヤモンド・オンライン",
       "published": "2026-11-12T21:00:00+00:00",
       "company_ids": [
-        "itochu"
+        "itochu",
+        "mitsui"
       ],
       "tags": [],
       "summary": "就職人気企業ランキング28年卒【理系男子・ベスト100】3位は伊藤忠商事、1位は？ ダイヤモンド・オンライン",
@@ -8867,94 +8950,6 @@
         "投資"
       ],
       "summary": "国内企業向け投資を手掛ける独立系PEファンド運営会社アスパラントグループの持分法適用会社化について 伊藤忠商事株式会社",
-      "source_count": 1
-    },
-    {
-      "id": "9c468345b200ee40",
-      "title": "丸紅の50代後半、課長級の年収は？【1万件の口コミ情報データ】",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9QQ2RWZWtYMnl3T0xRTGVXX3ZlVnJwMGFjRHBKZzdBLTdvMFZRUWsxaTZGTlo1RjI4bkVCR3FQdEZlUVVPMVMzT3BtX1I?oc=5",
-      "source": "ダイヤモンド・オンライン",
-      "published": "2026-10-09T07:00:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "就活"
-      ],
-      "summary": "丸紅の50代後半、課長級の年収は？【1万件の口コミ情報データ】 ダイヤモンド・オンライン",
-      "source_count": 1
-    },
-    {
-      "id": "776c848e3e8be5f8",
-      "title": "豊田通商グループのファイティングイーグルス名古屋2026-27 シーズン B.LEAGUE ONE ホーム開幕戦を開催～2030-31 シーズン B.PREMIER 参入に向けた挑戦を後押し",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BbnBURGxQSF9yZHFHaTlEMUVMSUhESHktMGlvWUtpR1ZWUU9PcDhjalh1Nm8tWkNacTFJbW9uOFZ6aWNrbmpJNXgyUG1UQlVRR2VwOUZCREpSR3o4MFZOdWJoR2tZYjVla0c2QnR3?oc=5",
-      "source": "豊田通商株式会社",
-      "published": "2026-10-09T07:00:00+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "新規事業"
-      ],
-      "summary": "豊田通商グループのファイティングイーグルス名古屋2026-27 シーズン B.LEAGUE ONE ホーム開幕戦を開催～2030-31 シーズン B.PREMIER 参入に向けた挑戦を後押し 豊田通商株式会社",
-      "source_count": 1
-    },
-    {
-      "id": "bf75ede2cc9011ab",
-      "title": "第一ライフ・丸紅系REITが合併 調達力拡大で資産5000億円に",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lVUh4bHVabjFPb2Njb0swbGlEMEx1SkJBaVhoY3RobjdibEVlLV96eUlqQzNpWkR2WG03Nm1SdkYwZ3FyTEFDMjJfTU5uc0x3emdJVHI4V0NOQ3JSZ3pVSXRiM1NtUTJLQ3Byaw?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-08T07:00:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "M&A"
-      ],
-      "summary": "第一ライフ・丸紅系REITが合併 調達力拡大で資産5000億円に 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "00ce4a113bfd7b0b",
-      "title": "日本橋の新社屋へ東京本社を移転、グループ16社集約 長瀬産業",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FOEJUUTVzcTRGRjlKS08zQTJMR1NITTd4Ulo5YUctV2RfUnZkWTNsbzlVNHJjWUN6M3ZkSmc3VmdzODh6c3BMNUJpZk81alctdFhDczVvME01cGJPR0gwVnFFN2NibmJRMDNJMnFvZ0RfOVpCNWFqWWZFdnI?oc=5",
-      "source": "estie",
-      "published": "2026-10-08T07:00:00+00:00",
-      "company_ids": [
-        "nagase"
-      ],
-      "tags": [],
-      "summary": "日本橋の新社屋へ東京本社を移転、グループ16社集約 長瀬産業 estie",
-      "source_count": 1
-    },
-    {
-      "id": "031535045d8f86c6",
-      "title": "伊藤忠商事の中CFO 相次ぐ大型投資「規律は緩めずリスク最小化」",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KVlJaSzNGWFBoZ3B5a0RMWGtLWEFKUTdqRjJaM0tuTFdPTW5TZnFET01FMVhhbW8yMG4zdDdNeGUwSnd0ZGd2LUZqMmg0S055Tk9vMHAycmxJQmVVUGFhdUVkOHhkVVlFbFpvTw?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-08T07:00:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "投資"
-      ],
-      "summary": "伊藤忠商事の中CFO 相次ぐ大型投資「規律は緩めずリスク最小化」 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "42d468a8d5a224a2",
-      "title": "三井物産流通グループ、300社超のデータ共有アプリを「Snowflake」で刷新--20年もののシステム脱却",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TNDVQc3FjWVExRmxqaTl6UW9obG05ZmNnbFJiVkQ3T0wtdWU1NkxVQ1d1ZHhUbzltd2F0VllDQ29Xa3JpcUJqeDFBM25wNnBzbFBV?oc=5",
-      "source": "ZDNET Japan",
-      "published": "2026-10-08T07:00:00+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "三井物産流通グループ、300社超のデータ共有アプリを「Snowflake」で刷新--20年もののシステム脱却 ZDNET Japan",
       "source_count": 1
     }
   ]
