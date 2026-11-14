@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T03:40:14.292723+00:00",
+  "updated_at": "2026-11-14T10:28:39.411864+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -93,6 +93,49 @@
   ],
   "articles": [
     {
+      "id": "5b8c43215a19bc7a",
+      "title": "住友商事(株)【8053】：株価・株式情報（夜間PTS含む）",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYWFpaNlFxWUxjM1p2blBFb1QxeFV4YzcyQmJEQ3UwR20yMGdJZlJuSWtyMzNNcnVsVlJHNGl0SjZPOHE5RENyb3lxNFBWRkN0SUE?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-14T08:07:18+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "住友商事(株)【8053】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "5e64b6254e8c9b3d",
+      "title": "住友商事のエリート社員はなぜ米軍基地に30回も侵入したのか",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MY050WENiY1d5X3pBOFR5cXFndXljOENYRjFSM1BNZUs5dUdtZ3hLQkRmRHdPVWIyZTd1a2RxQUpoaHVVTE5xN1c3VnBIb01GR01XLVF3V1RxWDQ?oc=5",
+      "source": "下野新聞社",
+      "published": "2026-11-14T04:23:38+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "住友商事のエリート社員はなぜ米軍基地に30回も侵入したのか 下野新聞社",
+      "source_count": 3
+    },
+    {
+      "id": "c8ea326089e64f22",
+      "title": "住友商事のエリート社員はなぜ米軍基地に30回も侵入したのか 妻と犬まで同行…「スパイ」を疑われた男性が法廷で語った意外な動機",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwbC1xQzRSS3N0Ml9xUG8ydTlYcTFYdnY2eGFyS2RFZktTRWNKTnNwMF9YUzc5YkFYck1YRG15bkVoV1IxZkZmOHQ1LUYyRFU2QXRLWW83OE9FV0NuRXc?oc=5",
+      "source": "沖縄タイムス社",
+      "published": "2026-11-14T04:00:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "住友商事のエリート社員はなぜ米軍基地に30回も侵入したのか 妻と犬まで同行…「スパイ」を疑われた男性が法廷で語った意外な動機 沖縄タイムス社",
+      "source_count": 2
+    },
+    {
       "id": "f98311390cdaa88c",
       "title": "今年も慶大4年生48名の進路は超豪華！ソフトバンク3位左腕らプロ入りに加え、バークレイズ・住友商事内定者も",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ROUlabWREdWlLNmlJclZZdUhFUjYtMDVrYVprQ0xJeGpDYXVMYW1FWEpfdVBTd2RpNW1idnVpWTdXaElyelNteFhXRHNlenctZ1FVanQtaVRab2dwTVdYRkpkQTc1Y3BvVnJMamVlb1ZCRHpzNlFuRlJ2Ylp6elE?oc=5",
@@ -144,6 +187,22 @@
       ],
       "tags": [],
       "summary": "就職人気企業ランキング28年卒【文系女子・ベスト200】3位は三井物産、1位は？ ダイヤモンド・オンライン",
+      "source_count": 1
+    },
+    {
+      "id": "97d1b6fdef31d54b",
+      "title": "CTC人事担当役員が語る人材像「AI時代こそ自走できる人に」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QQWZFSkdteklVUmFNS0c5bThFRkdlTHp2UVVYYm5aUTdkWW5PQ2ZveThUbndNVWxBaFNsaVlaQlE3NXdSc0xNZzhaY2tUVS16cktWQUtuMXNFYXZwR1p5dmJ0aWc1aWM2LXlGYg?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-13T20:00:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "DX",
+        "人事"
+      ],
+      "summary": "CTC人事担当役員が語る人材像「AI時代こそ自走できる人に」 日本経済新聞",
       "source_count": 1
     },
     {
@@ -203,6 +262,21 @@
       ],
       "summary": "伊藤忠、文化シヤッターの筆頭株主に ダルトンなどから20％弱取得 Reuters",
       "source_count": 4
+    },
+    {
+      "id": "3e1ac0d0f8f4e0df",
+      "title": "伊藤忠、文化シヤッターの筆頭株主に ダルトンなどから20％弱取得（ロイター）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnNUNpNENib0E3YzJyay1TdVE5QlBNWmVDOVJHT1U5bUlINFVBZVBZR0plcm0zZnRRYUFQYXdpRm1NWVVMVFhKT0NPVDFBU1lFdWlVSVJjUTdOa0N5RTllWkNReFVmT2NKUUJVWjNVUDR5Uzczbjh6MHh5Sjl3a1E?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-13T09:48:57+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "伊藤忠、文化シヤッターの筆頭株主に ダルトンなどから20％弱取得（ロイター） Yahoo!ニュース",
+      "source_count": 1
     },
     {
       "id": "686fe4409bbc415f",
@@ -273,6 +347,21 @@
         "業績予想"
       ],
       "summary": "丸紅、最高益 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "68a0eaf9055c7605",
+      "title": "三菱商事、最高益",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WTzdzQUY2Z3k5XzkzUE5kdmVBLVpTV0d3Z2N3aGdVc0xiXzJfemFNZTUzSTVHQ3AyVDF1YmxUQWlGWXF3Q0F5blZERzRrWG9KWUluZW8waGVaYVBZd19ZN0FJX2t0dWEwUHh5SQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-13T06:20:38+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "業績予想"
+      ],
+      "summary": "三菱商事、最高益 日本経済新聞",
       "source_count": 1
     },
     {
@@ -621,6 +710,7 @@
       "source": "ダイヤモンド・オンライン",
       "published": "2026-11-11T21:00:00+00:00",
       "company_ids": [
+        "itochu",
         "mitsui"
       ],
       "tags": [],
@@ -8864,92 +8954,6 @@
         "決算"
       ],
       "summary": "丸紅(株)【8002】：企業情報（決算時期・代表者名・大株主情報・IR動画など） Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "a59fcaf34a6809ea",
-      "title": "長瀬産業(株)【8012】：企業情報（決算時期・代表者名・大株主情報・IR動画など）",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52czFZbHA2RjVOS3N2Q0lPQWxMWVliLUlGZjlCZVF2LVJrVDc4Rlhnay1DVTlyeklTbDVEVmhxZG4tSEdlVUVJaVliMWpqN3FLTHBqMUo4SHlYUTlibzBiNUVGUzVuM0Nyc1NDSklLa0JjTjBfeEE?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-10-12T00:28:15+00:00",
-      "company_ids": [
-        "nagase"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "長瀬産業(株)【8012】：企業情報（決算時期・代表者名・大株主情報・IR動画など） Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "8e5a37e38daa6f0f",
-      "title": "JFE商事鋼管管材株式会社様 導入事例 | 輸配送管理システム（TMS）ULTRAFIX",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iSUNrdnlmOFdCcEtTR0ZZUTlXRVRhSUJlSjdUSHVQeWVFTmM2REYtMXBUSDVRSm0tbXN3NjYwQ25BRzA1VnY2ZVk1eXpyUVZtY3hSVWMyTTZib0lHNVJ1c1pIczM3V0NuTFprdnVMcUpUV2hxcjNrMQ?oc=5",
-      "source": "NEC",
-      "published": "2026-10-10T02:52:07+00:00",
-      "company_ids": [
-        "jfeshoji"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "JFE商事鋼管管材株式会社様 導入事例 | 輸配送管理システム（TMS）ULTRAFIX NEC",
-      "source_count": 1
-    },
-    {
-      "id": "051e3cf1c287632b",
-      "title": "監視委、元三菱商事社員に課徴金勧告 永谷園HD株でインサイダー取引",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LWnE5bzVxdV9zUER1aTFYYlVIZ3BqazRmcUlORHZvZ0plQWE0cWhMeUxxdG1hSVd3ZWNhaFZoRWNrNVdhMXA1LWRKSmRTNXhjTC1vWDNjb1Ruck04dGo1OEx5TjZYSEZmdDVJRQ?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-09T07:00:00+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [],
-      "summary": "監視委、元三菱商事社員に課徴金勧告 永谷園HD株でインサイダー取引 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "63360f07d59dbf3f",
-      "title": "ミャンマー都市開発に転機 三菱商事など撤退、商機とリスクに隔たり",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13bVFReVFmRUttLUYzU3RnOThwTzhtRE9rNGVEbHZxcTVLVjhzclJtWG9YdFhxbl9BZTloXzl3elpfYlRaaURSQjRYOW1rZG9xVVpJclIzMDE0OG9zQ2lNVHBLYWVEekZmU28zNA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-09T07:00:00+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [],
-      "summary": "ミャンマー都市開発に転機 三菱商事など撤退、商機とリスクに隔たり 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "6208ddde4cebd114",
-      "title": "男性の育休取得率、三菱商事が171%で首位 部長をアンバサダー指名",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmX0xUbENVR0YwZ0F1WG9VeUd4Sm5jZDFYaUZmTG4tU0NZODlKM0RzS2ljem5SSmRSc3NjUEpnMXRpSXh3cXQzYm1MdUJZdzhibkNEWG1KNFAwVDZ2WE8ycEdIYW40WnoxMkk0Vg?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-09T07:00:00+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "投資"
-      ],
-      "summary": "男性の育休取得率、三菱商事が171%で首位 部長をアンバサダー指名 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "59b29b0f863f87ba",
-      "title": "国内企業向け投資を手掛ける独立系PEファンド運営会社アスパラントグループの持分法適用会社化について",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15NThkMU5UNUZ1Sm9NSlQ5WGpqOVh6RHdYVmt4TV9oZ0RIWFlIZzBsRWt0clR3V2M0Q2VkTkJmZ19vLVpqY3BhYk9wQnBrOGszZjF5V3ZnNUVDQXVQY21DQ0FZQUFyZw?oc=5",
-      "source": "伊藤忠商事株式会社",
-      "published": "2026-10-09T07:00:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "投資"
-      ],
-      "summary": "国内企業向け投資を手掛ける独立系PEファンド運営会社アスパラントグループの持分法適用会社化について 伊藤忠商事株式会社",
       "source_count": 1
     }
   ]
