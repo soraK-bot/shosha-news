@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T22:26:26.648492+00:00",
+  "updated_at": "2026-11-15T03:43:11.228461+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -92,6 +92,21 @@
     "就活"
   ],
   "articles": [
+    {
+      "id": "03838641b12080be",
+      "title": "「ありゃ本気だ」住友商事の株式売却でモノタロウが上場廃止の危機に…創業者が仕掛けた逆転策 (ダイヤモンド・オンライン)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRXhqcEV1VlVHZHVxRW1DcHNseGpPb0Q1RjdOall0SlZNamthOTBjQ28zRzBhb1AwcDFrclpUbmVDZ29YVnFLQm5xX0JfYzZLdlhCbkJaRjgtS3dVa1hjWUVKQ19abFB5Tk9TdkY4WXhsbW5WdDVneFNNWmlBcHJWanJSWXJTLWVWMU01dmRB?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-15T00:52:59+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "M&A"
+      ],
+      "summary": "「ありゃ本気だ」住友商事の株式売却でモノタロウが上場廃止の危機に…創業者が仕掛けた逆転策 (ダイヤモンド・オンライン) Yahoo!ニュース",
+      "source_count": 1
+    },
     {
       "id": "80c000647eaf232c",
       "title": "豊田通商、「脱炭素への貢献」を事業収益に計上 従業員の意識高める",
@@ -461,7 +476,7 @@
         "M&A"
       ],
       "summary": "「ありゃ本気だ」住友商事の株式売却でモノタロウが上場廃止の危機に…創業者が仕掛けた逆転策 ダイヤモンド・オンライン",
-      "source_count": 1
+      "source_count": 2
     },
     {
       "id": "a3c8ebd1e3c3984d",
@@ -8941,19 +8956,6 @@
         "海外"
       ],
       "summary": "【無料公開】三菱商事と伊藤忠が建機天国インドネシアで攻勢！レンタル首位の三菱、日立建機に出資した伊藤忠の野望 ダイヤモンド・オンライン",
-      "source_count": 1
-    },
-    {
-      "id": "143bc71578a0ca7b",
-      "title": "長瀬産業、「独自事業」売上高1000億円 生分解性SAPなど30年代めど",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82ZTNvZnE5b0htbFgtdC1jV0tuMkJxdWZsRlQ5OE9WS0hCNjJJTExSV2FaYThNc0Y3b1djQzJiblBOblB1Ym9tVlRhZnpXeDhRMzFfdDl5WWY?oc=5",
-      "source": "日刊工業新聞",
-      "published": "2026-10-12T07:00:00+00:00",
-      "company_ids": [
-        "nagase"
-      ],
-      "tags": [],
-      "summary": "長瀬産業、「独自事業」売上高1000億円 生分解性SAPなど30年代めど 日刊工業新聞",
       "source_count": 1
     }
   ]
