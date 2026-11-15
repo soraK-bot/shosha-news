@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T10:31:31.198750+00:00",
+  "updated_at": "2026-11-15T22:28:21.785818+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -92,6 +92,63 @@
     "就活"
   ],
   "articles": [
+    {
+      "id": "0caf9ee33589adcb",
+      "title": "住友商事CDOが語る、4800人を“デジタル人材”に変える仕組みとは（ITmedia ビジネスオンライン）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3NWtvQ2Z0bFZaSDJIMzVvR2R6S2s0S2h5S19wVHhzYUpQUXQ1UzR1bFlpM00tOHV4ajVqR2JPQWlxNmM2VXhZYkRvSVJlWXlVMDBfV3lYSlh4RVh2d0RGZHhla05fYUVKQkc5S0E1YTBXODlMUk9HOUFZcENQbjA?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-15T21:12:39+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "住友商事CDOが語る、4800人を“デジタル人材”に変える仕組みとは（ITmedia ビジネスオンライン） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "febacd0aaa410d11",
+      "title": "大阪市中央区に延べ３８００平方㍍のホテルを計画／２７年２月初旬に着工／三菱地所レジデンスと丸紅都市開発",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEZzQtM1VINjNlemRZX2RfN1JBVWhVamhISXY2S0c3WXZGZjlUNEhIOXZDaC1KNjN3a2JfZHQ3dlBFMG5iSFk2MXJ2OA?oc=5",
+      "source": "建設ニュース",
+      "published": "2026-11-15T21:12:10+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "大阪市中央区に延べ３８００平方㍍のホテルを計画／２７年２月初旬に着工／三菱地所レジデンスと丸紅都市開発 建設ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "b02be9d01ffdd690",
+      "title": "住友商事系SCSKのコンサル新会社、伊藤忠とは異なる「100%子会社」戦略。「稼いでいなくても丸くオッケー」の真意",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YcF8wVndTRFh1M0gtSmlNZ29VanM0Qm1HRGhGN29CNmtad0g5TTR0VFZMeEM4ZXZfQm1VbVlKQkJKSzVRbV9VNEwtVmM5M2FUM3JxUHQ3XzFFRERGTksxdlA5U0NSQnlCSzlWR2ZWbXlYcGJBcFp0eQ?oc=5",
+      "source": "Business Insider Japan",
+      "published": "2026-11-15T21:10:00+00:00",
+      "company_ids": [
+        "itochu",
+        "sumitomo"
+      ],
+      "tags": [
+        "新規事業"
+      ],
+      "summary": "住友商事系SCSKのコンサル新会社、伊藤忠とは異なる「100%子会社」戦略。「稼いでいなくても丸くオッケー」の真意 Business Insider Japan",
+      "source_count": 1
+    },
+    {
+      "id": "35a051832f0f720a",
+      "title": "【動画レポート】三井物産を辞めた「アルムナイ」有志の飲み会に潜入取材！エリートの看板と超高待遇を捨てた猛者たち、次のキャリアや給与はどうなった？",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LSjhQN3pVTE1USDZGM24wcHk3NW1tMGNJc0FPc3QyN0RwdXFhZDJaU3BNOWxDMHJsUFYtNmh3Y2xVSjBjUlhPYnhCeFM?oc=5",
+      "source": "ダイヤモンド・オンライン",
+      "published": "2026-11-15T19:55:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "【動画レポート】三井物産を辞めた「アルムナイ」有志の飲み会に潜入取材！エリートの看板と超高待遇を捨てた猛者たち、次のキャリアや給与はどうなった？ ダイヤモンド・オンライン",
+      "source_count": 1
+    },
     {
       "id": "03838641b12080be",
       "title": "「ありゃ本気だ」住友商事の株式売却でモノタロウが上場廃止の危機に…創業者が仕掛けた逆転策 (ダイヤモンド・オンライン)",
@@ -264,6 +321,19 @@
       "source_count": 1
     },
     {
+      "id": "1ba731d724cd514d",
+      "title": "伊藤忠商事(株)【8001】：株価チャート",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aeGZ5U3p2b2d2SzYzUlZaSXNWc0QwUHlUdm9CS0tCRVo1XzBpNGlkR1dDVXVYYnFib2t4Tmt6T0g1X2VkNmxUdkc3MWc2X2VrZy12eGs2c3NUdw?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-13T10:32:32+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "伊藤忠商事(株)【8001】：株価チャート Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
       "id": "31a87af3cbd46069",
       "title": "伊藤忠、文化シヤッター株19%を273億円で取得 ダルトン離脱で筆頭株主に",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81bGRxMGVPeDBiUHJTOFNHb3ptZy1zQ1VVM050S2tBcnpLT1Y2ak1CS0VBUmhfVjZSQkY5cnQzOWhDeXV1VlZjLW1BUjQtVEZKODd3MlAyYWV4YS1TODRSSjBVQlpUcVhKWV9XNUhzRjh6WHY3?oc=5",
@@ -362,6 +432,19 @@
       ],
       "tags": [],
       "summary": "丸紅(株)【8002】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "f161de30446aca2e",
+      "title": "丸紅(株)【8002】：掲示板",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jWnppbk0yMWJjc3JLMmxZaktJUXlfS3NyZ3RDY0hkVWVyd1FXSFZ2OW51UHZWNEZMY2hBN1VYNzNIUURFN19IVk1JNkxxeU9WNVo0Um9Bc2Rsdw?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-13T08:00:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "丸紅(株)【8002】：掲示板 Yahoo!ファイナンス",
       "source_count": 1
     },
     {
@@ -8864,94 +8947,6 @@
         "人事"
       ],
       "summary": "住友商事、航空機リースやデジタル事業強化 上野社長「次の成長ステージに上がるため、さらに質を高める」 読売新聞",
-      "source_count": 1
-    },
-    {
-      "id": "093000cf7461fdb1",
-      "title": "豊田通商「トヨタの黒子」だけにとどまらない、今井斗志光社長が語る“異能の総合商社”の正体",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LUHB0RGtfS19Id0gtenNBMmJKTzVZem5YcG1aZkNJUFRnSFRzUmI5ZmJHTmk5akR1cGx2dWlXQjhNZ0gwcm1MT2FlbHNzOXVZcjVLRDd3?oc=5",
-      "source": "JBpress",
-      "published": "2026-10-15T07:00:00+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "人事"
-      ],
-      "summary": "豊田通商「トヨタの黒子」だけにとどまらない、今井斗志光社長が語る“異能の総合商社”の正体 JBpress",
-      "source_count": 1
-    },
-    {
-      "id": "8ecaef9491c48896",
-      "title": "池田泉州銀と滋賀銀、丸紅と取引先支援で協定 インドやASEANへの進出後押し",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RMlgyMUVSNTZkS3VKNUJjclpDRmhwTENmX3hYd1o4TElOWHhFWlEtUmxLbW84dDFRWGI1azRMaENkYXo0YWNfWW4yb0tDTE5ibHFOcDZB?oc=5",
-      "source": "ニッキンONLINE",
-      "published": "2026-10-15T07:00:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "提携",
-        "海外"
-      ],
-      "summary": "池田泉州銀と滋賀銀、丸紅と取引先支援で協定 インドやASEANへの進出後押し ニッキンONLINE",
-      "source_count": 1
-    },
-    {
-      "id": "01e7f06e111ad082",
-      "title": "JFE商事エレ、物流トラッカーをECで直接販売",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9leEk1UG5VQ3p2WnFLUVp2dVQ0SDg1c0Z5QlBFeTNDYUhHTzdqbm9zNDBCc2VuNmo5ZXdMOVdCY0h2MS0xTXJHQlpn?oc=5",
-      "source": "LOGISTICS TODAY",
-      "published": "2026-10-15T07:00:00+00:00",
-      "company_ids": [
-        "jfeshoji"
-      ],
-      "tags": [],
-      "summary": "JFE商事エレ、物流トラッカーをECで直接販売 LOGISTICS TODAY",
-      "source_count": 1
-    },
-    {
-      "id": "15677e4b42785f0c",
-      "title": "JFE商事エレクトロニクス、小型GPSトラッカー「Jiot(R)」のBtoB ECサイトを10月15日に開設",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RWk0yTmpUSVdUajNGQnlOSlFHbkozOUp2Y0ZuRkcyMjVsOThkOXpDLXRYR0NwTjRYWXRqR3Rna0xaOUpscWdvMWF2UEFCVGc3VDZYcWxpSy0xWFladmIw?oc=5",
-      "source": "シブヤ経済新聞",
-      "published": "2026-10-15T07:00:00+00:00",
-      "company_ids": [
-        "jfeshoji"
-      ],
-      "tags": [
-        "M&A"
-      ],
-      "summary": "JFE商事エレクトロニクス、小型GPSトラッカー「Jiot(R)」のBtoB ECサイトを10月15日に開設 シブヤ経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "8600a145385485d2",
-      "title": "丸紅社長、エネルギー・銅価格上昇で収益改善に期待－供給網混乱対応 フォトギャラリー | TBS CROSS DIG with Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdnFrY1d5SnFvZDBLYXNSaTJ4NUVma3gtZGtITUlobTFwLWt1clZxVDBhZkNwU0p3ZTNiT2VJTUNqOS1qLWRKdUVoOWN5cVZLRmFHdXlsbWF0Q2xLcEM2UDBIQWVVMm56T1JvS2VkWW1FRDFOeXNORUZTZ2NVNVdCZXJuY1RMVUE?oc=5",
-      "source": "TBS NEWS DIG",
-      "published": "2026-10-14T08:48:59+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "人事",
-        "資源"
-      ],
-      "summary": "丸紅社長、エネルギー・銅価格上昇で収益改善に期待－供給網混乱対応 フォトギャラリー | TBS CROSS DIG with Bloomberg TBS NEWS DIG",
-      "source_count": 1
-    },
-    {
-      "id": "b70e7af15acddda3",
-      "title": "なぜ「トヨタは生産が止まらない!?」 世界的な部品不足にも強い理由！ 知られざる総合商社「豊田通商」の実力とは",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yaHBNa3NQUGZ2eUlMN3dHT2kxRjdqSWxROTN4dlNRcDZMVGtubUIwQlhobjVQcGtLWWpQUE84dDJIelFNNWgwalV3bFNWSmxKME9talZTZw?oc=5",
-      "source": "ベストカーWeb",
-      "published": "2026-10-14T07:00:00+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [],
-      "summary": "なぜ「トヨタは生産が止まらない!?」 世界的な部品不足にも強い理由！ 知られざる総合商社「豊田通商」の実力とは ベストカーWeb",
       "source_count": 1
     }
   ]
