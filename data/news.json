@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T03:43:11.228461+00:00",
+  "updated_at": "2026-11-15T10:31:31.198750+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -336,6 +336,32 @@
         "投資"
       ],
       "summary": "伊藤忠、文化シヤッターに19%出資 274億円でダルトンから取得 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "fcc4881ed007646c",
+      "title": "住友商事(株)【8053】：掲示板",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4VldINUJtVDdIbEhDWUYxai1QcEN2N2FobDBnVHBESlpvM2d2clhUZDI1WmNOdTZnd0Q4SGVVNWt6dHhDanMtMkNOS1hVZ2d6YmxoWHlMSkpEdw?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-13T08:00:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "住友商事(株)【8053】：掲示板 Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "e81507a641e9e5dc",
+      "title": "丸紅(株)【8002】：株価・株式情報（夜間PTS含む）",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xZFppc1ZoZl9WRUNSV1VQRVpSM0ZHLWQydnBGSExJUmp5QTR3Ml9nM3NBdmlfMlpIUVBzOUF5N2NsMWV4UWdXNWlkc1IzZ1hkMnc?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-13T08:00:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "丸紅(株)【8002】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス",
       "source_count": 1
     },
     {
@@ -1140,6 +1166,22 @@
         "提携"
       ],
       "summary": "SCSKがコンサル事業強化、専門会社で製造業を上流から支援 住友商事と連携 日経クロステック",
+      "source_count": 1
+    },
+    {
+      "id": "d9a8b0c16491317e",
+      "title": "金属資源で攻勢、銅権益拡大…三菱商事の強み（ニュースイッチ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Sa0ZCTFprRE9mZERKeDlsRmI3TkdHNWNtUmdxSzVWd01CWGR5bDE5QzMyMkVpc2xTZjN4UGc0cWJDaTRuWENLMXZKemx1YXJ4Tzc4WE9fN3pyeV83ZTNsakdCWTBOM2tfd3Z1bUYxQnBrdS1NelRpLW9fenZnVFU?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-10T06:10:10+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "投資",
+        "資源"
+      ],
+      "summary": "金属資源で攻勢、銅権益拡大…三菱商事の強み（ニュースイッチ） Yahoo!ニュース",
       "source_count": 1
     },
     {
@@ -8910,52 +8952,6 @@
       ],
       "tags": [],
       "summary": "なぜ「トヨタは生産が止まらない!?」 世界的な部品不足にも強い理由！ 知られざる総合商社「豊田通商」の実力とは ベストカーWeb",
-      "source_count": 1
-    },
-    {
-      "id": "d33252a3ef7bd062",
-      "title": "三菱商事の不動産事業トップが明かす“半歩先”戦略、JR東と異例タッグの伊藤忠や大手デベの包囲網に挑む「独自路線」の勝算",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MRF84Wldoa1o0R25wWU5WY2tveHVLRE9GVjJNZllxTE55Z0xlUHhmbVh5ckxDbWtSWkFSVHFBaDRuOVd2dGl3Tl94d03SAU9BVV95cUxQcTdSamRhckkydWFNbHZCMVFVNFZaS2VCcEtUU1gtSWVIeXRuLWtSTEJ5ejE4bHVYSGUxZEpaU181bkEzdkpKWnBPdG9wVWZF?oc=5",
-      "source": "ダイヤモンド・オンライン",
-      "published": "2026-10-13T07:00:00+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [],
-      "summary": "三菱商事の不動産事業トップが明かす“半歩先”戦略、JR東と異例タッグの伊藤忠や大手デベの包囲網に挑む「独自路線」の勝算 ダイヤモンド・オンライン",
-      "source_count": 1
-    },
-    {
-      "id": "38e1369185581dbf",
-      "title": "丸紅社長、エネルギー・銅価格上昇で収益改善に期待－供給網混乱対応",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KbENHdUgwamhMNktnRmR4UENiQVd4VUdRdmxzS0xhZUNSeWpFMVY2cUpfMGpGdDRhSHUxT0Q2eFFIZzVTSkFGMjRCMEE1UFJseGNKS29WMXdVT1pUVlZ5OVNnRDlMYkFwcUdQVnVOVVBnZy11a2FF?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-10-13T07:00:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "人事",
-        "資源"
-      ],
-      "summary": "丸紅社長、エネルギー・銅価格上昇で収益改善に期待－供給網混乱対応 Bloomberg.com",
-      "source_count": 2
-    },
-    {
-      "id": "302134ee0f62cb93",
-      "title": "【無料公開】三菱商事と伊藤忠が建機天国インドネシアで攻勢！レンタル首位の三菱、日立建機に出資した伊藤忠の野望",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jRTI2am5RM1ZvQ2s1Wjl2R2xNNm9hMWo3bXNCWmZWbE9LMDNjekhhMTNfYktmYjVhTktuSjNHdWE0YWNSMjFGMGhZOTXSAU9BVV95cUxNM2MwUVRKTXlyaXBhSEJBeTg5V2ctS004VU15WlExa2ZfTnd0SzlITjQ0cTZ3N0ZXS1N3clhQX29NUEo2c2JRUmtiamg2dlZn?oc=5",
-      "source": "ダイヤモンド・オンライン",
-      "published": "2026-10-12T07:00:00+00:00",
-      "company_ids": [
-        "itochu",
-        "mitsubishi"
-      ],
-      "tags": [
-        "投資",
-        "海外"
-      ],
-      "summary": "【無料公開】三菱商事と伊藤忠が建機天国インドネシアで攻勢！レンタル首位の三菱、日立建機に出資した伊藤忠の野望 ダイヤモンド・オンライン",
       "source_count": 1
     }
   ]
