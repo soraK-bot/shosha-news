@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T22:28:21.785818+00:00",
+  "updated_at": "2026-11-16T03:56:42.855612+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -93,6 +93,80 @@
   ],
   "articles": [
     {
+      "id": "f0c28b65db9a3ea7",
+      "title": "住友商事CDOが語る、4800人を“デジタル人材”に変える仕組みとは",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ycDg4aWZwNnBsUFhsVjVtamRLWWJBN2pVUXZOX25PdEM5LVM1T1F5TzE0d3BKTHhUeUxvcURiMVh4YlpKOTZMZ3JkMm1VTG9EZFZEREdsOFVrakRXSnVFVDZYRmdoY1U0TzRnTnBIU1NCX3VVREE?oc=5",
+      "source": "産経ニュース",
+      "published": "2026-11-16T03:00:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "住友商事CDOが語る、4800人を“デジタル人材”に変える仕組みとは 産経ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "53ac3c29ad8fcf17",
+      "title": "先高期待､強いモメンタム相場に進展の｢外食チェーン｣",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fdUhiNzYyTU5IYm5iSlRxVzNsM3R3Yk43UWxXTi1nMEJOaDJUSzhkbzZrQ3Rza1VYTHduakxUdldHbF8wY3ZiSFktTGhrazE0dGNacm1NZw?oc=5",
+      "source": "四季報オンライン",
+      "published": "2026-11-16T03:00:00+00:00",
+      "company_ids": [
+        "kanematsu"
+      ],
+      "tags": [],
+      "summary": "先高期待､強いモメンタム相場に進展の｢外食チェーン｣ 四季報オンライン",
+      "source_count": 1
+    },
+    {
+      "id": "8d1e8cb11ec937f7",
+      "title": "豊田通商とデンソー、車載ソフトウェア事業の強化に向け協業",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBydnhCb3VsQjBvQjU1YXBaV1gyOHNwWG45b005NnFfZ2ZPazMyWjdxdHBFYVhsQU5aSmZhdGNrNkl5WDdza05hYUJLUmlkMmczN0MtS3BnY0VnTVdaM28tOF9sanpzdmxRcFExUkREUGRFZw?oc=5",
+      "source": "Infoseek",
+      "published": "2026-11-16T02:45:37+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "提携"
+      ],
+      "summary": "豊田通商とデンソー、車載ソフトウェア事業の強化に向け協業 Infoseek",
+      "source_count": 1
+    },
+    {
+      "id": "c32a88755a8d3fa4",
+      "title": "豊田通商、車載ソフト新会社「豊通デフィネックス」を設立 デンソーが20％出資",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWWdBQlVvQ3JOYU0tdEZaNlNWQm0ydTNBcU9rekcxdGJGaW1SQWZObWV5eXdvdm50N0RIZGkwY0lWQkhfRDFYN0xaLUdMSlhic0s0YjNLdDViMHJQMUFVUTAtNTFXVWVPSlJKNGdLaFYyRk5kNDNIN0VZRnMxU0VuU3lReDdLZw?oc=5",
+      "source": "月刊「事業構想」オンライン",
+      "published": "2026-11-16T01:42:57+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "投資",
+        "新規事業"
+      ],
+      "summary": "豊田通商、車載ソフト新会社「豊通デフィネックス」を設立 デンソーが20％出資 月刊「事業構想」オンライン",
+      "source_count": 1
+    },
+    {
+      "id": "d9f78d8668225ea0",
+      "title": "豊田通商とデンソー、SDV対応の新会社「豊通デフィネックス」設立",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4RzR0Wnhvd3lBOUVOTmRQaUlkZnJFWVNWbnJFTTdUTTM0TDRuenhocTZydXdreG5Qc1I4SWw3Q0F5Q3RjMHh3eU1zMkJfVC1sXzIw?oc=5",
+      "source": "ニュースメディアVOIX",
+      "published": "2026-11-16T01:02:34+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "新規事業"
+      ],
+      "summary": "豊田通商とデンソー、SDV対応の新会社「豊通デフィネックス」設立 ニュースメディアVOIX",
+      "source_count": 1
+    },
+    {
       "id": "0caf9ee33589adcb",
       "title": "住友商事CDOが語る、4800人を“デジタル人材”に変える仕組みとは（ITmedia ビジネスオンライン）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3NWtvQ2Z0bFZaSDJIMzVvR2R6S2s0S2h5S19wVHhzYUpQUXQ1UzR1bFlpM00tOHV4ajVqR2JPQWlxNmM2VXhZYkRvSVJlWXlVMDBfV3lYSlh4RVh2d0RGZHhla05fYUVKQkc5S0E1YTBXODlMUk9HOUFZcENQbjA?oc=5",
@@ -134,6 +208,21 @@
         "新規事業"
       ],
       "summary": "住友商事系SCSKのコンサル新会社、伊藤忠とは異なる「100%子会社」戦略。「稼いでいなくても丸くオッケー」の真意 Business Insider Japan",
+      "source_count": 2
+    },
+    {
+      "id": "041bd91ecaff1e67",
+      "title": "伊藤忠、文化シヤッターに出資 工場や商業施設開拓",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GRmxFdDNwcDc3Ym9QYS1zVkxmZ0ZwSllYbnJYNkdwVGlTd3Nld1d3UVkxUm9SenJ4enNMQ0w3UVpfaFZzcGFZM0JpQ3N0bkFBNERwWktvWVM?oc=5",
+      "source": "日刊工業新聞",
+      "published": "2026-11-15T20:00:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "伊藤忠、文化シヤッターに出資 工場や商業施設開拓 日刊工業新聞",
       "source_count": 1
     },
     {
@@ -290,6 +379,22 @@
         "人事"
       ],
       "summary": "CTC人事担当役員が語る人材像「AI時代こそ自走できる人に」 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "c2e9c5575824a0f4",
+      "title": "米デジタル・リアルティ、日本で1.6兆円投資 データセンター4倍に",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yeE05aXhxN0Q4QUZkMkR6ME5Lbk1hRVdzcHd2bGhxYjlSNUc4enAwWTNPWkNaai1ORmJRRmJIMGhtT2VkQ3RRdmd6NzVqVk9ZRUVyYzJpRHpRTmhHYlAwTFc2WE1OWkJsMTFvZQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-13T20:00:00+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "DX",
+        "投資"
+      ],
+      "summary": "米デジタル・リアルティ、日本で1.6兆円投資 データセンター4倍に 日本経済新聞",
       "source_count": 1
     },
     {
@@ -8839,114 +8944,6 @@
         "人事"
       ],
       "summary": "インタビュー／長瀬産業社長・上島宏之氏 時価総額1兆円目指す 日刊工業新聞",
-      "source_count": 1
-    },
-    {
-      "id": "221e52f2372c5026",
-      "title": "丸紅情報システムズ、ストラタシスの大型FDM方式3Dプリンター「F870」の取り扱いを開始 大型治工具の製作を効率化",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd1ZBT3RWNW9WMzUzOWh5bkkwbmdMMjdSZmN2OW5pMHpVMmVDRHNUbGIxRVAwME04WU1vbU1DSlQ4LVctbjRubzRiUlRhN3lGVldfejNoaXBJUVJaSjU4d01pRjNCMlRlRkIzdGxjRmxCNjlubnFQeXpVemRyR1RxSEk4bTJxOEdpNmhhODRzTmRqa25lRUpFamZjXzhnN2Nh?oc=5",
-      "source": "ShareLab NEWS",
-      "published": "2026-10-16T07:00:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "丸紅情報システムズ、ストラタシスの大型FDM方式3Dプリンター「F870」の取り扱いを開始 大型治工具の製作を効率化 ShareLab NEWS",
-      "source_count": 1
-    },
-    {
-      "id": "c1974e233c657335",
-      "title": "三菱商事の50代後半、次長級の年収は？【1万件の口コミ情報データ】",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9OQk5ORDh6cl9RN3F3MDJfeF9nOGpNNTVONHZJVmZkQTN3ZjgtZGFhR05wS213YmNWMTdZeUdtWk1UNUFJYnRhOWJsYk3SAU9BVV95cUxQYlpISm5PZWd3bEEyZ3hQUERUbEdELWR2VFFJcFVxQndBbWNWYkVmS2NqODBGQTJqSGlfVGl3VWx6dkU5Q1IxdDZTVjFvQkNZ?oc=5",
-      "source": "ダイヤモンド・オンライン",
-      "published": "2026-10-15T07:00:00+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "就活"
-      ],
-      "summary": "三菱商事の50代後半、次長級の年収は？【1万件の口コミ情報データ】 ダイヤモンド・オンライン",
-      "source_count": 1
-    },
-    {
-      "id": "96b1435fb7f6a851",
-      "title": "（経過開示）Penske Corporationと共同での米国Penske Automotive Group, Inc.の浮動株買収の決定",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qb2JKN1FrVlFVUy00V2JsLVhrbmlWdmhhU08tZHhxcVlOMnkyVTAwU1lHSDR6VGhNNzZSckFCel9PT1AyeWtfUUtLZnk0dFB5di1TdUlnbDBoTUJnUnFpU1NQd2hXcDVtNHBORQ?oc=5",
-      "source": "MITSUI & CO., LTD.",
-      "published": "2026-10-15T07:00:00+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "M&A",
-        "提携",
-        "海外"
-      ],
-      "summary": "（経過開示）Penske Corporationと共同での米国Penske Automotive Group, Inc.の浮動株買収の決定 MITSUI & CO., LTD.",
-      "source_count": 1
-    },
-    {
-      "id": "1fe0ce0817e82565",
-      "title": "三井物産の30代前半、課長補佐級の年収は？【1万件の口コミ情報データ】",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qdmxPakFmNGhLRWVSNFY3b0x4NmIxQTMtVmJtRGpGUkhFbjJ0Y0FHVTJjdlZfdUpqZ2ROZmNWaGtOQ21EbWdqZE5qTFLSAU9BVV95cUxQeWpXQkJkWjNuZXBaeFJrVEJIanI2WWpnbHRuWDk3RC1IY1o4TTJGZzNHUDRFT0dvM3QzOEc0bVhfMGo5WjdRWXdCSnhxUUpF?oc=5",
-      "source": "ダイヤモンド・オンライン",
-      "published": "2026-10-15T07:00:00+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "就活"
-      ],
-      "summary": "三井物産の30代前半、課長補佐級の年収は？【1万件の口コミ情報データ】 ダイヤモンド・オンライン",
-      "source_count": 1
-    },
-    {
-      "id": "b0d95cf3b6611b14",
-      "title": "三井物産、米車販売大手に追加出資2400億円 親会社と株式を非公開化",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMYXNELV9NZzNZbV9kLXVDQU9qemIwM1p5dElzSmpnTHRPYUtfLWJOZVg1WUZMY1kwaTdqTnJLdWNjMS1YbTZMV0Z2c2N1VlNlc0VQcHpQSkZLaUJWMjJ6RklleEhUQkszcW55WQ?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-15T07:00:00+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "投資"
-      ],
-      "summary": "三井物産、米車販売大手に追加出資2400億円 親会社と株式を非公開化 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "fd3e929799d3209c",
-      "title": "マーケティング・営業領域のDXコンサルティング機能を強化",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZd1lFeE1takgwSU9mc0RPM2JJRnJyckgtQlU3ZmszYV9oTm9CVHN3MmIxTWcwZU5KSzlLYWFranJoQnF6NGJQZXp6OHFwc3lyRm1OYktlYTc5LXpBVk9hLWZQX2ZSdw?oc=5",
-      "source": "伊藤忠商事株式会社",
-      "published": "2026-10-15T07:00:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "マーケティング・営業領域のDXコンサルティング機能を強化 伊藤忠商事株式会社",
-      "source_count": 1
-    },
-    {
-      "id": "c3e869c07b8e7e5a",
-      "title": "住友商事、航空機リースやデジタル事業強化 上野社長「次の成長ステージに上がるため、さらに質を高める」",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53Vjg3c2o3SWxzRmFzdUp6d2tRSUU3dWxRTllsdWY1d1VTbm5DNnNabjh1ZTZDU1g2Z3BVb1NqX2tvcGpWVkpTczdWLW8xTGFwYWJUUkpoYzRISGJwZ1RsYUl4NzE?oc=5",
-      "source": "読売新聞",
-      "published": "2026-10-15T07:00:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "DX",
-        "人事"
-      ],
-      "summary": "住友商事、航空機リースやデジタル事業強化 上野社長「次の成長ステージに上がるため、さらに質を高める」 読売新聞",
       "source_count": 1
     }
   ]
