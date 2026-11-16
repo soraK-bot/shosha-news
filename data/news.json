@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T03:56:42.855612+00:00",
+  "updated_at": "2026-11-16T11:07:09.759268+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -92,6 +92,182 @@
     "就活"
   ],
   "articles": [
+    {
+      "id": "9c15cb4d8854842f",
+      "title": "かどや製油争奪戦、大株主の三井物産がJ－オイル案を支持－関係者",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb25PWVR1WGpMSzJmQjFiN1hWakhwME12cWNYRzRTelcwNFpESDY3Y1F3cUdNYXk3MGlWQ0RsZHFzWlB3ZkktbFVTVUpualdTRVd6R25MczZ5LUU2REZWV1JCV2JTV1Fsc1NDeDUxem5rQTFRaHJLT3hLU2VzUjg0RUU0R2FKa1dHRV8xVA?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-16T09:33:53+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "かどや製油争奪戦、大株主の三井物産がJ－オイル案を支持－関係者 Bloomberg.com",
+      "source_count": 1
+    },
+    {
+      "id": "0e115259b37c71bc",
+      "title": "屏東県、伊藤忠商事と覚書締結 農産物の輸出拡大を目指す／台湾",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Rdy00U3hhNzcxVFhzU1I5bXRjenVyc3RZNkM1aEpoa2lFRnRhMWdKQVBCZ2phUkFwNDVodGxFWnZVbEpCY3VNcm9tTHRGbUZEenFJaDJiNjRzTUVpVlJF?oc=5",
+      "source": "ライブドアニュース",
+      "published": "2026-11-16T09:11:05+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "屏東県、伊藤忠商事と覚書締結 農産物の輸出拡大を目指す／台湾 ライブドアニュース",
+      "source_count": 1
+    },
+    {
+      "id": "cff356cfee09410e",
+      "title": "SCSK、主要業務でのAI活用率72.8%　住友商事との知財共創も推進",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5keGFwbEtfZF9wV2gtay1BWlNYZ1ZFUDNDTnoyeFFOZVJnbFREMHl1UXRoTXphUHBqMm9wbE1uOGwzb2o2cGFuaHBXOTdrSE1Sc01VOE9vRDVZZmp4SC01RGQ0UWVKSEwtSENTaWZTWnRmWTVhLTVv0gF8QVVfeXFMUGRnN1pfbjhtdFF6UVBmTFUxTVcyNUNjYzhFTEV3SGNHdWl6cFdBVURkVzF2a1Y5ckxVQnE2Mk5Lb0lOeFZNWGR4V2RtRm5RZHFQYU9BZENBdFNxUUFDYXN3dmR2cndvUjZZcGwzUmZtaXlDc3JILTFqbk1JWA?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-11-16T08:17:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "SCSK、主要業務でのAI活用率72.8% 住友商事との知財共創も推進 ｄメニューニュース",
+      "source_count": 2
+    },
+    {
+      "id": "ff7f72a86c3799c2",
+      "title": "【シーホース三河 U15】「第16回豊田通商カップ 第8回愛知県 U15 バスケットボール選手権大会 2026」試合結果(vs.瀬戸ドリームス)について",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1yQUFveWVmU3dRX01VYU9TblNpSXJBOXpQb3JJWGFVR2UxQl9LX2VBS3RKV1kxY0ptekszVlZDaVctZ1NLOUt1MGUtZW9uNkhyR2JxQTFMN3luLU10WmV2aHRlZ1Npd1VyLVgwVHREelpTYU0?oc=5",
+      "source": "スポーツナビ",
+      "published": "2026-11-16T08:15:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "【シーホース三河 U15】「第16回豊田通商カップ 第8回愛知県 U15 バスケットボール選手権大会 2026」試合結果(vs.瀬戸ドリームス)について スポーツナビ",
+      "source_count": 1
+    },
+    {
+      "id": "ce1983a1be00ac81",
+      "title": "屏東県、伊藤忠商事と覚書締結 農産物の輸出拡大を目指す／台湾（中央社フォーカス台湾）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZTFlDZDNWZm9QcnhPdzhsUFY2YVV5Q09FMUx1Vk5ITjBwbUU3V0RlRlBSc253aVgxOTFpeG9VTjQweldSazZ1ajZQT01hX3Z5MTJSSlRtY0Uxdmd3anJUVkx2RVpwMXJqY19yTXU2bFpscm01b2VGcVVlRlZreDA?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-16T08:11:05+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "屏東県、伊藤忠商事と覚書締結 農産物の輸出拡大を目指す／台湾（中央社フォーカス台湾） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "1355de78a41405fa",
+      "title": "豊田通商が車載ソフト新会社 デンソーも出資、SDV見据え開発強化",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yYU9YRWN6eTlFaUlxcXpzcWVLTWZnclZ0YjNxVUEtTnlqTm54dTNLQ1JBRWNhX25CUTBfcGNmRFpMTVp0VVhsVXl4Z1BIYV93YmJJVjMyeE5iX3p2YUpZR2UyOXdHb2NEMXZFUQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-16T06:38:27+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "DX",
+        "投資",
+        "提携",
+        "新規事業",
+        "海外"
+      ],
+      "summary": "豊田通商が車載ソフト新会社 デンソーも出資、SDV見据え開発強化 日本経済新聞豊田通商とデンソー協業 車載ソフト強化で新会社：ニュース 中日BIZナビ豊田通商、車載ソフトで新会社（時事通信） Yahoo!ニュース豊田通商とデンソー、ソフト協業 福井新聞社豊田通商とデンソー、ソフト",
+      "source_count": 1
+    },
+    {
+      "id": "8841a32738ba3e64",
+      "title": "豊田通商とデンソー、ソフト協業",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zdW8tRVVjY1hzTlNQV0tGazRmRHM3TFpLWWRVd2lBMnBDSHA3dnE2QVZVME14aWlaV01RQUJrRjVtLXVLSGpkWVo3eUtQQm9xc2lTeThYSWloQnhOQkszM1piRnRHQ2pkaTNjdjcyeVRuWTJFVFE?oc=5",
+      "source": "OANDA証券",
+      "published": "2026-11-16T06:35:38+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "提携"
+      ],
+      "summary": "豊田通商とデンソー、ソフト協業 OANDA証券",
+      "source_count": 1
+    },
+    {
+      "id": "b846e4784f7c87c6",
+      "title": "豊田通商とデンソー、ソフト協業 新会社設立、開発力強化",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kZDd4c3Z6cmZnQjdLWk5MQWxlNmJ4LVdrVVU2bk9OaGZpbDdMS0NzQ0szWTdCUU1odm1kd2Y5UVRkZWJ2QjZkTUlzWnVaMW1SMkh2YzNJSFI2NlQw?oc=5",
+      "source": "琉球新報デジタル",
+      "published": "2026-11-16T06:35:37+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "DX",
+        "提携",
+        "新規事業"
+      ],
+      "summary": "豊田通商とデンソー、ソフト協業 新会社設立、開発力強化 琉球新報デジタル",
+      "source_count": 1
+    },
+    {
+      "id": "1c507040c7c36bc0",
+      "title": "豊田通商とデンソー、ソフト協業 新会社設立、開発力強化（共同通信）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXU0xKTTNMYnktTW5KTUVDUDFGaWY1bGRfMmVzVU83SC1va1BiQ0I2SlU4dGQwRzVvRktNaGtjUXNsWWxYQlNYZXd2Y2JMX0lLMFZBUTFDVGJCYUg0Qy1MbGs1WGpxWlJYTERWZklRemlBOFRpS0tkTWlxUmRCVzA?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-16T06:35:35+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "提携",
+        "新規事業"
+      ],
+      "summary": "豊田通商とデンソー、ソフト協業 新会社設立、開発力強化（共同通信） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "cf44073b2333a8a0",
+      "title": "#48 | B-Quik | Scope | 丸紅株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95Umh1cGYyMVlzUmVleDJLeUxid2VsVlhCLUE5aW02em9fNzdGZy1SVlpPX0lzM1JnZGJfQXRRVEVwamdpUm9MVEptMjVKZUVoSy16NTFoaVZTMXg0NTZmeWRUT1g?oc=5",
+      "source": "Marubeni Corporation",
+      "published": "2026-11-16T06:04:29+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "#48 | B-Quik | Scope | 丸紅株式会社 Marubeni Corporation",
+      "source_count": 1
+    },
+    {
+      "id": "46e911d3f0f0a5d7",
+      "title": "豊田通商、車載ソフトで新会社＝27年1月事業開始、デンソーも出資へ(時事通信)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaUE0eGdMWXJsNmFHNnVLMFVTakVnRU1WVEtuaWVtZVc0UGFEU1JpV1FJNVdzWjltUWtSaDJpOFU0SVR4bi1HanJKVFN5UEY2RWxNYkZCY25RWmdfcG5QYVRtSmJhcWZzemZXbWxNVXFHWWllRDJSdjZGQTctc0RVTDlJeGFVUDA?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-16T05:05:38+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "投資",
+        "新規事業"
+      ],
+      "summary": "豊田通商、車載ソフトで新会社＝27年1月事業開始、デンソーも出資へ(時事通信) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "ea6047952682df57",
+      "title": "三井物産AMHD／三重県「（仮称）四日市物流センター」で12月16～18日に竣工前内覧会",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzWDl4UDZocndGTVdUaDlydGhkczFEMF90eWhlS0VxSy1kTVlrTXpXc0h0ekN3ajRRYlpfMkozbFRrNDMweFRld0xvdXhuWG5uenVyRA?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "published": "2026-11-16T04:22:32+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "三井物産AMHD／三重県「（仮称）四日市物流センター」で12月16～18日に竣工前内覧会 物流ニュースのLNEWS",
+      "source_count": 1
+    },
     {
       "id": "f0c28b65db9a3ea7",
       "title": "住友商事CDOが語る、4800人を“デジタル人材”に変える仕組みとは",
@@ -4244,6 +4420,21 @@
         "決算"
       ],
       "summary": "丸紅 FY2026 Q2 決算説明会 BigGo ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "f11e339630b156f5",
+      "title": "伊藤忠商事(株)【8001】：配当情報",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nbTl2S05CcnJMUlR1ZWZNWGVBYTRvTUZWdnVDN2Jyd2VORFhBNGlJUkM4Yk5zazJCZ1VWVHVNWDhsbDFJaF9iNVZaV25YVV9aUGNDRmxmNlZjSWg3RlE?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-04T08:00:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "株主還元"
+      ],
+      "summary": "伊藤忠商事(株)【8001】：配当情報 Yahoo!ファイナンス",
       "source_count": 1
     },
     {
@@ -8747,203 +8938,6 @@
         "資源"
       ],
       "summary": "米国Copper World銅鉱山の開発意思決定について | ニュースリリース | ニュース | 三菱商事 Mitsubishi Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "4ac379d92484f900",
-      "title": "米国の半導体材料スタートアップ企業ChEmpowerへ出資",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Zd0R4bFF0Sjd3WElJQ3BHc0Z6YldHeE9lOWZDMjBGWTNOeVdwZjFFcDRWdGw1QjBodmx5b1dQTDd4QzRNaGpHVFVoR1RjdXBxazFfZGZQRXVJVThSb3Rfa0ItN1kyLVlZQVlGQk13?oc=5",
-      "source": "豊田通商株式会社",
-      "published": "2026-10-21T02:04:27+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "DX",
-        "投資",
-        "海外"
-      ],
-      "summary": "米国の半導体材料スタートアップ企業ChEmpowerへ出資 豊田通商株式会社",
-      "source_count": 1
-    },
-    {
-      "id": "53e0119d129e0845",
-      "title": "三井物産、ガス供給止めず老朽パイプライン改修 INPEXが国内初導入",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85Z3JvQ0gyTkItN09hZk81M2JHckN6ZkJuTTBsdjJyTTdHT2sxSHRHcHUxdDJMcWFnTm54VEFiVEtXOXNaNDdQZDFxUUN1eGhNTHpkanFHT1pyYXNna1NEUUxjUGZ6OU9DcEExMw?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-20T07:00:00+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [],
-      "summary": "三井物産、ガス供給止めず老朽パイプライン改修 INPEXが国内初導入 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "b2c6cf244270652f",
-      "title": "住友商事、広島に産業団地を建設 自動車や半導体関連の企業誘致へ",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyWEhidTM4RVA1d29iVENweEUzQzdPRUM0X0pIZThPSW56UC0tUkZwUWRaVUlSNmVXcmthZDJfcjVBaTI0a2V6MFZPZHJ5bVU0YlUyUUtOZGR0VXRqd0lUQXZ6M1NJYmdFV1FSZw?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-20T07:00:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "住友商事、広島に産業団地を建設 自動車や半導体関連の企業誘致へ 日本経済新聞"
-    },
-    {
-      "id": "19a768de5a7a878b",
-      "title": "広島空港近くの県有地 事業予定者に住友商事が決定 産業団地の造成を提案 2004年に計画中止で「塩漬け」 東広島市河内町の大仙地区（RCC中国放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LU0JDMlZFMFk5dG9fTjRGU1pZQklfbzhNbkd0NVFTeldkdklUQmZGVTZQaVBGOHUxR0gyZ3JaQktBTVR2V2dmQXA2Ujd2OHhNZWc3d1JLQ1pKZ2xQd3Vvb0JnWHNuRGM0cFR2VzZWeTdOQTNDYnJKaEFVNWIyck0?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-10-20T07:00:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "海外"
-      ],
-      "summary": "広島空港近くの県有地 事業予定者に住友商事が決定 産業団地の造成を提案 2004年に計画中止で「塩漬け」 東広島市河内町の大仙地区（RCC中国放送） Yahoo!ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "802581b1728f342f",
-      "title": "シン・ＴＯＫＹＯさぬき人＝石谷誠さん（６６）　伊藤忠丸紅鉄鋼代表取締役社長　善通寺市出身　持続可能な社会支える｜四国新聞WEB朝刊",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sS0NMOTc0TnBmTkkzZlRLMmI0M09uMDc4WE5oNnRUT0Q1allKaDVDbV9LVWp0YWwybzdKRFRUYmRFZm9NRlBwZElNOGlHZE04M1h3V1JvZFRaMlZIUjd4d04xQjNGNjBWLV9SSl9aNkxxRVJjOThB0gF8QVVfeXFMTmV2SUxlOFpwYlBmRllJQS05YXh0WDFlLWRXYWRBX01oVzJaLVI2eUxWTHVDRXU4WG1LZGR3SGlGUi1kUFN3RkthUGFTWGFFUUQzQ1ByR3VLM0F5eG9aWjFUXzBTZC1YVGNSTVQyUWZGbE80RnRtamg5YmVBbg?oc=5",
-      "source": "四国新聞",
-      "published": "2026-10-19T19:02:20+00:00",
-      "company_ids": [
-        "benichu",
-        "marubeni"
-      ],
-      "tags": [
-        "人事"
-      ],
-      "summary": "シン・ＴＯＫＹＯさぬき人＝石谷誠さん（６６） 伊藤忠丸紅鉄鋼代表取締役社長 善通寺市出身 持続可能な社会支える｜四国新聞WEB朝刊 四国新聞",
-      "source_count": 1
-    },
-    {
-      "id": "38a3519feab19dd5",
-      "title": "【無料公開】住友商事の建機ビジネスの鍵握る「アフリカ投資」、コマツなどの代理店業務で狙う一攫千金！中国メーカーとの勝負の行方は？",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1DNGd2WTNTblg1eTA2TXlXek1Ea21hZ3RZc1pnOUNCSlJGZlFjLUJuOEZRNVkzRjIwUXo1TjA1LTlSTDB1V0liUHNsaXnSAU9BVV95cUxNdTEzRjl5bHVCeDFGYjVHS2lXbEVfY1RHLW5HbFVJdVhsUm9ocHFGTU84R01LcFdSX1BXTmNTbjh3amQwQTFNbjNUUnhIUmcw?oc=5",
-      "source": "ダイヤモンド・オンライン",
-      "published": "2026-10-19T07:00:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "投資",
-        "海外"
-      ],
-      "summary": "【無料公開】住友商事の建機ビジネスの鍵握る「アフリカ投資」、コマツなどの代理店業務で狙う一攫千金！中国メーカーとの勝負の行方は？ ダイヤモンド・オンライン",
-      "source_count": 1
-    },
-    {
-      "id": "06a93fcf1f2c22bd",
-      "title": "三菱商事撤退後の洋上風力 欧米失速、中国独走の中でJERAは勝てるか",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mSUg4M1ltbUE2UG56cUdOZHdRblh0WFVNZWNzYVltNU9IWTYxS0RjMUlBQUVSTkVDWHNWem8tM1R6NFN6Z2VZRVFaT092YkRvTzZHOFNMOXNPdmpnYlBJNUJyQXUwTlE?oc=5",
-      "source": "日経ビジネス電子版",
-      "published": "2026-10-16T07:00:00+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "海外",
-        "脱炭素"
-      ],
-      "summary": "三菱商事撤退後の洋上風力 欧米失速、中国独走の中でJERAは勝てるか 日経ビジネス電子版",
-      "source_count": 1
-    },
-    {
-      "id": "4a1c558e0c334b1e",
-      "title": "三井物産が育てる「最強のタンパク質」 1000億円投資の勝算",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nODhDVG9PeF9VeFlCQWRoZzYyUF9uQjlpaTlVdmlPQVRqMjVMc1dqQl8xMW40ZXZCVnBwN2tmZHBPUjIyamxCX0JCR3FwX2d6cldTUXVQQTJERzlqaEdlVVFRMlBjeEhMOTBVMw?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-16T07:00:00+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "投資"
-      ],
-      "summary": "三井物産が育てる「最強のタンパク質」 1000億円投資の勝算 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "5ef138ad782fcefd",
-      "title": "三井物産、世界数千万社を15段階で格付け 地政学リスク反映",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkMGdHVHlJZnFURzNvMnNHa3RfZ2dLQlFDMlRFdmFuQUp5Q1BwOTVIWl9UTjJQZ3VCSUFCLTV4aXhOWEkzOTdKZUkxZjhoQmJ2MWEzR3BjVHlvaTJaeGNuMHBYMU1XYlA5VmdkMw?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-16T07:00:00+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [],
-      "summary": "三井物産、世界数千万社を15段階で格付け 地政学リスク反映 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "15c9748607430069",
-      "title": "【FISCO銘柄コメント】兼松---1889年創業の総合商社(フィスコ)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNkRzRndTY1dCTzJWdlEyMUxrWWV4dF9DdzdQOUhHMm03Q0JlYkFlY2IwM0FESzlsaF93Nlp6YzJXaUlRZ2gwVFZ4TzNfNzBfS2ZteHRPV2R2azhRU09hVTNDMU5TY0N5M01DZm9wRWhiZHJ2Tlk4NDNqR0VfZ2FkWUtfVDc3c1E?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-10-16T07:00:00+00:00",
-      "company_ids": [
-        "kanematsu"
-      ],
-      "tags": [],
-      "summary": "【FISCO銘柄コメント】兼松---1889年創業の総合商社(フィスコ) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "910f5db3a8f04ff6",
-      "title": "伊藤忠丸紅鉄鋼など3社 高強度ファスナー事業 インド市場開拓で提携（日刊産業新聞）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BdXNWNkZZQlBRblFmMFE5Rm1Kb2tXSHdDZXJsOEVORUZWNV8yZXhvX0VoTF9ZNXNYLTZOR3JIWjdjT1pZaWtfTlVNRjY5Ynd0RFRyVU45UXR0V2xhVFFFUWpGd3p6b3VRYmVnbDQ3YVJ6TGJzMGdoRDN4SGhINTA?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-10-16T07:00:00+00:00",
-      "company_ids": [
-        "benichu",
-        "marubeni"
-      ],
-      "tags": [
-        "提携",
-        "海外"
-      ],
-      "summary": "伊藤忠丸紅鉄鋼など3社 高強度ファスナー事業 インド市場開拓で提携（日刊産業新聞） Yahoo!ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "7f1a2240a8d44b51",
-      "title": "伊藤忠丸紅鉄鋼／印カパロ、アンスコと戦略提携／印で高強度ファスナー生産",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Gc1dkZlk4N0VkNkFiam43T2l3SEVldVdlZjZYTUt1Tlh0dFd2ZHh2NThYV05WMFdScXdhSkx6eGVvUl9xR0tQS056OVlsdEVVNHpReEQ0WGlCNnRmc3c?oc=5",
-      "source": "日刊鉄鋼新聞 Japan Metal Daily",
-      "published": "2026-10-16T07:00:00+00:00",
-      "company_ids": [
-        "benichu",
-        "marubeni"
-      ],
-      "tags": [
-        "DX",
-        "提携"
-      ],
-      "summary": "伊藤忠丸紅鉄鋼／印カパロ、アンスコと戦略提携／印で高強度ファスナー生産 日刊鉄鋼新聞 Japan Metal Daily",
-      "source_count": 1
-    },
-    {
-      "id": "380fc483b515f2b3",
-      "title": "インタビュー／長瀬産業社長・上島宏之氏 時価総額1兆円目指す",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WazFtSkoyMVJqYVAxckp6ZUp4bjVOSlN5TDJsdzUyZFcwdmdfQmVpb1FQSXZEeFB1Ul9FU1B0SXBTZTlWaldSX09zYnBJaGdFamNwWVltMl8?oc=5",
-      "source": "日刊工業新聞",
-      "published": "2026-10-16T07:00:00+00:00",
-      "company_ids": [
-        "nagase"
-      ],
-      "tags": [
-        "人事"
-      ],
-      "summary": "インタビュー／長瀬産業社長・上島宏之氏 時価総額1兆円目指す 日刊工業新聞",
       "source_count": 1
     }
   ]
