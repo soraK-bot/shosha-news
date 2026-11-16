@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T11:07:09.759268+00:00",
+  "updated_at": "2026-11-16T22:38:32.196127+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -93,6 +93,37 @@
   ],
   "articles": [
     {
+      "id": "44eed78b00bb04a3",
+      "title": "商社悩ます税制、書類の山は22メートル 岡藤会長が見直し要望で秘策",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42WkpxODRtQ3F2S0Flb0Y1Z19uVUpPOFJfb2NuY2RDcXc4aW9MYU1tYW1KcUw2SnNXSTRTT1o0NDViWWtaeERqSmZLUlpHM25XN1pDNnNvWWxxQk82Rk5QemxEUl9OY21HUTFuZQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-16T20:00:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "人事"
+      ],
+      "summary": "商社悩ます税制、書類の山は22メートル 岡藤会長が見直し要望で秘策 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "033345c39fb8fce0",
+      "title": "インタビュー／丸紅執行役員金属部門長・田口誠二氏 金属資源勝ち筋磨く",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wM0hzRGYwNVlnc1pYd2Q5UTFSZHVyZGZUSnpwcE1sMkpQRENPaGU1SjVZNzBfS0t2dU5FMkhrSURCTHdFOFFoX0xMSUVDWGVCY1dWT09vRG4?oc=5",
+      "source": "日刊工業新聞",
+      "published": "2026-11-16T20:00:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "人事",
+        "資源"
+      ],
+      "summary": "インタビュー／丸紅執行役員金属部門長・田口誠二氏 金属資源勝ち筋磨く 日刊工業新聞",
+      "source_count": 1
+    },
+    {
       "id": "9c15cb4d8854842f",
       "title": "かどや製油争奪戦、大株主の三井物産がJ－オイル案を支持－関係者",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb25PWVR1WGpMSzJmQjFiN1hWakhwME12cWNYRzRTelcwNFpESDY3Y1F3cUdNYXk3MGlWQ0RsZHFzWlB3ZkktbFVTVUpualdTRVd6R25MczZ5LUU2REZWV1JCV2JTV1Fsc1NDeDUxem5rQTFRaHJLT3hLU2VzUjg0RUU0R2FKa1dHRV8xVA?oc=5",
@@ -103,6 +134,19 @@
       ],
       "tags": [],
       "summary": "かどや製油争奪戦、大株主の三井物産がJ－オイル案を支持－関係者 Bloomberg.com",
+      "source_count": 1
+    },
+    {
+      "id": "70c9fa9baa8cf8f6",
+      "title": "かどや製油争奪戦、大株主の三井物産がJ－オイル案支持－関係者",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ua1MwbGlPdlJYbV85QUpnaENfRW5HM2tUczJfbHBEX2FwNVpmZlZTWHVqWnBvYXY4NHcwUm1WMFlsR2E1elhZZWwzZjlybnQtbklSWG5HQ1J6blVsa3RpN1JDMjlmelA3d3Nlc0NhcEJiNng5TjlV?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-16T09:33:53+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "かどや製油争奪戦、大株主の三井物産がJ－オイル案支持－関係者 Bloomberg.com",
       "source_count": 1
     },
     {
@@ -220,8 +264,11 @@
         "toyotatsusho"
       ],
       "tags": [
+        "DX",
+        "投資",
         "提携",
-        "新規事業"
+        "新規事業",
+        "海外"
       ],
       "summary": "豊田通商とデンソー、ソフト協業 新会社設立、開発力強化（共同通信） Yahoo!ニュース",
       "source_count": 1
@@ -309,7 +356,7 @@
         "提携"
       ],
       "summary": "豊田通商とデンソー、車載ソフトウェア事業の強化に向け協業 Infoseek",
-      "source_count": 1
+      "source_count": 2
     },
     {
       "id": "c32a88755a8d3fa4",
@@ -8896,48 +8943,6 @@
         "資源"
       ],
       "summary": "三菱商事、米銅鉱山の開発決定 総額1526億円で 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "5095400afc6aa198",
-      "title": "沖縄ツーリスト、個人情報漏洩の可能性 6月から丸紅傘下",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2QzNlZmI5UUs1OHF4TVN6NG9sdkVFbVY0MlRyV3ZnQzNRdzBxUVUwcXNIbHc5N09wSlVfVHFkSFJ1QThUa0ZjZ0NvbVBtTUtabDcyRUxkU29YeG9UaFBWb3dBZndWU2FBakJjNg?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-21T07:00:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [],
-      "summary": "沖縄ツーリスト、個人情報漏洩の可能性 6月から丸紅傘下 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "2262ed5c5ce82732",
-      "title": "長瀬産業[8012]：統合報告書 2026 2026年10月21日(適時開示) ：日経会社情報DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pZm9OSXJwdURGT3BkampRaG5xcnlSOFZMQ1VnMGJVQ0pEbVlHSjNSNENHVXh1V05nVjlyWlMzX0lYemhxbmhHai1EWnMzT1YwbmRQWktIWDVweEpMdFVxeXV0b0Q3eXY2cXc?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-21T07:00:00+00:00",
-      "company_ids": [
-        "nagase"
-      ],
-      "tags": [],
-      "summary": "長瀬産業[8012]：統合報告書 2026 2026年10月21日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "102526aea480511d",
-      "title": "米国Copper World銅鉱山の開発意思決定について | ニュースリリース | ニュース | 三菱商事",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RLVJUaEpjTDlKcmRhaGNUVHI0Sk1jOTFHSUJZQjdpelVsdHFLM1FURnpSMWtWZkZZcTh0S2JhdTVSUHN1b2VxbjFmcWF1OENYTzA4Q0pCQkt6bzhEWTF5RktTZkJUX2RIR293LU15V2VlWWJpb1BuYUpRWQ?oc=5",
-      "source": "Mitsubishi Corporation",
-      "published": "2026-10-21T06:34:59+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "海外",
-        "資源"
-      ],
-      "summary": "米国Copper World銅鉱山の開発意思決定について | ニュースリリース | ニュース | 三菱商事 Mitsubishi Corporation",
       "source_count": 1
     }
   ]
