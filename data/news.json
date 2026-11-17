@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T10:50:05.080409+00:00",
+  "updated_at": "2026-11-17T22:44:24.800584+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -92,6 +92,52 @@
     "就活"
   ],
   "articles": [
+    {
+      "id": "120fe6703e3b8cf2",
+      "title": "カルーザＣＯＯ兼ＣＣＯに聞く／小売り向け基幹業務基盤で三菱商事と協働 –",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oV3hfOTBhaHEtU19jQWdnSTZlUWU0bllxTk1pS3BweW9uTGRZWmY1Ti1ZY01ONUYwMll0b3BRUGhlMGxVRlptMXIzaEJlR3BjcGg2Y0RmRQ?oc=5",
+      "source": "電気新聞ウェブサイト",
+      "published": "2026-11-17T21:02:02+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "カルーザＣＯＯ兼ＣＣＯに聞く／小売り向け基幹業務基盤で三菱商事と協働 – 電気新聞ウェブサイト",
+      "source_count": 1
+    },
+    {
+      "id": "9b8a0002a0f8845b",
+      "title": "メタルワンのインド厚板加工事業／「ＩＭＯＰ」の第２工場完成",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zelJBbm9valhWMnowdHpORHFIM3FuUWVOVkM0NjdEeWM5ZDZCaVlTZjhua1E0UnBkckpXcWNqY2pLMWljT0ZjTkk5aFR2WjJTRkppUWloRHdGbWotS2c?oc=5",
+      "source": "日刊鉄鋼新聞 Japan Metal Daily",
+      "published": "2026-11-17T20:00:00+00:00",
+      "company_ids": [
+        "metalone"
+      ],
+      "tags": [
+        "DX",
+        "海外"
+      ],
+      "summary": "メタルワンのインド厚板加工事業／「ＩＭＯＰ」の第２工場完成 日刊鉄鋼新聞 Japan Metal Daily",
+      "source_count": 1
+    },
+    {
+      "id": "71083542db562497",
+      "title": "豊通とデンソー、ソフト協業で新会社設立",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBZZkU0eUgzSjBEODhJdjlfN0FhZG1lOXY4Y2Z0UXhKYUNNQW01X2JmYWdYTGw0Yk1UWWVlSUM3dFRUenZMZGc?oc=5",
+      "source": "NNAアジア",
+      "published": "2026-11-17T15:00:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "提携",
+        "新規事業",
+        "海外"
+      ],
+      "summary": "豊通とデンソー、ソフト協業で新会社設立 NNAアジア",
+      "source_count": 1
+    },
     {
       "id": "18c936aa4a5f2ae4",
       "title": "2028年卒・就職人気企業ランキングの20年推移を公開！伊藤忠商事が22年連続トップ10入り",
@@ -312,6 +358,25 @@
         "資源"
       ],
       "summary": "インタビュー／丸紅執行役員金属部門長・田口誠二氏 金属資源勝ち筋磨く 日刊工業新聞",
+      "source_count": 1
+    },
+    {
+      "id": "0e24c997ad02524c",
+      "title": "商社と部品大手が車載ソフトでタッグ 豊田通商が分社化、デンソーが新会社に20％出資（ビジネス＋IT）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tLXZfOERQcUtPRWVPdVZZMzYwYWtGRkxfdEd4eWphaTZBTGNtMXN1cnB6NEFHZWhBVG1EZnF0Q2ZueGxxOWR3NE50eHhaRXVHTW9SXzgzUXBIMEY1eS1udmhTVFlOYlBfSEp4T25VQXg4Vnd4ZXloMWsxbDhHclU?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-16T18:05:06+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "DX",
+        "投資",
+        "提携",
+        "新規事業",
+        "海外"
+      ],
+      "summary": "商社と部品大手が車載ソフトでタッグ 豊田通商が分社化、デンソーが新会社に20％出資（ビジネス＋IT） Yahoo!ニュース豊田通商が車載ソフト新会社 デンソーも出資、SDV見据え開発強化 日本経済新聞豊田通商とデンソー、ソフト協業 下野新聞社豊田通商とデンソー、ソフト協業 新会社",
       "source_count": 1
     },
     {
@@ -8891,63 +8956,6 @@
       ],
       "tags": [],
       "summary": "三井物産、米ペンスキー・オートモーティブを非公開化へ…持分比率を約20.3%から約36%に引き上げ レスポンス（Response.jp）",
-      "source_count": 1
-    },
-    {
-      "id": "3e6eb9b3bd64f595",
-      "title": "丸紅が韓国「ロムアンド」運営会社の株式最大28％を取得へ タイに続く投資でアジアの美容事業を拡大",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UOWZubmI1QV9RZlozTEdLd2twVkd3eVBvRlVDYVNmYS1JUnlwLUxpZjRHb0FUcDhRZlNKcXFGV0Y2ZDAxdzF1T1JvTXpwcDh5MUVn?oc=5",
-      "source": "WWDJAPAN",
-      "published": "2026-10-26T07:00:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "投資",
-        "海外"
-      ],
-      "summary": "丸紅が韓国「ロムアンド」運営会社の株式最大28％を取得へ タイに続く投資でアジアの美容事業を拡大 WWDJAPAN",
-      "source_count": 1
-    },
-    {
-      "id": "3a6378eb45a3538e",
-      "title": "三菱商事ロジ／営業状況可視化へAIソリューション導入、脱「属人化」目指す",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TdHNUZ1FfWktRVU9qSzR3bXc4TUFSYk9ZeU52R0M4RGN0cHlzNWgtcDdUY2dTREZvcXdOTzlZdVFuOVF3Vk9IMFhfUjNSbEZOdjBCSQ?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "published": "2026-10-26T05:38:07+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "三菱商事ロジ／営業状況可視化へAIソリューション導入、脱「属人化」目指す 物流ニュースのLNEWS",
-      "source_count": 1
-    },
-    {
-      "id": "7294e130b70842ce",
-      "title": "長瀬産業東京本社新社屋完成／設計と施工は竹中工務店",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE53d0JkU3pvaFZ6TDBwNlk4ekdmbnBfWDEwY29HeFd5Vll5am5KbnpsS0M4eGNZUjNsaEZubE83dVB5Tm9fRWhN?oc=5",
-      "source": "日刊建設工業新聞",
-      "published": "2026-10-26T04:02:56+00:00",
-      "company_ids": [
-        "nagase"
-      ],
-      "tags": [],
-      "summary": "長瀬産業東京本社新社屋完成／設計と施工は竹中工務店 日刊建設工業新聞",
-      "source_count": 1
-    },
-    {
-      "id": "378af43105f5919b",
-      "title": "三菱商事---上値抵抗の200日線を上抜ける 執筆 - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wTVZBcEd2SEI1MmN0dW5zN0lfeGxTeWdUa2N1YzZqWFIyVm1XaURzb3VKQWkzVTc2RlliTjJFcnVRZ2VHODBqd3pWbzRzTzhxbDdma1Z6bHJqTE41bUx2eUlOdkV0SEkxa0I2UGk4dTc?oc=5",
-      "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
-      "published": "2026-10-26T03:30:00+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [],
-      "summary": "三菱商事---上値抵抗の200日線を上抜ける 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
       "source_count": 1
     }
   ]
