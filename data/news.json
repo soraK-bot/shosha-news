@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T22:38:32.196127+00:00",
+  "updated_at": "2026-11-17T03:45:39.948301+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -93,6 +93,51 @@
   ],
   "articles": [
     {
+      "id": "1623cf456d4feeb3",
+      "title": "三井物産セキュアディレクション株式会社、AI活用に伴うセキュリティの悩みを専門家に相談できる「Secure Counsel for AI」の提供を開始",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zTXRxTDQzQmdzSVo2VmxROUdrbzRja05lektNUzhpRERtT3VIckoxcFN2ZHFSZml0SDVRTlltNHBGNVJHNU5GMDRHUzlVbHRvNzBRWHdBSlhvMW1VRF90R2YzWVVQOU12ZHc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-17T01:00:02+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "三井物産セキュアディレクション株式会社、AI活用に伴うセキュリティの悩みを専門家に相談できる「Secure Counsel for AI」の提供を開始 PR TIMES",
+      "source_count": 1
+    },
+    {
+      "id": "20d15eb3696bbd8a",
+      "title": "「化学工業日報」掲載（11/11）教養部大町先生と長瀬産業㈱の共同研究に関する記事が掲載されました｜ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iYW92cWpCZ0RVajUxOHlRblYtWjc4ZzFXX1V4SHRGWXZvS0pCT0VScTJFaEZueHZhRjZrVnlBWVhTWFc5Q0hyZ21zNi1pUmwzbjdZLURoVVRuT0FOT0lZ?oc=5",
+      "source": "愛知学院大学",
+      "published": "2026-11-17T00:09:02+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [
+        "提携"
+      ],
+      "summary": "「化学工業日報」掲載（11/11）教養部大町先生と長瀬産業㈱の共同研究に関する記事が掲載されました｜ニュース 愛知学院大学",
+      "source_count": 1
+    },
+    {
+      "id": "08d492316104f875",
+      "title": "ＩＨＩ・伊藤忠商事などが参画、海洋無人機の社会実装計画が内閣府事業に採択",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aWGEtNndwU0dWN1FSYy1xUVhCWnp1NWk3MG9iSnZ5NEllSG9NT0pndnpYUG9aeUxuVndpYXl4VDh4SzlJWC11S2I3WFB0MDM5R0dHSg?oc=5",
+      "source": "https://kabu-ir.com/",
+      "published": "2026-11-16T23:47:29+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "ＩＨＩ・伊藤忠商事などが参画、海洋無人機の社会実装計画が内閣府事業に採択 https://kabu-ir.com/",
+      "source_count": 1
+    },
+    {
       "id": "44eed78b00bb04a3",
       "title": "商社悩ます税制、書類の山は22メートル 岡藤会長が見直し要望で秘策",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42WkpxODRtQ3F2S0Flb0Y1Z19uVUpPOFJfb2NuY2RDcXc4aW9MYU1tYW1KcUw2SnNXSTRTT1o0NDViWWtaeERqSmZLUlpHM25XN1pDNnNvWWxxQk82Rk5QemxEUl9OY21HUTFuZQ?oc=5",
@@ -121,6 +166,22 @@
         "資源"
       ],
       "summary": "インタビュー／丸紅執行役員金属部門長・田口誠二氏 金属資源勝ち筋磨く 日刊工業新聞",
+      "source_count": 1
+    },
+    {
+      "id": "7ad59b57956bdc1e",
+      "title": "商社と部品大手が車載ソフトでタッグ 豊田通商が分社化、デンソーが新会社に20％出資 ｜Seizo Trend",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtRDVWYzdPeThXVTEyZWloRTU3M3NrMURVaU5BajZXX1AyYmZ3Y2lWUVZENkhhWEVQel82NTRYOVpuZVA1MWY0Rml4Mi15N3c?oc=5",
+      "source": "ビジネス+IT",
+      "published": "2026-11-16T17:55:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "投資",
+        "新規事業"
+      ],
+      "summary": "商社と部品大手が車載ソフトでタッグ 豊田通商が分社化、デンソーが新会社に20％出資 ｜Seizo Trend ビジネス+IT",
       "source_count": 1
     },
     {
@@ -960,6 +1021,22 @@
       "source_count": 1
     },
     {
+      "id": "7e5909d7c9551f51",
+      "title": "[写真]三菱商事、三井物産、創業家が前代未聞の争い…「純正ごま油」かどや製油で起きている買収合戦《TOB価格の行く末は？》",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84R2piS3R4RTJiQW9qZEtyckpOa3RsdHZjTktuc1lERVdDcWhfYTIxMWU0ZDZ2allWSVBGYmdlN0RBU25VamFvWUJwUXdyV1RD?oc=5",
+      "source": "文春オンライン",
+      "published": "2026-11-12T11:38:12+00:00",
+      "company_ids": [
+        "mitsubishi",
+        "mitsui"
+      ],
+      "tags": [
+        "M&A"
+      ],
+      "summary": "[写真]三菱商事、三井物産、創業家が前代未聞の争い…「純正ごま油」かどや製油で起きている買収合戦《TOB価格の行く末は？》 文春オンライン",
+      "source_count": 1
+    },
+    {
       "id": "9467b26e2356d11e",
       "title": "【貢献実感・自己決定感・新規性・スピード】この4要素がモチベを上げる／累計3万人データ分析／出世する人ほど“不安症”／データと対話で組織変革／やる気は仕組み化できる／元伊藤忠・人事担当／【1on1】",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WV1k2OHotWVMyaXpzRGZ5VDN0bW5wXzVqZ0M3QjBybTB2QkRtX0ItaEZTVTY3c1UtQWFkQUFuLVB3MS1FQVRtdDAtRXNxMkVLR2p3TEt5ZXp6NUVJMG5VaFFzUUVlNUpkTlZaMEt3c3ZMdkU5?oc=5",
@@ -1095,6 +1172,21 @@
       ],
       "tags": [],
       "summary": "丸紅アークログ、東北大学工学部でのBIM講義を継続実施 ニコニコニュース",
+      "source_count": 1
+    },
+    {
+      "id": "148275016ff47049",
+      "title": "かどや製油TOB、インテグラルが2655円に増額 創業家・商社・ファンド入り乱れる異例の攻防",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1cjU1OXhoT0J3bEJnaWdVN05nU0pUaldMZWlQdmNpM2l2WFk5d3QwQ0xacWhJUlZVcnhIQVJFRVRyN05sOHhsSkg0OEpyYm9xalJIZHIyWmJkV2FzeGtsdDBrOTZSMDlFaGJ5UmlyYjJpS2RS?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-11-12T00:55:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "M&A"
+      ],
+      "summary": "かどや製油TOB、インテグラルが2655円に増額 創業家・商社・ファンド入り乱れる異例の攻防 BigGo ファイナンス",
       "source_count": 1
     },
     {
@@ -1358,6 +1450,21 @@
       "tags": [],
       "summary": "伊藤忠商事株式会社が株式会社アドウェイズ＜2489＞株式の変更報告書を提出（保有増加） ｄメニューニュース",
       "source_count": 2
+    },
+    {
+      "id": "a866f04a50cbaec8",
+      "title": "「世界で急拡大するLFP電池市場とリサイクル競争」と題して、（株）三井物産戦略研究所 技術・イノベーション情報部 趙 健氏によるセミナーを2026年12月15日(火)に開催!! | 株式会社 新社会システム総合研究所のプレスリリース",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1talh6enh6ajl2aVlkTkQzbXVuSVFEVXFodzYyU3h3VC1hSm5ad3FhWWk5bXRxS2xHTnR3VU82QXNGQTVRUC1waGF1MzRFYnN2TTlubGp1R1d1VVNoYmMtN3NYZGpuLVdxZFE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-11T06:00:02+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "「世界で急拡大するLFP電池市場とリサイクル競争」と題して、（株）三井物産戦略研究所 技術・イノベーション情報部 趙 健氏によるセミナーを2026年12月15日(火)に開催!! | 株式会社 新社会システム総合研究所のプレスリリース PR TIMES",
+      "source_count": 1
     },
     {
       "id": "d9a8a3181b57931b",
@@ -8845,104 +8952,6 @@
         "投資"
       ],
       "summary": "韓国大手ビューティー・パーソナルケア企業iFamilySC Co., Ltd.の株式取得について Marubeni Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "90c27bc9721f8cf1",
-      "title": "商社がつくる新商流 三菱商事とソニーのバイオプラ供給網が国際賞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2ME1RdzlQV2pkd0FNTkNySGt1SXFnMkkzYzRWb3RFcDJCQmNxbU9DcXpwU1o0T1NwZ2dpdXo4UXFfZWpNdHV3SE12bFpRWVdEdDR1blV1OGlGREx1QUJfT0pidDVfQ0tLRU5QSA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-22T07:00:00+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [],
-      "summary": "商社がつくる新商流 三菱商事とソニーのバイオプラ供給網が国際賞 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "b7c9e5f314fc461d",
-      "title": "九州大学箱崎キャンパス跡地地区事業のプロジェクト名を「HAKOZAKI BLOCK」に決定 | 住友商事",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OTV9wT3FKR2R4emRWdlNhLTBzZ19UN2txTXVSdmZoeHdiLU1VSXNRcExfaVZaSEh5RW1JNU90b3BZc0xKMXk1ZHJnTTNiRFY5RllkRHI3ZXo3dGV4NTFqXzdoby1SeGo4ZFIwSXRIeEdGRzlw?oc=5",
-      "source": "Sumitomo Corporation",
-      "published": "2026-10-22T07:00:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [],
-      "summary": "九州大学箱崎キャンパス跡地地区事業のプロジェクト名を「HAKOZAKI BLOCK」に決定 | 住友商事 Sumitomo Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "581cc815b4b6db81",
-      "title": "なぜ豊田通商だけが「アフリカで大成功した日本企業」になれたのか、今井斗志光社長が明かす全貌",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40Y25Rd3ZwVEFDWGhod3MtVWROLWlkUWpRUXVySGpMTlZlOVFXZDBVSW5WbUlZNG5nTHUtQU10bEZJb283Qi0xMjFSR3AyVVZ3Uzk5bWd3?oc=5",
-      "source": "JBpress",
-      "published": "2026-10-22T07:00:00+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "人事",
-        "海外"
-      ],
-      "summary": "なぜ豊田通商だけが「アフリカで大成功した日本企業」になれたのか、今井斗志光社長が明かす全貌 JBpress",
-      "source_count": 1
-    },
-    {
-      "id": "bea6de916959dc34",
-      "title": "丸紅（8002）の株は買いか？今後の株価を業績や事業内容から分析",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90Q0NvRGhmaGp5T2FobjU4T0IxbjBJWFNfOEM5T2MtZHhsTXNsZWp4WmpmcE1PVXhuYUQ4YWY1T2Jlczk3RE11ZXk0N29TYzZqdmV0WE1CSQ?oc=5",
-      "source": "かぶリッジ",
-      "published": "2026-10-22T07:00:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [],
-      "summary": "丸紅（8002）の株は買いか？今後の株価を業績や事業内容から分析 かぶリッジ",
-      "source_count": 1
-    },
-    {
-      "id": "a2e8c5f549ab945e",
-      "title": "豊田通商、アフリカでヘルスケア事業を3倍に 車に次ぐ柱へ",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXdVBjSkd5ekU1emJXQ0N4YkxYUU1OQldXRlI0UEQ5TkVCUFJhdEdaOWFjMXpLWDBjZDZORUo4dVU4RkI4UVlINnBzbjMxNkhyNEdnSVl0a0t2OE54NnlxcHFTbEt6d2JuQVZKdA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-22T07:00:00+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "海外"
-      ],
-      "summary": "豊田通商、アフリカでヘルスケア事業を3倍に 車に次ぐ柱へ 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "1f3d72a766afdb50",
-      "title": "専門商社（製造系）業界の企業ランキング｜業界研究",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52WmVxNXVYU0xHX19XRUthUUZtZE50bGk2Q1ZYN3loNGdUSlR2cUlNeWFyQW5xbUNJWVNFUlJnX3JjV0xMSktGU2IzLUhiQWZmWF9CbW9MNkhWanUwWkVseFdQZTlBYmZMNWFn?oc=5",
-      "source": "四季報オンライン",
-      "published": "2026-10-21T07:31:32+00:00",
-      "company_ids": [
-        "benichu"
-      ],
-      "tags": [],
-      "summary": "専門商社（製造系）業界の企業ランキング｜業界研究 四季報オンライン",
-      "source_count": 1
-    },
-    {
-      "id": "fce533359dfbc6b4",
-      "title": "三菱商事、米銅鉱山の開発決定 総額1526億円で",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PdjhKeWR0RVktRG1sWHFMY2RHX0FnZFZCd1V3ZXp0SU92bTUtNTl1eVJXM3hqN0FDVXdQOEE5eGJ4aEtXeHZ2WDJNOEhwTU5fYjVzRHBrSmtPazZnOVhnYklqTmFHQjBMcnMyaw?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-21T07:00:00+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "資源"
-      ],
-      "summary": "三菱商事、米銅鉱山の開発決定 総額1526億円で 日本経済新聞",
       "source_count": 1
     }
   ]
