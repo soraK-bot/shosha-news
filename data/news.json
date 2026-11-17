@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T03:45:39.948301+00:00",
+  "updated_at": "2026-11-17T10:50:05.080409+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -92,6 +92,152 @@
     "就活"
   ],
   "articles": [
+    {
+      "id": "18c936aa4a5f2ae4",
+      "title": "2028年卒・就職人気企業ランキングの20年推移を公開！伊藤忠商事が22年連続トップ10入り",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByM3MxcUM1NF9JRDlRc3pHM3lNS3V2MU9SbUJUdkJsZWV6MFp3TGt2V0hBcUdtVlhma01LN2lPcS1vdXgxS2xFRHF6eEFvM2c?oc=5",
+      "source": "DXマガジン",
+      "published": "2026-11-17T10:47:07+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "2028年卒・就職人気企業ランキングの20年推移を公開！伊藤忠商事が22年連続トップ10入り DXマガジン",
+      "source_count": 1
+    },
+    {
+      "id": "41f11d494f850771",
+      "title": "住友商事、タイの二輪向け金融子会社売却 三菱UFJ銀傘下の同業に",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzUWFtR1pBakM3QVNQTUhJVy1zNkRKWndWX2JnS0tKUVpVd3d6a09CLUZETTlENGtvWGxsS25TdTRJa0lubW1zNmZzVTV6dXQ2aFJOdXctSkd4cUtQTEtWUERlNFpLd3hnZ3Mzcw?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-17T10:26:36+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "M&A"
+      ],
+      "summary": "住友商事、タイの二輪向け金融子会社売却 三菱UFJ銀傘下の同業に 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "49fda557e80f679a",
+      "title": "豊田通商、集合知AIを開発「VIVANTのAIハヤトの機能を想定」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5saU9FbkFaTnhUbEd1TENWb21YODlxbXllRXZmMVJzTzAwMG4waWg4SWxwMjUtNEZjUHFJOXI1Q3hxUkFYMkxLbnc3cUY1bkd6aFZmUk8tcXBEWnp6OFdOLUFHSmZtOFZvZXlDUQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-17T08:56:16+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "豊田通商、集合知AIを開発「VIVANTのAIハヤトの機能を想定」 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "45e43bf4924a5644",
+      "title": "金・銀・プラチナの次は何か 三井物産が見る実物資産トークン化の条件",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1WdHphQzBDMU5uaEJWUFMzanN2WEpSTlM3MWZzWlNfT3dsamc4Ti10RlBpNmJ3OTdLWVlWR1hwNFNQQWc?oc=5",
+      "source": "CoinPost",
+      "published": "2026-11-17T08:00:26+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "金・銀・プラチナの次は何か 三井物産が見る実物資産トークン化の条件 CoinPost",
+      "source_count": 1
+    },
+    {
+      "id": "1ee769da2bcc9992",
+      "title": "三井物産セキュアディレクションが提供開始したAI活用に特化したセキュリティ相談サービスの魅力",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BODRNNG9RV2VVVTFfNllxZEZZejJXNnRacWx5dk5YQ1pJR3N6NGk5R05ZU1otNkR2dW9PX0hVcjkwQ2lGbUdYV3hiRy1EbUlGeFc3U3BPcGgwb2dOeXhMOS1GUTN2N1BRa0hSUlpUNA?oc=5",
+      "source": "ニュースメディアVOIX",
+      "published": "2026-11-17T07:07:35+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "三井物産セキュアディレクションが提供開始したAI活用に特化したセキュリティ相談サービスの魅力 ニュースメディアVOIX",
+      "source_count": 1
+    },
+    {
+      "id": "013ebabf1efbdff7",
+      "title": "住友商事、タイの二輪金融子会社を売却",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE92NmRpamdTLXpQaFVoX3ppTUpnTTNOalczbzNfZzJQY21fZ1FBOVlJQUx0MXZ3QWhCeGlYRGJjS2FvcU00UEE?oc=5",
+      "source": "NNAアジア",
+      "published": "2026-11-17T06:20:19+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "M&A",
+        "海外"
+      ],
+      "summary": "住友商事、タイの二輪金融子会社を売却 NNAアジア",
+      "source_count": 1
+    },
+    {
+      "id": "4267a18f14fffc0c",
+      "title": "慶大野球部、卒業生の進路発表　住友商事、日本航空、日本テレビなど",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aSzBIUXh2TWc4dGFfY0M5OUJWV3pNUkpRNmhGYlJVdGo0aHFSNHR2OWloaENtWTk4SGs3ZXZLbHl5YVp5NXotUE1nOVYtdVhtZEtITWxvM3Azdkx0Vi1XNXdMS25Ec0VobEtXOHcyVW5zOTZBLVHSAYoBQVVfeXFMUDhCNkVDRE55bWFiUTB6MUFJSFNUV1FaTm5tQWpKU1RkaHV2MFNEZFJza3NQRmNMMFBZLXROVHhpbkFnZ0gtRlZwQ3ZNQUVNVFRwWS01bmJwR0F2MkhpNzBOWnlsVGdPXzZRV0FNbk5RN2xJOUVKLW5RSlYzNFFJa0lNX0U0UDBBckxn?oc=5",
+      "source": "サンスポ",
+      "published": "2026-11-17T06:02:46+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "慶大野球部、卒業生の進路発表 住友商事、日本航空、日本テレビなど サンスポ",
+      "source_count": 1
+    },
+    {
+      "id": "b967e2022b850ff5",
+      "title": "クルマはスマホになるのか？ SDV時代に自動車整備工場が直面する「情報格差」",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9xU21FV290MUxEeDJuVlMzR1llTDd0dk10T1dfOExXM0lDMFRXNkVnZUlzRGdsdEloLWkyUXU4NGRhV0dzeG44?oc=5",
+      "source": "MSRweb",
+      "published": "2026-11-17T04:24:36+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "クルマはスマホになるのか？ SDV時代に自動車整備工場が直面する「情報格差」 MSRweb",
+      "source_count": 1
+    },
+    {
+      "id": "af5d3f5144c8ee95",
+      "title": "三菱商事都市開発が参画するウルトラマルチバース実行委員会 学校法人 岩崎学園と産学連携プロジェクトを実施 学生が制作したPR動画の一部をイベント公式SNSで紹介",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXUzR5RkJIVVZCYTJUMmRub19XVDRrTU9YUGRxZi1WZXdoakJOcF9Va0p3bTVJVGpsZ1NzTzB3SnducVFTRkNJei1QYWxhdw?oc=5",
+      "source": "アットプレス",
+      "published": "2026-11-17T04:00:00+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "投資",
+        "提携"
+      ],
+      "summary": "三菱商事都市開発が参画するウルトラマルチバース実行委員会 学校法人 岩崎学園と産学連携プロジェクトを実施 学生が制作したPR動画の一部をイベント公式SNSで紹介 アットプレス",
+      "source_count": 2
+    },
+    {
+      "id": "aa2ba60852641f6a",
+      "title": "アイスタイル、ドットミー、エームサービス、三井物産が戦略的提携 インナービューティー市場形成目指す（日本ネット経済新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15TUhNc216ZU9kbmp2bUZRMkw2UFpRLXhkVk5oTTl6dG8teEVZZTJtY0l5c3FKWGdRNktIQ2hzVXJQNldFeTdtUk5rWHdNeXZOdEtNSy1heGpnc1JTSkNRWFFuaE9Qd2tYeVIxYjdaQ05OZExIZXhRZWt4MmV5YlE?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-17T04:00:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "提携"
+      ],
+      "summary": "アイスタイル、ドットミー、エームサービス、三井物産が戦略的提携 インナービューティー市場形成目指す（日本ネット経済新聞） Yahoo!ニュース",
+      "source_count": 1
+    },
     {
       "id": "1623cf456d4feeb3",
       "title": "三井物産セキュアディレクション株式会社、AI活用に伴うセキュリティの悩みを専門家に相談できる「Secure Counsel for AI」の提供を開始",
@@ -520,6 +666,21 @@
       ],
       "tags": [],
       "summary": "【動画レポート】三井物産を辞めた「アルムナイ」有志の飲み会に潜入取材！エリートの看板と超高待遇を捨てた猛者たち、次のキャリアや給与はどうなった？ ダイヤモンド・オンライン",
+      "source_count": 1
+    },
+    {
+      "id": "386fd6128f69cf91",
+      "title": "A.P. Moller Capital、三井物産からPortek International社を買収🔒",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfTmxZZDdxMVU2cXA2ZjlHTGhlZVp4ZWNtM2ZRQkl4Nl9xdWgteVVBZng3NlZvMFY0Unl6Y2p3ekZqeVVHYkNJRXl5X0tDazNHcEFMZUhn?oc=5",
+      "source": "シンガポール新聞社",
+      "published": "2026-11-15T15:46:44+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "M&A"
+      ],
+      "summary": "A.P. Moller Capital、三井物産からPortek International社を買収🔒 シンガポール新聞社",
       "source_count": 1
     },
     {
@@ -8787,171 +8948,6 @@
       ],
       "tags": [],
       "summary": "三菱商事---上値抵抗の200日線を上抜ける 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "846f7b7eb1ac5247",
-      "title": "三菱商事---上値抵抗の200日線を上抜ける",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82di16eUFHRU90RERpOFBCLXNNc3BnUDZPeHBPX3dIUUd1X2JHVjBLa2ZJZGtpdkd2Xy1ZTGhlZ3F4U29kNXdiWEwxVUtyU2hMR1FOc3RJblJhaXUtNWQtbw?oc=5",
-      "source": "株探",
-      "published": "2026-10-26T03:25:28+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [],
-      "summary": "三菱商事---上値抵抗の200日線を上抜ける 株探",
-      "source_count": 1
-    },
-    {
-      "id": "3680a857fbd8514b",
-      "title": "長瀬産業、パキスタンからIT人材受け入れ 正社員採用へ",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zT1F2TFdZbW9fTmxqX2ZlV0ItM0VUUEliNk9MMjRDOXFyblNRZjJjRFI0RFdzZVY1RTJlS3pJVDRqS2Y0eFc4VndvSnk1LVhzeGZSVDVLZF9fSURnOXUwV0JSaTUzSVltUmtRdw?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-25T20:00:00+00:00",
-      "company_ids": [
-        "nagase"
-      ],
-      "tags": [
-        "就活"
-      ],
-      "summary": "長瀬産業、パキスタンからIT人材受け入れ 正社員採用へ 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "8371784335052b1e",
-      "title": "女性登用は「結果」か「機会」か 伊藤忠は課長から執行役員に",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FdUIyZVBPSzVDTW9uSnZDT1hXMEFKSnRsdDE5OFRMb0FFcmhmcWlNY3czN1pZNjBpVVFFQjhwcjNxU01seVZESHozT2FhTUVKOE5lbHFKUFp0UTRhSU1CeDRzMkhieE4zWThteg?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-25T17:00:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "人事"
-      ],
-      "summary": "女性登用は「結果」か「機会」か 伊藤忠は課長から執行役員に 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "af3fcbd836955255",
-      "title": "経済産業省の令和7年度補正「グローバルサウス未来志向型共創等事業（大型実証 非ASEAN加盟国）」に採択 ～ブラジルでのサトウキビ残渣由来のバイオガス生産実証",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NRVFnMjVXWVNBTTBocTZEY20yYWFibU00OVYzRnpKNXhXVXpQeTh5T0dqelE3TldtT01oYUt2cFMwT3JyZXM3NHB6ZWRRWm4yLThPWTFFaVFoVHNNMlhQOFFiLVVXcm9NRnRLeWNR?oc=5",
-      "source": "豊田通商株式会社",
-      "published": "2026-10-23T11:01:04+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "海外"
-      ],
-      "summary": "経済産業省の令和7年度補正「グローバルサウス未来志向型共創等事業（大型実証 非ASEAN加盟国）」に採択 ～ブラジルでのサトウキビ残渣由来のバイオガス生産実証 豊田通商株式会社",
-      "source_count": 1
-    },
-    {
-      "id": "7d288ecab8bee722",
-      "title": "【戦略】丸紅アセットマネジメントが5号ファンド、累計資産1000億円超に",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fcXB4eGJ2Vkg2REdmX0NzRGZYSXc0VHMzLWx4TFdxZjhWUm5pTXVZRUk0MWEwQmNJY2VydHJscXZnUV8xNmdIT3JyRnVYcVNlbW5rN3g3ZF81RzFzeDVDakl3?oc=5",
-      "source": "日経不動産マーケット情報",
-      "published": "2026-10-23T09:53:30+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [],
-      "summary": "【戦略】丸紅アセットマネジメントが5号ファンド、累計資産1000億円超に 日経不動産マーケット情報",
-      "source_count": 1
-    },
-    {
-      "id": "7f377d375c492270",
-      "title": "丸紅、韓国コスメ「ロムアンド」に出資 70億円で最大28%取得",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LY0tBRGlZZGYxcm1oa1lRc3JOSFd3dTFtVkpUbHFnUVl0aV8yNEhaeVZuNUJpLWZNX1VIQmlvVzRydnp5RTg0ZGNLeHNremVteUtGSUVheV9yV0wxQTJTOU1uOVNjNE92cGIxcw?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-23T09:43:01+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "投資"
-      ],
-      "summary": "丸紅、韓国コスメ「ロムアンド」に出資 70億円で最大28%取得 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "34121763b09d19c9",
-      "title": "伊藤忠丸紅鉄鋼ら3社、高強度ファスナー事業でインド市場開拓…戦略的パートナーシップ締結",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5maDRHT2w2aDJ1S0ZFbTlrbEx6Y1RTOGZvTXVRc3E3VWx3RzJ2b0labmp2Z3IxUEhsUHh6Q0p1V2VsajJWTjVXVmZUUmNhZFU3bGFlVEZrOG51ZmNvbV80?oc=5",
-      "source": "レスポンス（Response.jp）",
-      "published": "2026-10-23T09:10:28+00:00",
-      "company_ids": [
-        "benichu",
-        "marubeni"
-      ],
-      "tags": [
-        "提携",
-        "海外"
-      ],
-      "summary": "伊藤忠丸紅鉄鋼ら3社、高強度ファスナー事業でインド市場開拓…戦略的パートナーシップ締結 レスポンス（Response.jp）",
-      "source_count": 1
-    },
-    {
-      "id": "3558be6a2a392835",
-      "title": "伊藤忠丸紅鉄鋼ら3社、高強度ファスナー事業でインド市場開拓…戦略的パートナーシップ締結 1枚目の写真・画像",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRl94YnpvU2d4eEx5YTdjaHJSaEtCY0JPOWpRYzV4VGgyV0VYVFVELUJab3FlVmszeW5jMGtYejdhUDkzNDFicVJWME1kM3hFMlQtUDF4MkJITjctWmFocUtCTFNXZ0Z2ZXk0MU5scUNsMjNDeWVTbEVWZ0NUNk1zdTF2Ti1ZaXhtZWgzYS10aHJ1UQ?oc=5",
-      "source": "レスポンス（Response.jp）",
-      "published": "2026-10-23T09:10:28+00:00",
-      "company_ids": [
-        "benichu",
-        "marubeni"
-      ],
-      "tags": [
-        "提携",
-        "海外"
-      ],
-      "summary": "伊藤忠丸紅鉄鋼ら3社、高強度ファスナー事業でインド市場開拓…戦略的パートナーシップ締結 1枚目の写真・画像 レスポンス（Response.jp）",
-      "source_count": 1
-    },
-    {
-      "id": "93abaedcd01de3ae",
-      "title": "豊田通商、ブラジルでサトウキビからバイオガス実証 経産省事業に採択",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56NGpraGRfNEtDX1N6SDFOTDZzb0VBLTFqdS1INElZV0FqZmlENkhYbjJ5YmNqMDRXR0w2S1V2RjFmR1A1cmdWNXBsWXpmNkVmM2pMa2RXaU9VQXRFOVcyUHNhQktCdVBwNlRmZA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-23T08:22:06+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "海外"
-      ],
-      "summary": "豊田通商、ブラジルでサトウキビからバイオガス実証 経産省事業に採択 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "94e30d579bc5b8b1",
-      "title": "伊藤忠商事(株)・西口知邦代表取締役 上席執行役員CAOが竹村彰通学長を表敬訪問",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE10YUxiT1JtQjFYQ2gwQUV5SjhqNGlaTjd0UzZ3cTJVZjQ5VEFYbGpNX3pLd1hocGpPLWNDdTJFMnc5VEpubU1B?oc=5",
-      "source": "滋賀大学",
-      "published": "2026-10-23T05:33:39+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "人事"
-      ],
-      "summary": "伊藤忠商事(株)・西口知邦代表取締役 上席執行役員CAOが竹村彰通学長を表敬訪問 滋賀大学",
-      "source_count": 1
-    },
-    {
-      "id": "a1f86d1f43133ed1",
-      "title": "韓国大手ビューティー・パーソナルケア企業iFamilySC Co., Ltd.の株式取得について",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnaERrUDNCSmQ5S0czYjc4X3lwWlNUY3BSNEtxRU1xWWJNTWNreVRDbFgyTUctYUI0clVQWC1pV3hHUmVLcTRqYy1wOXBKRG54RUpCWi02aGp6YXU5ZmZfUW1oSTZTVjg?oc=5",
-      "source": "Marubeni Corporation",
-      "published": "2026-10-23T02:02:04+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "投資"
-      ],
-      "summary": "韓国大手ビューティー・パーソナルケア企業iFamilySC Co., Ltd.の株式取得について Marubeni Corporation",
       "source_count": 1
     }
   ]
