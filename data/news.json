@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T03:46:23.026534+00:00",
+  "updated_at": "2026-11-18T10:51:06.662187+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -92,6 +92,107 @@
     "就活"
   ],
   "articles": [
+    {
+      "id": "8bc93c87a6807da9",
+      "title": "【U15】「第16回豊田通商カップ 第8回愛知県 U15 バスケットボール選手権大会 2026」試合結果(vs.江南Squareblocks)について",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VZkNERWF1dE1fcERfZzZPOEEtRUtfakZ1MEpMOWh2ckhoUG5OY0NaQXJGZm9zak16aFdJaEM3OFdJMDdBWmh5dFd0MVBESUxudlRXdUZiNA?oc=5",
+      "source": "シーホース三河",
+      "published": "2026-11-18T06:44:13+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "【U15】「第16回豊田通商カップ 第8回愛知県 U15 バスケットボール選手権大会 2026」試合結果(vs.江南Squareblocks)について シーホース三河",
+      "source_count": 1
+    },
+    {
+      "id": "5396f4d7496907a8",
+      "title": "【ＮＰＢ】元三井物産会長・飯島彰己氏が新コミッショナー就任へ １２球団オーナー会議で正式承認",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02Y0YzMzA1WElNNHVIS2pEcldjR1NaZGxzNlpGdE55SEpFZEdHQ2dyOFQwd2JkOTFsWnJ4X2J5MEJPNjk0YXFMNGs3MkxraTBXWG9uTUM2MVpIVEcyOWhYZHVB?oc=5",
+      "source": "スポーツ報知",
+      "published": "2026-11-18T06:34:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "人事"
+      ],
+      "summary": "【ＮＰＢ】元三井物産会長・飯島彰己氏が新コミッショナー就任へ １２球団オーナー会議で正式承認 スポーツ報知",
+      "source_count": 1
+    },
+    {
+      "id": "c3d1140e5ae5b0d8",
+      "title": "慶大野球部、卒業生の進路発表　住友商事、三菱UFJ銀行、日本航空、日本テレビなど",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObmpiWFFESUdIQ0p3X2F3R3R5YnNfX0hPU1hoYmpPN0NyUVJrTGMtVktDZWlBNXBjSDJ2a05QV2NzUUdOWFhyWTROVEVSZTFKS2JmTjJqaEwxMjEyVVFCZW1YcEZlT0lEbE0tTzdILTQyb09BZmpnSExuUHBySXFnbTBfX241SDBjWDBKVFFNUk1XSVJENjBVcHdOYmw0d9IBigFBVV95cUxQOEI2RUNETnltYWJRMHoxQUlIU1RXUVpObm1BakpTVGRodXYwU0RkUnNrc1BGY0wwUFktdE5UeGluQWdnSC1GVnBDdk1BRU1UVHBZLTVuYnBHQXYySGk3ME5aeWxUZ09fNlFXQU1uTlE3bEk5RUotblFKVjM0UUlrSU1fRTRQMEFyTGc?oc=5",
+      "source": "サンスポ",
+      "published": "2026-11-18T03:59:06+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "慶大野球部、卒業生の進路発表 住友商事、三菱UFJ銀行、日本航空、日本テレビなど サンスポ",
+      "source_count": 1
+    },
+    {
+      "id": "027d12b379624e6f",
+      "title": "日本のグローバルコングロマリットがベトナムのファッションブランドとの協力関係を強化。",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRXhodXRkVjdjb1drdDBZV1VJRmlEcjJHaDBYOW5MbGxJRmhFN25GMVNDc3d1RkNhY3RuTFlEaGFvOGdrb1lGeW85SUk2QUNLaVJtWnZCVG5lcU1ZQnRZNVlIbGYxUGhDbElxT0pnc0p0dUFtcnpyLUlIR3dmU3BEUzl1N2I2c2hxbkFfdE8zRVRhMjNjY2FPaU9VSzh3OU1rLXNmOEdB?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-18T03:47:53+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "日本のグローバルコングロマリットがベトナムのファッションブランドとの協力関係を強化。 Vietnam.vn",
+      "source_count": 1
+    },
+    {
+      "id": "fa07408a2eaef078",
+      "title": "彰化沖洋上風力発電、全73基の接続を完了 27年商用運転へ 三井物産ら投資／台湾（中央社フォーカス台湾）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VSy11NS1OZlRScnQ2U1RMMkVlZTJXMTNvRTFIcEE1UlJGMjE3aHFRNVJ6NlJ0NnZvdlBMek1VYUJJbU5ZMFgzQ2w1M3hJMGRUMWZZSGdpVlZpTDlwSTZyQmk4U1VGbDA5N29wSXR5SnNYaUdLZmRxRE01V2h5bVE?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-18T03:05:17+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "投資",
+        "脱炭素"
+      ],
+      "summary": "彰化沖洋上風力発電、全73基の接続を完了 27年商用運転へ 三井物産ら投資／台湾（中央社フォーカス台湾） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "c85f5751db31bc1b",
+      "title": "網屋と丸紅情報システムズ、OT環境向けセキュリティサービス開始",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RZG8zZmp5WU1EOFpIUTViWTVncEpvX1lTRlNGeTBBNy15T1pDaXhycDY4cXNEN2Q5TUtZOW55MUZPeHM1ZVlqbmp4bF9lSWFEQWx3?oc=5",
+      "source": "ニュースメディアVOIX",
+      "published": "2026-11-18T02:11:43+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "DX",
+        "サステナ"
+      ],
+      "summary": "網屋と丸紅情報システムズ、OT環境向けセキュリティサービス開始 ニュースメディアVOIX",
+      "source_count": 1
+    },
+    {
+      "id": "2a6a5ed087f27563",
+      "title": "AI×OTセキュリティで製造現場を見える化し、対策実行まで伴走する「OT SecurePath」を提供開始",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ORGFnenZIV21YSlZwaER4bE55dEN6R0ZwVmdXOUFsVU0wVVZzYTVGekVxeWd1U0otXzlJZWMzbGtwOThsdFg3ZjdQQlJ6anQxMEhqbzZ3YUh1bUpiaUxKNlBCTFMxTlFKSnc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-18T02:00:02+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "AI×OTセキュリティで製造現場を見える化し、対策実行まで伴走する「OT SecurePath」を提供開始 PR TIMES",
+      "source_count": 1
+    },
     {
       "id": "120fe6703e3b8cf2",
       "title": "カルーザＣＯＯ兼ＣＣＯに聞く／小売り向け基幹業務基盤で三菱商事と協働 –",
@@ -330,6 +431,21 @@
       "source_count": 1
     },
     {
+      "id": "33e917fa219dfe3f",
+      "title": "タイの二輪販売金融会社Summit Capital Leasingの売却について",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TSGgxODJRRWFMUzlWNXYtWF9wVDhrbHBTT0E4R2RqYW40QnhUM3hVSllWWXk1NW41RlBlSVhTZHpyZlZ3TUpVbUYyOXVBSkVXMHBBSDliV3MzTW9WcVlmbDRQTHA0al9sbTcxZGgtbF9qQQ?oc=5",
+      "source": "Sumitomo Corporation",
+      "published": "2026-11-17T01:00:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "M&A"
+      ],
+      "summary": "タイの二輪販売金融会社Summit Capital Leasingの売却について Sumitomo Corporation",
+      "source_count": 1
+    },
+    {
       "id": "20d15eb3696bbd8a",
       "title": "「化学工業日報」掲載（11/11）教養部大町先生と長瀬産業㈱の共同研究に関する記事が掲載されました｜ニュース",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iYW92cWpCZ0RVajUxOHlRblYtWjc4ZzFXX1V4SHRGWXZvS0pCT0VScTJFaEZueHZhRjZrVnlBWVhTWFc5Q0hyZ21zNi1pUmwzbjdZLURoVVRuT0FOT0lZ?oc=5",
@@ -423,6 +539,21 @@
         "新規事業"
       ],
       "summary": "商社と部品大手が車載ソフトでタッグ 豊田通商が分社化、デンソーが新会社に20％出資 ｜Seizo Trend ビジネス+IT",
+      "source_count": 1
+    },
+    {
+      "id": "2f254d48e94ab951",
+      "title": "豊田通商、車載ソフトで新会社（時事通信）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XQ25fWk9kd0IxSHg4UHBuaEUxVUNYV1JPV2xmTUNwQVVYaEoyOVFwSEJyN3BQcC1uTmNuMWExLXZwdkdMbzJ4a0l3dWFoQUFoU2xLME56YWUzN0NjRXpldUF4Qmh2ZU8yamdhVHkxZ3lJNEJnZ1FqbGlaUUhTems?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-16T11:00:37+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "新規事業"
+      ],
+      "summary": "豊田通商、車載ソフトで新会社（時事通信） Yahoo!ニュース",
       "source_count": 1
     },
     {
@@ -1133,6 +1264,21 @@
       ],
       "tags": [],
       "summary": "伊藤忠商事株式会社が株式会社シグマクシス・ホールディングス＜6088＞株式の変更報告書を提出（保有増加） ｄメニューニュース",
+      "source_count": 1
+    },
+    {
+      "id": "bdf13af0d6260e9a",
+      "title": "伊藤忠商事、最高益",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2R09jUmVzeWlwVWQtUUcxTWhDYzhGNWxwcEltUVhrUHdxcnhJdWhYX3BrTVozQTJHZVNvZm55MG1zdGl5Zm1iSzEzRFJOMEtpWDBLTllEQlRRRUhwN0ZEazlWMjZEZ3NxR3k4Rw?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-13T06:21:51+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "業績予想"
+      ],
+      "summary": "伊藤忠商事、最高益 日本経済新聞",
       "source_count": 1
     },
     {
@@ -8823,142 +8969,6 @@
         "投資"
       ],
       "summary": "伊藤忠商事、IAGのエンジン整備会社に出資へ 少数株主として参画 TRAICY（トライシー）",
-      "source_count": 1
-    },
-    {
-      "id": "05953d0c96b0725b",
-      "title": "三井物産(株)【8031】：企業情報（決算時期・代表者名・大株主情報・IR動画など）",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oSi1HbFlzME0wMWFrNVlRSmV2UTBwbjdtUjliX0wtRUpRSWJBT2FES2RxYmdFMzl4X1hockNzMHNnSm15WVZlR0JlZWhmenJiS243bGRpMFljTlhISWUwZUJtVWs2V3RxR2VSQ0Y1aUFHMkJM?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-10-27T10:02:26+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "三井物産(株)【8031】：企業情報（決算時期・代表者名・大株主情報・IR動画など） Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "8e734852a9b18177",
-      "title": "オルタナ総研統合報告書レビュー（57）：三菱商事",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZWo3MTJHRHdqcVNZYXluQlBKRVFRaUE5SlUzaHFGX3hmRi1EVnRXMUhMZHNsZTN2QXJqVDUyRW1yd1VnYkNkU3dWYmlCTHJmNW5RT0xLV18zMVRKdldFM19TVl9uYUJEZjk3UVlGRlEza0hELWNPV05MTEt1QmxUbDlBWThXWk9acG92N1N3?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-10-27T05:35:37+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [],
-      "summary": "オルタナ総研統合報告書レビュー（57）：三菱商事 Yahoo!ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "cac06424c2d20ecf",
-      "title": "三井物産 堀健一氏が語るポートフォリオを動かす「結果にこだわる経営チーム」",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDeGdkcVJIV1NJS3RnTEt6eE5VWElpNmIxX01Sd19tSk9nN0NKbWRWeEd1LUtWY0tndUpJQmQ5cVlDcGNZNlVMYWVxUWhKT0ZWNUpTbHBVR0ZKZDdsQmRELVdSWmhlT2RRb0ZOYnVNTzYzaXBJU1BZdHRjbk1lazg?oc=5",
-      "source": "McKinsey & Company",
-      "published": "2026-10-27T05:18:02+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [],
-      "summary": "三井物産 堀健一氏が語るポートフォリオを動かす「結果にこだわる経営チーム」 McKinsey & Company",
-      "source_count": 1
-    },
-    {
-      "id": "a7075f040d6161c0",
-      "title": "【アナリスト評価】三菱商事、レーティング中立を据置き、目標株価5,300円に引上げ（米系大手証券）(アイフィス株予報)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZGZ2VW4tWHpMVkh0TklNc09RdGU4dFFMSVQ5MzJxYlI3Q2FaWjRiLXZPSFRuQWVsQ2lZZ0dQMEdyWEJQN1lyTUczVHNsNmZFNjVhWG11a0c0M3FDdkV5cU82dVY4MUdMcC1qZENpUDlXbXk4YzVlclI4WDJlXzEtYUlnSjZUVkE?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-10-27T05:10:58+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [],
-      "summary": "【アナリスト評価】三菱商事、レーティング中立を据置き、目標株価5,300円に引上げ（米系大手証券）(アイフィス株予報) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "7dc343cddebc0905",
-      "title": "MIRAI LAB PALETTEが「FCAJ AWARDフューチャーセンター賞」を受賞",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LZU1OUDRNN2FibTlBRzlHUDNIRXg4VGNMd3kyMHlVNk4xTDdXYzBtWW9scV9ZdDczQVhNTEFlQ2dwcnFJeVpmQkY3c2c2M3g1ejJBbnVlbkZicFBQekJBYUEyLThBX1lPUC1xdGo4SEdJbWdr?oc=5",
-      "source": "Sumitomo Corporation",
-      "published": "2026-10-27T05:00:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "MIRAI LAB PALETTEが「FCAJ AWARDフューチャーセンター賞」を受賞 Sumitomo Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "59097c8dd018db71",
-      "title": "【台湾】伊藤忠、日立建機系の台湾販社に51％出資（NNA）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DMjNyWTh6ZzlJTU55NHMtU01Ka3NIb2JQcE50ZEVGVnRCMEc4bFRBVG9jaUIzaWpYMkdYRVJYQW5UY1pZUG93Z29Ed0EyZFhZVHlNZU1xQzlXV2ZDVEJfLUZsVGhVdDQtZHhuT2dqZ0xjTTNPMWJrdG5iS2ZLdWM?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-10-27T02:30:49+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "投資"
-      ],
-      "summary": "【台湾】伊藤忠、日立建機系の台湾販社に51％出資（NNA） Yahoo!ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "6eba461508186ce5",
-      "title": "【アナリスト評価】三井物産、レーティング強気を継続、目標株価6,600円に引下げ（米系大手証券）(アイフィス株予報)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYnJIaU5lZTM4Z3ZuNkQ3YjZRek5SSjdBVmRyM29WcHN3Q3p3TnRmNlhUV1pZcnlHWVRjZmdZWlIzWnlMdkdOZ2lQLTZvOEZ0RDI3YmE1Z04wa2NIaWhqVTNNVFdXMS1iaVpqY0tZel9pbnZHalFQRFVrcnBkaXdabkRIOWNyQzA?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-10-27T02:08:07+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [],
-      "summary": "【アナリスト評価】三井物産、レーティング強気を継続、目標株価6,600円に引下げ（米系大手証券）(アイフィス株予報) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "508544e4f4c5b840",
-      "title": "【アナリスト評価】三菱商事、レーティング強気を継続、目標株価5,850円に引下げ（米系大手証券）(アイフィス株予報)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSnVncVpJTUpzcEs4YW5JNVUxeHBBMG9aaTlhWWw3UGlzNXB2TVU1Z2V3ZVRlaXd5Z3pvWGtPTmpMTFh5MVZVTS1scTJLcjlRVE9PcGc0c3hkbWt6YWdPSThvTjg3a3JVWnhWdkFzQmlCcjVKOXl0NE9KTjJtVERRdENIMk5mR0E?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-10-27T02:08:07+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [],
-      "summary": "【アナリスト評価】三菱商事、レーティング強気を継続、目標株価5,850円に引下げ（米系大手証券）(アイフィス株予報) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "5244f13263b22ff0",
-      "title": "2026年度（第52回）丸紅基金社会福祉助成先決定について",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SLXl5V2JWN0djWTlNb0dqaU4yWl9aV2ZOdU12UVF5OVlXZGpuWnFUZjBydFpFRkh0cGxWN3dDT3VlVXJDalVrOTI5LVIzZWlrTXQyQjFXSDhrRXNxczR2eHY3U044SGM?oc=5",
-      "source": "Marubeni Corporation",
-      "published": "2026-10-27T02:04:59+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [],
-      "summary": "2026年度（第52回）丸紅基金社会福祉助成先決定について Marubeni Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "5626655a7b8409cb",
-      "title": "ＪＲ九州と住友商事グループ、大規模蓄電所を諫早市に整備へ…２０２８年１２月の事業開始を目指す（読売新聞オンライン）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNRjUtX0pzQnRnWVRTUFJKWXoxZC1Gd2lTNGV3ZS1HWmJMS19MNGJTZ09LVHJlSGYyMGhsLU1uaW9wZHZ2N05vVEczOWNncHpZRV9MYXcxX1ZZRWd5aTAzc2l2alBUdVExdDRsLVBscUdXUXFsY2NRTUZueEtYWHc?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-10-27T01:14:13+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [],
-      "summary": "ＪＲ九州と住友商事グループ、大規模蓄電所を諫早市に整備へ…２０２８年１２月の事業開始を目指す（読売新聞オンライン） Yahoo!ニュース",
       "source_count": 1
     }
   ]
