@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T10:51:06.662187+00:00",
+  "updated_at": "2026-11-18T22:43:09.799602+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -93,6 +93,80 @@
   ],
   "articles": [
     {
+      "id": "9dea9abcafbe303c",
+      "title": "【28卒】就活人気企業ランキング、丸紅が初の3冠！ 伊藤忠は文系男子で8年連続首位【ダイヤモンド・ヒューマンリソース調べ】",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeUpMSnA3dG5KWVhUc1dMTzcxS2xCY0RXc2VKcWpjR2I1WVFjSUxMal8yOHZaQ0hDVVlxVGRwbTc3NGJUS1RMRnZobEZBYTlGUl9hYW9oZUlscjlRcmV4YnV5anlZVUcyT3p5cnY4ZTJSeGNnTmFQZlRPbjdXMUJUWVJibjhvSlU2cGgzczZTMjJOUVdjWnVTWTdBQ0FBUFRrbFFRTExFNnR3Z1U?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-11-18T21:09:41+00:00",
+      "company_ids": [
+        "itochu",
+        "marubeni"
+      ],
+      "tags": [
+        "就活"
+      ],
+      "summary": "【28卒】就活人気企業ランキング、丸紅が初の3冠！ 伊藤忠は文系男子で8年連続首位【ダイヤモンド・ヒューマンリソース調べ】 ｄメニューニュース",
+      "source_count": 1
+    },
+    {
+      "id": "09ec41fa5f4f698e",
+      "title": "豊田通商がエジプト風力発電に賭ける理由…300億円融資を支える「貿易保険」の仕組み",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96UDZBU0NsN2VybkFxT3plUWcyN0h0bVVmSVhmUTJacDhqQVdEMjFJSFEwWVc3eTFObV90N0VpaFEyNmJwSk9QTkM5ZWhhcS15dzFhT3NfQnhXcGs?oc=5",
+      "source": "ビジネスジャーナル",
+      "published": "2026-11-18T21:00:12+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "豊田通商がエジプト風力発電に賭ける理由…300億円融資を支える「貿易保険」の仕組み ビジネスジャーナル",
+      "source_count": 1
+    },
+    {
+      "id": "f919d797c96d0fef",
+      "title": "三井物産、複雑な貿易業務でどうAI活用？ 「荒くていいから作ってみる」 年間2000時間の業務を削減できたワケ",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LZ0U1MXRsRlJfRWt2NEVzbUlMX1djQTA2dktmVVJsdEZiakFrVkttdnFMYWtvMGRRN1NaUVY5bmU5TktwMGFoTjZ5MTNvanZrSzQyVWhDaXp5d09vSnhBTjY3MVdhMk9KTFZrYXNCcmhsUQ?oc=5",
+      "source": "ITmedia",
+      "published": "2026-11-18T20:30:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "三井物産、複雑な貿易業務でどうAI活用？ 「荒くていいから作ってみる」 年間2000時間の業務を削減できたワケ ITmedia",
+      "source_count": 1
+    },
+    {
+      "id": "cf5e3c6552f9cf92",
+      "title": "伊藤忠商事／文化シヤッターに出資、筆頭株主へ／274億円で19％強取得、「持分法適用」視野／資材調達を最適化、海外建材で協業",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qQ21YbXpTeXBjYkl3Zm1sQVNvWFhHQjJhS2FaYXdkSHJ6QVNLaUZ0UVl1TTV0M3Z5Ry1HOGRtek85aXVNX0tfMlJ1VlZucmMyVGktWnBB?oc=5",
+      "source": "ニッキンONLINE",
+      "published": "2026-11-18T20:00:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "投資",
+        "提携",
+        "海外"
+      ],
+      "summary": "伊藤忠商事／文化シヤッターに出資、筆頭株主へ／274億円で19％強取得、「持分法適用」視野／資材調達を最適化、海外建材で協業 ニッキンONLINE",
+      "source_count": 1
+    },
+    {
+      "id": "fd1c177e2d784609",
+      "title": "日本橋小舟町の大みこし長瀬産業新社屋に常設展示 江戸の祭り文化を街へ（みんなの経済新聞ネットワーク）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zcUVjUlpQclRZNGlLTF82V2JiUVB0UW5heXFNNDhzRUg3VnNFRVFiWW9RWmFkUDhFOW9uQldnaVE0YmU2ajlybjNWQ3kyRk52UmdiRWxXM3AyTHJlRlNrLVMtMjROVGZ2aFdRYzdORVMwTG1vNF90dFdfUkpUZlU?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-18T14:51:02+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [],
+      "summary": "日本橋小舟町の大みこし長瀬産業新社屋に常設展示 江戸の祭り文化を街へ（みんなの経済新聞ネットワーク） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
       "id": "8bc93c87a6807da9",
       "title": "【U15】「第16回豊田通商カップ 第8回愛知県 U15 バスケットボール選手権大会 2026」試合結果(vs.江南Squareblocks)について",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VZkNERWF1dE1fcERfZzZPOEEtRUtfakZ1MEpMOWh2ckhoUG5OY0NaQXJGZm9zak16aFdJaEM3OFdJMDdBWmh5dFd0MVBESUxudlRXdUZiNA?oc=5",
@@ -119,6 +193,22 @@
       ],
       "summary": "【ＮＰＢ】元三井物産会長・飯島彰己氏が新コミッショナー就任へ １２球団オーナー会議で正式承認 スポーツ報知",
       "source_count": 1
+    },
+    {
+      "id": "ede14262815eeeab",
+      "title": "彰化沖洋上風力発電、全73基の接続を完了 27年商用運転へ 三井物産ら投資／台湾",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Oa3k3NFpXWjlYZ0p2NlJnRHhTX2RIYkFuUi1hM2RKLWQtVDZOSXk0S2FIbm5zbUVWLUN4YWg2NzUwV1J2LUNrdUFHUzdlNS12azRlcDc1ajd1bG9TXzRJ?oc=5",
+      "source": "ライブドアニュース",
+      "published": "2026-11-18T04:05:17+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "投資",
+        "脱炭素"
+      ],
+      "summary": "彰化沖洋上風力発電、全73基の接続を完了 27年商用運転へ 三井物産ら投資／台湾 ライブドアニュース",
+      "source_count": 2
     },
     {
       "id": "c3d1140e5ae5b0d8",
@@ -706,6 +796,22 @@
         "海外"
       ],
       "summary": "豊田通商とデンソー、ソフト協業 新会社設立、開発力強化（共同通信） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "b20fcbfd60d9a118",
+      "title": "豊田通商とデンソー、ソフト協業 新会社設立、開発力強化 | | 全国のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4RV9sbFRFUElrODF2VDNaUTRMQ1JGTW5ndW1mUnYwTzI3WHF0Y1BkcHlJblBsYWRxbUlnVFhsamd3d0xPemdoR0ExMmRFLWg3eE83T1B3?oc=5",
+      "source": "佐賀新聞",
+      "published": "2026-11-16T06:35:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "提携",
+        "新規事業"
+      ],
+      "summary": "豊田通商とデンソー、ソフト協業 新会社設立、開発力強化 | | 全国のニュース 佐賀新聞",
       "source_count": 1
     },
     {
@@ -1619,6 +1725,19 @@
       ],
       "tags": [],
       "summary": "｢伊藤忠の8億円｣は参考になるか…従業員持株会の意外な落とし穴 PRESIDENT Online（プレジデントオンライン）",
+      "source_count": 1
+    },
+    {
+      "id": "c28ed381b3edcb10",
+      "title": "就職人気企業ランキング28年卒【文系男子】！人気の総合商社の中でトップに立ったのは？（ダイヤモンド・オンライン）",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQmxpN2JXOVFDZS1kUFdfbG1qMV9SYlJOWktUTDI3enpVZTVrWFl1eGctNDYtUjRRM3ZVTUNwZ0JVTkw2b0tmNTI2MGU3NzBxVnl0SGE0aVp1NlZfZGlEMVZDaW5jYWRfOUZuYzNWaUMySG9vV3Z4MWpwdG1nV3RXNklWS0Q2SkRZ?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-11T23:00:34+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "就職人気企業ランキング28年卒【文系男子】！人気の総合商社の中でトップに立ったのは？（ダイヤモンド・オンライン） Yahoo!ニュース",
       "source_count": 1
     },
     {
@@ -8845,130 +8964,6 @@
         "投資"
       ],
       "summary": "免税システム国内大手のスマートテクノロジーズ＆リソーシーズへの出資について 伊藤忠商事株式会社",
-      "source_count": 1
-    },
-    {
-      "id": "8ca6acf8ca6c2541",
-      "title": "JR九州×住友商事グループによる共同事業第3号案件「でんきの駅諫早」を長崎県諫早市で着工",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzdGRWNW9IdExHVmxac0RNa0NfQi0xaV9JN1NLOVZOZlNCRV9lQmpDVEJxaFBZSlFaZmhRRlZWRmh6OUJKc2NOTmlRU3R0SV9NazR4S1JUZmVBcG1ZTWRFS2czN1VrbnVmNldIME9Ddk1OZw?oc=5",
-      "source": "Sumitomo Corporation",
-      "published": "2026-10-28T01:00:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "提携"
-      ],
-      "summary": "JR九州×住友商事グループによる共同事業第3号案件「でんきの駅諫早」を長崎県諫早市で着工 Sumitomo Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "2fa3d428cc39c9e8",
-      "title": "伊藤忠商事－底堅い 航空機エンジン整備に参入 英IAG系に出資＝日経(トレーダーズ・ウェブ)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTXdidHg5RTVoVGEzOHUzazhZb3lsTkliaFROdklvMnJNNzVGUnJWZl9xRDJ6N1VpS2N0SUdxWW9DQ1R2dzN1ME1ZRHNrMGtqV3NOcUpQQ2ZKZjBCUzh4SXZvWW4xMVUweV9IbFJCM3hTSnotZk9lOGcwQWI0LUVUNEk2YkdoMkE?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-10-28T00:08:03+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "投資",
-        "新規事業"
-      ],
-      "summary": "伊藤忠商事－底堅い 航空機エンジン整備に参入 英IAG系に出資＝日経(トレーダーズ・ウェブ) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "618d10de6f4957fc",
-      "title": "航空機エンジン整備会社「IAG Engine Tech, S.L.」への出資",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93U0N6eTdBakNsZ2RMWmZKNlJrMlRvYktiRVR6X0dNaWpFVVVBYXk4QzRpOWtwaWExUUtQRE5RR2ZNb0VEb1hkSnZYNlR4aGFIajZ5MjdFUnAxTGxNVVNDVExUajhQZw?oc=5",
-      "source": "伊藤忠商事株式会社",
-      "published": "2026-10-28T00:04:58+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "投資"
-      ],
-      "summary": "航空機エンジン整備会社「IAG Engine Tech, S.L.」への出資 伊藤忠商事株式会社",
-      "source_count": 1
-    },
-    {
-      "id": "016bf341fb0bc235",
-      "title": "「コンサル化」する総合商社。伊藤忠の電通総研2000億円買収は何を意味するのか",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc3RLQU1QX3d2cnk2MS1keGRfdUFFMUc0a3YyVWNWZnQ3Y1VLSUYwbWgwVzVZNTU2ejYzbDZueEd5Vm9waWNyblVvNXBOSmItRjl4Tmp1VmZKTjhRM0tjd0s0aGF3VWEybXBZRnoxUG1CODlmLUpuNEhiTzVvVVVYX0F3?oc=5",
-      "source": "Business Insider Japan",
-      "published": "2026-10-27T21:30:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "M&A"
-      ],
-      "summary": "「コンサル化」する総合商社。伊藤忠の電通総研2000億円買収は何を意味するのか Business Insider Japan",
-      "source_count": 1
-    },
-    {
-      "id": "bb75cec546a3beea",
-      "title": "伊藤忠商事、航空機エンジン整備に参入 英IAG系に出資",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LMWRBVXBEOUppa2FTWFFIaU45T2xZUF9PcTIxN0hiQ2w5VGVWTm5hQ0xFZTE0LWJoRVJlVDJaTWljdVYxc3g2QjIwTTF0ZWZNX1Q2Q0NWN3dxWlZpY3ExOC1rQzJwRHZVWEVuXw?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-27T17:00:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "投資",
-        "新規事業"
-      ],
-      "summary": "伊藤忠商事、航空機エンジン整備に参入 英IAG系に出資 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "83c449c9e79d7d1a",
-      "title": "【独自】石油国家備蓄買い戻し第一弾「UAE産原油200万バレル」 三井物産が落札 11月にも日本到着 財源は「放出時の売却益」",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JMXg0cGhTSmpVcDVlNWNieXJkWXF5a1VEMHRxSTRWY0psT1hqNllXUmgxd09Ra0d0a1VidVBodWF2QWNwS3dpSGRtSlgzVjBfLXo4d3FETmRxZFBwODltOHY5NmxfenJPMVktc09uc3hlSGVOTVQ4dzhkcUJ0Vnc?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-10-27T15:17:38+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "M&A",
-        "資源"
-      ],
-      "summary": "【独自】石油国家備蓄買い戻し第一弾「UAE産原油200万バレル」 三井物産が落札 11月にも日本到着 財源は「放出時の売却益」 Yahoo!ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "d9ed3acffda4fc44",
-      "title": "東邦ガス・豊田通商、ブラジルでバイオガス生産／サトウキビ残渣を活用 –",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YNjFvX2lDTGNUTEJQVmp2aU1WMWNHUHJaZ1puYmxzWFlpNldvZDh6LTdCWU85Y3ItSjUyN1VsdWVlZmZMbkpFSzhQQUJEYkxjejg2NS1USQ?oc=5",
-      "source": "電気新聞ウェブサイト",
-      "published": "2026-10-27T14:29:27+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "海外"
-      ],
-      "summary": "東邦ガス・豊田通商、ブラジルでバイオガス生産／サトウキビ残渣を活用 – 電気新聞ウェブサイト",
-      "source_count": 1
-    },
-    {
-      "id": "bfaf492c5f28dcc1",
-      "title": "伊藤忠商事、IAGのエンジン整備会社に出資へ 少数株主として参画",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4d2laaFhsZHBvdXBFMnR4aE5OamNPTW9oRV9fQUdXOWpUX3N4bE5wN1pyNnRGWkxSZThGOEE2RDliX2lsNWNyN2NrX2k5UF9mOWxxdGc3cw?oc=5",
-      "source": "TRAICY（トライシー）",
-      "published": "2026-10-27T12:46:27+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "DX",
-        "投資"
-      ],
-      "summary": "伊藤忠商事、IAGのエンジン整備会社に出資へ 少数株主として参画 TRAICY（トライシー）",
       "source_count": 1
     }
   ]
