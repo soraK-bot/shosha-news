@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T22:44:24.800584+00:00",
+  "updated_at": "2026-11-18T03:46:23.026534+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -122,6 +122,21 @@
       "source_count": 1
     },
     {
+      "id": "ad7683127f12c2af",
+      "title": "丸紅情報、工場のサイバー対策支援 OT領域、網屋と連携",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FaVc5c29ob0J0OERrRkJoUGViZk5uNi04bElSTk9QbmlzaDlmMEtJb1ZrMV85Rmg4cmtGZDgwSXAtZGhHRzl3SllCOUV3MW00TWYtOUZidU4?oc=5",
+      "source": "日刊工業新聞",
+      "published": "2026-11-17T20:00:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "提携"
+      ],
+      "summary": "丸紅情報、工場のサイバー対策支援 OT領域、網屋と連携 日刊工業新聞",
+      "source_count": 1
+    },
+    {
       "id": "71083542db562497",
       "title": "豊通とデンソー、ソフト協業で新会社設立",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBZZkU0eUgzSjBEODhJdjlfN0FhZG1lOXY4Y2Z0UXhKYUNNQW01X2JmYWdYTGw0Yk1UWWVlSUM3dFRUenZMZGc?oc=5",
@@ -136,6 +151,21 @@
         "海外"
       ],
       "summary": "豊通とデンソー、ソフト協業で新会社設立 NNAアジア",
+      "source_count": 1
+    },
+    {
+      "id": "cc31230eecc8d2d2",
+      "title": "チャンピオン 女性向け強化 伊藤忠が日本事業取得",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SZS00RWJpbGVlcmxNZ2d2cW5iV3VIQzN4eUVnenFhLUVFSWFEbUtma3Y0VUFwa1pKYjU4RlZMUHdDcjl5VWJBRTZPbFJscjVadFE3NTJGUVU5RnNZTFE?oc=5",
+      "source": "テレ東BIZ",
+      "published": "2026-11-17T13:00:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "チャンピオン 女性向け強化 伊藤忠が日本事業取得 テレ東BIZ",
       "source_count": 1
     },
     {
@@ -504,10 +534,12 @@
         "toyotatsusho"
       ],
       "tags": [
-        "提携"
+        "DX",
+        "提携",
+        "海外"
       ],
       "summary": "豊田通商とデンソー、ソフト協業 OANDA証券",
-      "source_count": 1
+      "source_count": 3
     },
     {
       "id": "b846e4784f7c87c6",
@@ -585,6 +617,21 @@
       ],
       "tags": [],
       "summary": "三井物産AMHD／三重県「（仮称）四日市物流センター」で12月16～18日に竣工前内覧会 物流ニュースのLNEWS",
+      "source_count": 1
+    },
+    {
+      "id": "87ef08a979359cf8",
+      "title": "豊田通商、車載ソフトで新会社",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTTh6ZlM0amphSUxsQmNzLVlsQkNIQXV0MXV0WXhrQlhzRGtKaHUycXR4eDFkWEFxc1gyd2ZtamYzSHVuYkVLdlRMVWJyaExNYUJJYk5WRDFhWHo2aXNCemtFMmIxMGt0V1pzS2p3bThCSHlUdU5UNmxWT3FISjlHcFNHNWo5S2xqY3lSWnhaQnpDdHBWcWwxVURYZk9nbkRQVEZkVEFJamNSaVJqOU4xZkhhUmVpVGpoZ3dtNVM4cG00eGtQeGlZSE9JSVhQTlVfVGfSAYABQVVfeXFMTXptRTBHejRmaXoyQzNtdVJnOUpUcGNKcDVVa1EzYWhoUzQ3NVVyZzVfVjM4bzdhX1ZSUFBBQVhEajlQWTIxZ2hHRWp1a3RubUJjaDdvbGUyMkhZa2lPYng4aktVZ1ExclZPc1VkdEM4LXQtLWRZLTA4VjhoS05uSk4?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-11-16T03:05:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "新規事業"
+      ],
+      "summary": "豊田通商、車載ソフトで新会社 ｄメニューニュース",
       "source_count": 1
     },
     {
@@ -8912,50 +8959,6 @@
       ],
       "tags": [],
       "summary": "ＪＲ九州と住友商事グループ、大規模蓄電所を諫早市に整備へ…２０２８年１２月の事業開始を目指す（読売新聞オンライン） Yahoo!ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "54a6db9ef3df0a7a",
-      "title": "三菱商事、米アリゾナ州の銅鉱山開発を正式スタート…総投資1526億円",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wU2JDMWlKQ01UNnNaek0xQW91TXdXNXhJbnd2OGtfWDNJSkhYLWcwcjdSYkRBZzhULUlYTm9YeVdjeUwyeDZhR2lIbndpQTVNZnBOQlBlY3VMbWI3NVY5T1BqVFc?oc=5",
-      "source": "読売新聞",
-      "published": "2026-10-27T00:51:00+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "投資",
-        "資源"
-      ],
-      "summary": "三菱商事、米アリゾナ州の銅鉱山開発を正式スタート…総投資1526億円 読売新聞",
-      "source_count": 1
-    },
-    {
-      "id": "28cbab7ea64262af",
-      "title": "伊藤忠商事(株)【8001】：企業情報（決算時期・代表者名・大株主情報・IR動画など）",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90bDFIVWtwakhRS2VTQXUxUnp1OVZDYjAxT0NiR1N4S3BuWGU1MVQ3MVc0ZjJTT0RIUnVXUEpQR3FDTjlPTDllLXVhUEJsSFlhRkFZSTg2VWg1a24zX0s0MGFIT1puSmd3dFgwSXpfSklZMzZJ?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-10-26T10:02:27+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "伊藤忠商事(株)【8001】：企業情報（決算時期・代表者名・大株主情報・IR動画など） Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "7dc8212ef55159b8",
-      "title": "三井物産、米ペンスキー・オートモーティブを非公開化へ…持分比率を約20.3%から約36%に引き上げ",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ua0ozbmJmVVhrN1duSUs1V3FSZmc5TENPQ3pOWTFrQmFLYXNhZ2NKSmZjZmctcXRyaFFZVzRRckJIUmFiTHVGeTFpb0VCaVlaeUJDOHUzVFFIN2FhaXN3?oc=5",
-      "source": "レスポンス（Response.jp）",
-      "published": "2026-10-26T07:45:02+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [],
-      "summary": "三井物産、米ペンスキー・オートモーティブを非公開化へ…持分比率を約20.3%から約36%に引き上げ レスポンス（Response.jp）",
       "source_count": 1
     }
   ]
