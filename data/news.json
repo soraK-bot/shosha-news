@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T10:49:26.019253+00:00",
+  "updated_at": "2026-11-19T22:39:50.778677+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -93,6 +93,138 @@
   ],
   "articles": [
     {
+      "id": "2ab72dae35e6f941",
+      "title": "宇多田ヒカルなどのコラボ雑貨も！ソニー・ミュージックレーベルズ×伊藤忠商事の雑貨店オープン",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeGxhei1iWnFkUzUtTEM4NUpMV2FtMWMxelhNNzhZNzk4VThaM2V3QllDcFoxMlZQRVpDSzVqM2J4bFkxYlZ4ckJDN1BicE01THh5SVlfTTRaNFd1SDlLNDMwN2VreHc5YkduVXhvLU9XSktJRWFHOVdzNmxfWkpTRi11ZmdBdXpQRE9kQkl3TGh4alk1bXlVdVZCMTdjMm_SAaQBQVVfeXFMTV90emtMTEd3V0pCdC1oU3NYRmR6VFFOcTdHQmE4ZGRoQWdPM2RCU2VOTUVxVFVmNVU0VUlxYW9qYkV2QXU1QmNjem0xMURKcHA0TlpGZjR3TTk4TUZjb3NBNUtIbTZocnlXVWo0QzdtM2hvSTBtZkNoZElYN2hBREVkWnBTNms4dmxaZzBwOTY3bmdGT3o1YjdPcVJZVllKLTBBbTA?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-11-19T22:00:59+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "宇多田ヒカルなどのコラボ雑貨も！ソニー・ミュージックレーベルズ×伊藤忠商事の雑貨店オープン ｄメニューニュース",
+      "source_count": 1
+    },
+    {
+      "id": "9e39ebcdcc1a1f23",
+      "title": "「経営に貢献する法務」をどう築くか／三井物産GC高野雄市氏が実践した、法務変革7年の軌跡",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNRnE4eUxvaER4dlo2cG1Wc2lOcm9PN2F4SHlLOUw5ZnQ1RUlQQ0s4cVlQVUNfRHNXdXlMTnR1bVQzcGRDT194bEVOa0t2VUFH?oc=5",
+      "source": "Biz/Zine",
+      "published": "2026-11-19T22:00:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "「経営に貢献する法務」をどう築くか／三井物産GC高野雄市氏が実践した、法務変革7年の軌跡 Biz/Zine",
+      "source_count": 1
+    },
+    {
+      "id": "615a01c3c6075c78",
+      "title": "伊藤忠が月1.3万時間削減、数千件の「二重業務」解消へ AI推進で経営陣を動かした「定量の匂い」とは？",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nUmZyMlRLbVB6Rzhfbl85cHJwTWFxem1KVlVBV2t1aWVXVXJjd0FmRlVXYXFVc0thaHVCXzZnRF9LeEhMOWFTTjYxNkZHQVVFTHRVOVg5aldNcVIwRUdtMXByNThlVWNNZmtNc2EzbDFPQQ?oc=5",
+      "source": "ITmedia",
+      "published": "2026-11-19T22:00:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "伊藤忠が月1.3万時間削減、数千件の「二重業務」解消へ AI推進で経営陣を動かした「定量の匂い」とは？ ITmedia",
+      "source_count": 1
+    },
+    {
+      "id": "b5dfc565c3360894",
+      "title": "お互いに刺激、新事業創出や風土改革に効果…卒業生とつながる住友商事の「アルムナイ」戦略",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Hd0gzSGlUczhhenRQZ0RYUDVreGE5UlNfZFdjTWJ4TXU2YjlnaWdIME91dHFWb0RnTUpqeTFhXzlXN3BYel9ubE1TR2RoQUJfTVhsbm1UTng1QnM1LW5ZSnV5eUg?oc=5",
+      "source": "読売新聞",
+      "published": "2026-11-19T21:30:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "新規事業"
+      ],
+      "summary": "お互いに刺激、新事業創出や風土改革に効果…卒業生とつながる住友商事の「アルムナイ」戦略 読売新聞",
+      "source_count": 1
+    },
+    {
+      "id": "6204c840d2e3caad",
+      "title": "三井物産、個人向けデジタル社債 新たな投資選択肢",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WYWg5ZWJpYmJkdzVIQUEzVFQtaFgwS1FsTmRPTWxqQnk5RTZPbFpzcEhiV2s5VXhYN0FmaFJnUzI0a3lmUHFMcmdXQnNOYUZsbnVPS1ZpQjk?oc=5",
+      "source": "日刊工業新聞",
+      "published": "2026-11-19T20:00:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "DX",
+        "投資"
+      ],
+      "summary": "三井物産、個人向けデジタル社債 新たな投資選択肢 日刊工業新聞",
+      "source_count": 1
+    },
+    {
+      "id": "e8ba15fbdd8cff32",
+      "title": "自社での大規模投資を伴う「換電」から「プラグイン商用」へ転換！KYMCOが豊田通商と電動二輪車の日本総代理店契約を締結",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YX3piLTF5TlVBMmtreVFKQU9SYTdhNkVGdVhpSW52aVNRd2Y5UzFTbWwyc1E3RVRWUmlyNTZEMkI0RHg3TXhQX2lMdU4xQ0cyaHY3N0hqdmdTU2JhSnBHMXNTWVpVX0VzYTgtU0ZhZ2ZvTXFCUTNBQmtYSzU?oc=5",
+      "source": "Mashdigi",
+      "published": "2026-11-19T16:03:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "自社での大規模投資を伴う「換電」から「プラグイン商用」へ転換！KYMCOが豊田通商と電動二輪車の日本総代理店契約を締結 Mashdigi",
+      "source_count": 1
+    },
+    {
+      "id": "aa50aca0a34e999e",
+      "title": "三井物産ら4社提携 「食」と「美容」接近 強み合わせ市場創出",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wakMtZGJiZnF1VmdYVUpBUWZOelZndl9kSi14cTNYNEJWOHhFVEFldk8tM19rS18tcENPcjdEY2xEVkZ6Y3VmUU9DeS1FOHg2eDM0cmZCdFZlWGdRaWdHZjdSR1hwejQ?oc=5",
+      "source": "日本食糧新聞・電子版",
+      "published": "2026-11-19T15:13:28+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "提携"
+      ],
+      "summary": "三井物産ら4社提携 「食」と「美容」接近 強み合わせ市場創出 日本食糧新聞・電子版",
+      "source_count": 1
+    },
+    {
+      "id": "99833ca54de34441",
+      "title": "「本社から来た女性課長」の警戒感をどう乗り越えたか 伊藤忠商事執行役員",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWlZRcTdZbHJHZG9ORElaZ2FxbXB1Qk9MWl9JQXZuM0tVeVVjeW1wWFdCc3VrRHJIeWl1UENBRjhpTWxaWkw3UlBDVFdJdjRHcFRvcUJaZHdjSm03am51MTM2ZlVBczNEUTdKdDlIa1pDV3RUQkJyaUlLeFR2N1VOVWRLLW9iUVpGVXVrbg?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-19T15:01:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "人事"
+      ],
+      "summary": "「本社から来た女性課長」の警戒感をどう乗り越えたか 伊藤忠商事執行役員 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "76717584e64d01b0",
+      "title": "光陽、豊田通商と日本向け電動二輪車代理店契約を締結 来年は飲食デリバリー物流に参入",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51bkFsV1VUM3dFWWo2RkJCcFVwcXA2TGV2LTNvWVhjUjRRQnFWR1hCQnpkVExHcEUzREVWMF9Dd29BUk9PcVBEVkhoZ2FxRGx6TUNJeXJFdlNZZ0V5cjZEOWk4TXV3ejVXM1ZSTUFRS3U5aHVz?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-11-19T11:35:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "新規事業"
+      ],
+      "summary": "光陽、豊田通商と日本向け電動二輪車代理店契約を締結 来年は飲食デリバリー物流に参入 BigGo ファイナンス",
+      "source_count": 1
+    },
+    {
       "id": "5f513aea98b75981",
       "title": "三井物産の個人向けデジタル社債はどこで買える？仕組みやリスク、優待、申し込み方法も紹介（2026年11月）",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aUjRlQUdRVE9VX3RJTTR5LWppR2hDZGpxbWJtOEtiM3M3c2FtUFRvWVFwWmV5OVFFZHd0XzFRc09BWU9DdmNncXRoaEl1TllNcDM3bDcyZTJqd3ZJRmc?oc=5",
@@ -137,6 +269,19 @@
       "source_count": 1
     },
     {
+      "id": "83bdb3114597eae9",
+      "title": "スパイ疑惑の住友商事元社員、米軍基地侵入の動機は「憧れ」だった？",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BRDdDb002cHpPQnJpUW8tajZUajI2UWU2TnNnS3FIN1dmUTlHTnphZVBvR09DTnJwTFNhVm1LYWdqQmQ4ZTVKb255anVmaVFBeWJEdThTS0JaTTg?oc=5",
+      "source": "アゴラ 言論プラットフォーム",
+      "published": "2026-11-19T09:00:23+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "スパイ疑惑の住友商事元社員、米軍基地侵入の動機は「憧れ」だった？ アゴラ 言論プラットフォーム",
+      "source_count": 1
+    },
+    {
       "id": "fe104701c55e8442",
       "title": "三井物産、個人向けデジタル社債を発行 資金調達を多様化",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlU0pNMXE4Ul9VU2lQWUFjQUxNaE9JOWp4RWxMOVBvZ3NUdG9OTDFhWklXOE5UU1N3c0ZMX1I0anRYSkdXeEtZTVZRaU1MTVJwZ3hPbEJDdVg1ZTFwekdtTXRBYTdyMk5zUlphRg?oc=5",
@@ -165,6 +310,22 @@
       ],
       "summary": "三井物産がデジタル社債の販売･管理事業に進出､数年内に1000億円目標 TBS NEWS DIG",
       "source_count": 2
+    },
+    {
+      "id": "a25b4889a61661b3",
+      "title": "三井物産、個人向けデジタル社債事業に参入",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNXdudENMWEFBRHYyZTJaak84UzZwaFBGd1RYTkJ5RTlHNS1VVHNLekV0cUtEZWlsUGRRMU1RSngzdEZfTTV0U3BhRjVLY2tnT0V6YlI0S3MybW45cHlKRmJrZHY5a29GakZFNXlpa0ZTSm1NemlIWnRBUmo4Vlljd09pMlR5bGNGWTdid2JTS0g1OXgzV0dPTEJReHBJRzEyY0dVVkVSWTBVR0plZzE1c19Yb0FiSjF0NHJPb2pwajZmdkptMm9BV2E4N1JTQVdBUGfSAYABQVVfeXFMTTlJZGY0TzZ6SGNmem1HZTEtejY4Q1h3c09VYnpmaUx2V1lROS1wQm5FLUg1N01yZEJGd19lNnl4UkhjMEN5WVBBM2tObkM4d1FOQ3VwWVFTRERyMGMtQ1BBZEF3aXZlR2N3Z2tvb3RRYWJNWXNUN0twdjhsREFFWUc?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-11-19T07:25:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "DX",
+        "新規事業"
+      ],
+      "summary": "三井物産、個人向けデジタル社債事業に参入 ｄメニューニュース",
+      "source_count": 1
     },
     {
       "id": "78052d73b76202dc",
@@ -218,7 +379,7 @@
       ],
       "tags": [],
       "summary": "【BITCOIN JAPAN 2026】Progmat、三井物産、ビットバンクなど専門家が登壇 Infoseek",
-      "source_count": 1
+      "source_count": 2
     },
     {
       "id": "fac1311a2597ce76",
@@ -248,6 +409,21 @@
         "人事"
       ],
       "summary": "“音楽に出会える雑貨店”20日に原宿でオープン SML辻野社長「音楽を愛することを形に」 Infoseek",
+      "source_count": 1
+    },
+    {
+      "id": "c0a5be1cb1945850",
+      "title": "“音楽に出会える雑貨店”20日に原宿でオープン SML辻野社長「音楽を愛することを形に」（スポニチアネックス）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2YkJaSFM5VDNCSjQ2VWk3VWc3T0tmMDg5c0JZNXh0SmZIY3JsNFk1cF9weU9rclBJdmFnOUtQSHk2VUh4czRPTVVaVlFnOUI3VS1PbFN2WksxRnV0ZHlXQm1ETnRIQ1k1RkpfVVJqcXMzTmJHUTYtaGQ5N3lpS0E?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-19T05:35:03+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "人事"
+      ],
+      "summary": "“音楽に出会える雑貨店”20日に原宿でオープン SML辻野社長「音楽を愛することを形に」（スポニチアネックス） Yahoo!ニュース",
       "source_count": 1
     },
     {
@@ -433,7 +609,7 @@
       ],
       "tags": [],
       "summary": "豊田通商がエジプト風力発電に賭ける理由…300億円融資を支える「貿易保険」の仕組み ビジネスジャーナル",
-      "source_count": 1
+      "source_count": 2
     },
     {
       "id": "f919d797c96d0fef",
@@ -8782,180 +8958,6 @@
         "DX"
       ],
       "summary": "三菱商事(株)【8058】：今の株価の理由は？値動きの背景をAIが解説 Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "372602bcab004cb6",
-      "title": "ＰＨＣＨＤについて、三井物は保有割合が減少したと報告 [変更報告書No.9]",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93VmtmYjdwVXBoaVV6RzI4REdLOXdDcTRhWVNLd0tOLXEzcEhOWFd5bzVQRXVFUHA4YmNEX3o1MUZSOW93RnI4a0FmMGstYndwU1hZcGtSS1RjeTdERmYtZg?oc=5",
-      "source": "株探",
-      "published": "2026-10-29T06:33:02+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [],
-      "summary": "ＰＨＣＨＤについて、三井物は保有割合が減少したと報告 [変更報告書No.9] 株探",
-      "source_count": 1
-    },
-    {
-      "id": "c2b67593e75e0dfa",
-      "title": "長瀬産業が「ProPlus＋」と「Steward」を採用し新リース会計基準に対応する理由",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsSmxheTl1YXZkWWNSVHFCaUtsVjFMdUthUlI3TS1qOXF2YUJDT0dLU2NrUTNqMUc2NHU4NVFhcXhSU0hubVBZS3BOdTVLcXNsR3dGTF94TDdjQWJqRERhTjA3dzFMYkhQMlN4Wk1R?oc=5",
-      "source": "ニュースメディアVOIX",
-      "published": "2026-10-29T06:14:41+00:00",
-      "company_ids": [
-        "nagase"
-      ],
-      "tags": [
-        "就活"
-      ],
-      "summary": "長瀬産業が「ProPlus＋」と「Steward」を採用し新リース会計基準に対応する理由 ニュースメディアVOIX",
-      "source_count": 1
-    },
-    {
-      "id": "46eb25b7e39003f4",
-      "title": "東京本社を移転～多様なパートナーとの接点を広げ、新たな価値創造を加速する拠点へ～ | 豊田通商株式会社",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qTHI4UUo2SnFqc1BNSW5SeU1HRmtSYTgwdkx1Z09WT01hWldQazZFWm9HZzZaTjR2ankxOFFuU09DM2E0ZFlRTFpKdHRib0xTQUYyZzZDYndxT0dDVHZLTWFLT2tMSWVKQWE1OGdB?oc=5",
-      "source": "豊田通商株式会社",
-      "published": "2026-10-29T06:01:47+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "提携"
-      ],
-      "summary": "東京本社を移転～多様なパートナーとの接点を広げ、新たな価値創造を加速する拠点へ～ | 豊田通商株式会社 豊田通商株式会社",
-      "source_count": 1
-    },
-    {
-      "id": "2118d2bde10675d4",
-      "title": "豊田通商、東京本社を移転 ～多様なパートナーとの接点を広げ、新たな価値創造を加速する拠点へ～",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qTHI4UUo2SnFqc1BNSW5SeU1HRmtSYTgwdkx1Z09WT01hWldQazZFWm9HZzZaTjR2ankxOFFuU09DM2E0ZFlRTFpKdHRib0xTQUYyZzZDYndxT0dDVHZLTWFLT2tMSWVKQWE1OGdB?oc=5",
-      "source": "豊田通商株式会社",
-      "published": "2026-10-29T06:01:47+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "提携"
-      ],
-      "summary": "豊田通商、東京本社を移転 ～多様なパートナーとの接点を広げ、新たな価値創造を加速する拠点へ～ 豊田通商株式会社",
-      "source_count": 1
-    },
-    {
-      "id": "b097264dd11ad9f0",
-      "title": "【決算速報】豊田通商、上期最終が40％増益で着地・7-9月期も43％増益(株探ニュース)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQemxLbGVPY2d2dXo5Ql9fVWxORVJOSUlOcTZqcGFBZVlhcUpnc2NTWmRnbzFBZm9ucnFCbFU1eTBhUlc2b1FBaGFTdm5td2VVY3pQTWY2bENpc3psZXdwTmlQUlZxZHlBeUFzZ2xHQThxRGJHY3ZDby14SkIzaVZvaU9yNEx3aEk?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-10-29T06:01:24+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "【決算速報】豊田通商、上期最終が40％増益で着地・7-9月期も43％増益(株探ニュース) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "b7d61979c757b1cc",
-      "title": "【決算速報】豊田通商、中間税引前400,961百万。(アイフィス株予報)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdlREMzRoMkJLSTlqS1pUVDFoWWpoMzJxNmZhVmVpQlRMVzEtWVNpWldLMTFHVTBpZ3doYVk1dEMza3F1Z3hUWk9wZXcxVTduOUdoQnJjc2hoVU5DcFBmdTktSTJiLUh6LXFPODNVZ2M0ZmppSjRHaC1lUDJNVDRnZjZWclFNdk0?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-10-29T06:00:40+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "【決算速報】豊田通商、中間税引前400,961百万。(アイフィス株予報) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "09ca7e02cb133a89",
-      "title": "「八重洲一丁目北地区第一種市街地再開発事業」においてオフィスフロアを取得決定、豊田通商と賃貸借契約を締結",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hTnpTNEd3bGt2X2oxUXRSZFktUGtDV09wVlBudGtIWHVWRTcyQUdudG8wYUFsSjZHeFBuc3JiM1lhWE9sX1pIazZDZ00xeUgtOFFKY0VZZnF2MXFnVGhDSEZ2R1JpMkZvaFE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-10-29T06:00:02+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "投資"
-      ],
-      "summary": "「八重洲一丁目北地区第一種市街地再開発事業」においてオフィスフロアを取得決定、豊田通商と賃貸借契約を締結 PR TIMES",
-      "source_count": 1
-    },
-    {
-      "id": "660f5053e816d6e4",
-      "title": "豊田通商、上期最終が40％増益で着地・7-9月期も43％増益",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4clBaM3pWcWdzcTlqRkhZaTlMNEd0VWk5Y291ZF9SRDBiZVFHaTlFcnMwZDBHRHFDaldYaVpOLUg2QWNzeFc2XzVOeTJLbmNYdEE?oc=5",
-      "source": "株探",
-      "published": "2026-10-29T06:00:00+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "豊田通商、上期最終が40％増益で着地・7-9月期も43％増益 株探",
-      "source_count": 1
-    },
-    {
-      "id": "663909f8b20f7002",
-      "title": "豊田通商",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQmM0NzdSMEt1bXYxeE83V3E4cENDQlR1N2lhRjlHVDZNUm9ramdRak5ITTc2WHlVUElLcTNZbWtKUG1NRGR5UTlFZi00VmNyNmlRTHdTVThfamlxVGtyaHQxQU9jLW1xT1hkYXFQaXJ0ZUZDT3hvYjhtMFJKOXlKSEdYMTktR3YxalM2dzRQalJwdTZ0Y2xCNW9oeEk4QmhaRk8wWWk2b0ZBUTNNWVdpQk85NmtvVkVvbmFHYTVqbGZ5a2NwQ1licGlVdF8?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-29T06:00:00+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [],
-      "summary": "豊田通商 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "8d577cfcbff26337",
-      "title": "豊田通商[8015]：子会社との会社分割（簡易吸収分割）に関するお知らせ 2026年10月29日(適時開示) ：日経会社情報DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb1RkcDl4MmJGZmVWX0dVa2poOWpDejI2c3lPc19DZ2x1a01kTFNxQ21zVUZ5UW5LOUdNTW5WNmJka3BJZXB2UHQtbTJjZ3c1NmZWYmliMUdJR3AwazJ3RVpXUjR2MHJqTnR1NURMemRqbUVFQkczTEkzNlFqQ1IxY25nYlNOb0RWUFE5a2ZYVllsWXdCS3VNNXE1RER0Z2dxaklTQzUtR291Ny1BUzR0ZGhIb0k5c1lTWGU2eDZNV0lQQll3U0RsRWg0Rkc?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-29T06:00:00+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [],
-      "summary": "豊田通商[8015]：子会社との会社分割（簡易吸収分割）に関するお知らせ 2026年10月29日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "3acc7c58293e8e15",
-      "title": "豊田通商[8015]：2027年３月期 第２四半期（中間期）決算短信〔ＩＦＲＳ〕（連結） 2026年10月29日(適時開示) ：日経会社情報DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93ZE5vdUROWU5IUHBGYjE2NGUxSGdpaWxUNVdzRW1ObkU1amc5czN1b0J2QjlfRUpsaXBSM1JmTTJmMTZEbDM0UVFPUzNuRk8yZzNlcTJSSWRMeEJadGhtWHpmWWgwYk1waFE?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-29T06:00:00+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "豊田通商[8015]：2027年３月期 第２四半期（中間期）決算短信〔ＩＦＲＳ〕（連結） 2026年10月29日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "d6ba0b014dcf0af7",
-      "title": "豊田通商(株)【8015】：決算情報",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GOGdWMlBFdGE2d3BqLWtvcFU3X1c5eXEwaUE3dTVBZjFadTBUNjV5bl9wb1JjT2pFa2VxdkNKeVZSckpEV0FJZGFxSFBGNXBiQ3ZieXBYaV9TY3VpZVE5dA?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-10-29T06:00:00+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "豊田通商(株)【8015】：決算情報 Yahoo!ファイナンス",
       "source_count": 1
     }
   ]
