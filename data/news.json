@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T22:43:09.799602+00:00",
+  "updated_at": "2026-11-19T03:48:17.613986+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -93,6 +93,61 @@
   ],
   "articles": [
     {
+      "id": "47c7bb6a2605adaa",
+      "title": "住友商事のエリート社員はなぜ米軍基地に30回も侵入したのか 妻と犬まで同行…「スパイ」を疑われた男性が法廷で語った意外な動機（47NEWS）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uOWJuMFNNOWVQVXRid19WajFDd3F5WWc0UmhoYjFjTlBQeHZadmFINVZsdUlIMHRaWTBORlNud0lvbXdNdjAtWlFPY0NLaDZLdTdGeU9NMGo3akpFNTFubExlU0szVy1vVTF0eXFxM0JQcVo4RHk5UzNjX2xCb3M?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-19T02:03:21+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "住友商事のエリート社員はなぜ米軍基地に30回も侵入したのか 妻と犬まで同行…「スパイ」を疑われた男性が法廷で語った意外な動機（47NEWS） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "d79f6eb0cbc70a8f",
+      "title": "未熟さを受け入れた先にあった、 事業を動かす法務の力",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ySFZsQ2VmYlZXMnItQUJJWU0wVkd1djdGaHZCT1RfN29tZUJQY1MzanIxV05CWGprLUlWa3dzUXNWQVdGWHEtWTFRcHBvZENiSWhLZ0FYeXFyWFBONEhoSW9VZUVfMllPVnQzV2hfcDM?oc=5",
+      "source": "朝日新聞",
+      "published": "2026-11-19T01:43:19+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "未熟さを受け入れた先にあった、 事業を動かす法務の力 朝日新聞",
+      "source_count": 1
+    },
+    {
+      "id": "719862e79bd3820a",
+      "title": "IFMEで人気の上履きがリニューアル！スリッポン・バレエシューズタイプの2タイプが2027年2月に新登場",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MYXVudUR0S0RVMFJIdkNpdGhXRUU2cXJqSTNtOGNqS1NsTFdhYzdRdVVrQWhCWEprQUdZQTNoZ2h1LXRVMjF1OXBKY0lHd0t5NktkRGRhSk42dmFQOGVESld1UWJwc0kxWVE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-19T01:00:02+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "IFMEで人気の上履きがリニューアル！スリッポン・バレエシューズタイプの2タイプが2027年2月に新登場 PR TIMES",
+      "source_count": 1
+    },
+    {
+      "id": "0d70c2cf36e070a8",
+      "title": "豊田通商、車載ソフト新会社「豊通デフィネックス」設立 デンソーが20％出資へ",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xZmZjX2JPZjRJbExuQU5DNUswcFU1aFpCQTNhX1VHaUFlclUzR3RyZ2RtTE9mRTdGUUJjS25MZHlNZ29nWldLNWs5LXhYalZGcEVKaUZBU04?oc=5",
+      "source": "LIGARE（リガーレ）",
+      "published": "2026-11-18T23:32:58+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "投資",
+        "新規事業"
+      ],
+      "summary": "豊田通商、車載ソフト新会社「豊通デフィネックス」設立 デンソーが20％出資へ LIGARE（リガーレ）",
+      "source_count": 1
+    },
+    {
       "id": "9dea9abcafbe303c",
       "title": "【28卒】就活人気企業ランキング、丸紅が初の3冠！ 伊藤忠は文系男子で8年連続首位【ダイヤモンド・ヒューマンリソース調べ】",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeUpMSnA3dG5KWVhUc1dMTzcxS2xCY0RXc2VKcWpjR2I1WVFjSUxMal8yOHZaQ0hDVVlxVGRwbTc3NGJUS1RMRnZobEZBYTlGUl9hYW9oZUlscjlRcmV4YnV5anlZVUcyT3p5cnY4ZTJSeGNnTmFQZlRPbjdXMUJUWVJibjhvSlU2cGgzczZTMjJOUVdjWnVTWTdBQ0FBUFRrbFFRTExFNnR3Z1U?oc=5",
@@ -151,6 +206,21 @@
         "海外"
       ],
       "summary": "伊藤忠商事／文化シヤッターに出資、筆頭株主へ／274億円で19％強取得、「持分法適用」視野／資材調達を最適化、海外建材で協業 ニッキンONLINE",
+      "source_count": 1
+    },
+    {
+      "id": "96c9e1cc93635900",
+      "title": "AI活用率が約1.7倍に。三菱商事に聞く、現場の活用を止めないガバナンスと人材育成",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNN2M0dDZzM29KZWl6bGtfeUY3MmlhWUlzSzM5Q1N4TkF5RHhMMWxjRFh4eTlkNzh2cTJMUjVJNktFai1kT2lFTHpxcTMwWExnODFSODhHWjRPNXFqLWRCQ1FIWWZ3czlUZ0hkOEtn?oc=5",
+      "source": "HRプロ",
+      "published": "2026-11-18T15:00:00+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "AI活用率が約1.7倍に。三菱商事に聞く、現場の活用を止めないガバナンスと人材育成 HRプロ",
       "source_count": 1
     },
     {
@@ -446,6 +516,21 @@
         "海外"
       ],
       "summary": "住友商事、タイの二輪金融子会社を売却 NNAアジア",
+      "source_count": 1
+    },
+    {
+      "id": "a131fc66823269c0",
+      "title": "中国からみた米中露首脳会談",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QVHZLeUlpclRNY1d6OHVjREowelM2X2VndjUxdUp6QU9Ncl9IdkYxSWJKOGdWUklkT2ZPN1NPWVJDSXpWWWx0TE5nem8wajVodFJUSnJFV0tnRzZNUkVaOQ?oc=5",
+      "source": "住友商事グローバルリサーチ",
+      "published": "2026-11-17T06:18:47+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "海外"
+      ],
+      "summary": "中国からみた米中露首脳会談 住友商事グローバルリサーチ",
       "source_count": 1
     },
     {
@@ -8870,100 +8955,6 @@
         "海外"
       ],
       "summary": "三井物産出資のＬＧＭＳ、ＡＩ活用の５製品発表 NNAアジア",
-      "source_count": 1
-    },
-    {
-      "id": "47342728ca84197e",
-      "title": "JR九州と住友商事、長崎県に16メガワットの蓄電所 28年12月稼働",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HODFpcWhEV1M2aUctR2ZxU0VDNDZ1N284bFQ4SENHblVIYWRmaXBkZUF4T3l6NUdtdUF0UFZKOWdZTFBMWXlqZ0FfcUtoUmxHYmM5N285U2dpVHlyZmZjcUtqbFRwXzhXTTFDSg?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-28T08:13:24+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [],
-      "summary": "JR九州と住友商事、長崎県に16メガワットの蓄電所 28年12月稼働 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "990a14788c89b4dc",
-      "title": "プレスリリース：伊藤忠商事を親会社に持つ米国ITOCHU Building Products Holdings, Inc.、AI採用プラットフォーム「Blucor」を導入（PR TIMES）",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OZTFkNndlZU9xM1MteVVZUTVxeC0wME14WFJGcVF2WGE1NzZqSFJqT1dXd2I2V1pnZ1Atc3lJTU9QTWVNY3l6bDZmNGhib0l5dXhEVFRiQlEwSGd4YkEtNlE2UDhSUjE5?oc=5",
-      "source": "毎日新聞",
-      "published": "2026-10-28T04:53:25+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "DX",
-        "就活",
-        "海外"
-      ],
-      "summary": "プレスリリース：伊藤忠商事を親会社に持つ米国ITOCHU Building Products Holdings, Inc.、AI採用プラットフォーム「Blucor」を導入（PR TIMES） 毎日新聞",
-      "source_count": 1
-    },
-    {
-      "id": "9f819e0d0a022d3a",
-      "title": "三井物産都市開発／仙台市で東北エリア3件目の物流施設用地を取得、2029年1月竣工へ",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13Q0IwR3BXSm8wRFM1V2g1NW1oNWZBTzNyWVdWT2FMVmw4Tm5QdGF6TndCT2t5dEpmLTI2elRIM1pPajB1aTNyazFESTkyQ09DX3VNWA?oc=5",
-      "source": "物流ニュースのLNEWS",
-      "published": "2026-10-28T04:31:33+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "投資"
-      ],
-      "summary": "三井物産都市開発／仙台市で東北エリア3件目の物流施設用地を取得、2029年1月竣工へ 物流ニュースのLNEWS",
-      "source_count": 1
-    },
-    {
-      "id": "9373d135104945a0",
-      "title": "三菱商事、米国Copper World銅鉱山に追加投資…2029年に生産開始へ",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kVHh2SUxvQzJlYmV3VTFJb0lmV0tqanl1bzhlZHNVWG9EZDlfZi1jUlpqNWZYWEE0anhrbHo4VHk3UjFBc01oNTFrZm5MaDhheVFSSWZReWFwTnJkUm80?oc=5",
-      "source": "レスポンス（Response.jp）",
-      "published": "2026-10-28T04:30:03+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "投資",
-        "海外",
-        "資源"
-      ],
-      "summary": "三菱商事、米国Copper World銅鉱山に追加投資…2029年に生産開始へ レスポンス（Response.jp）",
-      "source_count": 1
-    },
-    {
-      "id": "d45801f48014b09f",
-      "title": "半導体株から資金シフト鮮明、「日本の商社株」──今買うなら三菱商事か伊藤忠か？ 執筆 - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Ba05fUVQ1elpuZ2pWbGZHQWVla013OGIxOVd1d2JidG5ZOGktRUJ4clZzYzJ6WDZ5QjAxQWRJejVMUDdUd2ZLajJTTURLeFJDOW1MUkdieTNkZHN4U0FzWnZQU2JRVnBvM0RidjN1aDA?oc=5",
-      "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
-      "published": "2026-10-28T02:43:00+00:00",
-      "company_ids": [
-        "itochu",
-        "mitsubishi"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "半導体株から資金シフト鮮明、「日本の商社株」──今買うなら三菱商事か伊藤忠か？ 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "5c7828dab8df9b43",
-      "title": "免税システム国内大手のスマートテクノロジーズ＆リソーシーズへの出資について",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FbGlNM0czdHVhY2JXZ2pZaHd2d2NuTkxVSV9sejhlSXVnTmctaF9GTzRnbWNlbkh5Y0xNTTBxcERyRmJsUU00ek1lb0VKcWQ2T2d4NFpyTG40cjNRSThHYjFTLVVzTk9i?oc=5",
-      "source": "伊藤忠商事株式会社",
-      "published": "2026-10-28T01:05:18+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "DX",
-        "投資"
-      ],
-      "summary": "免税システム国内大手のスマートテクノロジーズ＆リソーシーズへの出資について 伊藤忠商事株式会社",
       "source_count": 1
     }
   ]
