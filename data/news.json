@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T10:50:04.237146+00:00",
+  "updated_at": "2026-11-20T22:38:12.732898+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -93,6 +93,62 @@
   ],
   "articles": [
     {
+      "id": "a585a05af0c8ccad",
+      "title": "ゼネコン「経営耐久度」ワーストランキング【建築一式1108社】・【動画レポート】三井物産を辞めた「アルムナイ」有志の飲み会に潜入取材！・旧ビッグモーターの事業を継承したウィーカーズの自賠責保険をAIG損保だけが引き受けた舞台裏",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5vVnZmd3dxMlU0aGRfSGxScGFOZlNfSEdmZFlkeGpRZVR0bXVfRUlVZHRIMDFydUJCWDFrSzBqd0Yxc1QxQ28yVUpmdUE?oc=5",
+      "source": "ダイヤモンド・オンライン",
+      "published": "2026-11-20T19:40:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "ゼネコン「経営耐久度」ワーストランキング【建築一式1108社】・【動画レポート】三井物産を辞めた「アルムナイ」有志の飲み会に潜入取材！・旧ビッグモーターの事業を継承したウィーカーズの自賠責保険をAIG損保だけが引き受けた舞台裏 ダイヤモンド・オンライン",
+      "source_count": 1
+    },
+    {
+      "id": "4b85a3f516c1e667",
+      "title": "中部秋季特集：ペットフード＝三井物産流通グループ 食系卸の強み生かす",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55T0llMEg3V05FZ1Jxb2F3LS1MZnhnb1FHNmJ4RC1FZGhhaGxabnotczN0bDBtZDNMNU9RTlBIT3VETUx5NFBudy1pd2lub01wTkNVc2xmMy1xZGZhSTh5emxWYkNzTFZHYXc?oc=5",
+      "source": "日本食糧新聞・電子版",
+      "published": "2026-11-20T15:05:11+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "中部秋季特集：ペットフード＝三井物産流通グループ 食系卸の強み生かす 日本食糧新聞・電子版",
+      "source_count": 1
+    },
+    {
+      "id": "cb60496fc40fd9b5",
+      "title": "かどや製油TOB、大株主の三井物産がJオイル案を支持",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxbm5hazNSS2RBcjRlYkFsSXhrbmFSa2c0UW10bUE2WUFhQk5wZTBPUnlHaWQ4RzZnRTVHNEJGcTMydmdpRkJEVU9FWDlJY1UxUjBYbEU5WGp6c3QyN3JBOXJNckRtNnR5SkpFVw?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-20T12:54:24+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "M&A"
+      ],
+      "summary": "かどや製油TOB、大株主の三井物産がJオイル案を支持 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "52e6b73676efb56a",
+      "title": "丸紅ロジグループ、タイに物流センター開設",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SNUtkbjctYlpiaWczZ3dFT2FjWURSN0FBb0VyWkRzcUNSd01hbVJXYmNlbEpxYUxJNVI4Yk5PLUlDNjhOdmswcVF5aw?oc=5",
+      "source": "LOGI-BIZ online",
+      "published": "2026-11-20T12:00:12+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "丸紅ロジグループ、タイに物流センター開設 LOGI-BIZ online",
+      "source_count": 1
+    },
+    {
       "id": "98c8a7703d65fa69",
       "title": "ＳＯＳｉＬＡ物流リート投資法人[2979]：（開示事項の変更）国内不動産信託受益権の取得に関するお知らせ 2026年11月20日(適時開示) ：日経会社情報DIGITAL",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85ZGFmblRJZDFSTUlVcWVSTnNVaWxyY0h2Tll6RVdZVk03NmRscGoxYTNSTDh2TEhGY203NnF3WVV1MHVsNWNmZE11ZC1FSlBESkJfLVZTQkxqbGdBUEJ0VURqa0ttamxrWEE?oc=5",
@@ -136,6 +192,19 @@
       "source_count": 1
     },
     {
+      "id": "4fcc35531c99c61b",
+      "title": "文化シヤタについて、伊藤忠は保有割合が5％を超えたと報告 [大量保有報告書]",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CM2hWU3BpTGtNdTRxZTZia001cWtCOXktSkpvV0tBV0FIdnFRenBvY21ORVc5QzRUVUZYOTI5YTNlT0lhbUVuWDN3UFctc3lZQXc?oc=5",
+      "source": "株探",
+      "published": "2026-11-20T06:34:02+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "文化シヤタについて、伊藤忠は保有割合が5％を超えたと報告 [大量保有報告書] 株探",
+      "source_count": 1
+    },
+    {
       "id": "9b76c4461a1698ce",
       "title": "伊藤忠商事株式会社が文化シヤッター株式会社＜5930＞株式の大量保有報告書を提出",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVWI4VHE0c3p1c3NCS0NCVml5WHhBdEk1bFJEZl9pS18yRm1BN3JuY3VuUnVVUUZBcmd2WlNHN2pHWGI3MHpUVWRtUTNjUVhoWHlDbEZJWkNkdUJUZzJDV1FpYXdkbjNfRHFtRHhDRjlIOXBHeVJCbEdjcDlYRHZteEVrM1_SAYoBQVVfeXFMTXpVZjVuTEhWMktOazlNTFp3ZW01cmdsT2I1ZkpPcTNGRm5GZkFCWUVycDFwQUcxTGJxNVNOR2NNdG0zalgyNHhaTHNkanpmS3N2bEh2NmFSdHZpczREYzV5ZkFTT1VXeVVRTVZqZWs2Skt2RVhsMXZFVlpJOEItSk1EWnRJV1o0d25n?oc=5",
@@ -161,7 +230,7 @@
         "DX"
       ],
       "summary": "三井物産子会社、個人向けデジタル社債事業を開始、第1弾は1年債 CoinPost",
-      "source_count": 1
+      "source_count": 2
     },
     {
       "id": "e1db7f0fde7138f3",
@@ -919,7 +988,8 @@
       "published": "2026-11-18T21:09:41+00:00",
       "company_ids": [
         "itochu",
-        "marubeni"
+        "marubeni",
+        "sumitomo"
       ],
       "tags": [
         "就活"
@@ -8876,79 +8946,6 @@
         "投資"
       ],
       "summary": "【売買】芝のビルを取得、サンフロンティアと伊藤忠商事 日経不動産マーケット情報",
-      "source_count": 1
-    },
-    {
-      "id": "c383878ecc3863aa",
-      "title": "北海道稚内市で「わくわくワークフェス2026」に出展",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RVFFGRzZmNFQ2MnFGMy0tOWdCVlJGNXBBMzFXeGxjR2FBczVHc1dUUzZQRGhGdDh1R0toWmFsbXZfYUhsWjRFOFB4VndKTFdBVU5BVkV5LTh4MFVVTkRlSXpsYXJERE5tSThFMGZn?oc=5",
-      "source": "豊田通商株式会社",
-      "published": "2026-10-30T04:56:51+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [],
-      "summary": "北海道稚内市で「わくわくワークフェス2026」に出展 豊田通商株式会社",
-      "source_count": 1
-    },
-    {
-      "id": "5f5e9dce277e19b1",
-      "title": "デジタル・AI戦略「DAIS」特設サイトを開設",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwZUtiVW05TEZ0WXctd1Z2SEl3Z0RCcFlIR3g3a2J3dDhaVHFza2xsN3NIVEFhUVYxR1dKcHFyRHZ2RTJBcHVXMkF0RlFLYUJTcTFhZDVzMDVhZmJtMFU2QVI5RlBYZEZXdjc5eTZRbHlmcFVR?oc=5",
-      "source": "Sumitomo Corporation",
-      "published": "2026-10-30T04:00:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "デジタル・AI戦略「DAIS」特設サイトを開設 Sumitomo Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "963cd8b23b4ebd5b",
-      "title": "手話で注文するカフェ「shuwa²」、伊藤忠ユニダス社長が明かす事業構想",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82anhScjU1dkQyX2pJVldPYVNtTFNJdG1veGExamphYmp5UDFSNXNxeUlsZTdWZE5aTkYzWHBpcjFQSHFLNFdIcVlVX0xRRnM0dkoxQWIwYlc0WEFKQVNN?oc=5",
-      "source": "AdverTimes.（アドタイ） by 宣伝会議",
-      "published": "2026-10-30T03:54:35+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "人事"
-      ],
-      "summary": "手話で注文するカフェ「shuwa²」、伊藤忠ユニダス社長が明かす事業構想 AdverTimes.（アドタイ） by 宣伝会議",
-      "source_count": 1
-    },
-    {
-      "id": "f58b8c479a974161",
-      "title": "豊田通商(株)【8015】：今の株価の理由は？値動きの背景をAIが解説",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HM25zelkzLWdvaHFWNEFBZTUxX2VXZ2w3LUJnejN4aGJCc1BORFNPYU90TGl1Ni00M2Z0SlExa0kybGxxcVpiYjlZeDdva1B3Vy1TTEN6UlhyMjNFNm9Z?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-10-30T03:08:08+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "豊田通商(株)【8015】：今の株価の理由は？値動きの背景をAIが解説 Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "97877c8cd95b2da4",
-      "title": "SBI損保、丸紅情報システムズが提供する生成AI搭載のリアルタイムテキスト化ツール「MSYS Omnis」を本格導入 (SBIホールディングス)－ PR情報｜SBIホールディングス",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZRTdselBkMy11Rl94NlgzcGUyNF9WU0VSZW85a2I3eGlwcEhnRXRweS03ZmpDYTNPWWZ3TFdFQTJYMWlNNzh1bGhOallRZklwc0JudXB1UGlTUXF3bTVZc2QxRFpUQQ?oc=5",
-      "source": "SBIホールディングス",
-      "published": "2026-10-30T02:14:22+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "SBI損保、丸紅情報システムズが提供する生成AI搭載のリアルタイムテキスト化ツール「MSYS Omnis」を本格導入 (SBIホールディングス)－ PR情報｜SBIホールディングス SBIホールディングス",
       "source_count": 1
     }
   ]
