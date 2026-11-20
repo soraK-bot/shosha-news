@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T22:39:50.778677+00:00",
+  "updated_at": "2026-11-20T03:44:58.955983+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -92,6 +92,140 @@
     "就活"
   ],
   "articles": [
+    {
+      "id": "2f4a1a90c85b2d9d",
+      "title": "三井物産、初のセキュリティトークン社債発行へ｜10万円から購入可能",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ldF9HR2lUM0Q4TFhONFpJU3hHUi02TFVWeTBfN3FPenJ0Q1RCNXFQWDNENzVXRHZGQV9abk5nVjNJWWpMTnh1YThkTkt0Zw?oc=5",
+      "source": "BitTimes",
+      "published": "2026-11-20T03:00:06+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "三井物産、初のセキュリティトークン社債発行へ｜10万円から購入可能 BitTimes",
+      "source_count": 1
+    },
+    {
+      "id": "fc24354cbc4fb385",
+      "title": "豊田通商とデンソー、車載ソフトウェア新会社「豊通デフィネックス」設立…SDV時代の開発力強化へ",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nZmV3b0tnZHNfNEc3RWw3ek5wTUJJM2h2YVpEWXg5eVhYRjF0Q181d3p1eUdzOWZ3OHVyd3lvQ194WGlZMGtKdUVlcHNfZDdsTDhPaGwzZ0NpR0hZcWQzVy13?oc=5",
+      "source": "レスポンス（Response.jp）",
+      "published": "2026-11-20T02:45:03+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "新規事業"
+      ],
+      "summary": "豊田通商とデンソー、車載ソフトウェア新会社「豊通デフィネックス」設立…SDV時代の開発力強化へ レスポンス（Response.jp）",
+      "source_count": 1
+    },
+    {
+      "id": "953e8133356a1155",
+      "title": "丸紅ロジスティクス、タイに物流拠点 ペットフード輸出入に対応",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sT2ZEM3dWWmdVdWhVMXllQXVfTzFnS1p0OG5uQzlPX2I3R25KZ1ZnMXRNM0lhQ1BuUE9DR0dBODN4emZoUlJRMkg0TEZUUXNLRTRDREtydUNmZGp2WUE?oc=5",
+      "source": "newsclip.be",
+      "published": "2026-11-20T02:29:38+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "丸紅ロジスティクス、タイに物流拠点 ペットフード輸出入に対応 newsclip.be",
+      "source_count": 1
+    },
+    {
+      "id": "181ef3bb7b73374d",
+      "title": "丸紅ロジ／子会社がタイに物流センター開設、ペットフードのSC最適化支援",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLcHNVaXN6NGExajhjcHhkaWllTk04akZJYWVXcHVpUEVhY3pmOHhiSTBNZndJWFdlRktQUkREbFRXbWNUQlE3dG84Wi1GRUdrcEdFNQ?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "published": "2026-11-20T02:24:45+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "丸紅ロジ／子会社がタイに物流センター開設、ペットフードのSC最適化支援 物流ニュースのLNEWS",
+      "source_count": 1
+    },
+    {
+      "id": "0e59a19ab8fe2dea",
+      "title": "ソニー×伊藤忠の雑貨店が原宿にオープン 宇多田ヒカル、いきものがかり、緑黄色社会らのグッズを展開（スポーツ報知）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UNDlWVnF3a2ZRNWthX1dOVk9kNE9oWnhKeUhnbVNpdDlkRy0zRWY3a0JwbmJYTENMSnNDM0RPRFN2dnRDM1FvNDZwRkxDRGVnN1lfZVhrV1VyS01FVGZucWtxOUR4NzNGcFVST0t4cG45RHJaQmdHYXlIQzZfd0U?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-20T02:00:03+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "ソニー×伊藤忠の雑貨店が原宿にオープン 宇多田ヒカル、いきものがかり、緑黄色社会らのグッズを展開（スポーツ報知） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "c6931a2dc695272e",
+      "title": "伊藤忠商事とソニー・ミュージックレーベルズ、音楽に出会える雑貨店を期間限定で原宿にオープン 14組のアーティストが参加",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHUVFXZ0FPU0tPSHE0TEFXbVZaN0RzaDhiTVJBNFVmSFdvQzI5aVlmWXEwOHhGNGxQOE9jczNTMUVwb01pd18tc1ZpTk0xSTliTGZoTmVPTTVIX1RveG0xWTRyT0pEUE5MS21WSDVLT1NHRlQ0S2lMb011aXhHdUE?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-20T02:00:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "伊藤忠商事とソニー・ミュージックレーベルズ、音楽に出会える雑貨店を期間限定で原宿にオープン 14組のアーティストが参加 Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "0726ffbf50bc403d",
+      "title": "ソニーミュージック所属14組が原宿でポップアップ雑貨店開催　宇多田ヒカル、QUEENら参加",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WWlVXUTBWNzNiM3k4SnUxNERYMjdSdGZ6YVdDZFJJbjI5SU1uMXlocVhsSEJSakNhYVl6NWlLUXRWcU81aE1wbURLNGlveFBxVUpreDJDMnBTSGdJdm9lMUlfOGVIWEw3NnluTlB0QVBVc0XSAXhBVV95cUxObzBFdU9DNVN5UXlMenhqUnFYQlpud1lsVDd5TUFvMmY5VHhBNEwwa0JUeGM0RUQ3TXJhbUwtMkdKYkRtZFlOeW9TT2oycnZtemozYmZtZXJmYUxvRnVmWWx5aDFxczhUSnBmWGY0OUFvMHpyYmc0enA?oc=5",
+      "source": "Infoseek",
+      "published": "2026-11-20T02:00:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "ソニーミュージック所属14組が原宿でポップアップ雑貨店開催 宇多田ヒカル、QUEENら参加 Infoseek",
+      "source_count": 1
+    },
+    {
+      "id": "37d81040a9c20b1c",
+      "title": "宇多田ヒカル、QUEEN、DISH／／… “音楽に出会える雑貨店”が原宿に期間限定オープン　伊藤忠とソニー・ミュージックレーベルズがタッグ",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaDgyRWFPMGxHYjloU0NJSmpvVUZMR3FLc3ZzeU9rZFJ2cFIwZ1BQZnN5dGlLOGNvWGpKUk84NkotWnUxV2RnbzB5clZKVG5iWDhldldreHVlUkpydjJhQTlWcG85OFFUQW9pUHBpc1k1N3JsU25jZGlZdGo0LWJ4V1NhcGFMM2ZHRUxBQTdtRy1YdmvSAYYBQVVfeXFMT0N2UlhjZnI3eUVjS0JDclRvWVFYTkRGMU02cC10X2s2STFPYzFuOGdUaWd1NDYxaDJleGhhMkNzWU5fUnlCa0lYN1AtVFBCQ0FDSVdTRGRMaXlqeHU5cVloQ3N4bTNNblNpdEtjaE9fTmI0ZkJKR3R6MHNsNmh1NnJXQ3FYTkE?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-11-20T02:00:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "宇多田ヒカル、QUEEN、DISH／／… “音楽に出会える雑貨店”が原宿に期間限定オープン 伊藤忠とソニー・ミュージックレーベルズがタッグ ｄメニューニュース",
+      "source_count": 1
+    },
+    {
+      "id": "eec5fe0e6ddb35a7",
+      "title": "金利ある世界で「個人向けデジタル社債」の可能性、三井物産が第１号案件を発行(サーチナ)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSjJJMlpsaS00dGtfS1dsd2VjRDZpMjhKdEVNMVh5bk9Na2tEdTd3Yk5kenRqb0RTaFFyY19fQ1Rldk81LVVITDEyb0NtM1QxbG83NmE1UkNLenJQdVMwV2RBQTNPSXM4SUd5X0laWjFCOXlKQW1QTDNFeFdsRjlObFBzNm92RHc?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-20T01:02:31+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "金利ある世界で「個人向けデジタル社債」の可能性、三井物産が第１号案件を発行(サーチナ) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "f107cbce24107f25",
+      "title": "【丸紅ロジスティクス】タイ王国・アユタヤ県に物流センターを開設 ～ペットフードを中心とした国際物流拠点として、サプライチェーン全体の最適化を支援～",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16UlpRc05oekVtb1JYeVhqRkZMaHkzdWdZT1FlNURvOUJrOUl3eXRCSEVaVlFkZkc1NG9yTHRRZXVvazRJejlRaHpwcHZfdWswRngtRVpYY2w0SUdtdC1nTlpzbHR6OFVDRVE?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-20T01:00:03+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "【丸紅ロジスティクス】タイ王国・アユタヤ県に物流センターを開設 ～ペットフードを中心とした国際物流拠点として、サプライチェーン全体の最適化を支援～ PR TIMES",
+      "source_count": 1
+    },
     {
       "id": "2ab72dae35e6f941",
       "title": "宇多田ヒカルなどのコラボ雑貨も！ソニー・ミュージックレーベルズ×伊藤忠商事の雑貨店オープン",
@@ -207,6 +341,19 @@
         "人事"
       ],
       "summary": "「本社から来た女性課長」の警戒感をどう乗り越えたか 伊藤忠商事執行役員 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "16b72975f6a36a0f",
+      "title": "アーティストとコラボ雑貨 伊藤忠とソニーミュージック",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nU1NEdFBoOU55X0VZUHMtQ19KbWZmZ3FoaGdOZXlNN0pRWEFteVNHelpZQWl0Rm5jMmdxbnNFTGlZaGRUY0twS1Rhc3dyNTFoZFB1TmRxMFk5ay1FeVdaZzhzYw?oc=5",
+      "source": "テレ東BIZ",
+      "published": "2026-11-19T13:00:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "アーティストとコラボ雑貨 伊藤忠とソニーミュージック テレ東BIZ",
       "source_count": 1
     },
     {
@@ -682,6 +829,21 @@
       ],
       "tags": [],
       "summary": "【U15】「第16回豊田通商カップ 第8回愛知県 U15 バスケットボール選手権大会 2026」試合結果(vs.江南Squareblocks)について シーホース三河",
+      "source_count": 1
+    },
+    {
+      "id": "428f200d814e4479",
+      "title": "【ＮＰＢ】元三井物産会長・飯島彰己氏が新コミッショナー就任へ １２球団オーナー会議で正式承認（スポーツ報知）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9saU1NOUducVJpN3FnMWQ5S0dzVnczZ2dWdF8zbmZoVHRpMlRPOXFzVE85c2c2bVRLZWJ2WW1VdnVhQXJQa050WnVEWmpsX3ZEaHVHYTBCZVlpX0tMRF9HZENRYzhiRWJfYmNEdTZJUDFnNjh5LTZIek4xQnR2VU0?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-18T06:34:50+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "人事"
+      ],
+      "summary": "【ＮＰＢ】元三井物産会長・飯島彰己氏が新コミッショナー就任へ １２球団オーナー会議で正式承認（スポーツ報知） Yahoo!ニュース",
       "source_count": 1
     },
     {
@@ -8789,175 +8951,6 @@
       ],
       "tags": [],
       "summary": "豊田通商、東京本社を移転 2030年度に、品川から八重洲へ：ニュース 中日BIZナビ",
-      "source_count": 1
-    },
-    {
-      "id": "fcc25a177ea85d0f",
-      "title": "豊田通商、東京本社を移転（時事通信）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPQm1RNldiSVpFQm1TWnBzMWxldlBNdDVZRmVrZjUydVJlZTZ6QXItdlZyWG5sbHRqalYwSmZfRWJDTVlLQ2VDV09xd1JPMWxTZElmYUR4VHlvcFo3TXNpNWFMdnNPS0FNeHYtUTVHNmpGVDVYRFpza1gxWnVRazA?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-10-29T11:01:07+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [],
-      "summary": "豊田通商、東京本社を移転（時事通信） Yahoo!ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "25b5bfd233827229",
-      "title": "豊田通商、東京本社を移転＝2030年めど(時事通信)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLUg0NmR0QlU1TUdoaEtsbG5zTDFNU3owcnJaT1p0RUhjaERpLV95Sk9EQ3hvc2tIc09SZm5LSmEyWTdnQ3ZYcEloMHZXUDZFYU54WUoyU3hzMlk1UWdkb1FDX0xWbjVIYnJJOGFFZ1BYcThkUWNCY215QXNrVV9vVlVxRm9PREE?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-10-29T10:24:03+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [],
-      "summary": "豊田通商、東京本社を移転＝2030年めど(時事通信) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "10f02ccc788a62e5",
-      "title": "三菱商事(株)【8058】：企業情報（決算時期・代表者名・大株主情報・IR動画など）",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fUFZhenhQQVh1R0wwVkN6RW5IRHdYNjJqNTEzQldkTUJKbDZKZ2dBQ25JQmZxdlJZcE9xY3lCakNxUTdQbXlmeWZQOHoyRmgwN0dseG1zdmtEZVNWMmNjdGItaU5lenJ1cG5PRUpuejNsOXdHOGc?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-10-29T10:02:26+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "三菱商事(株)【8058】：企業情報（決算時期・代表者名・大株主情報・IR動画など） Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "165760c79f6f5c00",
-      "title": "豊田通商(株)【8015】：企業情報（決算時期・代表者名・大株主情報・IR動画など）",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTczRPelhON2JnRkcyMUxBMjlyeTNvUG9HLW05SUxtaTlmeE95UFVWUkdlMmlJVXRqVk9pY2I0eTBoaGdsbDh4bWplUUM1SFhpS0NiT09UeDYzNnkxUkRiaVoxUFdzZ1R4eGtBVHhHWGFfakFN?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-10-29T10:02:26+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "豊田通商(株)【8015】：企業情報（決算時期・代表者名・大株主情報・IR動画など） Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "fd6519d448888060",
-      "title": "豊田通商が東京・八重洲に本社移転 30年度メド、名古屋本社は存続",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IcU1nZFZZVnFVOXFxWWZDaC1xQ09RNVRsZHR5WW12d1FDcTBIc2xIOGtRcFdJWWNJSk55TWoyYmlEcFJPTFZONGZ2MnE2RUxLRWpnQ2wtLUNNaGRCTkxBU1VLRFZZVjVCQmhMUg?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-29T09:27:08+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [],
-      "summary": "豊田通商が東京・八重洲に本社移転 30年度メド、名古屋本社は存続 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "ca9b0a57f6021734",
-      "title": "◎豊田通商、東京本社を移転",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xTi1HMEdJVzQtNWtQc0UwTk1ZS2stb1dvZFd1RDQ4NnR3ZWx3R3JTTWNtTzR2Y2JPNzV5bmQxZ3pEWlMyMEx1SmJGeHJpczJzV2FJSw?oc=5",
-      "source": "時事通信ニュース",
-      "published": "2026-10-29T08:23:00+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [],
-      "summary": "◎豊田通商、東京本社を移転 時事通信ニュース"
-    },
-    {
-      "id": "73cb46744e65139a",
-      "title": "豊田通商、中間連結純利益40．2％増 2620億2600万円(時事通信)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON3Jqdm5USG1vS1FUU0FZbExWZjFQdTUyN0g4TV8xa3JQOUtNb09HVnRTa01rWEJuVUloUDVKVmpjcy1lNUFEcWMwdTVoSXMzZHFsSHdFTzdwblpJaktTUm1HYzBjVEJxUGxzLUQyQmw1WHJtRWgyM1NvaWtES25qX3BER1FQSVE?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-10-29T08:03:08+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "豊田通商、中間連結純利益40．2％増 2620億2600万円(時事通信) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "c29fd25934d15f12",
-      "title": "三井物産[8031]：変更報告書 提出者：三井物産株式会社：日経会社情報DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RMWFISGh5bEZnRUdyMDNjRVhRYWY3M2dRUnZ5QS1BNm5qMWNDMHpPWGViSFV6T2dMcVFzWXBqWkp0a2p5U2pDclJ6MjAycGJELUYwZUU0UEVrNDVwVU9IbFR3aG8xVEFkeFhRQw?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-29T07:48:48+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [],
-      "summary": "三井物産[8031]：変更報告書 提出者：三井物産株式会社：日経会社情報DIGITAL 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "85878f26fc93c166",
-      "title": "ジェネレーションパス[3195]：伊藤忠商事株式会社とのアパレル向け機能性繊維の共同開発・販売に関する事業進捗ならびに基本合意書の契約期間延長および一部変更に関するお知らせ 2026年10月29日(適時開示) ：日経会社情報DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5MHlHU2YtcVMyT1VnR0Q4ZGZVWF9oUHRVXzloQXVvRTVEV05zaEI1dVFMenNTVkVvd3VTWUR6QmxaaWpXamZoWE9SOTFsOFM1R19iMlAzek9kOVJ6T29lX1Q1UFBTSWowY0E?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-29T07:30:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "提携"
-      ],
-      "summary": "ジェネレーションパス[3195]：伊藤忠商事株式会社とのアパレル向け機能性繊維の共同開発・販売に関する事業進捗ならびに基本合意書の契約期間延長および一部変更に関するお知らせ 2026年10月29日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "551590f922497260",
-      "title": "三井物産都市開発、仙台市宮城野区において物流施設開発用地を取得",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wbUdlaHZkdHkxRERZdDFUbVRQN21ib1VCNkF6R044RDUzLXJkOHZrTHplTXlMZ2xWbHVWamlGb1ZBS0o5bGJLZEhZUlFMWThpZ3NZMWpCdUpVVmpYZlBHNVNSVmkyNWZ4WjVSNw?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-29T06:56:57+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "投資"
-      ],
-      "summary": "三井物産都市開発、仙台市宮城野区において物流施設開発用地を取得 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "344f91cf424c0501",
-      "title": "三井物産(株)【8031】：今の株価の理由は？値動きの背景をAIが解説",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QOVVTNXE5bThReW96eDdmaHlJV3FEWkJDTEhEWDhOR2kzRlF2WHRTdXNKZnUweXNuakMyTmYzLUQ2TldvZjdxdEVyelVoMV9UUk15WFZtbmk4c2ZEVGZj?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-10-29T06:54:36+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "三井物産(株)【8031】：今の株価の理由は？値動きの背景をAIが解説 Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "ed7f5fc808266566",
-      "title": "三菱商事(株)【8058】：今の株価の理由は？値動きの背景をAIが解説",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mUjNEVUFFMjhWQTIteEZoSTlfVWpCNzM3S21DR2MzYXBnUDhDYkNyYTJQWEd1THI5TV91SXBpYWh6THc0OFR3ZW5DVXJ3aW1mc0N0TXVTOG1LRDdRMjYw?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-10-29T06:53:13+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "三菱商事(株)【8058】：今の株価の理由は？値動きの背景をAIが解説 Yahoo!ファイナンス",
       "source_count": 1
     }
   ]
