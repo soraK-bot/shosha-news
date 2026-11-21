@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T03:43:44.182496+00:00",
+  "updated_at": "2026-11-21T10:37:08.109386+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -106,6 +106,19 @@
       "source_count": 1
     },
     {
+      "id": "b64842687c2c6dd5",
+      "title": "ヨネックス vs. 再春館製薬所 / トナミ運輸 vs. 豊田通商 高岡大会 女子/男子【バドミントン S/Jリーグ 2026-27",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EZkZNTWVaVXNjVl9FLWpWTlJjY19BTXg1dWI1bjhnQ2NYZWRlcXNiR0tLR0x2T2VrSEpVeVc4emljRmFrbkZQUktxTHdZVGtxQlJIalRTeFI2REJ1Vy16empRSFU1R0txT3h6b0IwRjFLUQ?oc=5",
+      "source": "ABEMA",
+      "published": "2026-11-21T02:23:34+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "ヨネックス vs. 再春館製薬所 / トナミ運輸 vs. 豊田通商 高岡大会 女子/男子【バドミントン S/Jリーグ 2026-27 ABEMA",
+      "source_count": 1
+    },
+    {
       "id": "a585a05af0c8ccad",
       "title": "ゼネコン「経営耐久度」ワーストランキング【建築一式1108社】・【動画レポート】三井物産を辞めた「アルムナイ」有志の飲み会に潜入取材！・旧ビッグモーターの事業を継承したウィーカーズの自賠責保険をAIG損保だけが引き受けた舞台裏",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5vVnZmd3dxMlU0aGRfSGxScGFOZlNfSEdmZFlkeGpRZVR0bXVfRUlVZHRIMDFydUJCWDFrSzBqd0Yxc1QxQ28yVUpmdUE?oc=5",
@@ -134,6 +147,22 @@
       "source_count": 1
     },
     {
+      "id": "c643d49a2010beaf",
+      "title": "豊田通商とデンソー協業 車載ソフト強化で新会社：ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iRUFVQkRLSEdUdFlxdTh3SjVCcHBUaUpsODg4cXd5dnB1MUwwX1NBSjJSZ3hSY2tENWNkYUoxTUdiQzFpM0NjZm9VMndpei03czB6OWUwcUdreFBYSDkw?oc=5",
+      "source": "中日BIZナビ",
+      "published": "2026-11-20T13:41:52+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "提携",
+        "新規事業"
+      ],
+      "summary": "豊田通商とデンソー協業 車載ソフト強化で新会社：ニュース 中日BIZナビ",
+      "source_count": 1
+    },
+    {
       "id": "cb60496fc40fd9b5",
       "title": "かどや製油TOB、大株主の三井物産がJオイル案を支持",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxbm5hazNSS2RBcjRlYkFsSXhrbmFSa2c0UW10bUE2WUFhQk5wZTBPUnlHaWQ4RzZnRTVHNEJGcTMydmdpRkJEVU9FWDlJY1UxUjBYbEU5WGp6c3QyN3JBOXJNckRtNnR5SkpFVw?oc=5",
@@ -159,6 +188,35 @@
       ],
       "tags": [],
       "summary": "丸紅ロジグループ、タイに物流センター開設 LOGI-BIZ online",
+      "source_count": 1
+    },
+    {
+      "id": "c9e2b5b625ceccb3",
+      "title": "勝間和代「片付けの極意」、丸紅課長 涙の理由…2026年上期の人気記事",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ET3l1ZXd2V0dlQ1JVQ1cwTWRkZ3V3NWNqbHNNQzhoTkVlblJXYnphMkZqN0RVRVcwYnNWTGtQdkEzRW50alNGLURHWjVzMzFpclZIUlZoaXZYU01IM3pZVFc2Ny1nQ0xRY2ZJeA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-20T11:55:56+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "勝間和代「片付けの極意」、丸紅課長 涙の理由…2026年上期の人気記事 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "5287da4908923ad4",
+      "title": "豊田通商、アフリカ事業強化へ 再エネ貢献で売り上げ３倍目標",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YX1c4VXppaks5OTBHS2hDd0ZPeFNkcW1xb0lVUWc3T1VRWWpsRTd1dEJSczZSV1lQTkFsaWRmQkxZVTVsTUpVODZhZlpaQTMwTUdad0Rad3VCWDJ0clBtVlFnNE1WWHc?oc=5",
+      "source": "山陽新聞",
+      "published": "2026-11-20T10:22:46+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "海外",
+        "脱炭素"
+      ],
+      "summary": "豊田通商、アフリカ事業強化へ 再エネ貢献で売り上げ３倍目標 山陽新聞",
       "source_count": 1
     },
     {
@@ -312,6 +370,21 @@
         "新規事業"
       ],
       "summary": "豊田通商とデンソー、車載ソフトウェア新会社「豊通デフィネックス」設立…SDV時代の開発力強化へ レスポンス（Response.jp）",
+      "source_count": 1
+    },
+    {
+      "id": "d4120bae06652c87",
+      "title": "豊田通商とデンソー、車載ソフトウェア新会社「豊通デフィネックス」設立…SDV時代の開発力強化へ 1枚目の写真・画像",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DaEM1al9oLUl5WHFXaFdwOFlSQjE4WV84cXIzOG1VLTJ3dVNCbDk0M2JrWHVoWjJsc0lCQTJTSmZGZ2FpQmQ2emEyWDdSbU4xemVFZnAyT1RpV29fY25JaFNmREswV1hkRksxUENvSQ?oc=5",
+      "source": "レスポンス（Response.jp）",
+      "published": "2026-11-20T02:45:03+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "新規事業"
+      ],
+      "summary": "豊田通商とデンソー、車載ソフトウェア新会社「豊通デフィネックス」設立…SDV時代の開発力強化へ 1枚目の写真・画像 レスポンス（Response.jp）",
       "source_count": 1
     },
     {
@@ -970,6 +1043,21 @@
       "source_count": 1
     },
     {
+      "id": "3161ff432ea4d99f",
+      "title": "丸紅情報システムズと網屋、OTセキュリティー対策を一貫支援する「OT SecurePath」を提供開始（BCN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BUjBFYlFINHJfZXNZMnNKekJHeHl0MVdHdElrdWptM1ZrcDlkQUVFZ25IRTA0Zk1tYk5BUnV1QmcwdS1EUFQ4akNCQmZYUTdvRHRscUJnYkJtdUNOOEZTSlY1Ukw0VElUNzRyaGVmRGJOb3hGSVAtSGV4QTZuUFU?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-19T03:55:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "丸紅情報システムズと網屋、OTセキュリティー対策を一貫支援する「OT SecurePath」を提供開始（BCN） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
       "id": "47c7bb6a2605adaa",
       "title": "住友商事のエリート社員はなぜ米軍基地に30回も侵入したのか 妻と犬まで同行…「スパイ」を疑われた男性が法廷で語った意外な動機（47NEWS）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uOWJuMFNNOWVQVXRid19WajFDd3F5WWc0UmhoYjFjTlBQeHZadmFINVZsdUlIMHRaWTBORlNud0lvbXdNdjAtWlFPY0NLaDZLdTdGeU9NMGo3akpFNTFubExlU0szVy1vVTF0eXFxM0JQcVo4RHk5UzNjX2xCb3M?oc=5",
@@ -1127,6 +1215,19 @@
       ],
       "tags": [],
       "summary": "日本橋小舟町の大みこし長瀬産業新社屋に常設展示 江戸の祭り文化を街へ（みんなの経済新聞ネットワーク） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "7d288ecab8bee722",
+      "title": "【戦略】丸紅アセットマネジメントが5号ファンド、累計資産1000億円超に",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fcXB4eGJ2Vkg2REdmX0NzRGZYSXc0VHMzLWx4TFdxZjhWUm5pTXVZRUk0MWEwQmNJY2VydHJscXZnUV8xNmdIT3JyRnVYcVNlbW5rN3g3ZF81RzFzeDVDakl3?oc=5",
+      "source": "日経不動産マーケット情報",
+      "published": "2026-11-18T11:23:22+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "【戦略】丸紅アセットマネジメントが5号ファンド、累計資産1000億円超に 日経不動産マーケット情報",
       "source_count": 1
     },
     {
@@ -1733,6 +1834,22 @@
       "source_count": 1
     },
     {
+      "id": "0e86c271b272ae2c",
+      "title": "豊田通商とデンソー、車載ソフト新会社で提携 27年1月始動",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lbU5EOVY4RjNFNGZGVnpiR2p6cUFvb3lndWY1ejlfVGlUOTBOamE0R3QweHRjLUhRYjNKMGRfazYyODhFTHU3cno5VlE0WVJKMjQ1U3dSUWlVQVF3YVdmeHl3bTRGMnRHdTdyX2U0NlZkUlgt?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-11-16T07:25:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "提携",
+        "新規事業"
+      ],
+      "summary": "豊田通商とデンソー、車載ソフト新会社で提携 27年1月始動 BigGo ファイナンス",
+      "source_count": 1
+    },
+    {
       "id": "1355de78a41405fa",
       "title": "豊田通商が車載ソフト新会社 デンソーも出資、SDV見据え開発強化",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yYU9YRWN6eTlFaUlxcXpzcWVLTWZnclZ0YjNxVUEtTnlqTm54dTNLQ1JBRWNhX25CUTBfcGNmRFpMTVp0VVhsVXl4Z1BIYV93YmJJVjMyeE5iX3p2YUpZR2UyOXdHb2NEMXZFUQ?oc=5",
@@ -1949,6 +2066,21 @@
         "新規事業"
       ],
       "summary": "豊田通商とデンソー、SDV対応の新会社「豊通デフィネックス」設立 ニュースメディアVOIX",
+      "source_count": 1
+    },
+    {
+      "id": "a0ad4fb567eb9c1f",
+      "title": "豊田通商、エジプトで900MW風力発電事業に参画 - ニュース - メガソーラービジネス plus",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zb3ZwUncxbGptY0xjcG5wWWp3bDlGWWVqczJxT3J0U29FTHR1LVd5LVh6eGE2MzBfRXZqSTZhNjgyalJoQkFmbjB6T0cwTXBOZG81VWdvRlR4T2h0RDdaNmVwZDMzMXJKR0p5VGFuaHlaaDNn?oc=5",
+      "source": "日経BP",
+      "published": "2026-11-16T00:58:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "豊田通商、エジプトで900MW風力発電事業に参画 - ニュース - メガソーラービジネス plus 日経BP",
       "source_count": 1
     },
     {
@@ -3393,6 +3525,19 @@
       "source_count": 1
     },
     {
+      "id": "3c6d7d1002779eee",
+      "title": "三井物産共創基金、「遺贈寄付」を通じ社会課題の解決に貢献する日本承継寄付協会への助成決定",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uX3EwOFZLa29qaG1ZTllkVlVILTU0Ty14b3BHUkUteUM4NGR6c3AyeUtCRnZNampkMGtfQVN6Vmw1MnlDaENNNU9mMk1oMDE0V2xIemVmSmk2aklNbDJfSlBEek5BMkVYQzdn?oc=5",
+      "source": "MITSUI & CO., LTD.",
+      "published": "2026-11-10T03:24:56+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "三井物産共創基金、「遺贈寄付」を通じ社会課題の解決に貢献する日本承継寄付協会への助成決定 MITSUI & CO., LTD.",
+      "source_count": 1
+    },
+    {
       "id": "069b4b96f3a90763",
       "title": "脱炭素経営ランキング「NIKKEI GX500」で2年連続最高評価「S」を獲得",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrUUxmS243a1dLQlc3bEF6MjB1a1BwaDNrcnJNWk5JZkZqU0I5MXhRZnMtZ1hENEdTbzB2dE90SC1TbGlTSEllbUdKOElSOTdUOUtlb2FQX3FDNHc0VWItQ0d5eFcxVWtabG9vakNR?oc=5",
@@ -3720,6 +3865,19 @@
         "株主還元"
       ],
       "summary": "長瀬産業[8012]：自己株式立会外買付取引（ToSTNeT-3）による自己株式の買付けに関するお知らせ 2026年11月9日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "6029e3311742dd09",
+      "title": "丸紅[8002]：自己株券買付状況報告書（法２４条の６第１項に基づくもの） (有価証券報告書) ：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SZUFoSXBCOFJsMlZOQ2cySnVKanh4Y3dtVTBpbFNaMkc1OFJsZHZKRDNoR0FsWEh2YTdOUklrWGVLNVVWZFp1YkdJVHF0OTd1dGY2U2I5TVZneXBBRmhLRlpCU3pLQlVzWG9NRg?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-09T08:00:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "丸紅[8002]：自己株券買付状況報告書（法２４条の６第１項に基づくもの） (有価証券報告書) ：日経会社情報DIGITAL 日本経済新聞",
       "source_count": 1
     },
     {
@@ -8799,156 +8957,6 @@
       ],
       "tags": [],
       "summary": "ＪＦＥ商事(株)【8110】：株価・株式情報 Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "4633d63ee3716889",
-      "title": "サトウキビからガス製造 商業化へ28年から実証開始/東邦ガス×豊田通商",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84ZkxMWk5CNXRfVGJBdE83dkNXWGJpLUJBUHRtNy1nWG5pMVAxQk05cFBQMnNVdWZUQmhmTkpWWEU4RzRweW5idDc4OUg2a2hNem5JakN3WVlqQlZPMmxtMllsODBON1R4cl80NA?oc=5",
-      "source": "ガスエネルギー新聞",
-      "published": "2026-10-30T11:20:00+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [],
-      "summary": "サトウキビからガス製造 商業化へ28年から実証開始/東邦ガス×豊田通商 ガスエネルギー新聞",
-      "source_count": 1
-    },
-    {
-      "id": "6f11e9e3dfecdf95",
-      "title": "豊田通商、バングラ子会社に追加出資（時事通信）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDYWdVV2Zaa0RVZmZWb3YyRkhUWVE3NGJmZ3g1QzViLWFER2Rwd29lWHBma2dXc0xFQjNhQ1VpYXM0REU3MWtxQ0R0Nk1YblRCMU9XeVhJNXh3YlJYQ2lvdEdiNkRlSHhDczdqU1ZDS3VTaXE1TDY5blc1MUxyMTA?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-10-30T11:01:08+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "投資"
-      ],
-      "summary": "豊田通商、バングラ子会社に追加出資（時事通信） Yahoo!ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "5d1e60b0c25ed28e",
-      "title": "NTT次期社長候補、本命・対抗「2人の実名」公開！島田一強体制を継ぐのは誰か？・三井物産CFOが新中計で「2030年度純利益1.4兆円超」を掲げた真意を激白・『映画ちいかわ』大ヒットでも東宝は減収減益も…",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1YM2pGa0h6SFZxcHRjV25DTkhMYV9BQktQTElPcDBNdXpPVkdhSTNvQTZOTG9EUmlyYjVoWi1UWGZmMXQ1dGV4a1pYd3nSAU9BVV95cUxOR3JLV21Lb3J2eVI4ZHhGN21zN216eEZscERPX1dXTjB6UFhBMzVGZnFMcEJKb1p2S2ZQcHFVcHFRSnhfdHdRbjgybUdreHN3?oc=5",
-      "source": "ダイヤモンド・オンライン",
-      "published": "2026-10-30T08:00:00+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "人事",
-        "決算"
-      ],
-      "summary": "NTT次期社長候補、本命・対抗「2人の実名」公開！島田一強体制を継ぐのは誰か？・三井物産CFOが新中計で「2030年度純利益1.4兆円超」を掲げた真意を激白・『映画ちいかわ』大ヒットでも東宝は減収減益も… ダイヤモンド・オンライン",
-      "source_count": 1
-    },
-    {
-      "id": "71b56bd57daeb8ad",
-      "title": "三菱商事(株)【8058】：掲示板",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41MHNNbmFfMHhUVTR2NmNOSkU0VlNjMVlWMmtrcUM3UnpXOWpxN252Rmh5SlB2Vjg1bG40NVBpaDBldEFCNzVKMHlZWGU4bndUQVJ5bjVPOTVfZw?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-10-30T07:09:08+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [],
-      "summary": "三菱商事(株)【8058】：掲示板 Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "38eaa663a5465c35",
-      "title": "豊田通商、バングラ子会社に追加出資＝特定子会社に、モビリティ事業拡大(時事通信)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeU1kMmtDRFJVRkRCbkpVTUJoTzQzWGJxSk1XMzQ5M1UtSWZ6WHBzYmptNWNSb0pLT3FBUXBNdkF6WHN5TWdxdHF5T00xTWl4V1pqS0EwcEJxNmhzSnZ2a3VSMVZkSVRLRmJET0RkOUtqYkdyenVBVmYxVzFOWlpoVWFhTHAyRzg?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-10-30T07:06:31+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "投資"
-      ],
-      "summary": "豊田通商、バングラ子会社に追加出資＝特定子会社に、モビリティ事業拡大(時事通信) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "8acbceae8f3de247",
-      "title": "電通総研、伊藤忠グループによる公開買付けに賛同を表明",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zUEdVSkN5R1F0R3czdEZVbTg0d000SlRyMG40QV9YRkpOVC1hLU1rM3dCeVl6dllqVnAtMmNmUXhnQ0RBdzhNYXRZc2FjZ0xuc0N3?oc=5",
-      "source": "ニュースメディアVOIX",
-      "published": "2026-10-30T07:02:02+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [],
-      "summary": "電通総研、伊藤忠グループによる公開買付けに賛同を表明 ニュースメディアVOIX",
-      "source_count": 1
-    },
-    {
-      "id": "574c88a4e6c3e966",
-      "title": "豊田通商(株)【8015】：株価・株式情報（夜間PTS含む）",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PdWlSMU9fMlpVOXNkeU90SUxiOWt4bklCRzg2OXVLOUJxMkJYVmtNSlg2X28wbm5JbzAwdXN3T3RYRk1TY0V6d003V3phX0JRc2c?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-10-30T07:00:00+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [],
-      "summary": "豊田通商(株)【8015】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "e31dee27c19245d0",
-      "title": "双日(株)【2768】：掲示板",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Na1Z5OFRjSy1NSXNLTlREeG82Uk5XTnAzRGZ1cktCUjR2SW9wVDd5WnJZb2E1QzM4QlRlQ3RMVERFb0xCZmZoanR0R0xmVWp6b05TeU9iT2lOUQ?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-10-30T07:00:00+00:00",
-      "company_ids": [
-        "sojitz"
-      ],
-      "tags": [],
-      "summary": "双日(株)【2768】：掲示板 Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "2023118d5ae88af9",
-      "title": "双日(株)【2768】：株つぶやき",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vQ0x4MThHazlERXNSU1hNTTQ2TVBpYjhySC04WFJucWRzM2g3T2ZHVzlnUWd2QVI2STFPYTNoRnZSV3NIUzVLQ2xVSVJpTnU0OW9Sejc1d2Q?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-10-30T07:00:00+00:00",
-      "company_ids": [
-        "sojitz"
-      ],
-      "tags": [],
-      "summary": "双日(株)【2768】：株つぶやき Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "8b2da42429a4d4bc",
-      "title": "三井物産(株)【8031】：現物信用売買内訳時系列",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HUFY3OV9PdVVtekdINi1BRFV3NEFaYzJnZW5MUWdFeEY1ZnBianVqMWZfUjlUYms5S3BBeHlCVzY3bDNNLXFhaXFieGlNamRhZUVxT3NrWUVyTVFienpj?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-10-30T07:00:00+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [],
-      "summary": "三井物産(株)【8031】：現物信用売買内訳時系列 Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "a6fa9656a56e3925",
-      "title": "伊藤忠商事(株)【8001】：現物信用売買内訳時系列",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVM1NmcGY0RTNRd0REZHlQUGIxRnhyWnBXa2wzSFh5bS1odVJnSGVLeXl4RDJkT29KOUdoemt0LThJLW41dHRNWVRxRXY4VHJucUF5Q1hxbkFwOUFveWNz?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-10-30T07:00:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [],
-      "summary": "伊藤忠商事(株)【8001】：現物信用売買内訳時系列 Yahoo!ファイナンス",
       "source_count": 1
     }
   ]
