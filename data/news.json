@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T10:37:08.109386+00:00",
+  "updated_at": "2026-11-21T22:29:28.894036+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -92,6 +92,19 @@
     "就活"
   ],
   "articles": [
+    {
+      "id": "bba21d09d3acf8d7",
+      "title": "【丸紅ロジスティクス】タイ王国・アユタヤ県に物流センターを開設 ～ペットフードを中心とした国際物流拠点として、サプライチェーン全体の最適化を支援",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tQ2NMUUQ3ZzZRb3gyVkJ0bzA0aVBLa2JrVW94Tk1udWJVWHFmSDhQUWUtUzlLMEJJbUI3SnhESkd6MzJoVGhya0JTRUFldngtN09RTTRMUlBBWmFFdUpxMlkyS3RLOEEwdElPdXVweDFfaXNT?oc=5",
+      "source": "Excite エキサイト",
+      "published": "2026-11-21T19:10:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "【丸紅ロジスティクス】タイ王国・アユタヤ県に物流センターを開設 ～ペットフードを中心とした国際物流拠点として、サプライチェーン全体の最適化を支援 Excite エキサイト",
+      "source_count": 1
+    },
     {
       "id": "fbe7728819edc247",
       "title": "鹿児島県宇検村、上智大での世界遺産関連のシンポ参加 JAL、伊藤忠商事らと活発な意見交換も（奄美新聞）",
@@ -201,6 +214,22 @@
       ],
       "tags": [],
       "summary": "勝間和代「片付けの極意」、丸紅課長 涙の理由…2026年上期の人気記事 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "f1f76cabd7121c85",
+      "title": "伊藤忠商事が文化シヤッター株18.97％をダルトン陣営の3社から取得、取締役会は買収防衛策を廃止",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON0QybDFoVHhycDhfa1Y5TE0xbHU4Um5QNk1OcnFXR0RsdGx0MEdlUV85a3RnU25IUXdJNkRHbkxuX0YwekI0SGtWTjMyRWZSSzF4STAxbUtWeHA3RHZsbXNnLVBYYUVMeUZwQWF2QThxd3pFTUt3dkVORlU5RTdUajE3R18xMUhFTVJuMkZvYjQyQjcydmV3VA?oc=5",
+      "source": "Tokyo Brief",
+      "published": "2026-11-20T10:37:16+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "M&A",
+        "投資"
+      ],
+      "summary": "伊藤忠商事が文化シヤッター株18.97％をダルトン陣営の3社から取得、取締役会は買収防衛策を廃止 Tokyo Brief",
       "source_count": 1
     },
     {
@@ -1215,6 +1244,19 @@
       ],
       "tags": [],
       "summary": "日本橋小舟町の大みこし長瀬産業新社屋に常設展示 江戸の祭り文化を街へ（みんなの経済新聞ネットワーク） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "1caba3aa650a8f54",
+      "title": "日本橋小舟町の大みこし長瀬産業新社屋に常設展示　江戸の祭り文化を街へ",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVHB2RE5EQWNSWV9uLXRKNEM4aW1lYWJiWGs3N0x5N0tra3dRNzZXclJEeEs2Z2d6NUIxQnJyS0FyOExCZEpsaEc1SFVpTFRpeElSS2h4MVVzbXBLM3BxdTNQNjBXN3VHcVlMNUlVQzVwb09LeXdFdmhVZ3ZpWXBOctIBhgFBVV95cUxPT3ZtY2wzeGdnTjVTSEt2T1RkRFF1NjJEZlB1cG9CWWxzVWFSWFVMT3B4RHRUa2MtbjBwenZtdV93MTZCNEpsQWdGTjU3MUZNZEFMQTA1MEtLcUY4SDB2WEdIaXFjcGZ1Rm1Pb2ZmT3JsY05IUzB0TGlCdk1OREpZU25Lb0thUQ?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-11-18T14:51:00+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [],
+      "summary": "日本橋小舟町の大みこし長瀬産業新社屋に常設展示 江戸の祭り文化を街へ ｄメニューニュース",
       "source_count": 1
     },
     {
@@ -8916,47 +8958,6 @@
         "決算"
       ],
       "summary": "豊田通商 2026年9月中間決算【会見全文】：記者会見録 中日BIZナビ",
-      "source_count": 1
-    },
-    {
-      "id": "5eb6d212c23d6bfe",
-      "title": "【開発】沖縄県庁そばに200室のホテル、丸紅都市開発など3社",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Mamx2OWl0ZGM4VFl2eXV1aUpaaUlaR0k2SjF2QXdmLXZWT1ptcjRhWUZiejgwUmwzWkF0U2QyWEJ4cHlIMU5xazZHX0ExOGxudzFfWDFlNEM1Rm9VbjE1QmtB?oc=5",
-      "source": "日経不動産マーケット情報",
-      "published": "2026-10-31T03:21:53+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [],
-      "summary": "【開発】沖縄県庁そばに200室のホテル、丸紅都市開発など3社 日経不動産マーケット情報",
-      "source_count": 1
-    },
-    {
-      "id": "0d8927410a85ff2d",
-      "title": "丸紅系、AIで駐車場の出庫時間を予測",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oNU5QOE5Jb3haRzdSYW9KcDNvNkp4M0ZlWm0xQlZEc3BwZHEyVURRcE9iUDZBYTZWMG4zZVlSLS0tZW82dV9wQ1dR?oc=5",
-      "source": "LOGISTICS TODAY",
-      "published": "2026-10-30T20:59:23+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "丸紅系、AIで駐車場の出庫時間を予測 LOGISTICS TODAY",
-      "source_count": 1
-    },
-    {
-      "id": "99b2bc98fb3e98cc",
-      "title": "ＪＦＥ商事(株)【8110】：株価・株式情報",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VekhWdU14RTBSMDNCbEpZd0owYkRaQXBHQ2pBYjFlb2RZNW4yMUs5OG5aNEFXOHJLNlZ2OF9ZMjg2dl9oeTZWd0NVZjk4eGpiWHc?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-10-30T14:59:59+00:00",
-      "company_ids": [
-        "jfeshoji"
-      ],
-      "tags": [],
-      "summary": "ＪＦＥ商事(株)【8110】：株価・株式情報 Yahoo!ファイナンス",
       "source_count": 1
     }
   ]
