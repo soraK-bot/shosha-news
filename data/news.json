@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T22:38:12.732898+00:00",
+  "updated_at": "2026-11-21T03:43:44.182496+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -92,6 +92,19 @@
     "就活"
   ],
   "articles": [
+    {
+      "id": "fbe7728819edc247",
+      "title": "鹿児島県宇検村、上智大での世界遺産関連のシンポ参加 JAL、伊藤忠商事らと活発な意見交換も（奄美新聞）",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONzR6MmkwSUVoaDNRNjBqMWZ4c3NYTlh1TXBWWG12WTgxbXJkcllWLUkzX0U0cHVDbjRueDN6ZFBRaEtoTy1aN1ZMZXZncUFFWmtHUEhFa08tZjFEcHYwR2dSX2pxY3daRGtiN0lhbHV0VnBNOFhLak1VZ0JESDQ1aDBxcGVyQkdtSExWQk5B?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-21T02:40:31+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "鹿児島県宇検村、上智大での世界遺産関連のシンポ参加 JAL、伊藤忠商事らと活発な意見交換も（奄美新聞） Yahoo!ニュース",
+      "source_count": 1
+    },
     {
       "id": "a585a05af0c8ccad",
       "title": "ゼネコン「経営耐久度」ワーストランキング【建築一式1108社】・【動画レポート】三井物産を辞めた「アルムナイ」有志の飲み会に潜入取材！・旧ビッグモーターの事業を継承したウィーカーズの自賠責保険をAIG損保だけが引き受けた舞台裏",
@@ -623,6 +636,22 @@
       "source_count": 1
     },
     {
+      "id": "467cc4d18f05f1b8",
+      "title": "三井物産、個人向けデジタル社債事業に参入（時事通信）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RSEtMZFhwWC0ySl9xaVphcjcyZUcxVnJReVM4Q2NUcDAzTVdlQzlETnVtQ2NWVkQySVJnbzQwcGVRVlRtbENxRWNLdFFkNjhhNHdDeDNOZVRveGdNZERzR3pDb2piWWxyb25oNVVfRDJBblBnM295WFo0aHVIdUE?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-19T11:00:45+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "DX",
+        "新規事業"
+      ],
+      "summary": "三井物産、個人向けデジタル社債事業に参入（時事通信） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
       "id": "5f513aea98b75981",
       "title": "三井物産の個人向けデジタル社債はどこで買える？仕組みやリスク、優待、申し込み方法も紹介（2026年11月）",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aUjRlQUdRVE9VX3RJTTR5LWppR2hDZGpxbWJtOEtiM3M3c2FtUFRvWVFwWmV5OVFFZHd0XzFRc09BWU9DdmNncXRoaEl1TllNcDM3bDcyZTJqd3ZJRmc?oc=5",
@@ -778,6 +807,21 @@
       "tags": [],
       "summary": "【BITCOIN JAPAN 2026】Progmat、三井物産、ビットバンクなど専門家が登壇 Infoseek",
       "source_count": 2
+    },
+    {
+      "id": "64bdc2b9c578f9d5",
+      "title": "三井物産、初の個人向けデジタル社債を発行 | 2026年 | トピックス | 三井物産株式会社",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VVUJZRXhpMXppQTl1WGRORUs0cWhuTDU1RUdSLXlvUUxQdkRKd2t1eUQxY0VZNm02RmQ2Q3h2NnNyRlo1SlF2aXg4ejl3ck5sTWZyX0NBT180SjBPbV92T00tQ2Q0bWlKeU5r?oc=5",
+      "source": "MITSUI & CO., LTD.",
+      "published": "2026-11-19T06:31:11+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "三井物産、初の個人向けデジタル社債を発行 | 2026年 | トピックス | 三井物産株式会社 MITSUI & CO., LTD.",
+      "source_count": 1
     },
     {
       "id": "fac1311a2597ce76",
@@ -1058,6 +1102,21 @@
       "source_count": 1
     },
     {
+      "id": "377da7121eda88db",
+      "title": "伊藤忠商事執行役員 会社全体で朝型シフト、女性の働きやすさも変えた",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CdV9NdmV1TjdsMlJqTkF5Ul8yUWVFOTBNbjBGaC1qb0FBMDlDLW1OdE9uV3Mxa1ZVbWlTNE5GaTJoc3R1OW5GOHdxZW9tNDMteTFNOWkxejRQOUZUVUpseWZRM0JPNjFsSWc3MA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-18T15:00:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "人事"
+      ],
+      "summary": "伊藤忠商事執行役員 会社全体で朝型シフト、女性の働きやすさも変えた 日本経済新聞",
+      "source_count": 1
+    },
+    {
       "id": "fd1c177e2d784609",
       "title": "日本橋小舟町の大みこし長瀬産業新社屋に常設展示 江戸の祭り文化を街へ（みんなの経済新聞ネットワーク）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zcUVjUlpQclRZNGlLTF82V2JiUVB0UW5heXFNNDhzRUg3VnNFRVFiWW9RWmFkUDhFOW9uQldnaVE0YmU2ajlybjNWQ3kyRk52UmdiRWxXM3AyTHJlRlNrLVMtMjROVGZ2aFdRYzdORVMwTG1vNF90dFdfUkpUZlU?oc=5",
@@ -1244,6 +1303,19 @@
         "提携"
       ],
       "summary": "丸紅情報、工場のサイバー対策支援 OT領域、網屋と連携 日刊工業新聞",
+      "source_count": 1
+    },
+    {
+      "id": "a8e6114ca90f1d12",
+      "title": "長瀬産業(株)【8012】：株つぶやき",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UOHZSMFEzckxMVTdPa21XV1ctMU1wSUxRSVo2UWttYXFCYzlJTXpSWmdGcW90a2Rocm95QjY1VFRlWERXM0R3QWc1WkxWek9VRHkxYkxtTEc?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-17T17:12:53+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [],
+      "summary": "長瀬産業(株)【8012】：株つぶやき Yahoo!ファイナンス",
       "source_count": 1
     },
     {
@@ -3636,6 +3708,21 @@
       "source_count": 1
     },
     {
+      "id": "df88deecd048cb80",
+      "title": "長瀬産業[8012]：自己株式立会外買付取引（ToSTNeT-3）による自己株式の買付けに関するお知らせ 2026年11月9日(適時開示) ：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54WlhTLWo4U0pOSzNkaTJ2MVBITFR5NHk2NE5jU0g2andXbUNmWXpTSVV5Uy13U0V5azBBN2dSTk1PLVp4MEkzV1ZKaTZKaEZaYlVWdlJFdVZPWUl6bVdtdmhiUWlhVlhOQVE?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-09T08:00:00+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [
+        "株主還元"
+      ],
+      "summary": "長瀬産業[8012]：自己株式立会外買付取引（ToSTNeT-3）による自己株式の買付けに関するお知らせ 2026年11月9日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+      "source_count": 1
+    },
+    {
       "id": "b05b6d92658f3d53",
       "title": "住友商事とSCSK、SDVデジタルエンジニアリングサービス開始…自動車開発を一括支援",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJRkNVMXdFa3JWYmZtV3B2WFkxQVZ5eUtLMEFsY1kxS2tycnRmMm80OHRSRk1ZUTZ0ZXhpRHRUdnB5VFh4TXJKSmxzZmhNWlBCcGRzeTNBUVg5OURzWXZJ?oc=5",
@@ -4562,6 +4649,36 @@
       ],
       "tags": [],
       "summary": "長瀬産業(株)【8012】：掲示板 Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "29154acd1aeeb0c2",
+      "title": "長瀬産業(株)【8012】：決算情報",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zcXA4ZlAyMUFnYjdBZnNJdlJGaEJwZzFJWnVpZjVuMXJwLXAwMHNrSWVUTlRIV1NncVV2dG96TFhhUHJ4REd0SkNPTXl2R2JBdWxVTnNMUGtfcXBuTjZlYg?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-06T08:00:00+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [
+        "決算"
+      ],
+      "summary": "長瀬産業(株)【8012】：決算情報 Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "df8ae362c0ba54f4",
+      "title": "長瀬産業[8012]：2027年3月期 第2四半期決算説明資料 2026年11月6日(適時開示) ：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWZUpxTi1pWm53MGJ6Q1pPQXota2ctSUc1YlQwTDBnMHl1Y21kU3J1akZkbW5MM0lWcktfT3JkOFBwMU9DdExHNEZtM3NvZ3RUbTRkWTBYclZmclVEeWcycGR3X2ZaV1lNenc?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-06T08:00:00+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [
+        "決算"
+      ],
+      "summary": "長瀬産業[8012]：2027年3月期 第2四半期決算説明資料 2026年11月6日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
       "source_count": 1
     },
     {
@@ -8832,120 +8949,6 @@
       ],
       "tags": [],
       "summary": "伊藤忠商事(株)【8001】：現物信用売買内訳時系列 Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "cd31dc264340f398",
-      "title": "住友商事(株)【8053】：今の株価の理由は？値動きの背景をAIが解説",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HZURaMU5UYVdObE53dVpyczRRVXlFRjAtbS1ncEg4OERsM3RmSEJDV0RhanBKd0lqa0tEMlZiSU9IWjYyWEJmWGJEVnJnOTlreDE3dDhSa1NNWjBKZGl3?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-10-30T06:57:01+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "住友商事(株)【8053】：今の株価の理由は？値動きの背景をAIが解説 Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "d475a1de3cfc775a",
-      "title": "丸紅(株)【8002】：今の株価の理由は？値動きの背景をAIが解説",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94M3NCN3B4aktIMXhJWUZncEY3VUNlZTNUVzNwenJqUWhIX3BqNlJHLWZkd0FXQ1hSY0NERWU5Zng5cU5nLThQa1BDRkYwbVdObllWYlh4b2lTaHhYbU00?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-10-30T06:56:31+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "丸紅(株)【8002】：今の株価の理由は？値動きの背景をAIが解説 Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "d34edc2360a62ec1",
-      "title": "東北経済の現在地と、今後の成長を考える",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yMEQ5Q0hsZmRDREJobF9sY2UtZEhYMHpacy1JUDRkcjZvQkppY2cwSnJxTGxWemd6aGtocTZLVmgyaTN2R0pGVDlVSTQ0bkg2Y3RibmIySzV1bVZCX011Ng?oc=5",
-      "source": "住友商事グローバルリサーチ",
-      "published": "2026-10-30T06:34:13+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [],
-      "summary": "東北経済の現在地と、今後の成長を考える 住友商事グローバルリサーチ",
-      "source_count": 1
-    },
-    {
-      "id": "ae447a4a43dde3ba",
-      "title": "中国景気状況 －2026年10月－",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLY1dGZmFMZUVhWml2dWlleTFJSGNUVklvRmRTYzlGSjMtS3Z3UkRTU0xLZHgzS3JPTnBwcXdoWTJfcFVzbFlLWkdqYjFRaDl0TnJjMTFyN2llNEFPSHVhOA?oc=5",
-      "source": "住友商事グローバルリサーチ",
-      "published": "2026-10-30T06:34:13+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "海外"
-      ],
-      "summary": "中国景気状況 －2026年10月－ 住友商事グローバルリサーチ",
-      "source_count": 1
-    },
-    {
-      "id": "c396a99a13b57e68",
-      "title": "伊藤忠商事[8001]：株式会社電通総研の株式（証券コード：4812）に対する公開買付けの開始に関するお知らせ 2026年10月30日(適時開示) ：日経会社情報DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORzhfQklDb2ZMLUMxRUtqcU05UjBkaEFWUHh0bHAzMUhvNGhlaE9SZ3Zfb0w4aDFMRTEtRUt4SG16ZnpyUE9uVG1UeVQ3b3Z6TXAyc0FWSTltZ1JTdldia0R6dmxEeXFra21oYWg3U20tVWVEX0plMVFYVTkyc3ZpOERhZnk1RllZTk5qMk9YNlNhZUpKTDRqSjJ1d2E5SHJGVS10LWJTaVp1QUFBT0p1Z1JkSkZqMi1KOHlVYllOck8wN2hvZUR4S09jd2k?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-30T06:30:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [],
-      "summary": "伊藤忠商事[8001]：株式会社電通総研の株式（証券コード：4812）に対する公開買付けの開始に関するお知らせ 2026年10月30日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "97e4029d59f8e37b",
-      "title": "台湾景気状況 －2026年10月－",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43aGNmcUFFYUhTUnl2ZXVYZTdrWmlQZGRRczlqUlZZOHlNUFNGaU5CVDl1dUdwY2dRU2NzQ1FnZURDMW54R2ZpVmwxOTVDbTFWbERYaEdNY3l1MWpOTU9QOA?oc=5",
-      "source": "住友商事グローバルリサーチ",
-      "published": "2026-10-30T06:29:12+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [],
-      "summary": "台湾景気状況 －2026年10月－ 住友商事グローバルリサーチ",
-      "source_count": 1
-    },
-    {
-      "id": "ea7421e5117a3691",
-      "title": "◎豊田通商、バングラ子会社に追加出資",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95emhnaFhFdzd5MDNCeVBfVUNXUnZqZ3FzLVJrVlJHSEV5eTRQN0FQMGM3d0JseDF4LTJxak9wNkpmbUtxRk50MGZaQkgwRzVQRWx4WQ?oc=5",
-      "source": "時事通信ニュース",
-      "published": "2026-10-30T05:05:00+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "投資"
-      ],
-      "summary": "◎豊田通商、バングラ子会社に追加出資 時事通信ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "12209056ced00de9",
-      "title": "【売買】芝のビルを取得、サンフロンティアと伊藤忠商事",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Vem9HSFkwOUFZeHRGZ3R4WmtBZGxMV19xd01zRUJCTGl4TlJhMlBKSWExbGhzSHAtaENhLUNQZm45RUZvbi1Jbm8wQlZEcEVYa2s1M0NsN1ZGVVliUkJ4eU9B?oc=5",
-      "source": "日経不動産マーケット情報",
-      "published": "2026-10-30T05:04:48+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "投資"
-      ],
-      "summary": "【売買】芝のビルを取得、サンフロンティアと伊藤忠商事 日経不動産マーケット情報",
       "source_count": 1
     }
   ]
