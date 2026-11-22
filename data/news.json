@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T03:45:00.605477+00:00",
+  "updated_at": "2026-11-22T10:37:31.525975+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -276,6 +276,19 @@
         "投資"
       ],
       "summary": "ＳＯＳｉＬＡ物流リート投資法人[2979]：（開示事項の変更）国内不動産信託受益権の取得に関するお知らせ 2026年11月20日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "2443fdce14501912",
+      "title": "住友商事(株)【8053】：ニュース・最新情報",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6RUk5R3BEWWNzLVZXMEIxMDRqdnZRdmxveWxFWmtSOGxHczQwdDByWnBsS0VZVjZNRm5jX253cEN2X2dsdjdLVTFIbnFtQW8zekhtMU5BOHQ?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-20T08:00:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "住友商事(株)【8053】：ニュース・最新情報 Yahoo!ファイナンス",
       "source_count": 1
     },
     {
@@ -8943,22 +8956,6 @@
       ],
       "tags": [],
       "summary": "【移転】八重洲一丁目北地区再開発に東京本社、豊田通商 日経不動産マーケット情報",
-      "source_count": 1
-    },
-    {
-      "id": "ead72e562e8b7dcb",
-      "title": "伊藤忠、訪日客購買データに照準 免税新制度向けシステム会社に出資",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11LTBRMU9NSzhvLVE2UHBBT2Z3UlpoZE9lY0RCVExhaGJsRmZSSHRYbkdRX0RqaE1XUXc4aGNydHh2T0tEZ3c2dEp5bmhOUlN2cDlPb0V1bDQzQkJleTJpYnllNExNbGVkaUlXVQ?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-10-31T20:00:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "DX",
-        "投資"
-      ],
-      "summary": "伊藤忠、訪日客購買データに照準 免税新制度向けシステム会社に出資 日本経済新聞",
       "source_count": 1
     }
   ]
