@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T22:29:28.894036+00:00",
+  "updated_at": "2026-11-22T03:45:00.605477+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -188,6 +188,21 @@
         "M&A"
       ],
       "summary": "かどや製油TOB、大株主の三井物産がJオイル案を支持 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "0af3fccfa35792fc",
+      "title": "第2026-11-20号｜政府がロシアのJTIに対する措置に抗議、伊藤忠はダルトン・グループ3社から全保有株を取得",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuRThmbkFVVHVUODNTOFE2Z3RHVGFoVFhhRnIwUXVfUDlaNUhvaFJBLTJmMHVsM0E2M1hiVmV1dzItQlRiTU5vTzUyTlhoSjgwWTVXYzl1bHlTOHRN?oc=5",
+      "source": "Tokyo Brief",
+      "published": "2026-11-20T12:53:20+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "第2026-11-20号｜政府がロシアのJTIに対する措置に抗議、伊藤忠はダルトン・グループ3社から全保有株を取得 Tokyo Brief",
       "source_count": 1
     },
     {
@@ -1150,6 +1165,7 @@
       "company_ids": [
         "itochu",
         "marubeni",
+        "mitsubishi",
         "sumitomo"
       ],
       "tags": [
@@ -8943,21 +8959,6 @@
         "投資"
       ],
       "summary": "伊藤忠、訪日客購買データに照準 免税新制度向けシステム会社に出資 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "d2212f3a58a18bfe",
-      "title": "豊田通商 2026年9月中間決算【会見全文】：記者会見録",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NQkJTa2UxWGtwdDhiZS1jYkFsMElSZk1XaWIyTnJxa0FlbEFUckoxbUFLTlZXQjJla0ZXakdOQWlzdmlaZ0lObl9oR0hpa2FzRGhaWU5Wa1EtNEc5M0xj?oc=5",
-      "source": "中日BIZナビ",
-      "published": "2026-10-31T05:48:25+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "豊田通商 2026年9月中間決算【会見全文】：記者会見録 中日BIZナビ",
       "source_count": 1
     }
   ]
