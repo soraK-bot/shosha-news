@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T10:37:31.525975+00:00",
+  "updated_at": "2026-11-22T22:35:48.224969+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -92,6 +92,64 @@
     "就活"
   ],
   "articles": [
+    {
+      "id": "c0e37176f931e5c2",
+      "title": "丸紅、インドの工作機械５割増員 車向け強化",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01T05xNVpscHg1UnFieVlrV2RYU216Tnk1Q0tPczJrXzRSSGFJRmo3UHY1LUE5Y01HbTdDQjFHdjNBTXFwZmotWGNxMThZeF9vX2FINjFVWkY?oc=5",
+      "source": "日刊工業新聞",
+      "published": "2026-11-22T20:00:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "海外"
+      ],
+      "summary": "丸紅、インドの工作機械５割増員 車向け強化 日刊工業新聞",
+      "source_count": 1
+    },
+    {
+      "id": "bceb87fb65c06482",
+      "title": "丸紅ロジ、アユタヤにペットフード向け倉庫開設",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5aUEhGQUliMExOcXJVNG1aVlFHc2NaR29UTElYc2VEbWY4ZVRZTF9MSVZKdk0tMld5RDFfeGNSbDNVdTZyRVE?oc=5",
+      "source": "NNAアジア",
+      "published": "2026-11-22T15:00:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "海外"
+      ],
+      "summary": "丸紅ロジ、アユタヤにペットフード向け倉庫開設 NNAアジア",
+      "source_count": 1
+    },
+    {
+      "id": "adbb523e8181da15",
+      "title": "光陽、豊田通商と日本で宅配用電動二輪を展開",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE45S0M3dlRzUFlyaWZCNjhUdDVZTjVOVVZYUGxJb1d0eHU2a0xtUUhBTlNMQmRwODJZTG9rU0RSWmp3ZXFyeHc?oc=5",
+      "source": "NNAアジア",
+      "published": "2026-11-22T15:00:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "海外"
+      ],
+      "summary": "光陽、豊田通商と日本で宅配用電動二輪を展開 NNAアジア",
+      "source_count": 1
+    },
+    {
+      "id": "2ca7e3cc3de97d81",
+      "title": "丸紅ロジスティクス子会社、タイに物流センター開設―ペットフード流通の最適化",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ISTM1OWgxdk4xZ2lpbzhhT3FDZWNQM0NvcG5pSHlaTy16NG0yeWUteHB2SEYyNkhYLWlMNTdXaGltWlJ6TUdiQWh6bEh0RzB6MDROZFhxSXVwUS1FdUJ0Z1g1SdIBaEFVX3lxTE9hb3ZnTkpZOUs0THE2RDg5dnhDMl9pMV9ZZ1dKX09mcHltTGpPalUzTDBpbTVRMzEyaDV5WDhwMlpySGgwYkNsTFNoOWUyblVuZ0pod3VFVmZaRnhZU0FhTkhNM3dqQzg5?oc=5",
+      "source": "財経新聞",
+      "published": "2026-11-22T14:07:04+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "丸紅ロジスティクス子会社、タイに物流センター開設―ペットフード流通の最適化 財経新聞",
+      "source_count": 1
+    },
     {
       "id": "bba21d09d3acf8d7",
       "title": "【丸紅ロジスティクス】タイ王国・アユタヤ県に物流センターを開設 ～ペットフードを中心とした国際物流拠点として、サプライチェーン全体の最適化を支援",
@@ -248,6 +306,19 @@
       "source_count": 1
     },
     {
+      "id": "aad76b9a6b3261a7",
+      "title": "長瀬産業(株)【8012】：株価チャート",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54U3l5T01WR1RfcHNoUzlESERLaW1uMzdXWVgzU3ZGM2VSSjR0ZFFoYXdZM2c5XzlYaDdfWHg4clVRemQwbXNGVVlMZXJwZFl1Z1hvREpQNlFuQQ?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-20T10:32:25+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [],
+      "summary": "長瀬産業(株)【8012】：株価チャート Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
       "id": "5287da4908923ad4",
       "title": "豊田通商、アフリカ事業強化へ 再エネ貢献で売り上げ３倍目標",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YX1c4VXppaks5OTBHS2hDd0ZPeFNkcW1xb0lVUWc3T1VRWWpsRTd1dEJSczZSV1lQTkFsaWRmQkxZVTVsTUpVODZhZlpaQTMwTUdad0Rad3VCWDJ0clBtVlFnNE1WWHc?oc=5",
@@ -292,6 +363,19 @@
       "source_count": 1
     },
     {
+      "id": "574c88a4e6c3e966",
+      "title": "豊田通商(株)【8015】：株価・株式情報（夜間PTS含む）",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PdWlSMU9fMlpVOXNkeU90SUxiOWt4bklCRzg2OXVLOUJxMkJYVmtNSlg2X28wbm5JbzAwdXN3T3RYRk1TY0V6d003V3phX0JRc2c?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-20T08:00:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "豊田通商(株)【8015】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
       "id": "26093f815dcd1702",
       "title": "アドウェイズ、伊藤忠商事が筆頭株主に 取締役会長の岡村陽久氏は持株比率低下",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yZ0t5dXphZTY3ZFl6OWo4VjhZSjRNMF9qS3c3OUtNSzZNMWd3MlZQOFNRTjJzM1NfMS1WejVvUUdJemVSc2lJQ29TZjhBRm5pazMwbjM4dzBiLWt6cERiUFBYcmdyMDgwN1E?oc=5",
@@ -317,6 +401,34 @@
       ],
       "tags": [],
       "summary": "伊藤忠商事 × ソニーミュージック「MASHROOM Our Goodies」にて、若林萌 (P.I.C.S. management)描き下ろしグッズが発売中。｜NEWS P.I.C.S.｜株式会社ピクス",
+      "source_count": 1
+    },
+    {
+      "id": "71b56bd57daeb8ad",
+      "title": "三菱商事(株)【8058】：掲示板",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41MHNNbmFfMHhUVTR2NmNOSkU0VlNjMVlWMmtrcUM3UnpXOWpxN252Rmh5SlB2Vjg1bG40NVBpaDBldEFCNzVKMHlZWGU4bndUQVJ5bjVPOTVfZw?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-20T07:08:40+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "三菱商事(株)【8058】：掲示板 Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "d475a1de3cfc775a",
+      "title": "丸紅(株)【8002】：今の株価の理由は？値動きの背景をAIが解説",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94M3NCN3B4aktIMXhJWUZncEY3VUNlZTNUVzNwenJqUWhIX3BqNlJHLWZkd0FXQ1hSY0NERWU5Zng5cU5nLThQa1BDRkYwbVdObllWYlh4b2lTaHhYbU00?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-20T06:55:51+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "丸紅(株)【8002】：今の株価の理由は？値動きの背景をAIが解説 Yahoo!ファイナンス",
       "source_count": 1
     },
     {
@@ -559,6 +671,19 @@
       ],
       "tags": [],
       "summary": "宇多田ヒカル、QUEEN、DISH／／… “音楽に出会える雑貨店”が原宿に期間限定オープン 伊藤忠とソニー・ミュージックレーベルズがタッグ ｄメニューニュース",
+      "source_count": 1
+    },
+    {
+      "id": "a65cccdf178a19f8",
+      "title": "ソニー×伊藤忠の雑貨店が原宿にオープン　宇多田ヒカル、いきものがかり、緑黄色社会らのグッズを展開",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE5SVURNMDctUmFCSHYzMExsWTdpeng1cEdtRnJqRklpZl9Hejl6dXBMOFhMdlhWQ04tT1JScjkzbjlLVElEd0N6VzRyM0RES1hhdVp1Q1BlenYweWVIaklsQ2czOER6cDllZ2liRUZIb0tmZTdIeHFnOVVqNzRubVJnZ3V1LXduWnRyZERR0gGTAUFVX3lxTE5Db1hxc054bVpXZmxmVHpUeEVUdTZ2UTRtZGV3Vmxsb19tc1d5bjRnUERlRDVoNHp6bEEtMU5ueW1GZXh2MXlVdXotNVZsU0lBOVUzWG5Lc3FOWTVLZFlNT3lDRjhjWUtoOGNaUGpTNXlJMGN3Qy1QOGNIbkk3VUVBQnktVDdGZ0JMWWotWmNrdXd5bw?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-11-20T02:00:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "ソニー×伊藤忠の雑貨店が原宿にオープン 宇多田ヒカル、いきものがかり、緑黄色社会らのグッズを展開 ｄメニューニュース",
       "source_count": 1
     },
     {
@@ -8826,136 +8951,6 @@
         "株主還元"
       ],
       "summary": "三井物産[8031]：自己株式の取得状況（途中経過） 2026年11月2日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "075a987aab37aea4",
-      "title": "丸紅[8002]：自己株式の取得状況に関するお知らせ 2026年11月2日(適時開示) ：日経会社情報DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aU3NDejFoU0dpYzN5RlJURHdUUmdQV2dNaF8ybEpQUUZkcmFZWlFBcnp6TlVWU3E4NUVJaFhOa2hRNDlPRnVaYzE3NUNILXZHMF9hYzZOU1FwcG90NWVTbFcwTW5YbndYLUE?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-01T23:45:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "投資",
-        "株主還元"
-      ],
-      "summary": "丸紅[8002]：自己株式の取得状況に関するお知らせ 2026年11月2日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "db74bdde259a5143",
-      "title": "きょうの主な経済指標・スケジュール＞ＭａｂＧｅｎｅｓｉｓがＩＰＯ、住友商決算発表など(ウエルスアドバイザー)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRDJQVnJTRkphMVVybGZabkhWUEZUWm9zREZ1ZkNSZER0R0lzVk5Ia0ZKaFkwSS1ubkdMNkF5WlYtYzBpUUJ2MURRY1VGYVc0LWFFcWNPMm1nNGNXSnllbVo3ZXNYc3c5VmpWblpMZ0NUREJWbjlCLW40Vk1wcVJ6US1TRGkweTQ?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-11-01T22:38:12+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "きょうの主な経済指標・スケジュール＞ＭａｂＧｅｎｅｓｉｓがＩＰＯ、住友商決算発表など(ウエルスアドバイザー) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "84cd3ba409079195",
-      "title": "【無料公開】名門、丸住製紙が民事再生法を申請、「2つの致命傷」とは？コンサルや銀行、ファンドも大混乱で再建は“茨の道”",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjb1AtYjBzdHJZdUxPRi1OMkNIeEhzdnUyb25rUFROSTZPX3NzR1VmaXhURVBXbjYwVExSZ25ZWV9WNEdqMTBlT0drdjPSAU9BVV95cUxOeFBvTFpJbXp0c01rbzNqU2wwVGhwY251bWl2Qnp0cUJUcWxTXzRzdVMyN3hISlFIYWd2Mm5Pc21nOUNrVjdwbnBoWXQ3RlFz?oc=5",
-      "source": "ダイヤモンド・オンライン",
-      "published": "2026-11-01T20:30:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [],
-      "summary": "【無料公開】名門、丸住製紙が民事再生法を申請、「2つの致命傷」とは？コンサルや銀行、ファンドも大混乱で再建は“茨の道” ダイヤモンド・オンライン",
-      "source_count": 1
-    },
-    {
-      "id": "450940c945738a15",
-      "title": "豊田通商、サステナ材普及へセミナー開催",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtOHpXMHc4WWc3S3MwOVdfd2tJT2ZfaXZvTTRzVVhmcjlKdDVzNVVzSkVWUzBCWHNPTlp5WHoxeldRMjM1RmhJV192LV9JUTQyV3dN?oc=5",
-      "source": "化学工業日報 電子版",
-      "published": "2026-11-01T20:03:08+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "サステナ"
-      ],
-      "summary": "豊田通商、サステナ材普及へセミナー開催 化学工業日報 電子版",
-      "source_count": 1
-    },
-    {
-      "id": "4402f74dc4e61515",
-      "title": "豊田通商、バングラの連結子会社に追加出資",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE44OHRkUm1kTXdOX3pkNWllMmwyNU1TOEU4eTNFcU5MWm41MGtnSEZSVEdpX1ZOQ1ZGTGdKR0dxUDVVX0ZWUHc?oc=5",
-      "source": "NNAアジア",
-      "published": "2026-11-01T15:00:00+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "投資",
-        "海外"
-      ],
-      "summary": "豊田通商、バングラの連結子会社に追加出資 NNAアジア",
-      "source_count": 1
-    },
-    {
-      "id": "f9319398f84c11fd",
-      "title": "【S/Jリーグ2026-27】BIPROGY、トナミ運輸が３−０で制し2連勝！豊田通商は今季の初白星を獲得！＜横手大会・2日目／男子結果＞",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE42WDlLcmNjN0hOVlhWWlFzN1dJUG5Jd2tlbUhvUlJTd2RNM3UxZlhWbnp1R3NYZ1pDeXJyWXhkT2hKQkctX2NiT3h1NNIBU0FVX3lxTFA0anluZ1RoSUY5V3VDeFE0dzJyMTlMVGF6S1Jwd2szUk5ibjYwbnhmRzhOa3FDd3MtMXhYNVNCaDZsYmlnbzhIZEM0Z1FrZ1l6U0Vj?oc=5",
-      "source": "BADMINTON SPIRIT",
-      "published": "2026-11-01T10:44:51+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [],
-      "summary": "【S/Jリーグ2026-27】BIPROGY、トナミ運輸が３−０で制し2連勝！豊田通商は今季の初白星を獲得！＜横手大会・2日目／男子結果＞ BADMINTON SPIRIT",
-      "source_count": 1
-    },
-    {
-      "id": "806601eeb6b0d80d",
-      "title": "【売買】宮城のイオンモールで三井物産デジタルがSTO、取得価格は240億円",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80ekFxSm1za1VBajVwbHl2MnBhdzFNU1M2NEFtZkNlOURUYmJJWFNQalVGVk5xekVPUVF5Qnd0RXBEbVZ4eHRhZGJtRUVWTkJVWkRhdGE4eTZsdG9oSm1YM0tn?oc=5",
-      "source": "日経不動産マーケット情報",
-      "published": "2026-11-01T07:06:09+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "DX",
-        "投資"
-      ],
-      "summary": "【売買】宮城のイオンモールで三井物産デジタルがSTO、取得価格は240億円 日経不動産マーケット情報",
-      "source_count": 1
-    },
-    {
-      "id": "09e57145fcc4d163",
-      "title": "日本企業の弱さ露呈で「狙われやすくなった」…闇サイトで日本に高まる関心、「クレカ１件３８００円」で売買か",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkY2pmYlMwS2dFdE4wUDF0YnZTSUJFUkQwV3U3QmFXajRPZnAtaFpZSDJ2UEJ3dDh3cGtMZDdFQVEyLVZ1RHFMUjJmeEZFM2pYQmVBNmotTC1CN2ZzTHhpWkdLVHlMdWQyeElIRzM3YkRGaGV0Y0VzenhNWEZJZkU?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-11-01T05:34:09+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [],
-      "summary": "日本企業の弱さ露呈で「狙われやすくなった」…闇サイトで日本に高まる関心、「クレカ１件３８００円」で売買か Yahoo!ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "c6eb5a66f784455f",
-      "title": "【移転】八重洲一丁目北地区再開発に東京本社、豊田通商",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qSnoyb2FMX1pxV2pSU2Y1SmZveTlGTXNpMlAxbVA2cC00ZC1WRTVrWlNlWDBSdEROeXk4Z19PQUhMUndiWXU5OFNfWHJpVTVDOWM0Q0Q2Tlg5Ty1uTWI1TDN3?oc=5",
-      "source": "日経不動産マーケット情報",
-      "published": "2026-11-01T03:01:17+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [],
-      "summary": "【移転】八重洲一丁目北地区再開発に東京本社、豊田通商 日経不動産マーケット情報",
       "source_count": 1
     }
   ]
