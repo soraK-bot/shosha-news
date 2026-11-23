@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T22:35:48.224969+00:00",
+  "updated_at": "2026-11-23T03:53:03.717059+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -93,6 +93,93 @@
   ],
   "articles": [
     {
+      "id": "26a5955986836175",
+      "title": "【タイ】丸紅ロジ、アユタヤにペットフード向け倉庫開設（NNA）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMNnM3UWtvQ2RwazVRNTVSTWhiR0VDQ3E4M21XSUN2eVBlX3dhWU1BcElQU1N6U2ZTc2Q0QkdhbTEwS2VNZ3dnQ1d2T3RLWHlYWk5PNXlsR0ZMY00teVBaMXE4SjNLZk5JeWhydDd5VW1KVW9BM2pDUVR4LVZNQk0?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-23T02:30:46+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "【タイ】丸紅ロジ、アユタヤにペットフード向け倉庫開設（NNA） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "c21b733c0baf7b1e",
+      "title": "三菱商事が設立した財団が岩手県復興基金へ1億2800万円寄付 これまでも奨学金、事業者への資金援助など支援 盛岡市",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EbTNhcHpfOUl6bjNYaGNpR29LV2hyTUV4bGNQYmpsQWJTbURVQWR1MlZiQUpSX0w5RE8tNnlQSGR0RzRvRlFsNnJGLXllVFJzUW1rQzM4aGs4RUJfbWxqLTNEOGVOX1BWY1lQbzg4TnJGaDdVZXdFazVDWHNYanM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-23T02:27:17+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "三菱商事が設立した財団が岩手県復興基金へ1億2800万円寄付 これまでも奨学金、事業者への資金援助など支援 盛岡市 Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "e4746773d4383a30",
+      "title": "「五大商社」と呼ばれる5社の平均年収はいくら？三菱商事は平均2112万5472円、三井物産は2058万9000円に（LIMO）",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQXhrYmZNN196ZDBMN0lzd2ZOSTRnRTIzT2FpemxQcFRJTWFXSDZfYU4yWmNsNXYxU05wTnl6ZURKN3BoMGNweGdvN3JFOUw5b21ZWklUdUYtZE9PX1NtMjdFT3RWTEJ2OGMzR25GYmNWT3hMWXNaRW16d0wzc1FGWThqcjR6SjdaX0JrYlRB?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-22T23:37:32+00:00",
+      "company_ids": [
+        "mitsubishi",
+        "mitsui"
+      ],
+      "tags": [
+        "就活"
+      ],
+      "summary": "「五大商社」と呼ばれる5社の平均年収はいくら？三菱商事は平均2112万5472円、三井物産は2058万9000円に（LIMO） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "47561ec7322ee6e7",
+      "title": "丸紅ロジスティクス、タイ王国・アユタヤ県に物流センター開設 ペットフード中心とした国際物流拠点",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWTc4dUhnZkwxS2pURnhxbFZUb1FHR0FIZzZQNWhmdUNMbGxRT2ljZ2R0dUU0SVYwNE14SnZ6ZFNUMDR0T29UdUhWRHcyc2xjNFA5aVYxQnVrbTFxMWZjUjB5bmdfaXhQcWtBb3pab3QzQWtfWHpvTnNzRkhqa1hGTVdvc3VmUQ?oc=5",
+      "source": "月刊「事業構想」オンライン",
+      "published": "2026-11-22T23:32:44+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "丸紅ロジスティクス、タイ王国・アユタヤ県に物流センター開設 ペットフード中心とした国際物流拠点 月刊「事業構想」オンライン",
+      "source_count": 1
+    },
+    {
+      "id": "acb19acb3f6318a6",
+      "title": "「五大商社」と呼ばれる5社の「平均年間給与」は三菱商事2112万5472円、三井物産2058万9000円。伊藤忠・住友商事・丸紅はいくらか",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YVFhLWnRsdW0xMFJPU0hvRkI0V1ZhdU1zUjBMblgzb2UzeHh3ZDduV3FCcF81ZW82RG4zblZha2thYmc5SGZRSXhZRl8?oc=5",
+      "source": "LIMO | くらしとお金の経済メディア",
+      "published": "2026-11-22T23:19:00+00:00",
+      "company_ids": [
+        "itochu",
+        "marubeni",
+        "mitsubishi",
+        "mitsui",
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "「五大商社」と呼ばれる5社の「平均年間給与」は三菱商事2112万5472円、三井物産2058万9000円。伊藤忠・住友商事・丸紅はいくらか LIMO | くらしとお金の経済メディア",
+      "source_count": 1
+    },
+    {
+      "id": "e8ae1db7402815ee",
+      "title": "【豊田通商・今井社長】「地球を掘らない」商社の戦い方",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52aDFmX2g4d0Iza1lEcTRET1EwWFdpQkZWYVRJQy1IdTJGVTFfbzB4ajVtcFgyeTNkRFZMMnRPXzZtbHdFUUFnLUZLdzNWTUlhUTEyU2RwSWVDVElOZFo3QWg0TGdnRXY3?oc=5",
+      "source": "NewsPicks",
+      "published": "2026-11-22T20:30:02+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "人事"
+      ],
+      "summary": "【豊田通商・今井社長】「地球を掘らない」商社の戦い方 NewsPicks",
+      "source_count": 1
+    },
+    {
       "id": "c0e37176f931e5c2",
       "title": "丸紅、インドの工作機械５割増員 車向け強化",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01T05xNVpscHg1UnFieVlrV2RYU216Tnk1Q0tPczJrXzRSSGFJRmo3UHY1LUE5Y01HbTdDQjFHdjNBTXFwZmotWGNxMThZeF9vX2FINjFVWkY?oc=5",
@@ -148,7 +235,7 @@
       ],
       "tags": [],
       "summary": "丸紅ロジスティクス子会社、タイに物流センター開設―ペットフード流通の最適化 財経新聞",
-      "source_count": 1
+      "source_count": 3
     },
     {
       "id": "bba21d09d3acf8d7",
@@ -373,6 +460,32 @@
       ],
       "tags": [],
       "summary": "豊田通商(株)【8015】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "e31dee27c19245d0",
+      "title": "双日(株)【2768】：掲示板",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Na1Z5OFRjSy1NSXNLTlREeG82Uk5XTnAzRGZ1cktCUjR2SW9wVDd5WnJZb2E1QzM4QlRlQ3RMVERFb0xCZmZoanR0R0xmVWp6b05TeU9iT2lOUQ?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-20T08:00:00+00:00",
+      "company_ids": [
+        "sojitz"
+      ],
+      "tags": [],
+      "summary": "双日(株)【2768】：掲示板 Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "fe5efa12fb10e115",
+      "title": "伊藤忠商事[8001]：大量保有報告書 提出者：伊藤忠商事株式会社：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FcnNZYzZyS2lKUHhVMTZjeWo3QXF1V2FZaXIzR3FMTDlyM2h6dnR2VWFOM0U0TUZHYThJbjU2eFM0UlIxN3dEbjJrQjYxQTdlUjZWSVdYNGVzUDlKdEs3Y1Y2WTg4ZjRpaVJoXw?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-20T07:56:14+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "伊藤忠商事[8001]：大量保有報告書 提出者：伊藤忠商事株式会社：日経会社情報DIGITAL 日本経済新聞",
       "source_count": 1
     },
     {
@@ -784,6 +897,21 @@
         "DX"
       ],
       "summary": "伊藤忠が月1.3万時間削減、数千件の「二重業務」解消へ AI推進で経営陣を動かした「定量の匂い」とは？ ITmedia",
+      "source_count": 1
+    },
+    {
+      "id": "77c4d7f6908a84d7",
+      "title": "伊藤忠が月1.3万時間削減、数千件の「二重業務」解消へ AI推進で経営陣を動かした「定量の匂い」とは？（1/2 ページ）",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nUmZyMlRLbVB6Rzhfbl85cHJwTWFxem1KVlVBV2t1aWVXVXJjd0FmRlVXYXFVc0thaHVCXzZnRF9LeEhMOWFTTjYxNkZHQVVFTHRVOVg5aldNcVIwRUdtMXByNThlVWNNZmtNc2EzbDFPQQ?oc=5",
+      "source": "ITmedia",
+      "published": "2026-11-19T22:00:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "伊藤忠が月1.3万時間削減、数千件の「二重業務」解消へ AI推進で経営陣を動かした「定量の匂い」とは？（1/2 ページ） ITmedia",
       "source_count": 1
     },
     {
@@ -8817,140 +8945,6 @@
         "業績予想"
       ],
       "summary": "「死角から近づいてくる車」を見抜けるってマジ？ ヒヤリハット19%減！ 見通しの悪い交差点で何が起きているのか au Webポータル",
-      "source_count": 1
-    },
-    {
-      "id": "1e4e816f13d89e54",
-      "title": "グレーターチャイナ及びASEANの地域統括会社を設立",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRUzZhR2xrcHFudGkwZWNpNGxPSUtaTjlRNTV6VXJDZVNVRjdiY1dtM19XbUhYRGVHS1Q3U1NsS0VnVjBXbjFibDlMdV9laWk0NkpicThBVi1TTFU?oc=5",
-      "source": "共同通信PRワイヤー",
-      "published": "2026-11-02T02:30:00+00:00",
-      "company_ids": [
-        "nagase"
-      ],
-      "tags": [
-        "提携"
-      ],
-      "summary": "グレーターチャイナ及びASEANの地域統括会社を設立 共同通信PRワイヤー",
-      "source_count": 1
-    },
-    {
-      "id": "fb51ddfd7dee7c1e",
-      "title": "住友商事とSCSK、SDVデジタルエンジニアリングサービスの提供を開始",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MQ0lnczF1cHR2bjhnMnFaOHFTSVBKVTZDeXVqTzhJZmtyazN0dzBWYVExZ3JfT3c4ekpoMG5saUJQdHcwbl9MQ0lVOVF4X1JlVmZzWnRtOVpsdWo3UjJkQVpOTzRXTUpnbV9OdA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-02T02:28:55+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "住友商事とSCSK、SDVデジタルエンジニアリングサービスの提供を開始 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "cc9888c5865ad297",
-      "title": "三井物産都市開発 仙台市で物流施設開発用地を取得、２９年１月竣工へ｜物流ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fN3VfOGIzWVcyUFl1ckIzeGxKSUNxTzdYcE9MTlh1ZGkyQU1lS1MyeElEMzZtdURXVDRQRjMxb3djOGV4TEhTNnJQdzBMQQ?oc=5",
-      "source": "物流ウィークリー",
-      "published": "2026-11-02T02:13:53+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "投資"
-      ],
-      "summary": "三井物産都市開発 仙台市で物流施設開発用地を取得、２９年１月竣工へ｜物流ニュース 物流ウィークリー",
-      "source_count": 1
-    },
-    {
-      "id": "302721a958d25061",
-      "title": "三菱商事都市開発がナウキャストのAIツール導入、不動産DXを加速",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LQ1BhTC1CMk14R05HaVR2R0lRVU16eEZjZzdVd05PWnlvblNweXQ1bWNPSEM1Mk41Z25ESzhDUmpSenEzYW9IZnlFNTlzZjRzRFlz?oc=5",
-      "source": "ニュースメディアVOIX",
-      "published": "2026-11-02T02:01:49+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "三菱商事都市開発がナウキャストのAIツール導入、不動産DXを加速 ニュースメディアVOIX",
-      "source_count": 1
-    },
-    {
-      "id": "5c0598172f07294a",
-      "title": "ナウキャスト、三菱商事都市開発へ法人営業AXツール「DataLens法人営業」およびデータベースサービス「DataLens CRE営業」を提供開始",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FakwtWTlCc2lEVFczUWJUM3l4ZWZfeng3bndhd3lYRDllaktMU2dneFRVOHlVaVhTS2VHODdUVjZJbGRVdVhnWWV6QWRhdzkydUpRcFlJaHVabnVDb0JNSDc2UDRQWUdtbkE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-02T02:00:02+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [],
-      "summary": "ナウキャスト、三菱商事都市開発へ法人営業AXツール「DataLens法人営業」およびデータベースサービス「DataLens CRE営業」を提供開始 PR TIMES",
-      "source_count": 2
-    },
-    {
-      "id": "65e7eac319ef75f1",
-      "title": "Ｆｉｎａｔｅｘｔホールディングス[4419]：ナウキャスト、三菱商事都市開発へ法人営業AXツール「DataLens法人営業」およびデータベースサービス「DataLens CRE営業」を提供開始 2026年11月2日(適時開示) ：日経会社情報DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Sc0FrMHNXMGpWTkZva3M4Q1NBVzJZckpiQXBiY0ZfMHdHQ3JtNGNIanRhUmpaWDB5dllUYjFZNGlFNnhWdjBkOUFzOXdSTzU1SDc2Q1paTEhHUDZYNmJ3YV9UUWQ2VXhiZnc?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-02T02:00:00+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [],
-      "summary": "Ｆｉｎａｔｅｘｔホールディングス[4419]：ナウキャスト、三菱商事都市開発へ法人営業AXツール「DataLens法人営業」およびデータベースサービス「DataLens CRE営業」を提供開始 2026年11月2日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "7cf6593f3c0af4ed",
-      "title": "自己株式の取得状況（途中経過） | 2026年 | リリース | 三井物産株式会社",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BckJZVGxaWXJadUJWcnpJdmhzT1dhQUxEaHpWNDktZXZjWmlGejBUMGRqenkxRjkybG91eGtfVHZKS21BWGNNTlJHX3B6SGlzVVh0Rk9wamVUTjJMZllUekNUZS03VnFFSmdWMg?oc=5",
-      "source": "MITSUI & CO., LTD.",
-      "published": "2026-11-01T23:51:09+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "投資",
-        "株主還元"
-      ],
-      "summary": "自己株式の取得状況（途中経過） | 2026年 | リリース | 三井物産株式会社 MITSUI & CO., LTD.",
-      "source_count": 1
-    },
-    {
-      "id": "2aaf854041b7a27e",
-      "title": "伊藤忠商事[8001]：自己株式の取得状況に関するお知らせ 2026年11月2日(適時開示) ：日経会社情報DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uWmRETkk2bmpoLW5rWFdzMi1ycUNlQm81Z25fQjJxWTJOT05idGp6ZVRIRU9aMUhNLVUzeVVhNmJLbGdqMW5qSzg2R0MyYkw0OEJoMzF4MzdacEpKVkhfTU1YS1FNZlZMcFE?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-01T23:50:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "投資",
-        "株主還元"
-      ],
-      "summary": "伊藤忠商事[8001]：自己株式の取得状況に関するお知らせ 2026年11月2日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "61c22503166fc25a",
-      "title": "三井物産[8031]：自己株式の取得状況（途中経過） 2026年11月2日(適時開示) ：日経会社情報DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqdDlVT0ZTQ0ZzWUd4c0RmYzNoMkF2YjEyNUZ2am1NeWU1eE9iWXY1Y0RLOG15Snd4RWhJRXR1X2QzdlFFSEY0QW9BckJRT2xnN2Z6Rzl3SkRLa0RDOGtVTEZKXzNfX2dWT0E?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-01T23:45:00+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "投資",
-        "株主還元"
-      ],
-      "summary": "三井物産[8031]：自己株式の取得状況（途中経過） 2026年11月2日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
       "source_count": 1
     }
   ]
