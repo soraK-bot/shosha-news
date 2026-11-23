@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T03:53:03.717059+00:00",
+  "updated_at": "2026-11-23T10:53:49.450327+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -92,6 +92,71 @@
     "就活"
   ],
   "articles": [
+    {
+      "id": "c7324c56558a4455",
+      "title": "【配当利回りは五大商社で最も高い3％超】三井物産の年間配当金は今期140円の予想、11月の中間決算では通期の利益予想を上方修正(LIMO)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUGQ3eEtsME5INGpFVWZodnhCTUJxclpzTExfZXpvTjRpTy1ubl9udURwQTc0UTBlblBKVDROZG5LRmt0Rjc4anVnZ1BTbkhoMVVIWEV6WFBnNVhub3NyekI3MkFtWWZQa2pMMHZiRU5ETkZNZXcyQVFRd09wSFYzOVhyTV8tY1k?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-23T10:05:33+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "株主還元",
+        "業績予想",
+        "決算"
+      ],
+      "summary": "【配当利回りは五大商社で最も高い3％超】三井物産の年間配当金は今期140円の予想、11月の中間決算では通期の利益予想を上方修正(LIMO) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "e9481f74e7f89c77",
+      "title": "ザライ省は、約10年にわたる土地利用の低迷を受け、外国直接投資プロジェクトに対する是正措置を講じた。",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNlgxSTlFVHRfYjl5TEdaUno5em9fQV9wOGZyVDdMNkRVOVN5MnFzWXFuR2tYWkZzRWhJeFgyVjJXSlFwcXhya0tDalpVdnZ1bzRnbktIS3BLX2FBd1FkRWFpa0lTZ2ZZWTE3ZUdFMWU2MDdsaUt4NVZyRDFLRzZwckZ1Ti1GbmZDQW0taFlBUUE1TWZGRzNLT01TNXBWMnRHNU5R?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-23T10:01:30+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "ザライ省は、約10年にわたる土地利用の低迷を受け、外国直接投資プロジェクトに対する是正措置を講じた。 Vietnam.vn",
+      "source_count": 1
+    },
+    {
+      "id": "bbc8e7acb8cb9a62",
+      "title": "【配当利回りは五大商社で最も高い3％超】三井物産の年間配当金は今期140円の予想、11月の中間決算では通期の利益予想を上方修正 今期予想の配当性向は37.6％、2027年3月の権利付き最終日は3月29日 | LIMO | くらしとお金の経済メディア",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53UzdLYWVyNVZ6a1BCWHNnU3lyaDVQaFpGNFMtVTAtTXZHdHloazVPR0c0X3R4ZHYwWXJoam5GMjZLU0cycUI5ajhEazQ?oc=5",
+      "source": "LIMO | くらしとお金の経済メディア",
+      "published": "2026-11-23T10:00:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "株主還元",
+        "業績予想",
+        "決算"
+      ],
+      "summary": "【配当利回りは五大商社で最も高い3％超】三井物産の年間配当金は今期140円の予想、11月の中間決算では通期の利益予想を上方修正 今期予想の配当性向は37.6％、2027年3月の権利付き最終日は3月29日 | LIMO | くらしとお金の経済メディア LIMO | くらしとお金の経",
+      "source_count": 1
+    },
+    {
+      "id": "d2f6b038d11f7da5",
+      "title": "住友商事が中小企業投資の新ファンド 450億円、出資先にAI知見注入",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pU3gtNDlRY2RBQnEzbnlLVXg4MzdMdjZSMkFKaURCQ2V6Q21LSWk2UG1sX3pOYXlzU0QxUzN3ZXp1MGhVV0hldERvTFFCWnBDZTd4aU14X1dRUk5ITjU2UUkyRXhBX0NiVW9FaA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-23T07:15:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "DX",
+        "投資"
+      ],
+      "summary": "住友商事が中小企業投資の新ファンド 450億円、出資先にAI知見注入 日本経済新聞",
+      "source_count": 1
+    },
     {
       "id": "26a5955986836175",
       "title": "【タイ】丸紅ロジ、アユタヤにペットフード向け倉庫開設（NNA）",
@@ -8392,6 +8457,37 @@
       "source_count": 1
     },
     {
+      "id": "7cf6593f3c0af4ed",
+      "title": "自己株式の取得状況（途中経過） | 2026年 | リリース | 三井物産株式会社",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BckJZVGxaWXJadUJWcnpJdmhzT1dhQUxEaHpWNDktZXZjWmlGejBUMGRqenkxRjkybG91eGtfVHZKS21BWGNNTlJHX3B6SGlzVVh0Rk9wamVUTjJMZllUekNUZS03VnFFSmdWMg?oc=5",
+      "source": "MITSUI & CO., LTD.",
+      "published": "2026-11-02T08:00:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "投資",
+        "株主還元"
+      ],
+      "summary": "自己株式の取得状況（途中経過） | 2026年 | リリース | 三井物産株式会社 MITSUI & CO., LTD.",
+      "source_count": 1
+    },
+    {
+      "id": "fb51ddfd7dee7c1e",
+      "title": "住友商事とSCSK、SDVデジタルエンジニアリングサービスの提供を開始",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NbXdPempNV3JFOHo5aEVud00xVUJrczktOG4xbUpWVXZBMHF6T0xPOGdDUU5vckdrNHk4M3ZUcGl4V0xlRGx3SzI4YWNsOFE3N1YyeGpRbVVwYkRLUm96ZDlRVDZ0NUI2N3A2a1hFTVp3TnF1?oc=5",
+      "source": "Sumitomo Corporation",
+      "published": "2026-11-02T08:00:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "住友商事とSCSK、SDVデジタルエンジニアリングサービスの提供を開始 Sumitomo Corporation",
+      "source_count": 1
+    },
+    {
       "id": "a15e74d77bec0a28",
       "title": "決算:住友商事の純利益6700億円、27年3月期に上振れ 実質増配",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wQ1NDTmd0NVlVaXcyRTZsY1dGdFJmSEJ5a01lbzFrUU9pOUtPel9Bem9wSGZ6QmxBLWVuQVY3c3RrOHJnYnpCaS1TYjFBdVVEdUJIWlR1OURrYThubVpsNmw2S3g5d0VEXzYyVg?oc=5",
@@ -8854,97 +8950,6 @@
         "決算"
       ],
       "summary": "【決算速報】住友商、今期最終を6％上方修正・最高益予想を上乗せ、配当も実質10％増額(株探ニュース) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "698b4cda60a4b3e8",
-      "title": "住友商、今期最終を6％上方修正・最高益予想を上乗せ、配当も実質10％増額",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WcE5qaTRrVlg3WTZhSzV0SkJqR0dRWmFFNUI4MjQ5QXk3M0s1TndLdzhsbnJOR1MyTTVCd1dHUC1sdldrYnk0d1h0VTdZNXBLRFE?oc=5",
-      "source": "株探",
-      "published": "2026-11-02T04:00:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "株主還元",
-        "業績予想",
-        "決算"
-      ],
-      "summary": "住友商、今期最終を6％上方修正・最高益予想を上乗せ、配当も実質10％増額 株探",
-      "source_count": 1
-    },
-    {
-      "id": "949077a370ff49c2",
-      "title": "住友商事[8053]：2027年3月期 連結業績予想の修正 並びに 剰余金の配当（中間配当）及び 配当予想の修正（増配）に関するお知らせ 2026年11月2日(適時開示) ：日経会社情報DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nVzB5RV8wemhNSDFQZ2wxbm5PZXU3aktyM1lhTHVaOWtBcWRzd1hHUWlvUzJ5U2lnSFVodElLZ05BVmN1VXJ2R05NS2R3aVh3c2Z5RDFzWG00WV9udWI4b0RDRUw2TjNIY2c?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-02T04:00:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "株主還元",
-        "業績予想"
-      ],
-      "summary": "住友商事[8053]：2027年3月期 連結業績予想の修正 並びに 剰余金の配当（中間配当）及び 配当予想の修正（増配）に関するお知らせ 2026年11月2日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "57f30eec3edf98d5",
-      "title": "住友商事[8053]：2027年3月期第2四半期決算短信〔IFRS〕（連結） 2026年11月2日(適時開示) ：日経会社情報DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSVQwUlpudWZMSWNuWUZuVURpLTRQMGdmMzJjZllOT040WElWbHBYYzFWUl9VQldSa2RPNTlHRXFiSlNJeFVTTUplazBfNWdVdm9lMGxQRGI5YjNKbkhFTTczdlVmbWlRZjlSVkhoNEhNeU5fZkw4cmJlVFdvRWpaMFFudXJMaENxeUZjbjM2dF9OSFZ6TzA5aWJ3MGFlWkZHWlVPYUZ0WXVPY1BhTXhEelZiMzVMZ3JPNUcyVHlZbHg0OWN6cHJ5VThvNFU?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-02T04:00:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "住友商事[8053]：2027年3月期第2四半期決算短信〔IFRS〕（連結） 2026年11月2日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "4031a620c6c6de05",
-      "title": "住友商事、中間純利益15.5％増の3479億円 基礎的収益750億円増、税引前では減益",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5UV291WHhYNzNaM2dldkFLbEtxQjNnUm5yMEZQVUxxa1UxVnVacDl6UGhQSEU5R2k3THhCVmxZNXNMdw?oc=5",
-      "source": "エコノミックニュース",
-      "published": "2026-11-02T03:46:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "住友商事、中間純利益15.5％増の3479億円 基礎的収益750億円増、税引前では減益 エコノミックニュース",
-      "source_count": 1
-    },
-    {
-      "id": "59f200d0f2e3e677",
-      "title": "住友商事(株)【8053】：現物信用売買内訳時系列",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kdzhCbGUyaWo1Qi0tN1o4TnpHRnFOdzVuVHhEdGdIUWlDamk0UjlkWjFDbVRYUEtEbGUtX3pKRG5obllqSzlNMWZHbE1sUUJaYlYtdDRSZ2tLUFJwRXdz?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-11-02T03:22:07+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [],
-      "summary": "住友商事(株)【8053】：現物信用売買内訳時系列 Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "8714a858584a882a",
-      "title": "「死角から近づいてくる車」を見抜けるってマジ？ ヒヤリハット19%減！ 見通しの悪い交差点で何が起きているのか",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VYjdONlM2UGEtRzU0SXNRUDI1QWRpQndiaVR6TVkwTWNoem9UdGMwN0xuNzNHNzlVZVVUM3ZDVUJBcmw5TnFxMWdBeE9VU2ducUIySjV3MHpWY3J3NGR1ZHNsZ240dU9TNW44UGlB?oc=5",
-      "source": "au Webポータル",
-      "published": "2026-11-02T02:51:00+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "業績予想"
-      ],
-      "summary": "「死角から近づいてくる車」を見抜けるってマジ？ ヒヤリハット19%減！ 見通しの悪い交差点で何が起きているのか au Webポータル",
       "source_count": 1
     }
   ]
