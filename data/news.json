@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T03:51:06.257896+00:00",
+  "updated_at": "2026-11-24T10:45:51.445805+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -93,6 +93,159 @@
   ],
   "articles": [
     {
+      "id": "b59a8bc192bc87fa",
+      "title": "「(仮称)広島市中区銀山町ホテル計画」着工",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CaVdMODN4c05VWEFCOU90Rm8xNzhKSS02WXVua2JHdmd3ZVpsUkxQaFFab0IzaFI3Ymw4NVZVcmtiYV9idDI4cTFoWVNtWTdWQ3ZTQTB1Q2l2Z2dPQ2ROX053aXpiZ3Fy?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-11-24T09:45:35+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "「(仮称)広島市中区銀山町ホテル計画」着工 ニコニコニュース",
+      "source_count": 1
+    },
+    {
+      "id": "921d0738115dceab",
+      "title": "伊藤忠、アンモニア燃料への挑戦。「ゼロから1生み出す」。生産・供給・運航 一気通貫。脱炭素化 道筋拓く|日本海事新聞 電子版",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsaFBBNW1qZzQwcGpLUklIMjJFQVlWdnVadlhkSmZzR2gtN1c5RzJqZkNXa3dtVGMxLTFyR245Q1doeXJlWUhMYTd0UXBKQXMxb2pDd0Jn?oc=5",
+      "source": "日本海事新聞 電子版",
+      "published": "2026-11-24T08:44:09+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "脱炭素"
+      ],
+      "summary": "伊藤忠、アンモニア燃料への挑戦。「ゼロから1生み出す」。生産・供給・運航 一気通貫。脱炭素化 道筋拓く|日本海事新聞 電子版 日本海事新聞 電子版",
+      "source_count": 1
+    },
+    {
+      "id": "b013040511606953",
+      "title": "住友商事、バングラデシュ初の地下鉄工事を受注 900億円で線路整備",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0TVJNdFl3em1NZmdjQUtXWUoyLTd0RnhwMU1vM1JXd2NNZTVTdFdlS0pfbkhVZUVGVWUwbzA4Qk1hNEhzYS1sZ0MyeTFBVUxLdlBRN0FwQjREVHJHSFpPYm5acE5ibmY4UlNZOA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-24T08:30:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "住友商事、バングラデシュ初の地下鉄工事を受注 900億円で線路整備 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "cd8cbf7f3e1391ed",
+      "title": "シーホース三河、2026-27シーズン 岡崎・豊田開催試合のチケット販売概要を決定",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zUkQ3eEE1TFdSWS1fMzdINFNmX1RacEJHSHktYVUxSzJuYjNKMDlEQUZfX3BuNm40VjBXencxZmFpT0ZWM0kteE5ubEY3V0R1UGhqdW5iM18yREJpUDBURE5sU1lhV0FkR0t1aU40VVU5dw?oc=5",
+      "source": "Infoseek",
+      "published": "2026-11-24T08:00:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "シーホース三河、2026-27シーズン 岡崎・豊田開催試合のチケット販売概要を決定 Infoseek",
+      "source_count": 1
+    },
+    {
+      "id": "c36efe0e1ff1cdb5",
+      "title": "伊藤忠丸紅鉄鋼 大日鋼業を子会社化（日刊産業新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wMENtSEhLVjl2em1JWTVhVTZzNmF2V0d4ZnJvQU5FRF9MVnpZVDU2V3ZoS0hyTm9sdkVYWnpwTldEVHBUbDFrblF2LTBzekZNZHFsYW8zQlhmb2tMZHlKdkIweHVNc29oTW8wcjBGVDJ6ckU3WFB1M2E2cS1qdm8?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-24T07:10:59+00:00",
+      "company_ids": [
+        "benichu",
+        "marubeni"
+      ],
+      "tags": [
+        "M&A"
+      ],
+      "summary": "伊藤忠丸紅鉄鋼 大日鋼業を子会社化（日刊産業新聞） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "4a6160457695673b",
+      "title": "伊藤忠テクノソリューションズ、熟練者の暗黙知をＡＩで文書化、３年間で５０件の受注目指す",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEME81dGtUdHFqYU9UMEhaNGZLUUwwNFpJSDFUVG5tZlBNMDMxNU9OeEdqQjkzaU9aM2lyS3FtMVJDMUp5bjVDOHNTSHhXN2RXUDRZYg?oc=5",
+      "source": "https://kabu-ir.com/",
+      "published": "2026-11-24T07:04:35+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "伊藤忠テクノソリューションズ、熟練者の暗黙知をＡＩで文書化、３年間で５０件の受注目指す https://kabu-ir.com/",
+      "source_count": 1
+    },
+    {
+      "id": "3b52d163a5fa1135",
+      "title": "住友商事、タイの二輪販売金融会社SCALを売却…ポートフォリオ変革の一環",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kUEh0Zy1MZlNmeVYybGNGTDJlY3FTZnVRUlNFMXE1cnRNMFhTQ1RQWWN4Rk5kUGk4bDhjeS1TTzdOWXE4Q2YtZkV4TU0ycWlhaE9YYXNoLXZzYXlxSk5F?oc=5",
+      "source": "レスポンス（Response.jp）",
+      "published": "2026-11-24T06:45:03+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "M&A"
+      ],
+      "summary": "住友商事、タイの二輪販売金融会社SCALを売却…ポートフォリオ変革の一環 レスポンス（Response.jp）",
+      "source_count": 1
+    },
+    {
+      "id": "d674ec1afacb8c24",
+      "title": "三菱商事都市開発／埼玉県「マチノマ小手指」に12月4日トライアル西友オープン",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZdmJOdU1UbjIxVV9pTmQwVXJITE96UTYxYzNoUS12VWF3MGswSU5QVDk4NnlGY2l0azVWbjhvSEhoUUFIc3VnbmFSNXFuX2hQUTVYNA?oc=5",
+      "source": "流通ニュース",
+      "published": "2026-11-24T04:48:00+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "三菱商事都市開発／埼玉県「マチノマ小手指」に12月4日トライアル西友オープン 流通ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "6fcede4af9e2401b",
+      "title": "「食べてキレイに」が新市場に 三井物産や＠cosmeなど４社が提携、食品メーカーの技術を美容へ（日本食糧新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oOTFwb3pUV09yNzctdThzX3pXMW43Ql9Fb3hrYkRjSW1fWUFzU0JqalA5QVBRWmN5c2NtSU9JMjRYOFloYUFtdlZBVEd0Y3loeFNNdTVuSXNSQ1VOc25sNVg2LWFleXZCVldWQll0ZlBJdVc4NDl5M3ZHeXM3Ym8?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-24T04:16:57+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "提携",
+        "食料"
+      ],
+      "summary": "「食べてキレイに」が新市場に 三井物産や＠cosmeなど４社が提携、食品メーカーの技術を美容へ（日本食糧新聞） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "f42529d4fcef750e",
+      "title": "1/27（水）教育格差シンポジウムVol.５『学習支援がひろげる子どもの未来－支援ノウハウの実践と持続可能な活動モデル－』三菱商事ビルディング（東京・千代田区）にて開催",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNQnJIbHFfMlFwR1V5VHBMN2FxWmxEbWdEZmpmQlRvLTljTlI3U2dmVEZhYXBCck5Sc0kxbk9uZ1ZXeXE3SGtYRzVzbnRHaG1veDlfWmhQWlFId0VCNkdxUG42ZzB1eUxxV3c?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-24T04:00:01+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "1/27（水）教育格差シンポジウムVol.５『学習支援がひろげる子どもの未来－支援ノウハウの実践と持続可能な活動モデル－』三菱商事ビルディング（東京・千代田区）にて開催 PR TIMES",
+      "source_count": 1
+    },
+    {
+      "id": "635dddc72e997a71",
+      "title": "所沢市小手指にNSC(近隣型ショッピングセンター)が誕生 「マチノマ小手指」竣工",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jZVFFb3dPV2tId2JDbVpkQmpaWTgzS0twUzZqZmtLMlNIMGdBVU9wVHpabGk4NjJXOFZyR0I0NXAtQ29Ka0NOS0hYcUVEQQ?oc=5",
+      "source": "アットプレス",
+      "published": "2026-11-24T04:00:00+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "所沢市小手指にNSC(近隣型ショッピングセンター)が誕生 「マチノマ小手指」竣工 アットプレス",
+      "source_count": 1
+    },
+    {
       "id": "c837b86d3bc7fe40",
       "title": "台湾KYMCO、豊田通商と日本向け電動二輪車の販売代理契約",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvaWZHT3lJUjBSU3hHYU9rTjBZcWlJUnV4VjFQcHRpdVo1em1kdmJiakFqZ3V6V1oyZnQ0TzhRdUZwMmlPZ3dfWDlIZXY2aURfUmJ3M2xINWNVSDlrdENJMUhVZlpQVU9n?oc=5",
@@ -101,7 +254,9 @@
       "company_ids": [
         "toyotatsusho"
       ],
-      "tags": [],
+      "tags": [
+        "海外"
+      ],
       "summary": "台湾KYMCO、豊田通商と日本向け電動二輪車の販売代理契約 ashu-chinastatistics.com",
       "source_count": 1
     },
@@ -338,6 +493,19 @@
         "決算"
       ],
       "summary": "【配当利回りは五大商社で最も高い3％超】三井物産の年間配当金は今期140円の予想、11月の中間決算では通期の利益予想を上方修正 今期予想の配当性向は37.6％、2027年3月の権利付き最終日は3月29日 | LIMO | くらしとお金の経済メディア LIMO | くらしとお金の経",
+      "source_count": 1
+    },
+    {
+      "id": "4efd171283a19290",
+      "title": "兼松が航空機エンジン部品販売 延びる機体寿命、交換需要を開拓",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xSzg5dVdXZUE5bXRsQmRMSHB4UTlrMk5kemVMdVZJVlgyY2hvUExiR1ByczMwa1JYTEpFTnpsdjM4eGxqZW1Kcm50NVlSWk11RERpREgtRVU1cG0yU2ZLV011dnpIaU1LQ3Rhcg?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-23T08:00:00+00:00",
+      "company_ids": [
+        "kanematsu"
+      ],
+      "tags": [],
+      "summary": "兼松が航空機エンジン部品販売 延びる機体寿命、交換需要を開拓 日本経済新聞",
       "source_count": 1
     },
     {
@@ -581,6 +749,19 @@
       ],
       "tags": [],
       "summary": "中部秋季特集：ペットフード＝三井物産流通グループ 食系卸の強み生かす 日本食糧新聞・電子版",
+      "source_count": 1
+    },
+    {
+      "id": "99b2bc98fb3e98cc",
+      "title": "ＪＦＥ商事(株)【8110】：株価・株式情報",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VekhWdU14RTBSMDNCbEpZd0owYkRaQXBHQ2pBYjFlb2RZNW4yMUs5OG5aNEFXOHJLNlZ2OF9ZMjg2dl9oeTZWd0NVZjk4eGpiWHc?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-20T14:59:59+00:00",
+      "company_ids": [
+        "jfeshoji"
+      ],
+      "tags": [],
+      "summary": "ＪＦＥ商事(株)【8110】：株価・株式情報 Yahoo!ファイナンス",
       "source_count": 1
     },
     {
@@ -8554,6 +8735,19 @@
       "source_count": 1
     },
     {
+      "id": "469aaa09680e484a",
+      "title": "秋の叙勲3861人受章 豊田章男氏・松坂慶子氏ら",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jRUxFeW50cnJhN1hHNUxyalIxLVdiSW9ubmFNNEtJR2VvMGFfTjZOcmh1NW8wemNZM0Z3T2FGQUtYS2NFNjQ1azk1aU1lY2ZjUnhrek9HTVUxekZLbGhsX011ZlZ3d2VBX3FMYQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-03T08:00:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "秋の叙勲3861人受章 豊田章男氏・松坂慶子氏ら 日本経済新聞",
+      "source_count": 1
+    },
+    {
       "id": "4d8f2dbe6d67675d",
       "title": "伊藤忠商事／企業広告「メイド イン ジャパンの一粒で、エネルギーをつくりだせ。」新聞",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wUWlqWlkydUZHTzQ4c2JKOE4xbV9RM0UwQ1NQMUxxbU1VSGVqV3RnUi1QWVZMZkQteEhNMk1NSnUtaW13VEptbEN6dFVuSlQ2M1d4STRQZkRJd0c2RWRGUXVaTW1KSjlsUnRUZQ?oc=5",
@@ -8722,219 +8916,6 @@
       ],
       "tags": [],
       "summary": "業績修正（取引時間中）－京セラ、住友商事、住友化学、マクニカＨＤなど(トレーダーズ・ウェブ) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "430fd059ea5ce5a1",
-      "title": "【今週発表の注目決算】トヨタ、ソニーグループ、任天堂、三菱重工、三菱商事｜決算ウォッチ",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oekxFMklQSUwzcmx4TG1MMUJZdm8yUDFpMHRZa29kSlBhNjNIdzNvR1FNREZRMW40dENic3pabENxT210dTlUY1FQOC1qXzRjMzJLb25ZV3Y2SEkwTHVN?oc=5",
-      "source": "ライブドアニュース",
-      "published": "2026-11-02T08:11:42+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "【今週発表の注目決算】トヨタ、ソニーグループ、任天堂、三菱重工、三菱商事｜決算ウォッチ ライブドアニュース",
-      "source_count": 1
-    },
-    {
-      "id": "14564183f50a53c1",
-      "title": "豊田通商、バングラデシュに70億円投資 自動車販売を拡大",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDX3NaaXY2OWZLZkdjdE9MMFVnSWRmWDNNZG5pcGFkMGk4VVF1VjN0dHJiLWo4Q3VvM0lTWEpfX00xcWZKdi1Mb0pPQ2J3YWtaSWFfRGRObEl4RWNZeHltaUlnVnU3LW9IM3RvMQ?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-02T08:08:40+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "投資"
-      ],
-      "summary": "豊田通商、バングラデシュに70億円投資 自動車販売を拡大 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "1d78012d76869f86",
-      "title": "メタルワンの線材向けDX基盤／利用企業70社突破、27年度末までに250社目指す／受発注機能・納期調整機能、12月から順次導入",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGY1JpY1Bmc1F6UHZGQzNBeHFMNC1KeUk4Uml5S3ByTkdzUUtpemRUUmRZSFZiY042VGthalZEUW9hUHZndEdaaGN0VWtSYTk4dFhpQmNB?oc=5",
-      "source": "ニッキンONLINE",
-      "published": "2026-11-02T08:00:00+00:00",
-      "company_ids": [
-        "metalone"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "メタルワンの線材向けDX基盤／利用企業70社突破、27年度末までに250社目指す／受発注機能・納期調整機能、12月から順次導入 ニッキンONLINE",
-      "source_count": 1
-    },
-    {
-      "id": "e0666c548de74678",
-      "title": "SCSKと住友商事、SDV車両の一括開発担う「SDVデジタルエンジニアリングサービス」提供へ（BCN）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tVEpYV0NreHRHQ3hkX0wtR3EtM01QVWM0bkx5QjlweEljb3ZsZ1EzTTV4MTBBZTA0UHN2RjhfUGdHazVFTG10UEtmSHpzcFk0S2JaWlhDZy11cnI4ZXFjX2VNZUs3MDdzcEZpeUNYRklyMUxOeFk0bEpPS2tiM2M?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-11-02T08:00:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "SCSKと住友商事、SDV車両の一括開発担う「SDVデジタルエンジニアリングサービス」提供へ（BCN） Yahoo!ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "7cf6593f3c0af4ed",
-      "title": "自己株式の取得状況（途中経過） | 2026年 | リリース | 三井物産株式会社",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BckJZVGxaWXJadUJWcnpJdmhzT1dhQUxEaHpWNDktZXZjWmlGejBUMGRqenkxRjkybG91eGtfVHZKS21BWGNNTlJHX3B6SGlzVVh0Rk9wamVUTjJMZllUekNUZS03VnFFSmdWMg?oc=5",
-      "source": "MITSUI & CO., LTD.",
-      "published": "2026-11-02T08:00:00+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "投資",
-        "株主還元"
-      ],
-      "summary": "自己株式の取得状況（途中経過） | 2026年 | リリース | 三井物産株式会社 MITSUI & CO., LTD.",
-      "source_count": 1
-    },
-    {
-      "id": "fb51ddfd7dee7c1e",
-      "title": "住友商事とSCSK、SDVデジタルエンジニアリングサービスの提供を開始",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NbXdPempNV3JFOHo5aEVud00xVUJrczktOG4xbUpWVXZBMHF6T0xPOGdDUU5vckdrNHk4M3ZUcGl4V0xlRGx3SzI4YWNsOFE3N1YyeGpRbVVwYkRLUm96ZDlRVDZ0NUI2N3A2a1hFTVp3TnF1?oc=5",
-      "source": "Sumitomo Corporation",
-      "published": "2026-11-02T08:00:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "住友商事とSCSK、SDVデジタルエンジニアリングサービスの提供を開始 Sumitomo Corporation",
-      "source_count": 1
-    },
-    {
-      "id": "1e4e816f13d89e54",
-      "title": "グレーターチャイナ及びASEANの地域統括会社を設立",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRUzZhR2xrcHFudGkwZWNpNGxPSUtaTjlRNTV6VXJDZVNVRjdiY1dtM19XbUhYRGVHS1Q3U1NsS0VnVjBXbjFibDlMdV9laWk0NkpicThBVi1TTFU?oc=5",
-      "source": "共同通信PRワイヤー",
-      "published": "2026-11-02T08:00:00+00:00",
-      "company_ids": [
-        "nagase"
-      ],
-      "tags": [
-        "提携"
-      ],
-      "summary": "グレーターチャイナ及びASEANの地域統括会社を設立 共同通信PRワイヤー",
-      "source_count": 1
-    },
-    {
-      "id": "a15e74d77bec0a28",
-      "title": "決算:住友商事の純利益6700億円、27年3月期に上振れ 実質増配",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wQ1NDTmd0NVlVaXcyRTZsY1dGdFJmSEJ5a01lbzFrUU9pOUtPel9Bem9wSGZ6QmxBLWVuQVY3c3RrOHJnYnpCaS1TYjFBdVVEdUJIWlR1OURrYThubVpsNmw2S3g5d0VEXzYyVg?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-02T07:41:11+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "株主還元",
-        "業績予想",
-        "決算"
-      ],
-      "summary": "決算:住友商事の純利益6700億円、27年3月期に上振れ 実質増配 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "68ee4c8473284d71",
-      "title": "三菱商事、カナダＬＮＧ事業の一部を米ブラックストーンに売却 約2500億円で（ロイター）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TcVYyODZUZUdVdF9zNzRrQUV1WTlTbjZUY0dKbzFhdHQzN1ctNDVMek1FN2xkMGVHZHZTV01td1JXd1VkRmN2eHZpWHpqUnRWQnlIOW5EMkVJem5yWTN6S0tzSmNBQnlhdVR3Qk01bm5EN2Vab1A5bTJieG1id2M?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-11-02T06:58:14+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "M&A"
-      ],
-      "summary": "三菱商事、カナダＬＮＧ事業の一部を米ブラックストーンに売却 約2500億円で（ロイター） Yahoo!ニュース",
-      "source_count": 2
-    },
-    {
-      "id": "7a4c5283f8009652",
-      "title": "マングローブに思いを込めて植林 奄美世界遺産登録から5年 伊藤忠などが出張環境教室 鹿児島（MBC南日本放送）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0bkJVeENIcF9BUmY4THEtV1ljSURxelJ5akFTamIyMVh0NGdMdlpaeVZFTmpJbHpJMHY5bkNjUlN0RXpvcUZ2bjJtajZFZTZZc1dOcTNoaTVseE9KOVdhbDBVeHdhYi1yemprWXJBMUhyUVg0UGtabTdSY2FwcWM?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-11-02T06:58:14+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "サステナ"
-      ],
-      "summary": "マングローブに思いを込めて植林 奄美世界遺産登録から5年 伊藤忠などが出張環境教室 鹿児島（MBC南日本放送） Yahoo!ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "d465713d4fb4e1f8",
-      "title": "三菱商事、カナダＬＮＧ事業の一部を米ブラックストーンに売却 約2500億円で",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSl9xNnRIYkIzQkVKeVR0bS12Y0ttY3Q5QzRScHQ5b2txYkpMRDZtM1RJZWhNcmxPbzF4R25Sb2E2VVliM3dmNThJYkQ1b1BjVWdjbng0UEhNSk0zWjdZNkx6Q1BiSGxmVF9tMmlRRDR0dm9ZX2dJc251X3VUaVYyd0s0aUdnQQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-02T06:58:00+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "M&A"
-      ],
-      "summary": "三菱商事、カナダＬＮＧ事業の一部を米ブラックストーンに売却 約2500億円で Reuters",
-      "source_count": 3
-    },
-    {
-      "id": "28d48d957cad5035",
-      "title": "◎〔決算〕住友商事、２７年３月期純利益予想を上方修正",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyVVNpSkRGOTFOWm1WczdMRkJzTUdURTVhRDRRQzB1YktiTlplMkNUVDVERXdXaXVSOXB1SFVGREJtMmpwX2xONUNxcHRLdWtneXZwXw?oc=5",
-      "source": "時事通信ニュース",
-      "published": "2026-11-02T06:53:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "業績予想",
-        "決算"
-      ],
-      "summary": "◎〔決算〕住友商事、２７年３月期純利益予想を上方修正 時事通信ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "595e706b885a55ed",
-      "title": "〔決算〕住友商事、２７年３月期純利益予想を上方修正",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZF91WTJRWEItWUZqX2Z1ZmtLbUZkVkxWdzc2dEpXZGFGWDJYdFRQdDZETWtRRkJ0ZHhnd2FsVlVDN1E4V05iV2RicFFLWkdpMktybERhMUlweGFkS0d4Y1phVlkwUzBqem5DUTVUdHZaYTRQWEVicXFIQ2ZmRE14VGNpVEJqb0RDWUhXN1F1OVhJbkYtR0NCallPR2NYV1JaTHBCR2UtMnJWR0RVbHk2dENleXNVRTh4WEhZYkFIdnZwQlQ5YlNaRk95eXdFd2Z0amfSAYABQVVfeXFMTm4xM2NSRk9vei1felVUZy02NzdyOHhRZUtxNWhMU2FtQnVjcG56MGM2RElnX01wOGg4cXFXSDhDeC1yc2p0ZFZPS2pjS3NtTmRsT3lhZC0tVVJWd2tIdlFMRGpkZkJWaWtzOEZweGVrSGQzajdMdm5NQ0RuczJoank?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-11-02T06:53:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "業績予想",
-        "決算"
-      ],
-      "summary": "〔決算〕住友商事、２７年３月期純利益予想を上方修正 ｄメニューニュース",
-      "source_count": 1
-    },
-    {
-      "id": "8d3e8575d8f589dc",
-      "title": "伊藤忠商事[8001]：コーポレート・ガバナンスに関する報告書 2026/11/02 2026年11月2日(適時開示) ：日経会社情報DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUVc4aDJFWFRfV2pOWEVIenFBMDlfRENTc2VoMnBfdldxa184RENCZGRCbVZkakpGamRGRm41bWVhb2VrYzhBN3BkenRkTzhyRjVKUWpQQ21Tc0I1YTZfdVlaU0I5ZnY3Y0Q2UXQtREJQakQ5Y09UZXJiNm5CZE4zVGxVUU54cncwWDdwME5EYXZsbmNhX252MEx2OW1Xb2g3QTJKU2RpN2EzekczdzBhalJOaS0tS01LcDVWclpmeThMRnhHMWNVWVFJRTE?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-02T06:42:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [],
-      "summary": "伊藤忠商事[8001]：コーポレート・ガバナンスに関する報告書 2026/11/02 2026年11月2日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
       "source_count": 1
     }
   ]
