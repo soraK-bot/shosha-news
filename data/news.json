@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T10:45:51.445805+00:00",
+  "updated_at": "2026-11-24T22:47:43.175956+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -92,6 +92,127 @@
     "就活"
   ],
   "articles": [
+    {
+      "id": "bde8da5fc5bc0556",
+      "title": "AI検索に拾われないサイト、企業に焦り－IR･広報で｢GEO｣対策が課題に",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RQm9pMmNUOFZ6c0xUbDczSGtUWklwYkpINHcyQWxPRE1ZNFoyWlJmSmVrT3AySE5yMDVMWXNTZ0RwYzZEYkNWaVJWSm5TZnBjUUk1d0V1My1qXzVaVkJlTUJjYmZHTVZzbTc5NHV2R2xaTnJMcTVj?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-11-24T21:00:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "AI検索に拾われないサイト、企業に焦り－IR･広報で｢GEO｣対策が課題に Bloomberg.com",
+      "source_count": 1
+    },
+    {
+      "id": "48501ef60334a37e",
+      "title": "三井物産デジタル・アセットマネジメント、個人向けデジタル社債開始 初回は1年もの20億円",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51aHNLZm9OOXpwN2ZFa1VxQ1Z2TXhhcHYtUzRmVDJGVG1Kb1RNODNsVm9nRnFqREpxOWdobmlfOTVFZFlKVnhSMDIzWlU0eDk2UkFMaXdn?oc=5",
+      "source": "ニッキンONLINE",
+      "published": "2026-11-24T20:15:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "三井物産デジタル・アセットマネジメント、個人向けデジタル社債開始 初回は1年もの20億円 ニッキンONLINE",
+      "source_count": 1
+    },
+    {
+      "id": "4a88bceca9225570",
+      "title": "海外赴任者数が多い企業ランキングTOP100！ 3位は三井物産、2位トヨタ自動車、では1位？（東洋経済オンライン）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pUTZTMDRxTWtIU3hkYUlLempjbjJ5QTBnWjdfRHNkam94UW5tc1NZNnZoQnNjcldpNkFyR3BuZkxla1hhNHNfYnBncVY3eHFadzYxc1E2WnI1S2VjUHByWW5zZW15VnBmVllIX0NaTmdpcjVkbGtBaGdUcmRmMDQ?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-24T20:09:55+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "海外"
+      ],
+      "summary": "海外赴任者数が多い企業ランキングTOP100！ 3位は三井物産、2位トヨタ自動車、では1位？（東洋経済オンライン） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "b8acab287f56fa14",
+      "title": "経済摩擦が少なくても平時から中国と対話を 丸紅中国法人経済研究総監の鈴木さん【経済トレンド／にっぽん診断】",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1sMzZ3TDJEdjNWdktCZ0hUNEc2Y2VPTzlINFR3clpqajBLZ3JvUk4zRzhrMmJsM0VXSVRHN0lTYm5aaFBWUUFFUHowU3hNUQ?oc=5",
+      "source": "静岡新聞DIGITAL",
+      "published": "2026-11-24T20:00:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "海外"
+      ],
+      "summary": "経済摩擦が少なくても平時から中国と対話を 丸紅中国法人経済研究総監の鈴木さん【経済トレンド／にっぽん診断】 静岡新聞DIGITAL",
+      "source_count": 1
+    },
+    {
+      "id": "6945619c1a1403b7",
+      "title": "決算:三井物産、ROEテコ入れへ資産20兆円にメス 株主還元の追加視野",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94QmJMWmZOTENlYmJwVVkxc1pLVmtHZmVaU3NwSGZ6dXhQNXlFdGQ4YjRHWTdYMnpROG5HRXFjVlBJazBVN0UySjBvSFhsTi0yMmJ4OUJvWlY5MkFEaV8wNzVnYjBNdFRyYzJCNA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-24T19:00:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "株主還元",
+        "決算"
+      ],
+      "summary": "決算:三井物産、ROEテコ入れへ資産20兆円にメス 株主還元の追加視野 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "049a439395efc6d4",
+      "title": "三菱商事株が1週間で1割安、1兆円の自社株買いで株主のメリットは？",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kWTVYTjNYaHI5LU1XTFc2QXNRQzVnTnJiajdFX2FVY0UyR3RGaTlUeXMwZV9NRllCVG5kam05ZlZJckhyVG92ODRVb2djX0phM1daOEQwdmxLUmh1MkdhQVFia9IBaEFVX3lxTE0tbmlBR3JvTndWMFlSSFY1aTJlMmpwUHVaSGhVdGxTQ1hEVFB0dTVEX0RkSU92WEJNdFZoSHlOVmRSSGxTc3o4b0NGUUNXOElmeThvTDBPS09CNHVGS3hUYUd5Y0VxMElG?oc=5",
+      "source": "財経新聞",
+      "published": "2026-11-24T17:14:13+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "株主還元"
+      ],
+      "summary": "三菱商事株が1週間で1割安、1兆円の自社株買いで株主のメリットは？ 財経新聞",
+      "source_count": 1
+    },
+    {
+      "id": "7078b9639b18315f",
+      "title": "ＡＩ秘書、中小企業に展開",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1saTVIbnBEbG9qNVRTNXdjS1lfbFpPWlMtdXo5cUh0d0IycjZNemZBbGVsbVcyNmVLTHZOVzlqZUNDMG5iOHdjS09BQ3RTdjV4TmFiZW5VaWlxS2c?oc=5",
+      "source": "下野新聞社",
+      "published": "2026-11-24T17:12:43+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "ＡＩ秘書、中小企業に展開 下野新聞社",
+      "source_count": 2
+    },
+    {
+      "id": "cac9179612625bf9",
+      "title": "AI秘書、中小企業に展開 伊藤忠系、自動で電話応対",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xa1pqS2pwQTg0RWx6YlNMTDdOZkRFWTk5N2U2bDQxUXhmMmRlUmEzQjM3RmVLRmlJM2dsWlpsVHIxd0FTNzBQSFlhTW9TbzA3VkRjMnF3?oc=5",
+      "source": "西日本新聞me",
+      "published": "2026-11-24T17:00:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "AI秘書、中小企業に展開 伊藤忠系、自動で電話応対 西日本新聞me",
+      "source_count": 2
+    },
     {
       "id": "b59a8bc192bc87fa",
       "title": "「(仮称)広島市中区銀山町ホテル計画」着工",
@@ -188,6 +309,19 @@
         "M&A"
       ],
       "summary": "住友商事、タイの二輪販売金融会社SCALを売却…ポートフォリオ変革の一環 レスポンス（Response.jp）",
+      "source_count": 1
+    },
+    {
+      "id": "81d5bc325e16c831",
+      "title": "丸紅ファーマ、本社移転 12月7日に業務開始 | 日刊薬業 - 医薬品産業の総合情報サイト",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9YN2NqWk53aWtzQXpkVTM3YS1yVEJrMmpTUmRPb2VldTktbGppOElnQ3Y0UklOMWZiLTZIRDNOOVVfWjZTdDR3LQ?oc=5",
+      "source": "日刊薬業",
+      "published": "2026-11-24T06:06:08+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "丸紅ファーマ、本社移転 12月7日に業務開始 | 日刊薬業 - 医薬品産業の総合情報サイト 日刊薬業",
       "source_count": 1
     },
     {
@@ -548,7 +682,7 @@
       ],
       "tags": [],
       "summary": "三菱商事が設立した財団が岩手県復興基金へ1億2800万円寄付 これまでも奨学金、事業者への資金援助など支援 盛岡市 Yahoo!ニュース",
-      "source_count": 1
+      "source_count": 2
     },
     {
       "id": "e4746773d4383a30",
@@ -946,6 +1080,19 @@
       ],
       "tags": [],
       "summary": "双日(株)【2768】：掲示板 Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "85019f1509fec164",
+      "title": "三菱商事 | 8058.T 株価動向とリアルタイム相場",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zN1dBMUlQV3h2cGhYMXVoTDlZeE1oaUlETzU1c0huaUhueE9BMlpHRlhBdGpDTkhMLWVQNXVGQUFpR1hQSXBpOVJvVm5zZw?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-11-20T08:00:00+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "三菱商事 | 8058.T 株価動向とリアルタイム相場 BigGo ファイナンス",
       "source_count": 1
     },
     {
@@ -2716,6 +2863,19 @@
       ],
       "tags": [],
       "summary": "屏東県、伊藤忠商事と覚書締結 農産物の輸出拡大を目指す／台湾（中央社フォーカス台湾） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "739c2f474c89c2cf",
+      "title": "三菱商事[8058]：変更報告書 提出者：三菱商事株式会社：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SUUVqaDgxQXN2VE40TU1nb1BQWkJoRFNMVFZTMVFXTlR1TUpQbG1ybkhlSXhRXzhseFIwNDZwcGRfTHA4b1dHeUphZzBlMTlJdmVub2FDSDdwTk9CeVIzOGRHa2twMHdjclhmVw?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-16T07:25:42+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "三菱商事[8058]：変更報告書 提出者：三菱商事株式会社：日経会社情報DIGITAL 日本経済新聞",
       "source_count": 1
     },
     {
@@ -8758,164 +8918,6 @@
       ],
       "tags": [],
       "summary": "伊藤忠商事／企業広告「メイド イン ジャパンの一粒で、エネルギーをつくりだせ。」新聞 宣伝会議",
-      "source_count": 1
-    },
-    {
-      "id": "d9e51ae5a60cfbb8",
-      "title": "シーホース三河U15が白星発進！「第16回豊田通商カップ」初戦で三遠ネオフェニックスU15に勝利",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OS2RXQ0lSb1ItX0R1THFCeEh3VTd3Qm16M1VTTlhBT0I3dUJnYW85VUxuWjlTazRHNDRiM0RrbTVEdVZ6ZzZVX1U0aExmdEM3MW93b0ZMSHFpaDFYWFpNZGN0Wmo3V2dNaGQxeUR0dFFzX0phUkE?oc=5",
-      "source": "Excite エキサイト",
-      "published": "2026-11-03T05:45:00+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [],
-      "summary": "シーホース三河U15が白星発進！「第16回豊田通商カップ」初戦で三遠ネオフェニックスU15に勝利 Excite エキサイト",
-      "source_count": 2
-    },
-    {
-      "id": "1a7efa92a11b1cd0",
-      "title": "長瀬産業が香港に新会社、グレーターチャイナ・ASEAN統括",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zY2RMbXBnZ2RFRXJFb3NOQ0lBY1R0UjgzZ2swZ01tcnlHZ1JlS0V2XzhXdm9wV2ViaTM3VWc3dktxb21CVzctYzI1Wnp2bWd2aDdHel9OT3VWN0FvYlNVby1yMHo1NXZy?oc=5",
-      "source": "ashu-chinastatistics.com",
-      "published": "2026-11-03T02:42:00+00:00",
-      "company_ids": [
-        "nagase"
-      ],
-      "tags": [
-        "新規事業",
-        "海外"
-      ],
-      "summary": "長瀬産業が香港に新会社、グレーターチャイナ・ASEAN統括 ashu-chinastatistics.com",
-      "source_count": 1
-    },
-    {
-      "id": "01bebc0f596d9bf7",
-      "title": "長崎県諫早に蓄電所整備へ ＪＲ九州と住友商事など ２０２８年１２月の運転開始を予定",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14LXNieUVvVTNvUkdlRHRNbkhHTk41UU51ekw4SGFkRHlzMFNRQURWRGV1V2FpVkcyYVpVTGdzS3hlZmxJRmNOV2dDYw?oc=5",
-      "source": "47NEWS",
-      "published": "2026-11-03T01:20:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [],
-      "summary": "長崎県諫早に蓄電所整備へ ＪＲ九州と住友商事など ２０２８年１２月の運転開始を予定 47NEWS",
-      "source_count": 1
-    },
-    {
-      "id": "4a8b68e73ddfc8d2",
-      "title": "長崎県諫早に蓄電所整備へ JR九州と住友商事など 2028年12月の運転開始を予定",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PYVliZTZvYXd0OGdtNFJYazhoOWNUdVlwSTN3TGpmNmQ5Z1FHTXhmU0Itd2lvLUpvc3BGNFpCOVpkbWpwX1h1X3EwWDdBZw?oc=5",
-      "source": "NEWSjp",
-      "published": "2026-11-03T01:20:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [],
-      "summary": "長崎県諫早に蓄電所整備へ JR九州と住友商事など 2028年12月の運転開始を予定 NEWSjp",
-      "source_count": 1
-    },
-    {
-      "id": "50cad5b02a4164b0",
-      "title": "丸紅コンシューマーリンク、「サッカー」の体験型ポップアップ「ENDORPHIN HUB」をを代々木公園内のランニングステーションに期間限定オープン",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JSEkwSk56Y2l5TEFSUDM0YUMybnNsVjBNOUszc09rNnZxSmc1c2VjSldwYnRNOFdTbkI1MkdBREI3YmNGMFlIRGYxcw?oc=5",
-      "source": "シューズポストオンライン",
-      "published": "2026-11-03T01:03:23+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [],
-      "summary": "丸紅コンシューマーリンク、「サッカー」の体験型ポップアップ「ENDORPHIN HUB」をを代々木公園内のランニングステーションに期間限定オープン シューズポストオンライン",
-      "source_count": 1
-    },
-    {
-      "id": "b70610576103b34e",
-      "title": "三井物産都市開発 物流開発用地を取得第3弾の開発地",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRNDZ3TE4wd2Z3bEEyeW9ualV3eVdNNjJiSUt0a1hjSlNjTkJhcWxjTXg1LXVXOTYxbFU3MmRfVTRRN0ViMktXblpqcXp6VFFEYmc?oc=5",
-      "source": "住宅新報",
-      "published": "2026-11-02T21:48:19+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "投資"
-      ],
-      "summary": "三井物産都市開発 物流開発用地を取得第3弾の開発地 住宅新報",
-      "source_count": 1
-    },
-    {
-      "id": "eefb2b17e408cfd6",
-      "title": "受章者喜びの声",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zc0wxajhVOVlpckp3UGVadnp6VG02ZC1QTnZpRkZ6VFhxM05vYV9LWG1jNTU3UTY3Wmd3RGhaWmVyNkt4YklhRTl6bFJjNXhNTTFWTTFkQUg1ODRzR0c3eHNlU1JwMEQ1SUJ4WXBFNVZ6TDA?oc=5",
-      "source": "中部経済新聞",
-      "published": "2026-11-02T20:00:00+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [],
-      "summary": "受章者喜びの声 中部経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "439ccee6b05516ef",
-      "title": "三菱商事、カナダLNG子会社の49.9%をブラックストーンに16億ドルで売却へ",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mcVBEbjJ3ZVRfdUhGalVkZWlnSEJWdTBjcjc0MldlUFRHTFJlY1dCbndkZE1pT2F2eHdiQnNIc3dBTmd6ejFhWV9JWmdHeXc4TDV2MFlXcHdYS0JMbDBlc0FNVzNqdGtzRVl1eHQyc2lJMXBD?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-11-02T17:02:08+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "M&A",
-        "資源"
-      ],
-      "summary": "三菱商事、カナダLNG子会社の49.9%をブラックストーンに16億ドルで売却へ BigGo ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "1d314658083b0370",
-      "title": "〔決算〕住友商事、27年3月期純利益予想を上方修正＝中東影響が想定下回る(時事通信)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPODhPRkFGc3BrbGRrVndRSGxiNkFjOWQ2UWVMbjNGSVBHSHpva0Z5My1KRWZyazNDU2dSdkc3RDR2UUJUQmFqbU9TUXlHT0NUZDlBVUExQ29LU1ZHbDRDRWJCRk92TXhrS2gtNm1uT29RSDlSeTVRemV5dUpuWkN6b1BlbXI4amc?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-11-02T08:53:30+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "業績予想",
-        "決算",
-        "海外"
-      ],
-      "summary": "〔決算〕住友商事、27年3月期純利益予想を上方修正＝中東影響が想定下回る(時事通信) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "acb064784b277260",
-      "title": "三菱商事のカナダLNG事業､ブラックストーンらが一部取得－約4900億円",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BY1ZSRVhObDZFTGtwalhvam5CV25XeWtoTm8yMGFReFd3T2pNSDBaSDVGUXdyeUVDNWc4UHQ0aVhhQVZoRmlLU1NBdmdLVGVIY0FpRlFEeGVYS2lwY2d6OUIzdW9RekEwcTJfODg0VEd4bjdL?oc=5",
-      "source": "TBS NEWS DIG",
-      "published": "2026-11-02T08:34:00+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "投資",
-        "資源"
-      ],
-      "summary": "三菱商事のカナダLNG事業､ブラックストーンらが一部取得－約4900億円 TBS NEWS DIG",
-      "source_count": 2
-    },
-    {
-      "id": "01dd4d6bf163b614",
-      "title": "業績修正（取引時間中）－京セラ、住友商事、住友化学、マクニカＨＤなど(トレーダーズ・ウェブ)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRURBSUVad2I4M0xsTXBRM2ppNncwTV8wa0JIUUFERjBVd2pNT093SlJtZW5pejh0TTdyWTFVaTdsRjJsOTRZS2JXY2R3dHNLQUFlUXlIT011aVZ5aHdtMFh2cEV1U2VnR2ozMDZFWGZMMUpDTGRQckc5UkJmNnVKUFhlbWlkYkE?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-11-02T08:33:02+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [],
-      "summary": "業績修正（取引時間中）－京セラ、住友商事、住友化学、マクニカＨＤなど(トレーダーズ・ウェブ) Yahoo!ファイナンス",
       "source_count": 1
     }
   ]
