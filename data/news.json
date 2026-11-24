@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T22:42:58.335163+00:00",
+  "updated_at": "2026-11-24T03:51:06.257896+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -93,6 +93,45 @@
   ],
   "articles": [
     {
+      "id": "c837b86d3bc7fe40",
+      "title": "台湾KYMCO、豊田通商と日本向け電動二輪車の販売代理契約",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvaWZHT3lJUjBSU3hHYU9rTjBZcWlJUnV4VjFQcHRpdVo1em1kdmJiakFqZ3V6V1oyZnQ0TzhRdUZwMmlPZ3dfWDlIZXY2aURfUmJ3M2xINWNVSDlrdENJMUhVZlpQVU9n?oc=5",
+      "source": "ashu-chinastatistics.com",
+      "published": "2026-11-24T02:51:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "台湾KYMCO、豊田通商と日本向け電動二輪車の販売代理契約 ashu-chinastatistics.com",
+      "source_count": 1
+    },
+    {
+      "id": "c95c8858b51d85db",
+      "title": "家庭料理テイクアウトの「マチルダ」、三井物産本店オフィス内社員食堂に新ステーションをオープン",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9weF9wWlZGTG84WnBFUlphaTZFb0V5YmdHYXFjZHVPLXJ4alBBWlRoMFh0VlpyaVZxUE5zNDU4bFREOVRIR0VaXzRQNGxGZGs1X3RjRVZjemhPdDhjaTdydUlVOXFWTU5zZHc?oc=5",
+      "source": "PR TIMES",
+      "published": "2026-11-24T02:00:02+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "家庭料理テイクアウトの「マチルダ」、三井物産本店オフィス内社員食堂に新ステーションをオープン PR TIMES",
+      "source_count": 1
+    },
+    {
+      "id": "702ea34bd9e3b9b3",
+      "title": "寄前【成行注文】売り越しランキング ソニーＧ、日立、伊藤忠 [08:35](株探ニュース)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ0R5cGV5dWIzenVWQ2RsVUhTY25GMDdRMGJKaThHUnl3LVdhSXpxWDVVWUdldHRUdnpSUFp3M04zbTg0YXNHZm5rVHJabTBpd1ZoUTNCVVE5NUFpWWVYZy1BLV93U1RvakhwV1d1dG9LNVZXMWpuM3ZTUi1QOGVuQlN0czlHTEk?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-23T23:51:05+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "寄前【成行注文】売り越しランキング ソニーＧ、日立、伊藤忠 [08:35](株探ニュース) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
       "id": "ed4c30bd5c9e1620",
       "title": "三菱商事、最終節に敗れ暫定4位 昇格の可能性は残す",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RNVA5d0Uwcndnc3BNTVpZQWdVb2s3b0o2V0lvR0R5Wk1CVWdaVnpIdXJrS2pYd29FdU82MVhoUGIxb01kelFUcnpDMzQ2YUI4Tm0wNGFOaDc3RDhIcG5v?oc=5",
@@ -131,6 +170,23 @@
       ],
       "tags": [],
       "summary": "【豊田通商・今井斗志光】人を伸ばす「越境」のつくり方 NewsPicks",
+      "source_count": 1
+    },
+    {
+      "id": "f06e0b01a481ee28",
+      "title": "2027年に上がる株：インタビュー「AI投資の過熱で27年は調整局面へ 日本はAI活用モデル国に」今村卓・丸紅経済研究所社長",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlQkdqLWZ0ZW9IbnB4UXA2WGtNdlFmU0VIY2wxMEdkQ2ttUVdpRG9yRC0wZG1LRnNYNEdhdGQzdEstTzdxZFpCTmlLdmhxNGxDVmVlM1FTb3p4OUZnTlVBeHBnMHFLaXJQamtoSUMzTzhiQXBRdDBocnYtaWFFbDA?oc=5",
+      "source": "週刊エコノミスト Online",
+      "published": "2026-11-23T20:00:51+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "DX",
+        "人事",
+        "投資"
+      ],
+      "summary": "2027年に上がる株：インタビュー「AI投資の過熱で27年は調整局面へ 日本はAI活用モデル国に」今村卓・丸紅経済研究所社長 週刊エコノミスト Online",
       "source_count": 1
     },
     {
@@ -370,6 +426,21 @@
       ],
       "tags": [],
       "summary": "「五大商社」と呼ばれる5社の「平均年間給与」は三菱商事2112万5472円、三井物産2058万9000円。伊藤忠・住友商事・丸紅はいくらか LIMO | くらしとお金の経済メディア",
+      "source_count": 1
+    },
+    {
+      "id": "5eb5c31358da9876",
+      "title": "伊藤忠商事、文化シヤッターと資本業務提携、建材調達や新商品開発で協業",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvLUlVRkhIZUwxWFhmN2dfWkYzbW9kaHFHcDZhdWs5QzA2ODEwaFN6NzdTOU1ER0pVdV9aNUg1bm00N2x6X2NkdjY0WmM2NDZOeExLM3pXcE8xamczaXpNT1M4aGpOcDA?oc=5",
+      "source": "リフォーム産業新聞",
+      "published": "2026-11-22T23:03:19+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "提携"
+      ],
+      "summary": "伊藤忠商事、文化シヤッターと資本業務提携、建材調達や新商品開発で協業 リフォーム産業新聞",
       "source_count": 1
     },
     {
@@ -630,6 +701,19 @@
       "source_count": 1
     },
     {
+      "id": "ea340880d4d1ce5b",
+      "title": "ＪＦＥ商事ホールディングス(株)【3332】：株価・株式情報",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwSkhYRlNCT1o2ODZfRDFpM3hCUjRjLV93ejdFQjQ4bDJCLUszY2R6RWlmTno5cG1rYmctZ05WV1JMMm9LMzd2dk5xdkZGSGxicUE?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-20T09:59:59+00:00",
+      "company_ids": [
+        "jfeshoji"
+      ],
+      "tags": [],
+      "summary": "ＪＦＥ商事ホールディングス(株)【3332】：株価・株式情報 Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
       "id": "98c8a7703d65fa69",
       "title": "ＳＯＳｉＬＡ物流リート投資法人[2979]：（開示事項の変更）国内不動産信託受益権の取得に関するお知らせ 2026年11月20日(適時開示) ：日経会社情報DIGITAL",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85ZGFmblRJZDFSTUlVcWVSTnNVaWxyY0h2Tll6RVdZVk03NmRscGoxYTNSTDh2TEhGY203NnF3WVV1MHVsNWNmZE11ZC1FSlBESkJfLVZTQkxqbGdBUEJ0VURqa0ttamxrWEE?oc=5",
@@ -780,6 +864,21 @@
         "DX"
       ],
       "summary": "三井物産(株)【8031】：今の株価の理由は？値動きの背景をAIが解説 Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "dd4d4baf9e7bd5b5",
+      "title": "伊藤忠商事(株)【8001】：今の株価の理由は？値動きの背景をAIが解説",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45VUdkaVA1ZURmNk5mclBtUkZhTkMzenhiQ0dOTkE1OE01T3BXVHhYUWQtdDkxS1BkcVZVVkVDVzlMSHhxenFEdHNMWnB5eWptcHZYZWpnZFFrdEJDQzFr?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-20T06:53:59+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "伊藤忠商事(株)【8001】：今の株価の理由は？値動きの背景をAIが解説 Yahoo!ファイナンス",
       "source_count": 1
     },
     {
@@ -1286,6 +1385,21 @@
       "source_count": 1
     },
     {
+      "id": "fd87c9364abf7dd0",
+      "title": "【日本株】株価上昇の余地がある実力派の｢出遅れ株｣の2銘柄！ 5期連続の最高益更新でも割安の｢三井不動産｣、3期連続の最高益を見込む｢伊藤忠商事｣に注目！（ダイヤモンド・ザイ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaNU9wenJ1bFMtUGhLcE44dm4yYWM3bjhFOTkzd1dDOWk2MUxhX0c5cUNOYVRESUtOV2JXUTlZM1ZsdDBOb1NRSHZCM3FqUWRVV0JKcW16eGlyWnJ2Y1RQMW5hMDRjSUtmWlI2VlN5YmcxMVZoSDc0alQ1ZF8wMDg?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-19T10:25:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "業績予想"
+      ],
+      "summary": "【日本株】株価上昇の余地がある実力派の｢出遅れ株｣の2銘柄！ 5期連続の最高益更新でも割安の｢三井不動産｣、3期連続の最高益を見込む｢伊藤忠商事｣に注目！（ダイヤモンド・ザイ） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
       "id": "5f513aea98b75981",
       "title": "三井物産の個人向けデジタル社債はどこで買える？仕組みやリスク、優待、申し込み方法も紹介（2026年11月）",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aUjRlQUdRVE9VX3RJTTR5LWppR2hDZGpxbWJtOEtiM3M3c2FtUFRvWVFwWmV5OVFFZHd0XzFRc09BWU9DdmNncXRoaEl1TllNcDM3bDcyZTJqd3ZJRmc?oc=5",
@@ -1671,6 +1785,21 @@
         "新規事業"
       ],
       "summary": "豊田通商、車載ソフト新会社「豊通デフィネックス」設立 デンソーが20％出資へ LIGARE（リガーレ）",
+      "source_count": 1
+    },
+    {
+      "id": "12209056ced00de9",
+      "title": "【売買】芝のビルを取得、サンフロンティアと伊藤忠商事",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Vem9HSFkwOUFZeHRGZ3R4WmtBZGxMV19xd01zRUJCTGl4TlJhMlBKSWExbGhzSHAtaENhLUNQZm45RUZvbi1Jbm8wQlZEcEVYa2s1M0NsN1ZGVVliUkJ4eU9B?oc=5",
+      "source": "日経不動産マーケット情報",
+      "published": "2026-11-18T22:20:46+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "【売買】芝のビルを取得、サンフロンティアと伊藤忠商事 日経不動産マーケット情報",
       "source_count": 1
     },
     {
@@ -3057,6 +3186,19 @@
       ],
       "tags": [],
       "summary": "丸紅(株)【8002】：掲示板 Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "26f0fa1ae2513efe",
+      "title": "伊藤忠商事[8001]：変更報告書 提出者：伊藤忠商事株式会社：日経会社情報DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCb3o5aXJjOVVybjhwQ1U3NEVNYW1lZUZTQ3dDdUZVbWh4alNmVWU2TVZKRS1BbGJid1p4dkxlUC16V3V4U01jQkRLM0h2dTRrR1ZDLWE2ZWQwUzJnZk9fcTRuUzl1eUkwLWNJNQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-13T08:00:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "伊藤忠商事[8001]：変更報告書 提出者：伊藤忠商事株式会社：日経会社情報DIGITAL 日本経済新聞",
       "source_count": 1
     },
     {
@@ -5634,7 +5776,7 @@
       ],
       "tags": [],
       "summary": "JFE 商事鉄鋼建材株式会社とJFE商事鋼管管材株式会社の統合について PR TIMES",
-      "source_count": 1
+      "source_count": 2
     },
     {
       "id": "c0dfee368d806b31",
@@ -8793,142 +8935,6 @@
       ],
       "tags": [],
       "summary": "伊藤忠商事[8001]：コーポレート・ガバナンスに関する報告書 2026/11/02 2026年11月2日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "a23fb001f9faedfb",
-      "title": "後場コメント No.4 ＮＡＮＫＡＩ、亀田菓、矢作建、三菱商、愛時計、アドウェイズ(トレーダーズ・ウェブ)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX0ZWaElTdzl2eFpubVctQkpKbmVPeEtwblNsZGMyVlF2UVdPbEd0NU9lOUdkYkRDWmFoXzg0dkJxZWFhRzJYOHI0R3ZNTkdqMGFDWnNZRVV3VUJ2QTZCY0dvRTlWTldQOWp5a2lvd0NmYTVtZkoxVktlQXpSbk15RHlsUm1EOW8?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-11-02T06:37:03+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [],
-      "summary": "後場コメント No.4 ＮＡＮＫＡＩ、亀田菓、矢作建、三菱商、愛時計、アドウェイズ(トレーダーズ・ウェブ) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "80042c29722a555d",
-      "title": "後場コメント No.4 ＮＡＮＫＡＩ、亀田菓、矢作建、三菱商、愛時計、アドウェイズ | 個別記事 | ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02MWFERkdwU0lPTnUyQm1IeDV1REtqNEgzZm55UFVGTlF5WUluczdBdDgwUjJOWXFUTkJOcUFfWmoxX0Y1elNOQnZ4ZGs3UGF5anBhal8wZmhZZFFQ?oc=5",
-      "source": "トレーダーズ・ウェブ",
-      "published": "2026-11-02T06:36:00+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [],
-      "summary": "後場コメント No.4 ＮＡＮＫＡＩ、亀田菓、矢作建、三菱商、愛時計、アドウェイズ | 個別記事 | ニュース トレーダーズ・ウェブ",
-      "source_count": 1
-    },
-    {
-      "id": "470782c69b264d75",
-      "title": "三菱商事[8058]：特定子会社の異動に関するお知らせ 2026年11月2日(適時開示) ：日経会社情報DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wUHdPUl95NlQ3Y0JjT0g1NkVRSlpDWU0ybm1YVHVRWU94dWk5VFVsS0prT0dCblE2aVFLTXlyTHNQRnJUdC1zSjl4aGZtVENIR1ZPOG0wLVhwTVRmUTVmNmd6a3MwUDE3cGc?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-02T06:30:00+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [],
-      "summary": "三菱商事[8058]：特定子会社の異動に関するお知らせ 2026年11月2日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "1174e1e441a448e4",
-      "title": "住友商事（住友商）【8053】の大株主と資本異動情報｜株探（かぶたん）",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84R0xxUXktVFhBZXV2RGRsb0FyZGUyd2t0RlpMUDMtb2tjR2cwR1hsMkgtdWFXYzVIX1RKOGpBTmRzbExXTFFyLUJ0My0taXAxMlk0T3lMS1JySDJQT3FvZnRsbU5UR1NI?oc=5",
-      "source": "株探",
-      "published": "2026-11-02T06:30:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [],
-      "summary": "住友商事（住友商）【8053】の大株主と資本異動情報｜株探（かぶたん） 株探",
-      "source_count": 1
-    },
-    {
-      "id": "ccb4e8f68e75dd82",
-      "title": "ナウキャスト、三菱商事都市開発向けにAI活用の法人営業支援ツールを提供開始",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhRlRFeVduelB0TzJrZVU0V0l5UnlaQ1lBOUlDVmdLcjdfQ3RaeEE2a3o4Z0cyQXZVQ3JRUXloSDJmdzRtSS1XOElzMlVWUW1Qd2k3dktmUjVlTkNfWDhab21ZV0RldWhxcUYyX2Nn?oc=5",
-      "source": "ニュースメディアVOIX",
-      "published": "2026-11-02T06:27:50+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "ナウキャスト、三菱商事都市開発向けにAI活用の法人営業支援ツールを提供開始 ニュースメディアVOIX",
-      "source_count": 1
-    },
-    {
-      "id": "bebad7c0433771e4",
-      "title": "住友商、中間連結純利益15．5％増 3478億6500万円(時事通信)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNkc1SzlyOEIzUmw3TW9obTI3TDQ1SGJBZEZyRF9jdmVpdHU5QkdoMUJIYUFmY3lrdWtxbWpRYVhTSml6ZXYwTkhDQTQzTnFXYl9HbU0zenZUSlBnb1o2Z2pvSXFBX2ZPUVhnVUhIb0FZYkxyR1lnUktnRWZPQ0tHb3haVXNBUUU?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-11-02T06:01:47+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "住友商、中間連結純利益15．5％増 3478億6500万円(時事通信) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "b21761adf7f97500",
-      "title": "豊田通商、バングラデシュにおけるモビリティ事業を拡大 ～4,500万米ドルの追加投資で拠点網拡充と人材育成を加速～",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByUGdBMGY1VVlzeTljU281V3FmV1NpSkQzczY0TEwzd0JFcGxmLUZfSzFVUTJOaWsxUnNTek5Dbm9SeGsxbnFZel9MQ3JKR2NySWFJY0k1dFg5U0hybHp3YUd0ekM2QVZYdElIeXVB?oc=5",
-      "source": "豊田通商株式会社",
-      "published": "2026-11-02T06:01:33+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "投資"
-      ],
-      "summary": "豊田通商、バングラデシュにおけるモビリティ事業を拡大 ～4,500万米ドルの追加投資で拠点網拡充と人材育成を加速～ 豊田通商株式会社",
-      "source_count": 1
-    },
-    {
-      "id": "9d4e62aa0e2f1608",
-      "title": "豊田通商、バングラデシュで車両・部品事業拡大",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1EbEJRVWJKTzJyc3I1cTNLejJ3eS1yVUlRN0lRRlB2MTVHNGV5cmozQndqbUVudVNvbEtuU1F2U092Nk9IOS00ZU9B?oc=5",
-      "source": "LOGISTICS TODAY",
-      "published": "2026-11-02T06:00:23+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [],
-      "summary": "豊田通商、バングラデシュで車両・部品事業拡大 LOGISTICS TODAY",
-      "source_count": 1
-    },
-    {
-      "id": "3c6c3ea87f998ff4",
-      "title": "豊田通商、バングラデシュにおけるモビリティ事業を拡大",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XUWF4WkNWR2xRT1NpZWdsOS1iTkRQWnlKZEFONGVycHpuMGZldGZHRUx4dER0ZnhxeHotSkVaZXpqejlMZjlWRFBLc0FrX2ktU00yVUxFaVNLaUxVR0piZC02VXZWeUQwbUE?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-02T06:00:02+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [],
-      "summary": "豊田通商、バングラデシュにおけるモビリティ事業を拡大 PR TIMES",
-      "source_count": 1
-    },
-    {
-      "id": "86062aa3caecf273",
-      "title": "豊田通商、バングラデシュにおけるモビリティ事業を拡大 (2026年11月2日掲載)",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSRzZ5c05Od0UtaXV4cWU1TTUzNDVYcm5MUTk5eXAwZXNYM1R0TW16M2U2TWJlLV9rb0YwVTNBYnV1UW9WQUIxQklIcndOMVc0azQ0bXFaVFp5cU0wS2ZrZC1n?oc=5",
-      "source": "ライブドアニュース",
-      "published": "2026-11-02T06:00:00+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [],
-      "summary": "豊田通商、バングラデシュにおけるモビリティ事業を拡大 (2026年11月2日掲載) ライブドアニュース",
       "source_count": 1
     }
   ]
