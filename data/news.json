@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T22:47:43.175956+00:00",
+  "updated_at": "2026-11-25T03:53:02.514532+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -93,6 +93,107 @@
   ],
   "articles": [
     {
+      "id": "a9c4daf460525c34",
+      "title": "【ニュース】 丸紅都市開発と東急不動産、「（仮称）広島市中区銀⼭町ホテル計画」を着",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSQ3BOTksxVXFrd2tFSFl6clBjTnVNT05Cb2cxWi1mcWFhUlpfXzI2OUZNTktJQUIyVGNwd1dEU0wxdW5mZ0Z4SXdQMmJRRW5zS0VyQ0ZuWXVMZ3htT0MtVg?oc=5",
+      "source": "遊都総研",
+      "published": "2026-11-25T03:00:35+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "【ニュース】 丸紅都市開発と東急不動産、「（仮称）広島市中区銀⼭町ホテル計画」を着 遊都総研",
+      "source_count": 1
+    },
+    {
+      "id": "cadd9417c531a0fe",
+      "title": "前場コメント No.5 識学、いい生活、住友商、インフォメティス、富士ユナイト、岡県運(トレーダーズ・ウェブ)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTjBtUlpsM1BqdHNtYzYyY2NjMGo0U2MxMTMyclpiTDVQV1hXM05jX1JZOGZnX0tQZjJIZHZEek5LRWwxVnpwd1NKNmF0eGhGQXB0bjBXcjd5M00zdnl6LS11SVBRSHQzdXNNcWx6ekhmcG02cDlRWU82RkRtOEdzakZiZHkyQkE?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-25T02:31:04+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "前場コメント No.5 識学、いい生活、住友商、インフォメティス、富士ユナイト、岡県運(トレーダーズ・ウェブ) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "628cdfb3f53b2a23",
+      "title": "米国経済の先行きに暗雲？FRBの追加利上げとデータセンター規制強化でAI投資ブームに急ブレーキのリスク【伊藤忠総研レポート】 2026年11月25日",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tZ3paeHdoN2k2WlJmbmFTTmN1c1hDOGZpalRIWnNxTFgzNnNZeThzOGVkNjRadUlJMDRFVk4tNTVpYUtiU2RGVl85SEJJX1RuY2ZaMzBEbVFBSzQtU3RYVXBHMA?oc=5",
+      "source": "外為どっとコム",
+      "published": "2026-11-25T02:23:28+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "DX",
+        "投資",
+        "海外"
+      ],
+      "summary": "米国経済の先行きに暗雲？FRBの追加利上げとデータセンター規制強化でAI投資ブームに急ブレーキのリスク【伊藤忠総研レポート】 2026年11月25日 外為どっとコム",
+      "source_count": 1
+    },
+    {
+      "id": "c26f4e7fc32e43e6",
+      "title": "【ニュース】 三菱商事都市開発と長谷工コーポレーション、近隣型ショッピングセンター「マチノマ小手指」を竣工 埼玉県所沢市",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGMjUxNFdHMnoyLXA0R19GcXhDM0lTdURocEgzLVlxR0t1MVFGS18xanV4enM2c2xySVFHNEJVTzJMYTVmNXBkTDdWb2c4NW4yOVY4S1NSUQ?oc=5",
+      "source": "遊都総研",
+      "published": "2026-11-25T01:04:49+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "【ニュース】 三菱商事都市開発と長谷工コーポレーション、近隣型ショッピングセンター「マチノマ小手指」を竣工 埼玉県所沢市 遊都総研",
+      "source_count": 1
+    },
+    {
+      "id": "8e47a196ecffbab7",
+      "title": "豊田通商グループがエジプトで900MWの風力発電に参画！3件目で過去最大！",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xdk52UEhSd3kzY0ZfUHI3QzZ1R01hRVRvY2N2ZndSM2hZajZKTHhpSFRUemhzUVN5Q3pXYVdGSmxsZVNVODBRSFlMTlgtUQ?oc=5",
+      "source": "Africa Quest.com",
+      "published": "2026-11-25T01:00:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "豊田通商グループがエジプトで900MWの風力発電に参画！3件目で過去最大！ Africa Quest.com",
+      "source_count": 1
+    },
+    {
+      "id": "5f184f7feb70e68a",
+      "title": "住友商事－底堅い バングラデシュ初の地下鉄工事を受注 900億円で線路整備＝日経(トレーダーズ・ウェブ)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ2Q2bjZETFFhLVNDS2U4NnYxOGRuTWdHSWI2T1loOHl1M25xOTZKLVhpUTJLOGN0aWh3WHllcjllOUxmZHpPZkhWaUhMQng3ZXplWC1uWUVHU1RVZldrSXpfa0dvTE94cXlDNmFlVkZQOG50OFRyYVc2ck9DRWM3MVhxS1lLRlk?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-25T00:08:03+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "住友商事－底堅い バングラデシュ初の地下鉄工事を受注 900億円で線路整備＝日経(トレーダーズ・ウェブ) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "a1393d67c2aa8527",
+      "title": "五大商社の平均年収、全社で上昇 三菱商事2112万円・伊藤忠は10％増",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10Wl9EdjhabDNVc0c5UmV2elYwM0lLZXhIMUMtaUtOU2ZmTE9GTEZycUdqd2NZNFc4RXFIemY1VmZfX24yb3pZWTF4T0J6dS13ZV9nVkdaaWt6MHlUWjFuTUNCb3oyWjlJOHZ0NEswQ2NzUXVm?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-11-24T21:25:00+00:00",
+      "company_ids": [
+        "itochu",
+        "mitsubishi",
+        "sumitomo"
+      ],
+      "tags": [
+        "就活"
+      ],
+      "summary": "五大商社の平均年収、全社で上昇 三菱商事2112万円・伊藤忠は10％増 BigGo ファイナンス",
+      "source_count": 1
+    },
+    {
       "id": "bde8da5fc5bc0556",
       "title": "AI検索に拾われないサイト、企業に焦り－IR･広報で｢GEO｣対策が課題に",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RQm9pMmNUOFZ6c0xUbDczSGtUWklwYkpINHcyQWxPRE1ZNFoyWlJmSmVrT3AySE5yMDVMWXNTZ0RwYzZEYkNWaVJWSm5TZnBjUUk1d0V1My1qXzVaVkJlTUJjYmZHTVZzbTc5NHV2R2xaTnJMcTVj?oc=5",
@@ -150,6 +251,21 @@
         "海外"
       ],
       "summary": "経済摩擦が少なくても平時から中国と対話を 丸紅中国法人経済研究総監の鈴木さん【経済トレンド／にっぽん診断】 静岡新聞DIGITAL",
+      "source_count": 2
+    },
+    {
+      "id": "ea2f5847def02a0b",
+      "title": "海外赴任者数が多い企業ランキングTOP100！ 3位は三井物産､2位トヨタ自動車､では1位？ 3ページ目 | ライフ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DU01vMUFhRGRnc3VzNDhqMXlKTGNpX3dQZXc2b0todXk3TndyY2p1VjNnLXQ2VTBqdHBpdHRISDRfYURDVVI5eFFRSGtVVHdqLXU4UVRTOHVMa1E?oc=5",
+      "source": "東洋経済オンライン",
+      "published": "2026-11-24T20:00:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "海外"
+      ],
+      "summary": "海外赴任者数が多い企業ランキングTOP100！ 3位は三井物産､2位トヨタ自動車､では1位？ 3ページ目 | ライフ 東洋経済オンライン",
       "source_count": 1
     },
     {
@@ -181,7 +297,7 @@
         "株主還元"
       ],
       "summary": "三菱商事株が1週間で1割安、1兆円の自社株買いで株主のメリットは？ 財経新聞",
-      "source_count": 1
+      "source_count": 2
     },
     {
       "id": "7078b9639b18315f",
@@ -199,6 +315,22 @@
       "source_count": 2
     },
     {
+      "id": "50c1523db7cb105d",
+      "title": "AI秘書、中小企業に展開 伊藤忠系、自動で電話応対（共同通信）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fSVdXd21saWNGM0F4TUtyLXg5Y1B5OGtHeTIyWEVaWk1DZXEzSFJNenhxdkV2XzVnM1ZrV19vQk5EYXNfWWV3a3NxVnlLZmhlc2JFdGR5d19tNlRldS1VVXljVmdKcGpvc2Z1dFJ5RHRzWmx0MzhIZHlZX1hVSDg?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-24T17:00:01+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "DX",
+        "提携"
+      ],
+      "summary": "AI秘書、中小企業に展開 伊藤忠系、自動で電話応対（共同通信） Yahoo!ニュースＡＩ秘書、中小企業に展開 下野新聞社ＡＩ秘書、中小企業に展開 伊藤忠系、自動で電話応対 | | 全国のニュース 佐賀新聞AI秘書、中小企業に展開 伊藤忠系、自動で電話応対 西日本新聞me",
+      "source_count": 1
+    },
+    {
       "id": "cac9179612625bf9",
       "title": "AI秘書、中小企業に展開 伊藤忠系、自動で電話応対",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xa1pqS2pwQTg0RWx6YlNMTDdOZkRFWTk5N2U2bDQxUXhmMmRlUmEzQjM3RmVLRmlJM2dsWlpsVHIxd0FTNzBQSFlhTW9TbzA3VkRjMnF3?oc=5",
@@ -212,6 +344,19 @@
       ],
       "summary": "AI秘書、中小企業に展開 伊藤忠系、自動で電話応対 西日本新聞me",
       "source_count": 2
+    },
+    {
+      "id": "72e2eafd7792b708",
+      "title": "ＡＩ秘書、中小企業に展開 伊藤忠系、自動で電話応対",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HSG9BR2tLb0ttV2puR3lJcjh0VHBHSFpRVzl4SVczNExYX0s5ODZZSGFHMDNuOVZEUFdLVzNVSWt1b2tEeDNSZW9td2t5Zw?oc=5",
+      "source": "静岡新聞DIGITAL",
+      "published": "2026-11-24T17:00:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "ＡＩ秘書、中小企業に展開 伊藤忠系、自動で電話応対 静岡新聞DIGITAL",
+      "source_count": 1
     },
     {
       "id": "b59a8bc192bc87fa",
@@ -392,6 +537,22 @@
         "海外"
       ],
       "summary": "台湾KYMCO、豊田通商と日本向け電動二輪車の販売代理契約 ashu-chinastatistics.com",
+      "source_count": 1
+    },
+    {
+      "id": "5c2bcebeabbcb306",
+      "title": "伊藤忠丸紅鉄鋼、鋼管・鋼材販売の大日鋼業を買収 : M&A速報 : M&A情報データサイト | レコフデータ運営のマールオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPeXVuTlVqUExTV0YydDZKd05odUZSUXBiM1dwTnJ3NjNjQnU1TzdFaDQ2TXByaW81bzQtTnF5cmxMUUxWakZmSnpuYW5SNk1zUXh4a29TZw?oc=5",
+      "source": "マールオンライン",
+      "published": "2026-11-24T02:43:00+00:00",
+      "company_ids": [
+        "benichu",
+        "marubeni"
+      ],
+      "tags": [
+        "M&A"
+      ],
+      "summary": "伊藤忠丸紅鉄鋼、鋼管・鋼材販売の大日鋼業を買収 : M&A速報 : M&A情報データサイト | レコフデータ運営のマールオンライン マールオンライン",
       "source_count": 1
     },
     {
@@ -817,6 +978,21 @@
       "tags": [],
       "summary": "丸紅ロジスティクス子会社、タイに物流センター開設―ペットフード流通の最適化 財経新聞",
       "source_count": 3
+    },
+    {
+      "id": "68ee4c8473284d71",
+      "title": "三菱商事、カナダＬＮＧ事業の一部を米ブラックストーンに売却 約2500億円で（ロイター）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TcVYyODZUZUdVdF9zNzRrQUV1WTlTbjZUY0dKbzFhdHQzN1ctNDVMek1FN2xkMGVHZHZTV01td1JXd1VkRmN2eHZpWHpqUnRWQnlIOW5EMkVJem5yWTN6S0tzSmNBQnlhdVR3Qk01bm5EN2Vab1A5bTJieG1id2M?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-22T06:42:00+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "M&A"
+      ],
+      "summary": "三菱商事、カナダＬＮＧ事業の一部を米ブラックストーンに売却 約2500億円で（ロイター） Yahoo!ニュース",
+      "source_count": 1
     },
     {
       "id": "bba21d09d3acf8d7",
@@ -8746,178 +8922,6 @@
         "決算"
       ],
       "summary": "丸紅(株)【8002】：決算情報 Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "c439205d68d38dc8",
-      "title": "決算マイナス・インパクト銘柄 【東証プライム】寄付 … 住友商、京セラ、ＳＢＩ (11月2日発表分)",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9jSHpxUnQ1NE5IUHN3VWFkQXFqemp1MGliQV9JR1hienhObmt0b01BV05TeE9ScF9ZOGo1RG95aHBIRmZZSkE?oc=5",
-      "source": "みんかぶ",
-      "published": "2026-11-04T00:28:19+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "決算マイナス・インパクト銘柄 【東証プライム】寄付 … 住友商、京セラ、ＳＢＩ (11月2日発表分) みんかぶ",
-      "source_count": 1
-    },
-    {
-      "id": "861b54ce2b54847e",
-      "title": "２日の動意株＞住友商(ウエルスアドバイザー)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVm5tdDdCXzNGVTVOM0toUENrTUVtWFpGbzR1VEF5cndxa2xDeDJqckZOR2lGcUl3Z0w0aWc5b3VhcUJUelVteUFCU1BwM3VveW5qemZVWTZvNGs5YUJ1ZlpIZ0ZiS212bXo1S29lcE5GRVFoOXJ4VXJEMS0wWHlmQXR5WWJiWFE?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-11-03T22:32:10+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [],
-      "summary": "２日の動意株＞住友商(ウエルスアドバイザー) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "061579705368725e",
-      "title": "伊藤忠商事がAI創薬のMOLCUREに資本参加、創薬・臨床データ統合基盤の構築視野に",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92SGVXbG40Z0djeE5XTXFsb1BIYXBvRmdYemliVi1IMHNySTRtMXJJVUZxdnJpN3dUMTBpckVzd0pYU2I3OWJsb2cxaTRLdWoxSllMUmtyNk9pbzBmcU5QR1RpQXhwdw?oc=5",
-      "source": "日経バイオテクONLINE",
-      "published": "2026-11-03T22:00:09+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "伊藤忠商事がAI創薬のMOLCUREに資本参加、創薬・臨床データ統合基盤の構築視野に 日経バイオテクONLINE",
-      "source_count": 1
-    },
-    {
-      "id": "db38da429b093265",
-      "title": "「形骸化した報告では意味がない」 丸紅が280拠点のIT検査で「泥臭い手法」を貫く理由",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GZEJyVDQ3bG5Sa04xMS04X0g0T1Q2eEF0NEhrcEJzNUo3dm9HWk1Ob1pnNHNPYVZwaGx2OE9qSkNNUlRKNEpjd19tbWxLazJ1LTFlSDhn?oc=5",
-      "source": "JBpress",
-      "published": "2026-11-03T21:00:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [],
-      "summary": "「形骸化した報告では意味がない」 丸紅が280拠点のIT検査で「泥臭い手法」を貫く理由 JBpress",
-      "source_count": 1
-    },
-    {
-      "id": "926ba5f7abcad9f4",
-      "title": "豊田通商・今井斗志光社長（超短波）",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IYlhTSFg4TUtUWkc0OFk3OTM0aEhqaV9pR2FLX0ZnOExLeHpPVmtXeU5adjhBUjJNRFJwb1BMNE8xTmgyelVRbFlSSUtXWGxZbVNr?oc=5",
-      "source": "化学工業日報 電子版",
-      "published": "2026-11-03T20:00:12+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "人事"
-      ],
-      "summary": "豊田通商・今井斗志光社長（超短波） 化学工業日報 電子版",
-      "source_count": 1
-    },
-    {
-      "id": "025b28b01ef7e0d6",
-      "title": "三菱商事の「投資ファンド協業」始動 LNGカナダにブラックストーン",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yV2RJU2lpMkNTY01SdVZUWUFERjBPMHc0djRCTnAtbXFWdUtjSVR6bHlBa29mZThvTjFkQmVIb2FtQ2RpUURJcE13ZVRodk5GLXN5T3JnRlFndG1aSG04Qjd6MERNRGRrSmZKdg?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-03T20:00:00+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "投資",
-        "提携",
-        "資源"
-      ],
-      "summary": "三菱商事の「投資ファンド協業」始動 LNGカナダにブラックストーン 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "f6b6eb220414909f",
-      "title": "住友商事・鉄鋼グループ／４～９月期純利益１４％増の３８９億円／ＳＣＧＭの通期予想は３００億円超え",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95MzlTYS1sRzJwcTRXVXpLYzVCaWpucGFaMlVvUV9aMktDNmhEa2VMckNMVmdqbURJLTU4dkFnNDFmSnd0RkFIMnR4d3E0Z2h0OFBndzNwUS1ZVmV0Zmc?oc=5",
-      "source": "日刊鉄鋼新聞 Japan Metal Daily",
-      "published": "2026-11-03T20:00:00+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "DX",
-        "決算"
-      ],
-      "summary": "住友商事・鉄鋼グループ／４～９月期純利益１４％増の３８９億円／ＳＣＧＭの通期予想は３００億円超え 日刊鉄鋼新聞 Japan Metal Daily",
-      "source_count": 1
-    },
-    {
-      "id": "5eb809815ce301a9",
-      "title": "秋の叙勲／加留部氏（元豊田通商社長）に旭日重光章／野口氏（元日本アルミ協会専務理事）、瑞宝小綬章",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BSzAxcFQzbGZqSnF0ZUFXY2otenV2N3VHdklsOWJHN0VmRlNNN3hmeGp1Y2xQXy1GR2phWW5lV19BTklVMXhZMEpSWnRaeDk0WE9QcVpSbGpJOVFIX0E?oc=5",
-      "source": "日刊鉄鋼新聞 Japan Metal Daily",
-      "published": "2026-11-03T20:00:00+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [
-        "DX",
-        "人事"
-      ],
-      "summary": "秋の叙勲／加留部氏（元豊田通商社長）に旭日重光章／野口氏（元日本アルミ協会専務理事）、瑞宝小綬章 日刊鉄鋼新聞 Japan Metal Daily",
-      "source_count": 1
-    },
-    {
-      "id": "5549f48d575ea633",
-      "title": "長瀬産業、東京本社の新社屋を完成",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGcFotQ0NpajBsa0pzQllfcmFiZzRfeURJWmZjb2RhS0N5MHNGYlFFQU1jc0NkZEJRMmxrMU4yWFJyWFNUZFM3Z3FsWUtZZ1N1YnQxTk84Z1Q?oc=5",
-      "source": "日刊工業新聞",
-      "published": "2026-11-03T20:00:00+00:00",
-      "company_ids": [
-        "nagase"
-      ],
-      "tags": [],
-      "summary": "長瀬産業、東京本社の新社屋を完成 日刊工業新聞",
-      "source_count": 1
-    },
-    {
-      "id": "c7051622b28c64fa",
-      "title": "「北海道北部の風力送電、送電線78キロと大型蓄電設備で実現」 エネルギー探訪9000キロ⑦ - 日経ヴェリタス",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBNWh1ZGxDVG5MNDgwTEZ1R3oxWGpPUjR1U1IyTDJnQjJ2Q01JOThGdUJKdzlLeEVZQWswM2g2Y21VZmZYN1VIcWZ4MWoySURveFhDeHM2UnNfQmxEcWZQRGVlSEY4OXZzaE1CaEl0LU9rX2FsczdaMkdXSjV3dw?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-03T20:00:00+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [],
-      "summary": "「北海道北部の風力送電、送電線78キロと大型蓄電設備で実現」 エネルギー探訪9000キロ⑦ - 日経ヴェリタス 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "469aaa09680e484a",
-      "title": "秋の叙勲3861人受章 豊田章男氏・松坂慶子氏ら",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jRUxFeW50cnJhN1hHNUxyalIxLVdiSW9ubmFNNEtJR2VvMGFfTjZOcmh1NW8wemNZM0Z3T2FGQUtYS2NFNjQ1azk1aU1lY2ZjUnhrek9HTVUxekZLbGhsX011ZlZ3d2VBX3FMYQ?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-03T08:00:00+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [],
-      "summary": "秋の叙勲3861人受章 豊田章男氏・松坂慶子氏ら 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "4d8f2dbe6d67675d",
-      "title": "伊藤忠商事／企業広告「メイド イン ジャパンの一粒で、エネルギーをつくりだせ。」新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wUWlqWlkydUZHTzQ4c2JKOE4xbV9RM0UwQ1NQMUxxbU1VSGVqV3RnUi1QWVZMZkQteEhNMk1NSnUtaW13VEptbEN6dFVuSlQ2M1d4STRQZkRJd0c2RWRGUXVaTW1KSjlsUnRUZQ?oc=5",
-      "source": "宣伝会議",
-      "published": "2026-11-03T06:12:56+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [],
-      "summary": "伊藤忠商事／企業広告「メイド イン ジャパンの一粒で、エネルギーをつくりだせ。」新聞 宣伝会議",
       "source_count": 1
     }
   ]
