@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T10:48:02.676322+00:00",
+  "updated_at": "2026-11-25T22:45:29.884322+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -92,6 +92,225 @@
     "就活"
   ],
   "articles": [
+    {
+      "id": "da5f4f6f058e5a17",
+      "title": "今井斗志光・豊田通商社長「ゴンドワナ経済圏の成長力」",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJaDRxeWpDZkNrQzJLeWoxVXhFZDNHSTFsb0dTc0pUY091dnJVc1FsZ3pfWXRPSU9ZZHJLQ1oydHd4cVdBNkUwX3A4cXVwLTlsSTZhWWVzNjQ0Wkw2THFQRnhQd2c2QmEwS29TdURGclhPanF6Z1EtVjZTdERhaDQ?oc=5",
+      "source": "毎日新聞",
+      "published": "2026-11-25T21:30:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "人事"
+      ],
+      "summary": "今井斗志光・豊田通商社長「ゴンドワナ経済圏の成長力」 毎日新聞",
+      "source_count": 1
+    },
+    {
+      "id": "8d37d3f05ff05f61",
+      "title": "住友商事、バングラ初の地下鉄で軌道工事受注",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0tOXI0UnNVYXhFMEtCdmpveXJCOUliNFBrX2dGMEhwU2h0WmpuRXdDY1FpbkcyRmZTNW96d21waEZkSnl3WkE?oc=5",
+      "source": "NNAアジア",
+      "published": "2026-11-25T20:28:24+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "海外"
+      ],
+      "summary": "住友商事、バングラ初の地下鉄で軌道工事受注 NNAアジア",
+      "source_count": 1
+    },
+    {
+      "id": "bd046b27d9661b3f",
+      "title": "長瀬産業が液冷技術セミナー 次世代ＡＩＤＣに貢献",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKTXVDUzUwbC1SbUtOWF9ETE1HMTFzMW5vLUN2OXdmRjBBakRzaUdUcVpncUJOSmdpMjVoYTgwWF9xbmIzekVfRGlyeTZFWGdoU28w?oc=5",
+      "source": "化学工業日報 電子版",
+      "published": "2026-11-25T20:02:41+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [],
+      "summary": "長瀬産業が液冷技術セミナー 次世代ＡＩＤＣに貢献 化学工業日報 電子版",
+      "source_count": 1
+    },
+    {
+      "id": "db36cd2569647199",
+      "title": "［徹底予測2027 商社］三菱商事に三井物産、DC需要でエネルギー市況は好調続く",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IM01uLVlYWmhuZ1lFV1RJcS1HOFNaTGZkUnFGUGk3c05XUjNDbVVYSXFDSVgzVnlwUEFnelVGcUFTR19UbWJfM2psT3dnQXZ4T2NKa0dZMk4xeWtnR19uTXlJTE1EQzg?oc=5",
+      "source": "日経ビジネス電子版",
+      "published": "2026-11-25T20:00:00+00:00",
+      "company_ids": [
+        "mitsubishi",
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "［徹底予測2027 商社］三菱商事に三井物産、DC需要でエネルギー市況は好調続く 日経ビジネス電子版",
+      "source_count": 1
+    },
+    {
+      "id": "9872f91168b91b3d",
+      "title": "アプリからサーバー侵入「攻撃の重要な一因」 伊藤忠系",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZGV2WW14Zk9ydW14dEQwQ08tR1lVM2I1bFNzaUhsY214ZmdadnZ3Q2twRHg2c2xTZWpCQ2I0UjQ4RFIzMVQ0b2c2ZGo3cFM0SExnWGlzclBMZ0xFZjVucDRVRk8yOERRTHl5YU8xSDUwV1lXbHdOTF9yUVFvQTZKYXQyU05zTDR4cTh2Mw?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-25T20:00:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "アプリからサーバー侵入「攻撃の重要な一因」 伊藤忠系 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "c12b030ff8f0037e",
+      "title": "インタビュー／豊田通商アフリカ本部COO・平田竜也氏 アフリカで第2の柱育成",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XYVZybDZ0QzlOVHFtNHFJYUQtT1d5ZHFXeWtPdDhQZ2lWSG10VzJFaTJZQjVqZGhmV3dITWdJLWF1NUxYU3RHM1F0SEhvZy1hTFJkWkRkVUg?oc=5",
+      "source": "日刊工業新聞",
+      "published": "2026-11-25T20:00:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "海外"
+      ],
+      "summary": "インタビュー／豊田通商アフリカ本部COO・平田竜也氏 アフリカで第2の柱育成 日刊工業新聞",
+      "source_count": 1
+    },
+    {
+      "id": "d38855fc5d8e4d17",
+      "title": "商社の40歳年収ランキング【全62社・2026最新版】6位豊田通商、3位伊藤忠、1位は？",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9tLXZnalpPVFJzUFVLXzZhMVdKM3Foemo1bEV2aXYzYnpMWmk1VWROM2hRaGE5bzMtUDJqb2lPWkcxZVBRd3NQczY3bGU?oc=5",
+      "source": "ダイヤモンド・オンライン",
+      "published": "2026-11-25T19:50:00+00:00",
+      "company_ids": [
+        "itochu",
+        "mitsubishi",
+        "toyotatsusho"
+      ],
+      "tags": [
+        "就活"
+      ],
+      "summary": "商社の40歳年収ランキング【全62社・2026最新版】6位豊田通商、3位伊藤忠、1位は？ ダイヤモンド・オンライン",
+      "source_count": 1
+    },
+    {
+      "id": "5f6e022cd69fe192",
+      "title": "【アナリスト予想】三菱商事、27年3月期経常予想。対前週0.5%下降。(アイフィス株予報)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOVEyZEV6R3RESmo5bjBCenFtVnZoN29GQ3RaeWUyUll3S1VxLTNOUmRmQ2tOUUY2eWwtbUJYREdfZFZtdFhVWHhMNGVweFBCbHlQODJvMnVFbWk0NnZTN3dHXzktSVllVjN0dmxxekpCV2szMkVURmJhdWk3ZEtpRmFnbWVDaEU?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-25T13:47:22+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "【アナリスト予想】三菱商事、27年3月期経常予想。対前週0.5%下降。(アイフィス株予報) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "6e5335d7c8a27f08",
+      "title": "【アナリスト予想】三井物産、27年3月期経常予想。対前週1%上昇。(アイフィス株予報)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSThPVS1sdnNLTkh4NDNPWGRuSmFmQ2k0cktFSkFGeHBhNFZTal9ZNXFiMTRYTGk4NmhqczVER1J0dkNjbFNGZ2lVRUpvMENlZ1NHVkZaQjZCbTBLcXdpM3FLUy1sLVl2a1lCVmFMNDVrZTFPSjV0dmFYT2RTU01SZG1NSW52OUU?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-25T13:47:21+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "【アナリスト予想】三井物産、27年3月期経常予想。対前週1%上昇。(アイフィス株予報) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "e908103c97f7a246",
+      "title": "【アナリスト予想】伊藤忠商事、27年3月期経常予想。対前週0.3%上昇。(アイフィス株予報)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVUlxQl9NcGlIc2FBLXoySmJBQngwdWxObGN6T3YxQXFtNUd6NVVNNUxCMHR2U0N2WEloVUVoZzdrOVZCelN2MF9oMEpQWVM1dkFMeVdYV21DbnVlMlhvUHhINUh2RndBXy1Wai1zVXlPbHRSNWpVX1lFRTVheTNKem9UblJ3YW8?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-25T13:47:19+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "【アナリスト予想】伊藤忠商事、27年3月期経常予想。対前週0.3%上昇。(アイフィス株予報) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "65cbc625b6bd146d",
+      "title": "【アナリスト予想】丸紅、27年3月期経常予想。対前週0.9%上昇。(アイフィス株予報)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaGloWDNkaFh0LU1oUDd4cFNqMWtRSlZ0WGtJSnNTZzEzNVpMSEZzMXVpT3pDQnBJWUFPd2FNQTFFVXJKRk1fZjY1eGxCbXhIZ3FiTEluMmY1cWVXV1ZIZHZWX2ROLXlUTFBoblh2bHRzSUtYMDcyUHZrVElZZk14a1RHQ2x5SVU?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-25T13:47:19+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "【アナリスト予想】丸紅、27年3月期経常予想。対前週0.9%上昇。(アイフィス株予報) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "5cc2f77bb0ca468b",
+      "title": "【アナリスト予想】豊田通商、27年3月期経常予想。対前週上昇。(アイフィス株予報)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSldLNnBPZXJ0ampNU3dqajFDS0dxMVBrMENXaUlZQU9yNzI4Q2JkU0JSMkNyeElheHppSk1CNmVaYXJhbDNPdklwMWEtZmN2dmFpSjhFMmEtZVNMYXh1Unc3aXF2TVpzeXRwMDhZX0thSjlVR3FsMFpubzdoUjlJTXg2bkwzUHM?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-25T13:47:19+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "【アナリスト予想】豊田通商、27年3月期経常予想。対前週上昇。(アイフィス株予報) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "9763c34b7d117efb",
+      "title": "【アナリスト評価】三菱商事、レーティング中立を据置き、目標株価5,210円に引上げ（日系大手証券）(アイフィス株予報)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTWFqQzB6Q3lfTDhsNktmSlgzalpKVWRfMGs3T0p0UHdmT3l4dElwcUM3TndoWk43WDlXSXptRnNBRDlDNDlkWWZPQ3R2dDB5aHNock91ZjJfZ25BRkYxNlpOcVR3aGdyUFpkWUdEdDVJYW04VmZyeFpoOFplSmxHTFBVdm9RREk?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-25T12:48:53+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "【アナリスト評価】三菱商事、レーティング中立を据置き、目標株価5,210円に引上げ（日系大手証券）(アイフィス株予報) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "c0613c260f026849",
+      "title": "【アナリスト評価】三井物産、レーティング強気を継続、目標株価5,600円に引下げ（日系大手証券）(アイフィス株予報)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNajdtRUN6YlV1TlpHcjBPSDJmVnNtNWJXVDVCWjJGVFJVVEVnbWYxQUExYl9QQVJaVmZmNWtDUTNPOUtzN3ZLNTJCaFhlZEUyaEpYX2MwZG53c0xhaHpuM3E4ZkVqY3ByZC1NVUIzZ3dRTXY4bHdOMDdGQncyNEFrcU1TVlB0RUU?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-25T12:45:47+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "【アナリスト評価】三井物産、レーティング強気を継続、目標株価5,600円に引下げ（日系大手証券）(アイフィス株予報) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "26a660e1a265292e",
+      "title": "【アナリスト評価】豊田通商、レーティング強気を継続、目標株価8,140円に引下げ（日系大手証券）(アイフィス株予報)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZjgwcTFzRUlCVXU4V2FOREt3UlpWWUI1Y1o2Y1FfWTFXZUtsU1NoN2VGMXVTZmp5RmZpZ1gtNFZoTWtNaVA0NC1YZ2E2TFZjaHJuYlNFcVR6cHFmUzlabjdVenFKRUxEcXpHbjdJT0lfQXMxOS1GV1hvalhTRFVLMm14bjdaN28?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-25T12:39:31+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "【アナリスト評価】豊田通商、レーティング強気を継続、目標株価8,140円に引下げ（日系大手証券）(アイフィス株予報) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "c06b2325d59f5716",
+      "title": "【アナリスト評価】伊藤忠商事、レーティング強気を継続、目標株価2,750円に引上げ（日系大手証券）(アイフィス株予報)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMlQ5WGhfbnowMXpkVWtTbVM4R3J2RzVyT052QUVBbWRkUXZ0LXJkXzg5aUt4aktwYVdRLXdYSjVHd1A5WGJrb01pdWpISHRmbnNZaUYyZnJYNjE4Z3h4T1UxQnhhejhxOG5RR0tPMUlVOUVCalh1Wl9wckFDbHdHTFRidU1TZ3M?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-25T12:33:17+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "【アナリスト評価】伊藤忠商事、レーティング強気を継続、目標株価2,750円に引上げ（日系大手証券）(アイフィス株予報) Yahoo!ファイナンス",
+      "source_count": 1
+    },
     {
       "id": "6daf642d4263a61c",
       "title": "三井物産、量子で製薬効率化 中外製薬と実証し30年までに専用ソフト",
@@ -1118,6 +1337,24 @@
         "M&A"
       ],
       "summary": "三菱商事、カナダＬＮＧ事業の一部を米ブラックストーンに売却 約2500億円で（ロイター） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "5b70aa56bd4c7596",
+      "title": "丸紅、今期純利益・配当予想を上方修正 チリ銅事業好調で過去最高益へ（ロイター）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tbEZLXzc3QndjQ1c4d0FFVDRaWGt4OUJqYkhvNllYaG5xNkhJOXNwRGJkMGlPQ1NFTnJxSi00LTJhcEhJb1RTc2NMOWFwb0FCV3pMUUdLVnlLam9tS2dmUlZVbHlxaEJoamhVSzcxQUVuVzRITi1yUnhsQXRRTHc?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-22T06:33:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "株主還元",
+        "業績予想",
+        "決算",
+        "資源"
+      ],
+      "summary": "丸紅、今期純利益・配当予想を上方修正 チリ銅事業好調で過去最高益へ（ロイター） Yahoo!ニュース",
       "source_count": 1
     },
     {
@@ -6432,7 +6669,7 @@
       ],
       "tags": [],
       "summary": "JFE 商事鉄鋼建材株式会社とJFE商事鋼管管材株式会社の統合について PR TIMES",
-      "source_count": 2
+      "source_count": 3
     },
     {
       "id": "c0dfee368d806b31",
@@ -7729,6 +7966,22 @@
       "source_count": 1
     },
     {
+      "id": "13130df5ee04821a",
+      "title": "決算:丸紅の純利益6300億円 27年3月期、資源好調で上振れ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1na1k0enotRDhPLUZzbmlpN1ZRYjUyZ1dOZVoxNml4ZGRsbnF2Wk56aWhxTVo4X1BuUU1rSXFsbFJCOXZZTkZibEpjVzNJN3JaZ2Q1UjdORFN0TV9aWl9NOWliUlFOU09IbEhqMA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-04T08:00:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "決算",
+        "資源"
+      ],
+      "summary": "決算:丸紅の純利益6300億円 27年3月期、資源好調で上振れ 日本経済新聞",
+      "source_count": 1
+    },
+    {
       "id": "827fe740dd75033d",
       "title": "大手商社5社増益 資源・エネルギー好調 三菱商事最高益更新見通し",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1icUVjeGhiR25oTF9SVmRTMzl4czMxWm04OHZJRlltNE9NV1RZMWozVWNoY2c1N0FyQ295OGZGSUtOOGgzenBlbDdJeEZHOVJBOHJMaXpYYlpIRWNTWnc?oc=5",
@@ -8620,286 +8873,6 @@
         "決算"
       ],
       "summary": "三井物産、通期純利益予想を1兆円超へ上方修正 エネルギー価格上昇 Reuters",
-      "source_count": 1
-    },
-    {
-      "id": "b330e7f62a8f4e3c",
-      "title": "三井物産、通期純利益1兆円超へ上方修正 化学品や米州自動車など上振れ",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBscGVuRmVzZEdLNmMxX01yQnFrRC1PMkROb0FSVThZTXlpcTE1OTd0Uzh1NjktcW5seWVYV3dyRTZONUZrRHZ5TWdVUEd2R0ZmNTFyeDBVbEo4WUNfeGEzZS0zeTRTUVBHemdUYk4wTE1BZlFHSjRlZGFQZmdUUQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-04T03:23:00+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "業績予想",
-        "決算"
-      ],
-      "summary": "三井物産、通期純利益1兆円超へ上方修正 化学品や米州自動車など上振れ Reuters三井物産の株価、下げ幅拡大 今期上方修正も売りに押される 日本経済新聞【決算速報】三井物、今期最終を14％上方修正(株探ニュース) Yahoo!ファイナンス三井物産、通期純利益予想を1兆円超へ上方",
-      "source_count": 1
-    },
-    {
-      "id": "ebf63d4be90da539",
-      "title": "三井物産、通期純利益予想を1兆円超へ上方修正 市場予測上回る（ロイター）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nNmxaOHFaVW1seW9zaElnRDVmZXRoa3hnaFdhX2FtTnE3b01jcEQwT2RNWFNsTXhjaHVrSTVOZDhmXy0tdkZ4S3ZFZnNzTWNjSDROUENpSzF2MktEZXU5aUk1RjJldjN1WVJkSnRXUGF2OVJIZGItVXI5bXJrRlE?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-11-04T03:22:18+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "業績予想",
-        "決算"
-      ],
-      "summary": "三井物産、通期純利益予想を1兆円超へ上方修正 市場予測上回る（ロイター） Yahoo!ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "de1dfcf429badb59",
-      "title": "三井物産、通期純利益1兆円超へ上方修正 化学品や米州自動車など上振れ（ロイター）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nNmxaOHFaVW1seW9zaElnRDVmZXRoa3hnaFdhX2FtTnE3b01jcEQwT2RNWFNsTXhjaHVrSTVOZDhmXy0tdkZ4S3ZFZnNzTWNjSDROUENpSzF2MktEZXU5aUk1RjJldjN1WVJkSnRXUGF2OVJIZGItVXI5bXJrRlE?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-11-04T03:22:18+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "業績予想",
-        "決算"
-      ],
-      "summary": "三井物産、通期純利益1兆円超へ上方修正 化学品や米州自動車など上振れ（ロイター） Yahoo!ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "6fbc5f1baab587ed",
-      "title": "三井物産、通期純利益予想を1兆円超へ上方修正 市場予測上回る",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqN1A1aTBxcFVYeDN3dHFDZHI2bWFUMi1vV2dPLW9BS0UyenpqeFRHMjdrb0llcC05dHppOGhoUWNZVEZUUnJ6U2ZzdTRUOHUwekdQNUl3dF9RQQ?oc=5",
-      "source": "ニューズウィーク日本版",
-      "published": "2026-11-04T03:22:00+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "業績予想",
-        "決算"
-      ],
-      "summary": "三井物産、通期純利益予想を1兆円超へ上方修正 市場予測上回る ニューズウィーク日本版",
-      "source_count": 2
-    },
-    {
-      "id": "004a1f1a19f916f9",
-      "title": "決算:三井物産の純利益1兆500億円、27年3月期に上振れ エネルギー好調",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LYTZXbVM2c0pXSXYycXdmbzhaZ29TRkFXWXU3TTJKV3NFMk4zekZCaFZUUlZPQUdaMEx3VFdNejJlY1FuXzVKb0daV2tsSDJrNTR5RC1UclkzeUJmX0VsVUFUNEdWMjV6TTJ4Tg?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-04T03:18:09+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "業績予想",
-        "決算"
-      ],
-      "summary": "決算:三井物産の純利益1兆500億円、27年3月期に上振れ エネルギー好調 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "a319262d18d5a19c",
-      "title": "丸紅、27年3月期純利益を6300億円に上方修正 銅・化学品が牽引",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDRHhpUFRfZFVxYWhTMWVKdUlzNHk5bS10VWNyc0h5Zm8ybkVuZ0xhd0p1Zk03MjRxYlJtSUp4NEZBX2p5YVlRUmtsMGRpQk4yZ1ZHLXJnUmgtU19ja3I5WWQ3YkZOYUNIUVRvVXQtdmN6cWNq?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-11-04T03:05:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "業績予想",
-        "決算",
-        "資源"
-      ],
-      "summary": "丸紅、27年3月期純利益を6300億円に上方修正 銅・化学品が牽引 BigGo ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "4df8d6331cd04d03",
-      "title": "【決算速報】三井物、今期最終を14％上方修正(株探ニュース)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVUV1SFNqYnRyeXo1c29DYzAtalV2X2w0VzlJX3p4UVhOd2I5NENzeW90aHVqVUdMMEk1dWE3Y3B2QzlvNS1JNjNrNXE2eHgxdG5Hd1ZCNDBBWW83X0xQXzFFVVZEeWJLVXp2X2pJcDFOOXZPUWM3MHRhM0hYMTRvc0J1SVdleEE?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-11-04T03:01:11+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "業績予想",
-        "決算"
-      ],
-      "summary": "【決算速報】三井物、今期最終を14％上方修正(株探ニュース) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "ffad67c22bf75a92",
-      "title": "【決算速報】三井物産、中間税引前709,539百万。(アイフィス株予報)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSEpzaE1nTXl0LWxQTkNoaV9VMm1tbVg5ajhlMmpneWtyZkpTSFEtZk9ZcW5fdC1ONUFGNzdHTnFITmhTMkwzdDgzd1gtNlk4WHpHREY4dHJ6RVZxUmRCN0tQdU80OG1Ba2tydDNfVG9qSmFBWFNDOWR0NUlGcTdETXkwZmFHRzA?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-11-04T03:00:15+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "【決算速報】三井物産、中間税引前709,539百万。(アイフィス株予報) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "c9d657d838b7e121",
-      "title": "【 岐阜県 × 丸紅 × eiicon 】岐阜県内の有力企業5社が全国のスタートアップとの共創パートナー募集を順次開始！「Gifu-OI（ぎふオープンイノベーションプログラム）」",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sT05Sd2RZS3FHcDRNSENDeFJFR2dvQ3ZnVGZ2aGMtdHFFQXBvUm42UXNYVWp0ZHBYMnZ0eDNuVnktYlEyd3FQWWQ4bWxIalgzeURFLXNqbXRKb3piN3pMazF2U1NrVjk1QWc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-04T03:00:01+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "提携"
-      ],
-      "summary": "【 岐阜県 × 丸紅 × eiicon 】岐阜県内の有力企業5社が全国のスタートアップとの共創パートナー募集を順次開始！「Gifu-OI（ぎふオープンイノベーションプログラム）」 PR TIMES",
-      "source_count": 1
-    },
-    {
-      "id": "8a531fe3c4dc4c49",
-      "title": "三井物、今期最終を14％上方修正",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SaGEyRWFwaE4xOWtLR1BOeHF2RW8xaWZOc0tKR2lvSWZkcTdhbjBOaWpEWlhtRE1LdWFmUmR0OHp5bk82cF9ULTZ2dGN2d1hTdGc?oc=5",
-      "source": "株探",
-      "published": "2026-11-04T03:00:00+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "業績予想",
-        "決算"
-      ],
-      "summary": "三井物、今期最終を14％上方修正 株探",
-      "source_count": 1
-    },
-    {
-      "id": "a7c54a3b986e76ed",
-      "title": "三井物産[8031]：2027年3月期 第2四半期（中間期）決算短信〔ＩＦＲＳ〕（連結） 2026年11月4日(適時開示) ：日経会社情報DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBob0M4SmtodlgwZzJ1RDV0WDNzd19vd3lpRFFuSk5mRFZNVTZCSi1TMEJfdVdLb0Fwd2RzakdxOWxPUmhIZEh5bjByLW91ZHB0a1FkdGtpM3NOQm1DMmUyRUxQZVJoUUJ3dmc?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-04T03:00:00+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "三井物産[8031]：2027年3月期 第2四半期（中間期）決算短信〔ＩＦＲＳ〕（連結） 2026年11月4日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "2277f2fd1b9f2831",
-      "title": "丸紅－4～9月期の連結営業利益は61.9%増の2047億円(IFRS基準)〔DZH 個別株情報〕(時事通信)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMUV4U1puZERRLW1ZVFNlN1VUaC1HQ2FESk1BMFBWOXB2V3VqUzZiRnRYRlZ3UTJXaXNHMGRVVkVETmROMlRCRTRYak9rYXdCMzdPQlNYQ09yRzVVRHY4dEFCTEF4SVRja1FUOWVzZjBhdU9BbDJ3cFM4NF9lcmtCbncwYThnNWc?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-11-04T02:48:48+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "丸紅－4～9月期の連結営業利益は61.9%増の2047億円(IFRS基準)〔DZH 個別株情報〕(時事通信) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "0eed71030e8c1774",
-      "title": "丸紅－27年3月期の連結業績予想を上方修正(IFRS基準)〔DZH 個別株情報〕(時事通信)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX0YzYmpIWV9vMEZXVHMzcDJ5VUZQN1lfcjZqaUFWRkFIX1VtcnZkWGRMcWhIZTd1RTdyTFdZYm1EeTc1ZjBpQURMNDliX1Z0bG5iMmJxcktKVTFnY3lVNTd6dXcwd1VQdzdtOV8xNlgtcHpGYVdadF93eWItS2RhVHJFMjJtWDQ?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-11-04T02:48:48+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "業績予想"
-      ],
-      "summary": "丸紅－27年3月期の連結業績予想を上方修正(IFRS基準)〔DZH 個別株情報〕(時事通信) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "4fd2b4b11ceebe7f",
-      "title": "丸紅の上半期純利益が45%増、商品・トレーディング部門が牽引し通期予想を上方修正 執筆 - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxRHhHRjVoMjBzZXJ6anBWNjVBRVRsbkNRU2ZmazJFQ1dQY0dES0w0STdVdjhsWFhUUzVTXy1xQUZvbkNUVmE4Tmg1ekJyRk90UGg2TWEtZmYtTnI2NHh6S0t4dnQ?oc=5",
-      "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
-      "published": "2026-11-04T02:48:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "業績予想",
-        "決算"
-      ],
-      "summary": "丸紅の上半期純利益が45%増、商品・トレーディング部門が牽引し通期予想を上方修正 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "23cdda4561623a9a",
-      "title": "前場コメント No.10 丸紅、ヨドコウ、ソフトクリエＨＤ(トレーダーズ・ウェブ)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX180WDRvUWlzU2JqcXR4RGFfZ0xNZ0JCLWhSUlFxVnMtc2cyeU1Xc29rU2xhdHFCZ19xOWtBYUdkcTF3Mm9kbDFJVE9acTNPdzN0TGthV3YxM0x3X2JCX2dmaXIydWZaaDQxNGp0Um1Ld1NqNGdGYzNLSE9nU09LVU5hdWxQRXM?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-11-04T02:31:05+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [],
-      "summary": "前場コメント No.10 丸紅、ヨドコウ、ソフトクリエＨＤ(トレーダーズ・ウェブ) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "d8eba56acd43d2dd",
-      "title": "丸紅－下げ幅拡大 通期純利益を上方修正も出尽くし売り優勢 増配も発表〔DZH 個別株情報〕(時事通信)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdVN2dFZnREhKYUFiWW1KclBkNzNGRjVLWHFlQjk2LUVRalAyc0ExcUdoZ0g5cDhQYkdjOGdEd2FzdEUwWG1GSlJhdzNHcl95cEN2LUFPWEswaHJscVZRVFptbS1oWXFqTWpaMkt4VXl4cnBKQ21DNzI2UWw4SEhXMm92ZFljckk?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-11-04T02:30:40+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "株主還元",
-        "業績予想",
-        "決算"
-      ],
-      "summary": "丸紅－下げ幅拡大 通期純利益を上方修正も出尽くし売り優勢 増配も発表〔DZH 個別株情報〕(時事通信) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "33c5138061b8ab5c",
-      "title": "＜アジア甲子園＞三菱商事がオフィシャルパートナーとして新規参画",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hT3FXNklCenZ1dWVWcXpBcVB6bF92Y0dEM3cxZndjMjBMSVZpZUhMZGhudnRySmt4bVhFbVFfVTBwU0RkYlFWblVxa2p3a3JaRm5fQUc3bUlsNEhFMHc1RzQteHZvaU1RLWc?oc=5",
-      "source": "PR TIMES",
-      "published": "2026-11-04T02:30:02+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "投資",
-        "提携",
-        "海外"
-      ],
-      "summary": "＜アジア甲子園＞三菱商事がオフィシャルパートナーとして新規参画 PR TIMES",
-      "source_count": 1
-    },
-    {
-      "id": "71fd49bfca883a21",
-      "title": "【28卒就職人気企業ランキング】伊藤忠商事が盤石の9年連続首位。エンタメ系変わらず人気、アイリスオーヤマなどメーカー系も",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56NzdKQUV2SE5QTVlZaUJlZUZlaWoxd1FxLVFWMjlkeGhVM0l2T0JOc3JnTHF5N2RWOVEzWjNKYjZvT2RDZGE3WVNZQ0h4S29MTS1UMTF5QzI4dWR4eURQVzhvek1qN0ZzczA4?oc=5",
-      "source": "時事ドットコム",
-      "published": "2026-11-04T02:16:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [],
-      "summary": "【28卒就職人気企業ランキング】伊藤忠商事が盤石の9年連続首位。エンタメ系変わらず人気、アイリスオーヤマなどメーカー系も 時事ドットコム",
       "source_count": 1
     }
   ]
