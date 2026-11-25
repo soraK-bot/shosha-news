@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T03:53:02.514532+00:00",
+  "updated_at": "2026-11-25T10:48:02.676322+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -93,6 +93,104 @@
   ],
   "articles": [
     {
+      "id": "6daf642d4263a61c",
+      "title": "三井物産、量子で製薬効率化 中外製薬と実証し30年までに専用ソフト",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53dWRqcGFTTkFQYXVvWm5SOFlhd0ZEZ3RXVTgyMHlzXzlhMHFFclFLRVdiNlRJbExNdnBOcUsyMnBJX0tqbTFpUHBGbTFyczZZTDVpODV0emdVZVZEbkdEUl81c1hlLUhOY0R0cQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-25T08:30:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "三井物産、量子で製薬効率化 中外製薬と実証し30年までに専用ソフト 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "841f437744615ea3",
+      "title": "住友鉱と三菱商事 豪ニッケル過半出資へ 65億円追加拠出（日刊産業新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DWGNzRjV0SWJ4R1M0TTRIeWlfMXF0OGllLVVSSnBxdTBSRmZNQkJFLXl5SzVvZlVqRjJNM0tQcXBMN1RqaVhkc1lmTnBQc2NFS3lYdWQ1VC1WRksxblJDbjZsVFZsYTFEaGF1XzROcnUxZWhTTUQtQkgtUFZzOEU?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-25T07:55:34+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "投資",
+        "資源"
+      ],
+      "summary": "住友鉱と三菱商事 豪ニッケル過半出資へ 65億円追加拠出（日刊産業新聞） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "5cd67656d862ba5c",
+      "title": "田辺充夫さん死去（元ファミリーマート会長、元伊藤忠商事常務）",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FS1ZhUXE0RUJUbW8zNV9taDdKcGJETzlnQUtLaUtjSDV2VEdXTzlSMGlZWmJhMzYyUlFuMkdfWmcySkdEQmx3bFMwcVNWZUE3RkFtUQ?oc=5",
+      "source": "時事通信ニュース",
+      "published": "2026-11-25T07:18:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "人事"
+      ],
+      "summary": "田辺充夫さん死去（元ファミリーマート会長、元伊藤忠商事常務） 時事通信ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "307e32c464f625fc",
+      "title": "中国景気状況 －2026年11月－",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Xbzl3X1hhRlRvZlBuR1JrWGoySko1cU83TEUybVVjcXJCM0lqZl83bkdQV0R3NkJUYWJRamJDdXd4b1llRmpTR293cVZ6ZldaM2pOejc4NlV2UktGLXFGdA?oc=5",
+      "source": "住友商事グローバルリサーチ",
+      "published": "2026-11-25T07:10:28+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "海外"
+      ],
+      "summary": "中国景気状況 －2026年11月－ 住友商事グローバルリサーチ",
+      "source_count": 1
+    },
+    {
+      "id": "55fea33cbbb6b02c",
+      "title": "台湾景気状況 －2026年11月－",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90Nk9jN3Vkby1maExaNU1mZzZaZFBLSjdyU0JDUUlLRk9pVWsyU2l6NEJscHppTUZmaUJqc2l5dHVQSWFLcklRUnBJVzhRbEtHbWlHdXhYN1VhdEt4cWZHQQ?oc=5",
+      "source": "住友商事グローバルリサーチ",
+      "published": "2026-11-25T07:10:25+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "台湾景気状況 －2026年11月－ 住友商事グローバルリサーチ",
+      "source_count": 1
+    },
+    {
+      "id": "8bf5003f8466407d",
+      "title": "丸紅都市開発と東急不動産、広島市中心エリアで286室のホテル開発へ",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIcmxBMl8wcTliVVJwMTlSYkotNkkxVm1hQVJYN0dtVkJrcVdRUFdzdXpIY1FVX3I1MTh6MjJWdzNaV0kxZ09CeDhhVEozMzR4?oc=5",
+      "source": "住宅新報",
+      "published": "2026-11-25T07:00:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "丸紅都市開発と東急不動産、広島市中心エリアで286室のホテル開発へ 住宅新報",
+      "source_count": 1
+    },
+    {
+      "id": "107946a086cb46c9",
+      "title": "丸紅ロジ、タイにペットフードなどの国際拠点となる新物流センター",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBES1BkVnRMdkVjSEMxS01WMVg3MHBROHI4bmI3RkVZN3NYeWhnNlRXTjNVdURMSk5oVVQtOTk3OE5veEhiM1hSV0htUVM?oc=5",
+      "source": "https://ye-live.com/",
+      "published": "2026-11-25T04:52:41+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "丸紅ロジ、タイにペットフードなどの国際拠点となる新物流センター https://ye-live.com/",
+      "source_count": 1
+    },
+    {
       "id": "a9c4daf460525c34",
       "title": "【ニュース】 丸紅都市開発と東急不動産、「（仮称）広島市中区銀⼭町ホテル計画」を着",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSQ3BOTksxVXFrd2tFSFl6clBjTnVNT05Cb2cxWi1mcWFhUlpfXzI2OUZNTktJQUIyVGNwd1dEU0wxdW5mZ0Z4SXdQMmJRRW5zS0VyQ0ZuWXVMZ3htT0MtVg?oc=5",
@@ -103,6 +201,19 @@
       ],
       "tags": [],
       "summary": "【ニュース】 丸紅都市開発と東急不動産、「（仮称）広島市中区銀⼭町ホテル計画」を着 遊都総研",
+      "source_count": 1
+    },
+    {
+      "id": "5641020ca8f8a36c",
+      "title": "【ニュース】 丸紅都市開発と東急不動産、「（仮称）広島市中区銀⼭町ホテル計画」を着⼯、広島市の中⼼エリアで全286室のホテルを開発 広島県広島市",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSQ3BOTksxVXFrd2tFSFl6clBjTnVNT05Cb2cxWi1mcWFhUlpfXzI2OUZNTktJQUIyVGNwd1dEU0wxdW5mZ0Z4SXdQMmJRRW5zS0VyQ0ZuWXVMZ3htT0MtVg?oc=5",
+      "source": "遊都総研",
+      "published": "2026-11-25T03:00:35+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "【ニュース】 丸紅都市開発と東急不動産、「（仮称）広島市中区銀⼭町ホテル計画」を着⼯、広島市の中⼼エリアで全286室のホテルを開発 広島県広島市 遊都総研",
       "source_count": 1
     },
     {
@@ -174,6 +285,21 @@
       ],
       "tags": [],
       "summary": "住友商事－底堅い バングラデシュ初の地下鉄工事を受注 900億円で線路整備＝日経(トレーダーズ・ウェブ) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "d98b9c6f383637de",
+      "title": "JBIC、三井物産のNutrinova出資比率89％への引き上げに最大8900万ドルの融資契約を締結",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTlVJWjM0X3JueXNtUU5jTVFrVGJ2aU5CM3h6YXFzZUFJaThLWXRDYUlaamlueHpGdThxLTMyZHMxQ05yQldWMnZ3UzFiUkdTOXliZk9iQk5iM3VaZTZrVm5xVFVpbTBoLU5RbFBmdjhvNENvTWMtMDRaZEFvUGRYR3ltalg?oc=5",
+      "source": "Tokyo Brief",
+      "published": "2026-11-24T22:03:07+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "JBIC、三井物産のNutrinova出資比率89％への引き上げに最大8900万ドルの融資契約を締結 Tokyo Brief",
       "source_count": 1
     },
     {
@@ -1269,6 +1395,19 @@
       ],
       "tags": [],
       "summary": "三菱商事 | 8058.T 株価動向とリアルタイム相場 BigGo ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "a8db62e7ff74f3a0",
+      "title": "豊田通商(株)【8015】：現物信用売買内訳時系列",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VTVBoSE1RVWMtT0ZzNm85NE40S2tWcE43ZW90dTZaZU0ybE9FTEt4aFNoLVVodS1rNERMaC1tcVpmcS1HYzNyZ2c2YU5vbFdTdlRfRENHYUxoVElPWGJZ?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-20T08:00:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "豊田通商(株)【8015】：現物信用売買内訳時系列 Yahoo!ファイナンス",
       "source_count": 1
     },
     {
@@ -7573,6 +7712,23 @@
       "source_count": 1
     },
     {
+      "id": "025b28b01ef7e0d6",
+      "title": "三菱商事の「投資ファンド協業」始動 LNGカナダにブラックストーン",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yV2RJU2lpMkNTY01SdVZUWUFERjBPMHc0djRCTnAtbXFWdUtjSVR6bHlBa29mZThvTjFkQmVIb2FtQ2RpUURJcE13ZVRodk5GLXN5T3JnRlFndG1aSG04Qjd6MERNRGRrSmZKdg?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-04T08:00:00+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "投資",
+        "提携",
+        "資源"
+      ],
+      "summary": "三菱商事の「投資ファンド協業」始動 LNGカナダにブラックストーン 日本経済新聞",
+      "source_count": 1
+    },
+    {
       "id": "827fe740dd75033d",
       "title": "大手商社5社増益 資源・エネルギー好調 三菱商事最高益更新見通し",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1icUVjeGhiR25oTF9SVmRTMzl4czMxWm04OHZJRlltNE9NV1RZMWozVWNoY2c1N0FyQ295OGZGSUtOOGgzenBlbDdJeEZHOVJBOHJMaXpYYlpIRWNTWnc?oc=5",
@@ -8744,184 +8900,6 @@
       ],
       "tags": [],
       "summary": "【28卒就職人気企業ランキング】伊藤忠商事が盤石の9年連続首位。エンタメ系変わらず人気、アイリスオーヤマなどメーカー系も 時事ドットコム",
-      "source_count": 1
-    },
-    {
-      "id": "54d586a40fdb9704",
-      "title": "決算:丸紅の純利益6300億円、27年3月期に上振れ 資源好調",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1na1k0enotRDhPLUZzbmlpN1ZRYjUyZ1dOZVoxNml4ZGRsbnF2Wk56aWhxTVo4X1BuUU1rSXFsbFJCOXZZTkZibEpjVzNJN3JaZ2Q1UjdORFN0TV9aWl9NOWliUlFOU09IbEhqMA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-04T02:12:42+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "決算",
-        "資源"
-      ],
-      "summary": "決算:丸紅の純利益6300億円、27年3月期に上振れ 資源好調 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "13130df5ee04821a",
-      "title": "決算:丸紅の純利益6300億円 27年3月期、資源好調で上振れ",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1na1k0enotRDhPLUZzbmlpN1ZRYjUyZ1dOZVoxNml4ZGRsbnF2Wk56aWhxTVo4X1BuUU1rSXFsbFJCOXZZTkZibEpjVzNJN3JaZ2Q1UjdORFN0TV9aWl9NOWliUlFOU09IbEhqMA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-04T02:12:42+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "決算",
-        "資源"
-      ],
-      "summary": "決算:丸紅の純利益6300億円 27年3月期、資源好調で上振れ 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "21b47803f135d059",
-      "title": "丸紅、今期の純利益予想を上方修正 市場予想上回る（ロイター）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tbEZLXzc3QndjQ1c4d0FFVDRaWGt4OUJqYkhvNllYaG5xNkhJOXNwRGJkMGlPQ1NFTnJxSi00LTJhcEhJb1RTc2NMOWFwb0FCV3pMUUdLVnlLam9tS2dmUlZVbHlxaEJoamhVSzcxQUVuVzRITi1yUnhsQXRRTHc?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-11-04T02:10:17+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "業績予想",
-        "決算"
-      ],
-      "summary": "丸紅、今期の純利益予想を上方修正 市場予想上回る（ロイター） Yahoo!ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "5b70aa56bd4c7596",
-      "title": "丸紅、今期純利益・配当予想を上方修正 チリ銅事業好調で過去最高益へ(ロイター)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdlpTdmF5R0VBak5ldnNCclBJQ3VIWG5rWmt5OHloN0lCeF9KNHNkc3hfcVN4WnpRSVFpMVcxNDMweHY0OVptdXo0eEJ3UEhPS29iT1NCS0RNT2gwaG52Z212akJjZzRJQjk4Z3NqY21sRFFaVTUzcHdGU3gtU0t2ejVTQ2RWUkk?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-11-04T02:10:17+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "株主還元",
-        "業績予想",
-        "決算",
-        "資源"
-      ],
-      "summary": "丸紅、今期純利益・配当予想を上方修正 チリ銅事業好調で過去最高益へ(ロイター) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "90f00ff1bea686d4",
-      "title": "丸紅、今期の純利益予想を上方修正 市場予想上回る",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91NFZ5MzdUNjNhWVZtT0FRM1NfVmJZVWtuOVRGNFpNTGZmSTVURGVTQzlqOWxFY2Y3ejc2aUxEdW5lYkRaR2ZxVjNnaU1xUXM0bFpLaU4tZUtzR3JTMFJsUXhIV1JRN21pbldSUWhzUW9TOFgxXy11UDY4VFA2dw?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-04T02:10:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "業績予想",
-        "決算"
-      ],
-      "summary": "丸紅、今期の純利益予想を上方修正 市場予想上回る Reuters",
-      "source_count": 3
-    },
-    {
-      "id": "8c8578f922d62253",
-      "title": "丸紅、今期純利益・配当予想を上方修正 チリ銅事業好調で過去最高益へ",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91NFZ5MzdUNjNhWVZtT0FRM1NfVmJZVWtuOVRGNFpNTGZmSTVURGVTQzlqOWxFY2Y3ejc2aUxEdW5lYkRaR2ZxVjNnaU1xUXM0bFpLaU4tZUtzR3JTMFJsUXhIV1JRN21pbldSUWhzUW9TOFgxXy11UDY4VFA2dw?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-04T02:10:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "株主還元",
-        "業績予想",
-        "決算",
-        "資源"
-      ],
-      "summary": "丸紅、今期純利益・配当予想を上方修正 チリ銅事業好調で過去最高益へ Reuters",
-      "source_count": 1
-    },
-    {
-      "id": "5f465e91fed8fea8",
-      "title": "【決算速報】丸紅、今期最終を9％上方修正・最高益予想を上乗せ、配当も10円増額(株探ニュース)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYWIxRlhTX3pDbkRxUFpyMHk5UWtlXzkxSG9zSmFTSHJaTzMzOEQ3SC1WLXk4WGQ0U0lIRGdqUWd1R0Z5MzRnNW1yZHAzLWpYQ1lVTVU4NEk0VnpSMl91WVFBcTF3bnlMdFVOUFlMZHBocG5WRk8xZkE0YXdLS3JkcXZPRXVlOVk?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-11-04T02:01:01+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "株主還元",
-        "業績予想",
-        "決算"
-      ],
-      "summary": "【決算速報】丸紅、今期最終を9％上方修正・最高益予想を上乗せ、配当も10円増額(株探ニュース) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "0f0c6ad02f472c77",
-      "title": "【決算速報】丸紅、中間税引前417,773百万。(アイフィス株予報)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbW1WdzRFT1JkNFFWS0Z2Q1JJbU5QZE9LbjFPc2U1TnpSVW5ySEF5T29nWVBKc1NSVk5nMWpfTndOQ3NRWEtjYWJsOWktMVJZMEtFd1AzQ2ZKeUdYU1JFMTMtdjFZa0d5RHViT1FvNjZKQ3lMUnJJRk4zTEN1aDRnMjZVMVVWLTQ?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-11-04T02:00:18+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "【決算速報】丸紅、中間税引前417,773百万。(アイフィス株予報) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "b1737cec6321e80d",
-      "title": "丸紅[8002]：2027年3月期 第2四半期（中間期）決算短信〔ＩＦＲＳ〕（連結） 2026年11月4日(適時開示) ：日経会社情報DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVllqQ2liTDQzUVR4cTkzRFhwMTk2ZHN0dFFELVA0UVB1VTJ4RXlEWUp6TVI3WkVnM2h6RjZEVVRvb0JjYy0tZ0dNRThLMlVidTZZdFRDYk5QSHdQR2xLdFJ5OUppeENESmtLOHpkMXVQT29xcjVGNEp4VXJsemgzWFBOcHRuaE9qR2VCRjlSRDVLWi1RVjJhVzdmdXN3d2RBN1F3V1R4N2tiUjlOZkxQM0s0XzhUM1pVSU1xaHc5NTMyc29PcW9PSkhqeUQ?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-04T02:00:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "丸紅[8002]：2027年3月期 第2四半期（中間期）決算短信〔ＩＦＲＳ〕（連結） 2026年11月4日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "7280fca2665fa119",
-      "title": "丸紅、今期最終を9％上方修正・最高益予想を上乗せ、配当も10円増額",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xQU4zMkhKbFJTak5leExWQU4tYkh4djJaZEV1UXhBM3V0XzIyT2ZqOFFXWHgtLWwzMzZhQnFhcFRSaF9DaDdkY0dCTldrcENPQmc?oc=5",
-      "source": "株探",
-      "published": "2026-11-04T02:00:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "株主還元",
-        "業績予想"
-      ],
-      "summary": "丸紅、今期最終を9％上方修正・最高益予想を上乗せ、配当も10円増額 株探",
-      "source_count": 1
-    },
-    {
-      "id": "94bcd23ef0207aab",
-      "title": "丸紅(株)【8002】：決算情報",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxN256SWlJbklYNnlWMHhVaTBRTHFxRGlVYzBIT19GNzc5Z2V3TmM0eTF2YVI3dEtvLThCZ2NkTXNCM3lvbEdVaGdWMUw3MVJKcFp0aHlxeWotODZ5ZXh4Mw?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-11-04T02:00:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "丸紅(株)【8002】：決算情報 Yahoo!ファイナンス",
       "source_count": 1
     }
   ]
