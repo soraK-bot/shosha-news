@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T03:50:41.546119+00:00",
+  "updated_at": "2026-11-26T10:48:12.543830+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -93,6 +93,60 @@
   ],
   "articles": [
     {
+      "id": "a0118df0c844ba9c",
+      "title": "サプライズ① 編集部もビックリ！｢新春号｣の強気予想5銘柄",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TSjJZdWZES1lfMTZpMjh0WFdrOXVzcE9uNVFwY3NWczY4R0pxOTRRZ3ZiNnBtRG5rM09hMmxfZmxPNG9SbFUwOGowRGFwT1l3ZDBsYXJBWQ?oc=5",
+      "source": "四季報オンライン",
+      "published": "2026-11-26T08:00:00+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [],
+      "summary": "サプライズ① 編集部もビックリ！｢新春号｣の強気予想5銘柄 四季報オンライン",
+      "source_count": 1
+    },
+    {
+      "id": "00e910f732f0ef80",
+      "title": "ドローンとAIで航空灯火点検 HAPと住友商事が実験",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqSnFfWWRPNnB1THJOT0ZvSTVycG5lbVQzSV93S21ndjY0eDJ3S3hfeDEwSFBvcGdIRmZPRDBXRmEya195Z3BMMUF5NDlqOWZnY1FoSlJaY1p6dw?oc=5",
+      "source": "北海道新聞デジタル",
+      "published": "2026-11-26T07:19:05+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "ドローンとAIで航空灯火点検 HAPと住友商事が実験 北海道新聞デジタル",
+      "source_count": 2
+    },
+    {
+      "id": "5eccec011da8b660",
+      "title": "三菱商事都市開発news｜NSC｢マチノマ小手指｣竣工･核は｢トライアル西友｣",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yeWNYejJYOUpQTGl1OGZHS3ZuZDdrcDJOTnMtdHBtWU1BVmtCeXI1OEFaZ2hlUDdOSmVzLW1ydXJIa1dfX0xIWkljY01qaWQxNnJj?oc=5",
+      "source": "流通スーパーニュース",
+      "published": "2026-11-26T07:04:31+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "三菱商事都市開発news｜NSC｢マチノマ小手指｣竣工･核は｢トライアル西友｣ 流通スーパーニュース",
+      "source_count": 1
+    },
+    {
+      "id": "96c3a47ab0227754",
+      "title": "【U15】「第16回豊田通商カップ 第8回愛知県 U15 バスケットボール選手権大会 2026」大会結果について",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55NWtVNm0tdVA2WnBlVTRxcHBNdndyZjJFeWVxUXgwdUlPZjRja2F5MVEwSnFOTzhFdUtELU5lUDgzMFpkQWMyaTR2LWZKQWo5QUU0NEVEaw?oc=5",
+      "source": "シーホース三河",
+      "published": "2026-11-26T06:56:15+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "【U15】「第16回豊田通商カップ 第8回愛知県 U15 バスケットボール選手権大会 2026」大会結果について シーホース三河",
+      "source_count": 1
+    },
+    {
       "id": "6826dfd43d453dba",
       "title": "前場コメント No.6 三菱商、グロースエクス、ラクス、エーザイ、ホトニクス、マネフォワード(トレーダーズ・ウェブ)",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbEhQZlQ3UWZKYXJyUjEwTTB6cjNURXp6Zk9kNzVKN0xQNjd0N0ZsUzY2d1liVmpVbi1EbldzQUhWUVZUbXQzcXNiZ2VlZjF6TmdGaVgzejZ3dGdtcmJ3SzFRMVBCRGdCdlhHdjJzYlc1bWxhTmVnZGRrYmpjQkhxY09uSy1FTnM?oc=5",
@@ -116,6 +170,34 @@
       ],
       "tags": [],
       "summary": "前場コメント No.5 ＡＮＡ、ＪＡＬ、オービック、伊藤忠、セイコーＧ、勤次郎(トレーダーズ・ウェブ) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "1e96727a7ca94035",
+      "title": "【豊田通商がアフリカに賭ける理由】 | 今井 斗志光 | 文藝春秋PLUS",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fT2M5M2UtUUNObDNEcExyUnRTQWxLeDFlSkl0dElmU09YUkh3VGU0U2E4clg4TkRZeTIzNnN1YllxdnhVTzlBNGQtdGtrSnc5XzFnUWNRRW16SUk?oc=5",
+      "source": "文春オンライン",
+      "published": "2026-11-26T02:00:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "海外"
+      ],
+      "summary": "【豊田通商がアフリカに賭ける理由】 | 今井 斗志光 | 文藝春秋PLUS 文春オンライン",
+      "source_count": 1
+    },
+    {
+      "id": "b64943fa59aa618a",
+      "title": "丸紅－野村が目標株価引き下げ アグリ事業や北米金融関連事業などの回復には期待〔DZH 個別株情報〕(時事通信)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeHVKaWQ0c3RoT0praXNwRHVFRkhTQ05RX3U5Z1NLZGRYUHptS000YjJTV25OUjJkUGQxczBmSTZCeGhteExxOV9QUkFjOG9uMUVGOGJSYVJmOUpjZ19KMlFVcFFjc0EtUVZfUk1HV3h4SzkwSzc1eGc3Z2JGTDU2R3N0RWhtYk0?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-26T01:39:38+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "丸紅－野村が目標株価引き下げ アグリ事業や北米金融関連事業などの回復には期待〔DZH 個別株情報〕(時事通信) Yahoo!ファイナンス",
       "source_count": 1
     },
     {
@@ -158,6 +240,19 @@
       "source_count": 1
     },
     {
+      "id": "aee1de64570bd9ae",
+      "title": "小糸製作所、豊田通商など／新聞からの銘柄材料一覧(フィスコ)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeDZYcVNZdlVld0V4czFMQVFzRmx1NVFtWTdhM0d6MXlNMThRWXMzZkFxZldBTDM0MVRuaHNkdjVWRS10Uk9XYXhZdlZ6b0dfNjAtendXWGpsbGZjZ05aejd2TWJ6X2RTc3NqMFBaMGxkNEFzdy14T0wtTHhNdXhRb2lUWndBQzg?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-25T23:12:17+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "小糸製作所、豊田通商など／新聞からの銘柄材料一覧(フィスコ) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
       "id": "da5f4f6f058e5a17",
       "title": "今井斗志光・豊田通商社長「ゴンドワナ経済圏の成長力」",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJaDRxeWpDZkNrQzJLeWoxVXhFZDNHSTFsb0dTc0pUY091dnJVc1FsZ3pfWXRPSU9ZZHJLQ1oydHd4cVdBNkUwX3A4cXVwLTlsSTZhWWVzNjQ0Wkw2THFQRnhQd2c2QmEwS29TdURGclhPanF6Z1EtVjZTdERhaDQ?oc=5",
@@ -170,6 +265,21 @@
         "人事"
       ],
       "summary": "今井斗志光・豊田通商社長「ゴンドワナ経済圏の成長力」 毎日新聞",
+      "source_count": 1
+    },
+    {
+      "id": "cc2d47a7a97f12f3",
+      "title": "広島・銀山町に地上20階、全286室の新ホテルが着工。東急不動産と丸紅都市開発が共同開発、2029年開業予定",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SdFRaaDR6b0Q5b05lWHFtN3hiX1VMQUZRMkFDTnUxekxGWjJRRHRNN05rZDFSRkQ0WTZHeGxUakNTSHRDNE5FbEh4UTdSRkotNnBGLURHWlNxek0?oc=5",
+      "source": "MICE TIMES ONLINE",
+      "published": "2026-11-25T21:28:48+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "提携"
+      ],
+      "summary": "広島・銀山町に地上20階、全286室の新ホテルが着工。東急不動産と丸紅都市開発が共同開発、2029年開業予定 MICE TIMES ONLINE",
       "source_count": 1
     },
     {
@@ -374,6 +484,22 @@
       ],
       "tags": [],
       "summary": "【アナリスト評価】伊藤忠商事、レーティング強気を継続、目標株価2,750円に引上げ（日系大手証券）(アイフィス株予報) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "806601eeb6b0d80d",
+      "title": "【売買】宮城のイオンモールで三井物産デジタルがSTO、取得価格は240億円",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80ekFxSm1za1VBajVwbHl2MnBhdzFNU1M2NEFtZkNlOURUYmJJWFNQalVGVk5xekVPUVF5Qnd0RXBEbVZ4eHRhZGJtRUVWTkJVWkRhdGE4eTZsdG9oSm1YM0tn?oc=5",
+      "source": "日経不動産マーケット情報",
+      "published": "2026-11-25T11:15:29+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "DX",
+        "投資"
+      ],
+      "summary": "【売買】宮城のイオンモールで三井物産デジタルがSTO、取得価格は240億円 日経不動産マーケット情報",
       "source_count": 1
     },
     {
@@ -8723,141 +8849,6 @@
       ],
       "tags": [],
       "summary": "丸紅が下げ幅拡大､27年3月期純益予想増額も響かず 四季報オンライン",
-      "source_count": 1
-    },
-    {
-      "id": "1c86bacaa7529414",
-      "title": "豊田通商、東京本社を八重洲へ移転…2030年度に",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13NXYxN2w5eTFxWXBKSUNlUzk5aWNzT2tzVjczOG9tTTNmTHZRYkg0aFNXaFB0YzlLT0dVdGlUQ1ZyZU5kZWpzdGFZbkJrQmhXUXN6RlZzMTlPSHBPMkhZ?oc=5",
-      "source": "レスポンス（Response.jp）",
-      "published": "2026-11-04T04:45:03+00:00",
-      "company_ids": [
-        "toyotatsusho"
-      ],
-      "tags": [],
-      "summary": "豊田通商、東京本社を八重洲へ移転…2030年度に レスポンス（Response.jp）",
-      "source_count": 1
-    },
-    {
-      "id": "e89a29711f8b326d",
-      "title": "伊藤忠商事－後場下げ幅拡大 上期純利益16％増 通期予想は据え置き〔DZH 個別株情報〕(時事通信)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUmVoYnVoTVRfVkJodWhmMkRhMmpaQm5yaU5UWG1ZVXVPOXdTRDM2THNDUWdtb0UxM2VpdzZKakpNMnlHTlBydFVZd2d0SlczWlVzV1J6TkV3Z0x0REZRZU13ZFVtWWlnX0hGcUhFTTFGY25wRWotMlY5OVQ1N2pseHl6Z0ZrUzA?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-11-04T04:30:26+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "伊藤忠商事－後場下げ幅拡大 上期純利益16％増 通期予想は据え置き〔DZH 個別株情報〕(時事通信) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "856215c1e70f3a91",
-      "title": "伊藤忠、4─9月期は16％増益 米中間選挙懸念で通期予想据え置き（ロイター）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43Uk9SZUkwcmJRamIxU0pFTmExclRWQkJIUUxrMGZTMGxubklrSUlhTm5NT1JwcktieTdmamJZS1JkSGs0QlVNQWpJa0tnbk1zMlRkUS1nUk4tamo2MGxUOF9RanRRVEpYekxkbV8yLTBvXy1sS09WMDk0SVVWS1k?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-11-04T04:17:33+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "伊藤忠、4─9月期は16％増益 米中間選挙懸念で通期予想据え置き（ロイター） Yahoo!ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "3735fc86ce446f1b",
-      "title": "伊藤忠、4─9月期は16％増益 米中間選挙懸念で通期予想据え置き",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80ZHBRMW4xc3lYUWVpV2dtOHR4SklmREgxNzVqYVVVOXNzVWRhLW10S0EzUjBFdEMtbHdmbDNWSDB1UUpReW1ybnBIcUczY1FsV1NXeDVheEM0QTU3aFJUajNNNm8tcTBUM3I3VDlDWXBwZXFRUjF1QUh3bXhTZw?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-04T04:17:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "伊藤忠、4─9月期は16％増益 米中間選挙懸念で通期予想据え置き Reuters",
-      "source_count": 1
-    },
-    {
-      "id": "d0921843708b4415",
-      "title": "伊藤忠、4─9月期は16％増益 過去最高を更新",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Ral92bDAxTHlWbzFTLXcwX29jUmg1Nzl3VjRuQmllbG9CY2gzaWtfa2ZOeVgtbkhGcFJteDJsRzMtUzUtUmpoLU5sb3l3b1hUb0oxQkdTejRXQQ?oc=5",
-      "source": "ニューズウィーク日本版",
-      "published": "2026-11-04T04:17:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "伊藤忠、4─9月期は16％増益 過去最高を更新 ニューズウィーク日本版",
-      "source_count": 2
-    },
-    {
-      "id": "ca5182a125bd91c5",
-      "title": "決算:伊藤忠商事の4〜９月純利益16％増 非資源が好調",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6QnhaVGtqQzhtSjNjdi03QlVKc1FzdWRfYnFjbUJYYXRwSEV4MnljVVR3YzBpMEVSd3BiR05YbU9JZWoyalM2M3NHajA1azFTa2FmWmtlcTRCbTdWYTBVbGJuelNtc1lOQlJlbw?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-04T04:15:31+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "決算",
-        "資源"
-      ],
-      "summary": "決算:伊藤忠商事の4〜９月純利益16％増 非資源が好調 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "9b47cd4be256dd7b",
-      "title": "◎〔決算〕丸紅、２７年３月期純利益予想を上方修正",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00OXpPaHdHLW9qcVQ1cmF3NzdxZGtQNVhxTWNxWFI4RUlHcUUzcTBYbXpucmpleG80TEtITy0yMjJIcnZ4bV9NRUw4S3RIdkhfcHVuMWJSV0ptVGMteVE?oc=5",
-      "source": "時事通信ニュース",
-      "published": "2026-11-04T04:03:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "業績予想",
-        "決算"
-      ],
-      "summary": "◎〔決算〕丸紅、２７年３月期純利益予想を上方修正 時事通信ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "e01b43b76496da11",
-      "title": "丸紅、中間連結純利益10．6％増 3380億2700万円(時事通信)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa0xJUU54ckZ4c3ZxT0VGRFo5V3FKS3VKc2pLU0otRmFNMmtLbGhQa0daOXRMeUd1QmpEYnl2UmlnZHFwaUo0WFhTbHV2YjVWZ0NTVThqNW5YeHpOU1lsRWttV084dTh5OWRQeFdnSVZfUE55eENJbjhlMlg4a2xNdWhLSU92c2c?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-11-04T04:01:21+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "丸紅、中間連結純利益10．6％増 3380億2700万円(時事通信) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "87d2a089f2272fb5",
-      "title": "【決算速報】伊藤忠、上期最終が16％増益で着地・7-9月期も33％増益(株探ニュース)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVlFsb0dNUEl1Z0pSM3ZpWTY2N0JmekN4TVB2b2lROUREb3VmZmQtX2hkVWQxb05FOEhmS1FCSlRmQk1kNVJVRzk1M09Id3NTcnlfSG00ZzVnUnF5Unk4d1BwMVNJS3VXZHdsRk9GaWJrakh6bnF0RVc1N0hjanBET0ZsQldIYUU?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-11-04T04:00:55+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "【決算速報】伊藤忠、上期最終が16％増益で着地・7-9月期も33％増益(株探ニュース) Yahoo!ファイナンス",
       "source_count": 1
     }
   ]
