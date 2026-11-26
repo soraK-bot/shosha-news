@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T10:48:12.543830+00:00",
+  "updated_at": "2026-11-26T22:46:00.711694+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -93,6 +93,169 @@
   ],
   "articles": [
     {
+      "id": "ee3114dbde42e6ab",
+      "title": "長瀬産業（8012）の「時価総額1兆円」は夢物語か？ 営業益585億円への大幅上方修正から逆算する株価2倍シナリオと、見落とせない3つの死角｜日本個別株デューデリジェンスセンター",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94ZE8tT0FOa1dRczVlWHR6akVsX1VmdmxwTVJ1eFVVekdaTDlhRjlhNzVhNlhfM0I5Z2EtdVd6Y2hQU256bmxKalJ2QW91SXpSSGF2ckhKMkNlYWc?oc=5",
+      "source": "note",
+      "published": "2026-11-26T21:55:09+00:00",
+      "company_ids": [
+        "nagase"
+      ],
+      "tags": [
+        "業績予想",
+        "決算"
+      ],
+      "summary": "長瀬産業（8012）の「時価総額1兆円」は夢物語か？ 営業益585億円への大幅上方修正から逆算する株価2倍シナリオと、見落とせない3つの死角｜日本個別株デューデリジェンスセンター note",
+      "source_count": 1
+    },
+    {
+      "id": "581c2da404337a17",
+      "title": "日本都市ファンド取得予定の小手指のNSCが竣工 三菱商事都市開発ら",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBValJEbUI1WjlJUjFlbFB3bmtyb0JWem01dGs3b2dwZFl1WnBSX01DMVBRdGJ0ekFGY2ozSzUwWXlRSS1OY3FmMjFXYmhxX3ZIT1lQTnVKUDd4R0RUOGRMTkJBcmdIMGdvU0haSXNFcHVwRm94ekR1WDc4UXQ?oc=5",
+      "source": "estie",
+      "published": "2026-11-26T21:09:37+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "投資"
+      ],
+      "summary": "日本都市ファンド取得予定の小手指のNSCが竣工 三菱商事都市開発ら estie",
+      "source_count": 1
+    },
+    {
+      "id": "10424350efea70f0",
+      "title": "三菱商事が示す「外部の声」と経営のつなげ方、一橋大・伊藤邦雄教授が読み解くCSEO設置の狙い",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15SDl5V2MzaHVIS1g5R2NuVzRXUC14RzJQajNmcTRRckdiVE1fWEVNeFFvRzFkQVliU29sR1lxeGJUSjBqUnY4WGViLWRtT0xoVmJzejNB?oc=5",
+      "source": "JBpress",
+      "published": "2026-11-26T21:00:00+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "三菱商事が示す「外部の声」と経営のつなげ方、一橋大・伊藤邦雄教授が読み解くCSEO設置の狙い JBpress",
+      "source_count": 1
+    },
+    {
+      "id": "c1177131d82d58a8",
+      "title": "住重、丸紅系に日本スピンドル製造の全株式を譲渡",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBta09Kd3pqTTU5Q3I1RFVRY0RMd01TOFhoc1V6MnNQVmdDVFR1S0pucFN0eUlVY1gzWUlxbG85U0FEak1ueUtZcS0zaElndS1Udnpn?oc=5",
+      "source": "化学工業日報 電子版",
+      "published": "2026-11-26T20:09:07+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "住重、丸紅系に日本スピンドル製造の全株式を譲渡 化学工業日報 電子版",
+      "source_count": 1
+    },
+    {
+      "id": "eca16d4a8c9003c7",
+      "title": "住商、AIで空港効率化 JALなどと来年実証",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51bWNwcDBzNUJvaVB4UER5S1djWUVnRmpVMmpUQUlTb0paN1pZMUtXVE8tME1pZUN6LU1fcFpUNzdyQllENGs0a3FYVmhpVzgxT084RkVvZjQ?oc=5",
+      "source": "日刊工業新聞",
+      "published": "2026-11-26T20:00:00+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "住商、AIで空港効率化 JALなどと来年実証 日刊工業新聞",
+      "source_count": 1
+    },
+    {
+      "id": "038724b4498b0dca",
+      "title": "みなとアクルスの多目的施設 名称は「ららアリーナ 名古屋」 豊田通商など 28年１月開業",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53MGptWDc4cW85bG9CRFdxUF81MzVoU0JILUlzTmMyS2dubGhQUXlnUVp1U19uM1p0LWNWS0s2aWZzdTU0WnlMOGoxS1JWLS1QdVBuOWxlRTkwR1E0aE52ZTNnZzJBZ0lKTWtRWkluSE1Pd1k?oc=5",
+      "source": "www.chukei-news.co.jp",
+      "published": "2026-11-26T20:00:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "みなとアクルスの多目的施設 名称は「ららアリーナ 名古屋」 豊田通商など 28年１月開業 www.chukei-news.co.jp",
+      "source_count": 1
+    },
+    {
+      "id": "781983506b561029",
+      "title": "【タイ】三井物産、顧客感謝イベントに800人参加［経済］",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UQzFOUmdqODdpWmFZb0cyNk5nWVd3M3dpaVZiVmVLTXgxV2RIZlhVdVNWTUZVaEtGWFd1TkxnaE50blhDcGQxUER6YTd3b3phOV9nNUx1NGZXdkcwX3d3?oc=5",
+      "source": "千葉テレビ放送",
+      "published": "2026-11-26T17:02:07+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "【タイ】三井物産、顧客感謝イベントに800人参加［経済］ 千葉テレビ放送",
+      "source_count": 1
+    },
+    {
+      "id": "223594125533811b",
+      "title": "三井物産タイ法人社長「脱炭素に投資」 バンコクで政財界とイベント",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6S1lLNklWT3Rsc3REVDF2M3I1LWZLWjM2NU1XQUdsXzBZcEpqWldXTzgzdjA5S2szLTNwX1NEVmhFRXU5Zlk4Um5TZVI5b3JLYzNDa0dVR1V6ekRsck8zdDhrSWZibHpKM2tvSQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-26T17:00:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "人事",
+        "投資",
+        "脱炭素"
+      ],
+      "summary": "三井物産タイ法人社長「脱炭素に投資」 バンコクで政財界とイベント 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "bdf01d404e36505b",
+      "title": "三井物産、顧客感謝イベントに800人参加",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA2Y1RGaW5WOXBFdnduNmJpb0lMM2dWVWtfaHh2RlUzNmxFQnZZdHZmOEJpa3hYSTZLZTBicHgwZGhwTkc3X1E?oc=5",
+      "source": "NNAアジア",
+      "published": "2026-11-26T15:00:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "海外"
+      ],
+      "summary": "三井物産、顧客感謝イベントに800人参加 NNAアジア",
+      "source_count": 1
+    },
+    {
+      "id": "33abe587ac0c4f2b",
+      "title": "【総還元性向は64％の見通し】伊藤忠商事の配当は「12期連続増配」の年44円以上を予想、自己株式取得も3,000億円以上",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MVW9ORVVBS2RtUWlxWDlUX3lOOVN4RGxwcDRqZ093c0NUNnp2eGJCdklFYm1tZEFQYmpvTnMyUGRQSDd6U3ZyYTRMQVdHRmxTV0RrQ05IYllIUWtLcXV6eFFiZFZVRXVNck9FNUUzcGtoS1lETnZHZlJlaHpPRE0?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-11-26T12:05:33+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "投資",
+        "株主還元",
+        "業績予想"
+      ],
+      "summary": "【総還元性向は64％の見通し】伊藤忠商事の配当は「12期連続増配」の年44円以上を予想、自己株式取得も3,000億円以上 Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "fdd2e681b778b98e",
+      "title": "＜総合商社の配当＞【伊藤忠商事】年間配当金は今期44円以上の予想、11月の中間決算は純利益16.0％増",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5lQW5oSTc1OVc0bzM4N3ZHS3hrX2dZOW1scm9ucjlQZmk5ZHJmQm43WmdZejFxYjZOSmctTWNac0kyUjdsYmNhWFV0VjE?oc=5",
+      "source": "LIMO | くらしとお金の経済メディア",
+      "published": "2026-11-26T12:00:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "株主還元",
+        "決算"
+      ],
+      "summary": "＜総合商社の配当＞【伊藤忠商事】年間配当金は今期44円以上の予想、11月の中間決算は純利益16.0％増 LIMO | くらしとお金の経済メディア",
+      "source_count": 1
+    },
+    {
       "id": "a0118df0c844ba9c",
       "title": "サプライズ① 編集部もビックリ！｢新春号｣の強気予想5銘柄",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TSjJZdWZES1lfMTZpMjh0WFdrOXVzcE9uNVFwY3NWczY4R0pxOTRRZ3ZiNnBtRG5rM09hMmxfZmxPNG9SbFUwOGowRGFwT1l3ZDBsYXJBWQ?oc=5",
@@ -131,6 +294,19 @@
       ],
       "tags": [],
       "summary": "三菱商事都市開発news｜NSC｢マチノマ小手指｣竣工･核は｢トライアル西友｣ 流通スーパーニュース",
+      "source_count": 1
+    },
+    {
+      "id": "fd43dcd20df085df",
+      "title": "三菱商事都市開発news｜NSC｢マチノマ小手指｣竣工･核店舗はトライアル西友",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yeWNYejJYOUpQTGl1OGZHS3ZuZDdrcDJOTnMtdHBtWU1BVmtCeXI1OEFaZ2hlUDdOSmVzLW1ydXJIa1dfX0xIWkljY01qaWQxNnJj?oc=5",
+      "source": "流通スーパーニュース",
+      "published": "2026-11-26T07:04:31+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "三菱商事都市開発news｜NSC｢マチノマ小手指｣竣工･核店舗はトライアル西友 流通スーパーニュース",
       "source_count": 1
     },
     {
@@ -547,6 +723,19 @@
       "source_count": 1
     },
     {
+      "id": "0c5bd0c770377df3",
+      "title": "「問い」と「対話」がつくるインテリジェンス",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKS2p5dEdYM1pwelJTYVU0b1ROUERCSGt2WWZHSVFFUWhiVENnb2s3MkVQcUl2RzNTNzdaRGNvblE1UnlTUHAzVFQwNkRFZExWcmlHUHduV0pwZTVtX2FwUTdvOHI?oc=5",
+      "source": "住友商事グローバルリサーチ",
+      "published": "2026-11-25T07:11:43+00:00",
+      "company_ids": [
+        "sumitomo"
+      ],
+      "tags": [],
+      "summary": "「問い」と「対話」がつくるインテリジェンス 住友商事グローバルリサーチ",
+      "source_count": 1
+    },
+    {
       "id": "307e32c464f625fc",
       "title": "中国景気状況 －2026年11月－",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Xbzl3X1hhRlRvZlBuR1JrWGoySko1cU83TEUybVVjcXJCM0lqZl83bkdQV0R3NkJUYWJRamJDdXd4b1llRmpTR293cVZ6ZldaM2pOejc4NlV2UktGLXFGdA?oc=5",
@@ -890,9 +1079,11 @@
       "company_ids": [
         "itochu"
       ],
-      "tags": [],
+      "tags": [
+        "DX"
+      ],
       "summary": "ＡＩ秘書、中小企業に展開 伊藤忠系、自動で電話応対 静岡新聞DIGITAL",
-      "source_count": 1
+      "source_count": 2
     },
     {
       "id": "6215ea8f7d5530d0",
@@ -4554,6 +4745,19 @@
       ],
       "tags": [],
       "summary": "相撲・ラグビー部に柔道日本一まで集結 本気すぎる豊田通商綱引きチーム 秘策の特製治具で悲願の頂点へ（テレビ愛知） Yahoo!ニュース",
+      "source_count": 1
+    },
+    {
+      "id": "c419cc386744fa19",
+      "title": "ＰＨＣＨＤについて、三井物は保有割合が5％未満に減少したと報告 [変更報告書No.10]",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83bDVuYkNIV1V4YTZYVnRTNkRKcmNaWnpZODFyd1hUaFpoMUlBNUZnbDczTnU4Zk01RVFwckNZLTNua0FlUFBkM0ZEU2RLYnNOcHh6c0Jlb3VVMGlVTy1NMA?oc=5",
+      "source": "株探",
+      "published": "2026-11-12T08:00:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "ＰＨＣＨＤについて、三井物は保有割合が5％未満に減少したと報告 [変更報告書No.10] 株探",
       "source_count": 1
     },
     {
@@ -8632,224 +8836,6 @@
       ],
       "summary": "三菱商事、過去最高の純利益1.2兆円へ上方修正 金属資源など上振れ Infoseek",
       "source_count": 2
-    },
-    {
-      "id": "8d40475d22e3a2fb",
-      "title": "三菱商事、過去最高の純利益1.2兆円へ上方修正 金属資源など上振れ（ロイター）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnY21NdTNrbU9YbDlYdXg2WVlpUUJVVmhUY2RyWUxZSWZMVVpsQTBycG1reXVCZ2FJbTFsRnh5VHdpWGNLbk41ODlZTV90ZnFWcjk2MVNGeWJpaDBHdTFIbVhlNkNkVEZxNnJHMDgyYUZnNlZ2T08yWWYyWmpIeHc?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-11-04T05:18:09+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "業績予想",
-        "決算",
-        "資源"
-      ],
-      "summary": "三菱商事、過去最高の純利益1.2兆円へ上方修正 金属資源など上振れ（ロイター） Yahoo!ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "d0a9ec4a2189c54a",
-      "title": "三菱商事、4年ぶり最高益に 資源やエネルギー価格上昇で上方修正(ロイター)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSU5UN1hQRnlBMWV6RnBZNHBrVmtnQzc2dnNKU1d4dVVLclF1RmRncG9ZQ0hmWW5nQVNmOVZOUjdNYnFsck41U2NMN18tdm1xMDFQNWt0NzlJQnI4Z3M0Y0tUcEFVcGFkaUZSNXllX2k1UmNNZmpCQ3hjT2R0ek9JeGNVT3pjMGs?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-11-04T05:18:09+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "業績予想",
-        "資源"
-      ],
-      "summary": "三菱商事、4年ぶり最高益に 資源やエネルギー価格上昇で上方修正(ロイター) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "e077951ca7ed69bd",
-      "title": "伊藤忠商事、上半期純利益が過去最高を更新－通期予想を据え置き 執筆 - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oWVo0NzJNZDVReGZBT3VEdHVUbGNxZlhMRzBscDFkY2R3VGRQeUt4N05JeDU4QzVWam5QMUQyWFZhNlNOSzMzT0NnbExtd1Iyc0lzcGZYS0dNMnhRNXhQNHNXMXo?oc=5",
-      "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
-      "published": "2026-11-04T05:17:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "業績予想",
-        "決算"
-      ],
-      "summary": "伊藤忠商事、上半期純利益が過去最高を更新－通期予想を据え置き 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "1a5bd87e922f01db",
-      "title": "決算:三菱商事4年ぶり最高益、今期最終1.2兆円 自社株買い１兆円",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JVVBUaUFKRjVCTHZSTEJheTFSdXBRZldqOXdMRVFMTFhPZ3hUSVEzbVNaNXNXaEYySktBOERoRDhmZm80ZkxDY1dFQ3B3bGhjZ0RiNnNEME1nbGpOaHpHazFIWml0NXVBdlhoag?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-04T05:12:37+00:00",
-      "company_ids": [
-        "marubeni",
-        "mitsubishi",
-        "mitsui"
-      ],
-      "tags": [
-        "株主還元",
-        "業績予想",
-        "決算",
-        "海外",
-        "資源"
-      ],
-      "summary": "決算:三菱商事4年ぶり最高益、今期最終1.2兆円 自社株買い１兆円 日本経済新聞三菱商、今期最終を9％上方修正・4期ぶり最高益更新へ 株探〔決算〕三菱商事、27年3月期純利益予想を上方修正＝金属、エネルギー分野が好調(時事通信) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "288b03bb0f343379",
-      "title": "三菱商事、1兆円上限の自社株買いー大規模還元で株価上昇に転じる",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55RTZxQnItN3pHaVdLQzZxZFRPbXVnajdpZzk2Nld4SEk3UWIzQWN2M1FRdzFDREIwcGZ6QzlfeGJDRzZ3UkJTUnZDZkdkaDVSaVc3d2hERkJkTE9XRk4zUGJadnpkM1RFN1VsSFkzN1k4Ym1nVk5j?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-11-04T05:04:00+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "株主還元"
-      ],
-      "summary": "三菱商事、1兆円上限の自社株買いー大規模還元で株価上昇に転じる Bloomberg.com",
-      "source_count": 1
-    },
-    {
-      "id": "e63ae065d3b5a6ac",
-      "title": "【決算速報】三菱商、今期最終を9％上方修正・4期ぶり最高益更新へ(株探ニュース)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMnI0bkl5Y25PTDdUeGdwenlRNGZOTUhlOUM2SHZrcExDNVI5bjFKQ1pLYTFubDJWT2Y0Qm56aGNNUHBHRjJKTTVhUFhBaWRySE5vTHNqSjBkQ0RJd1hVTFR4TEFFN04xb0NfVmZqbXdOV0pRVWkyd2t3eFJ5MEswaUZsQ0sxN1k?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-11-04T05:01:19+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "業績予想",
-        "決算"
-      ],
-      "summary": "【決算速報】三菱商、今期最終を9％上方修正・4期ぶり最高益更新へ(株探ニュース) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "777defba682970db",
-      "title": "【決算速報】三菱商事、中間税引前815,838百万。(アイフィス株予報)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSlEwLVd1UHNkNFp1QVRaeVhPc1dRbWJkQ1BUbFI1SUdOa0NyeWtjM3B0UTVRU25jenR3d1pKWEpUU1Vrd3dJU1BnS01LWVJ0N18zOWh6dXBHMHBpNldNR3A2cElDNlpscng3d2RqaVk2SDZ4ZGJMNUltVy1pSzMtV1ZkQm5ac1k?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-11-04T05:00:14+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "【決算速報】三菱商事、中間税引前815,838百万。(アイフィス株予報) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "cb068ccd3ffdb78a",
-      "title": "三菱商事[8058]：自己株式取得及び自己株式消却に係る事項の決定に関するお知らせ 2026年11月4日(適時開示) ：日経会社情報DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXc3pxZFA5dnhrVkFXb3FEcmNpbHBqQ2hhNnFpSkZaVzNvUVBlN3UtYWZ1X1FWUjl2SlZqSHVnLXJIai15dTNLOHZPRWJfRkh2UnJ2X1VKU19wRXNnNXdlaW1KSWpTWXM4Q2c?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-04T05:00:00+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "投資",
-        "株主還元"
-      ],
-      "summary": "三菱商事[8058]：自己株式取得及び自己株式消却に係る事項の決定に関するお知らせ 2026年11月4日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "a43be066ccc914b1",
-      "title": "三菱商、今期最終を9％上方修正・4期ぶり最高益更新へ",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wN0xZLWVHNFNPU21uV0tld0FINTlXa2oxdnhQdGVGdE05T3Z6VWZsRVFnQjI4STBEeV9UdmF2c3FBOE14X3pfMkZKcnF2a3A0YXc?oc=5",
-      "source": "株探",
-      "published": "2026-11-04T05:00:00+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "業績予想"
-      ],
-      "summary": "三菱商、今期最終を9％上方修正・4期ぶり最高益更新へ 株探",
-      "source_count": 1
-    },
-    {
-      "id": "1ce9bfe4cdaaa31f",
-      "title": "三井物産の株価が本日急落した理由とは 執筆 - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2bGlVaHF5Y1JxTTBfTlh2Ulo1X1dmUnRDZHFxdW1iUmhQU1NSX0wyaEsyVXZjWHlMZ2toNEFwX05RUTR6dWdlNXRPdUU2RUc4Y1FUd3lMaDdrS1VZZ2s5WElaaHBvTGU3R3NUanhWOXVQY3QxRWpj?oc=5",
-      "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
-      "published": "2026-11-04T04:57:00+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [],
-      "summary": "三井物産の株価が本日急落した理由とは 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "12e5878196eba194",
-      "title": "伊藤忠、中間純利益16％増の5804億円 非資源分野が牽引し過去最高",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yU19KVmt2YlNOaEhCVmZPY2gtY1RfYlRNMW9rRUV4N05OeDVLQl94bks3YjBMbG5SUTJCb1AyQWZJaENHYlRpRk84Sm5IZncyQUw4Z0FCX1RBRjJLRW40OThDbkhUWHN6N0xtNXlxcDI3RVF5?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-11-04T04:55:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "決算",
-        "資源"
-      ],
-      "summary": "伊藤忠、中間純利益16％増の5804億円 非資源分野が牽引し過去最高 BigGo ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "eac3c8e8b59141b1",
-      "title": "伊藤忠の4〜9月純利益16％増で過去最高、非資源4事業がけん引",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yU19KVmt2YlNOaEhCVmZPY2gtY1RfYlRNMW9rRUV4N05OeDVLQl94bks3YjBMbG5SUTJCb1AyQWZJaENHYlRpRk84Sm5IZncyQUw4Z0FCX1RBRjJLRW40OThDbkhUWHN6N0xtNXlxcDI3RVF5?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-11-04T04:55:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "決算",
-        "資源"
-      ],
-      "summary": "伊藤忠の4〜9月純利益16％増で過去最高、非資源4事業がけん引 BigGo ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "069925f041118caa",
-      "title": "本当の価格はどこにあるのか",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKMmFXUnlQU2ZiM2hMMDB4M0w5OG1XeXVwR2ExNE1ZZDZfME4xbWtwZlpsWVpoVHVFdHdDeTlVdjVrS29xSDdBSTZ6aWtHNHF0elJMMF91X0tnVW1yb05CRw?oc=5",
-      "source": "住友商事グローバルリサーチ",
-      "published": "2026-11-04T04:52:57+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [],
-      "summary": "本当の価格はどこにあるのか 住友商事グローバルリサーチ",
-      "source_count": 1
-    },
-    {
-      "id": "dfb9e5d0ba27a8b7",
-      "title": "丸紅が下げ幅拡大､27年3月期純益予想増額も響かず",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQSkM0SkdyeVJaUFVCSklQTnYtMkVJOTMwbk1LaVUyemxiVEhYbUV1WV9FeGZ3dkJ2ODRuS1dTZzBRR2dPNldYRUdkLTl4b3dFeTR5V0RzZw?oc=5",
-      "source": "四季報オンライン",
-      "published": "2026-11-04T04:50:17+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [],
-      "summary": "丸紅が下げ幅拡大､27年3月期純益予想増額も響かず 四季報オンライン",
-      "source_count": 1
     }
   ]
 }
