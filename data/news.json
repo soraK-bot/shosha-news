@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T22:45:29.884322+00:00",
+  "updated_at": "2026-11-26T03:50:41.546119+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -92,6 +92,71 @@
     "就活"
   ],
   "articles": [
+    {
+      "id": "6826dfd43d453dba",
+      "title": "前場コメント No.6 三菱商、グロースエクス、ラクス、エーザイ、ホトニクス、マネフォワード(トレーダーズ・ウェブ)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbEhQZlQ3UWZKYXJyUjEwTTB6cjNURXp6Zk9kNzVKN0xQNjd0N0ZsUzY2d1liVmpVbi1EbldzQUhWUVZUbXQzcXNiZ2VlZjF6TmdGaVgzejZ3dGdtcmJ3SzFRMVBCRGdCdlhHdjJzYlc1bWxhTmVnZGRrYmpjQkhxY09uSy1FTnM?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-26T02:31:04+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "前場コメント No.6 三菱商、グロースエクス、ラクス、エーザイ、ホトニクス、マネフォワード(トレーダーズ・ウェブ) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "1925c9623fddfc76",
+      "title": "前場コメント No.5 ＡＮＡ、ＪＡＬ、オービック、伊藤忠、セイコーＧ、勤次郎(トレーダーズ・ウェブ)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeklNNWphMDJtMHFmbFZycWV1QWNsTXdFQXZnQnI2UDlxcl9GcjJONnFkRV9jUDVKT3laMUlZWUk5ZmxLSHZiZ2dxMkhMallxR3VUQTZDb3R1MnUwUFJCdEprdWhJSWtfRW5hMzJfTlBfYzJ4RjhYeWN0WTVxOXZGU0l2M2hPMTQ?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-26T02:31:04+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "前場コメント No.5 ＡＮＡ、ＪＡＬ、オービック、伊藤忠、セイコーＧ、勤次郎(トレーダーズ・ウェブ) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "93c3a5777e3219f4",
+      "title": "豊田通商－野村が目標株価引き下げ 短期業績は予想以上に好調〔DZH 個別株情報〕(時事通信)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcXpheWg2clRJYzZVcW9sd1dJMy15eE5ibTRHcUZSbDh6UjdLN3V2b0NCNEVTZkJBM0wwM3M4eUQzMG8yMEdXbTRIcmU0ZGsxNVprUU16ZWNleDJmXzRCRWlRYUZxQmkydnBsLTZseWt3N2RvdWhFYVpoOVFldGtXVFA1QVkyWDQ?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-26T01:30:45+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "豊田通商－野村が目標株価引き下げ 短期業績は予想以上に好調〔DZH 個別株情報〕(時事通信) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "ccf55d87425bb24f",
+      "title": "三井物産－野村が目標株価引き下げ 短期業績は好調、ROE改善に向けた施策に期待〔DZH 個別株情報〕(時事通信)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMnRQVXhrc05zanE1czB2dHFtaDFlblJ2ZVZ5cmFYeFhDSTBZX3FjZ2FlNm1uQXhUNldtOE9tVGNaMno3YW50RVl3TkhybV92RmcxSDFyQ0lJbTZvYjVqekdMc1Z5WVpwT1RfUXpQSko3QWZSOVYwNV9adVY3V2xHMFBKbG01N1U?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-26T01:18:44+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [],
+      "summary": "三井物産－野村が目標株価引き下げ 短期業績は好調、ROE改善に向けた施策に期待〔DZH 個別株情報〕(時事通信) Yahoo!ファイナンス",
+      "source_count": 1
+    },
+    {
+      "id": "4859baac82996b60",
+      "title": "伊藤忠商事－野村が目標株価引き上げ 実力ベースの業績モメンタムの強さは不変〔DZH 個別株情報〕(時事通信)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY20tZW5lLXdFNFFHWGVoVURlNGZvRnhFZ1FuVjR5ZVIwa3Z4ZmdFaVV5dklrT1BVMi1ZUDYxYzlVWUItQkY1S2pRblYzYTN6azEwUkhidmRFSlpIVElDbFh0dEZQOW9CeU1ZTUhoS0VEV0stYnJLNGlMSnN0d25wYmY4dHFDWVU?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-26T00:42:26+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "伊藤忠商事－野村が目標株価引き上げ 実力ベースの業績モメンタムの強さは不変〔DZH 個別株情報〕(時事通信) Yahoo!ファイナンス",
+      "source_count": 1
+    },
     {
       "id": "da5f4f6f058e5a17",
       "title": "今井斗志光・豊田通商社長「ゴンドワナ経済圏の成長力」",
@@ -701,6 +766,34 @@
       ],
       "tags": [],
       "summary": "ＡＩ秘書、中小企業に展開 伊藤忠系、自動で電話応対 静岡新聞DIGITAL",
+      "source_count": 1
+    },
+    {
+      "id": "6215ea8f7d5530d0",
+      "title": "ＡＩ秘書、中小企業に展開 伊藤忠系、自動で電話応対 | | 全国のニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44dmNUM0ZtVjZfVHN5Qkdhck1RX2d6bnBWbXZZOWIwYmpqZ3ZHaW9qZFdpVXlFaTA4ckQ1dExVamNRQjZ3bV9kTkUwNWNPVy1oSm82a3Jn?oc=5",
+      "source": "佐賀新聞",
+      "published": "2026-11-24T17:00:00+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [],
+      "summary": "ＡＩ秘書、中小企業に展開 伊藤忠系、自動で電話応対 | | 全国のニュース 佐賀新聞",
+      "source_count": 1
+    },
+    {
+      "id": "6c80a28a6ab1cad9",
+      "title": "AI秘書、中小企業に展開 伊藤忠系、自動で電話応対：ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VZnZhekdROVZzdlYwelJXUHpyYWpfZlJ3OENUSjlBMG1pYXZOZmp2Y1RjM0J1WlFPNW8xUXhTWW11MzdwSjBvR3M5dUZNN2JYY3g4bll2TjMwd0pFMjU0?oc=5",
+      "source": "中日BIZナビ",
+      "published": "2026-11-24T11:12:41+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "DX"
+      ],
+      "summary": "AI秘書、中小企業に展開 伊藤忠系、自動で電話応対：ニュース 中日BIZナビ",
       "source_count": 1
     },
     {
@@ -7982,6 +8075,21 @@
       "source_count": 1
     },
     {
+      "id": "004a1f1a19f916f9",
+      "title": "決算:三井物産の純利益1兆500億円、27年3月期に上振れ エネルギー好調",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LYTZXbVM2c0pXSXYycXdmbzhaZ29TRkFXWXU3TTJKV3NFMk4zekZCaFZUUlZPQUdaMEx3VFdNejJlY1FuXzVKb0daV2tsSDJrNTR5RC1UclkzeUJmX0VsVUFUNEdWMjV6TTJ4Tg?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-04T08:00:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "決算"
+      ],
+      "summary": "決算:三井物産の純利益1兆500億円、27年3月期に上振れ エネルギー好調 日本経済新聞",
+      "source_count": 1
+    },
+    {
       "id": "827fe740dd75033d",
       "title": "大手商社5社増益 資源・エネルギー好調 三菱商事最高益更新見通し",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1icUVjeGhiR25oTF9SVmRTMzl4czMxWm04OHZJRlltNE9NV1RZMWozVWNoY2c1N0FyQ295OGZGSUtOOGgzenBlbDdJeEZHOVJBOHJMaXpYYlpIRWNTWnc?oc=5",
@@ -8750,129 +8858,6 @@
         "決算"
       ],
       "summary": "【決算速報】伊藤忠、上期最終が16％増益で着地・7-9月期も33％増益(株探ニュース) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "81464614159c9a38",
-      "title": "決算速報＞伊藤忠、２７年３月期第２四半期決算は純利益１６．０％増の２ケタ増益(ウエルスアドバイザー)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORE5qTXBOYXNxRy1JSXhoNFVOQTVpXzhHNl9YQ21uZFI5NlZUYmEzOFItUGxfZHdRNWNENUlBamM3UHVRbmpONjZtQ2xKVlE3V0oyTy1GbENvUnkxOW9zQ2RpU1ZFSXB3M25vcmY4dG9PRlJBbmwyUk1BTnlLdFctSlkxR2RFc2s?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-11-04T04:00:33+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "決算速報＞伊藤忠、２７年３月期第２四半期決算は純利益１６．０％増の２ケタ増益(ウエルスアドバイザー) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "9b7060a3aa70fb44",
-      "title": "【決算速報】伊藤忠商事、中間税引前703,469百万。(アイフィス株予報)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQjBJY2V0VlV5RHc4RXY5NTVHY1FRSVhuTE5WX0h4MnQ2a2kxcVBna3F1Y1V6a0dGQlZVeUNuS3FqaTJRdHEwMWhUQjE1TzFnbTBPeF81NWlOMVVZVjRnem0yV0pzRVh5a1hzaWVranFleGljSDgyVVJfX1dwUDV1MVo1TjBMaUk?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-11-04T04:00:18+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "【決算速報】伊藤忠商事、中間税引前703,469百万。(アイフィス株予報) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "94c44bc3789423ff",
-      "title": "伊藤忠、上期最終が16％増益で着地・7-9月期も33％増益",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CRTRONk9UWktheDJkNlV6Z1dzZTJBckJ0UkM0Q1lYdkJqeUVxSVQzeXY1WXdyYk9XVHotV25DNHRqbmdqY2JHRFllNGgwdFc0M3c?oc=5",
-      "source": "株探",
-      "published": "2026-11-04T04:00:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "業績予想",
-        "決算",
-        "資源"
-      ],
-      "summary": "伊藤忠、上期最終が16％増益で着地・7-9月期も33％増益 株探〔決算〕伊藤忠商事、26年9月中間は増収増益＝機械、金属分野が好調(時事通信) Yahoo!ファイナンス決算:伊藤忠商事の4〜９月純利益16％増 非資源が好調 日本経済新聞◎〔決算〕伊藤忠商事、２６年９月中間は増収増",
-      "source_count": 1
-    },
-    {
-      "id": "73f620a6d5c9ae05",
-      "title": "伊藤忠商事[8001]：2027年3月期 第2四半期（中間期）決算短信〔IFRS〕（連結） 2026年11月4日(適時開示) ：日経会社情報DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSVQzX0RzdmlyeHBfNFJSdFpFdklOZmo5UVpFVVpzaTRhemcwaUNOb0c0bGQ0b040ZEZOanR1RkpsMXBiaEd0MWdzSm82VkwtVHZlRkdRb0NqZWdvYU5CN3JqOWs5NmZmOVQxclVucml5STY0OURpMUY0R2x0ZkFHalJVRkJDWEhIajlIVmhlZDNJeHNQeVc3emQwazAyVk1fYXAtcVduRXUwdVczZnZHaDJCLWk0QnFPSXdoZG9mUDhwWC1PWTRYak5GNzA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-04T04:00:00+00:00",
-      "company_ids": [
-        "itochu"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "伊藤忠商事[8001]：2027年3月期 第2四半期（中間期）決算短信〔IFRS〕（連結） 2026年11月4日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "889156ef7def36d0",
-      "title": "三井物産、27年3月期純利益を1兆500億円へ上積み 資源高追い風に市場予想超え",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TaXdCdzNNbEZEX1pFRjNLUWtEdURpYnAyRjdlaHhLOGs5bklPai1Baklsa1RzMXhLRmpXUnd4cldnMndUUk01MXhRS1VRMEc2aWlVVWJ3Yzk2a3J0cWJXTGRDNkc0M3ZQa3V1MGhtRmpFVjdf?oc=5",
-      "source": "BigGo ファイナンス",
-      "published": "2026-11-04T03:56:00+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "決算",
-        "資源"
-      ],
-      "summary": "三井物産、27年3月期純利益を1兆500億円へ上積み 資源高追い風に市場予想超え BigGo ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "c6d4bb5da4753e40",
-      "title": "三井物産－3日続落 通期純利益を上方修正 上期は36％増〔DZH 個別株情報〕(時事通信)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdWh1NVZDc25lWkZPTzlMWl9tWDlNVFM4SGVYMy15T2xZSkRjcFR1ekZESjZOWEV0NVp0dHdpNmtHcjZrNjRaWmtBZnVoVnY5WmtMcUt1dHhTSUtoWkhLTnFLUnY1dXBmOUcwTnZVNTVqOTdFbjMxdnVkYkY1RjVmZ3ZJUVY4SkE?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-11-04T03:54:55+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "業績予想",
-        "決算"
-      ],
-      "summary": "三井物産－3日続落 通期純利益を上方修正 上期は36％増〔DZH 個別株情報〕(時事通信) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "9043b0b162e1b394",
-      "title": "三井物産株、利益36%増も営業キャッシュフロー悪化で3週間ぶり安値 執筆 - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5WUVFa1pJODVVa2RCYUFqTFd5ZTdlNUs4Vm51RF95cWxxZmp1QzRENVhGZ2RWOGVHQTctWUxaQTl3dkZzVEZ1eDE3Zm5mMHRmcGg4TC1LNVdYQ2Ywb0E5M1kzS0E?oc=5",
-      "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
-      "published": "2026-11-04T03:41:00+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [],
-      "summary": "三井物産株、利益36%増も営業キャッシュフロー悪化で3週間ぶり安値 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "246b014bc897ad5c",
-      "title": "三井物産、通期純利益予想を1兆円超へ上方修正 エネルギー価格上昇",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBscGVuRmVzZEdLNmMxX01yQnFrRC1PMkROb0FSVThZTXlpcTE1OTd0Uzh1NjktcW5seWVYV3dyRTZONUZrRHZ5TWdVUEd2R0ZmNTFyeDBVbEo4WUNfeGEzZS0zeTRTUVBHemdUYk4wTE1BZlFHSjRlZGFQZmdUUQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-04T03:23:00+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "業績予想",
-        "決算"
-      ],
-      "summary": "三井物産、通期純利益予想を1兆円超へ上方修正 エネルギー価格上昇 Reuters",
       "source_count": 1
     }
   ]
