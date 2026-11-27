@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T22:46:00.711694+00:00",
+  "updated_at": "2026-11-27T03:51:36.380699+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -92,6 +92,19 @@
     "就活"
   ],
   "articles": [
+    {
+      "id": "e0eae83bab406636",
+      "title": "三菱商事、ROE12％は通過点 持続的な利益成長と資本効率向上への戦略 投稿日時： 2026/11/27 08:00[ログミーファイナンス]",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9OTEprTXkxenJlUnlSZnc3U0dKaFJBUlQwMnlUS1BZeUpSV01jcVA1aDVJZ2xPblEweTRfclBxc1AzbFJvb1VoSA?oc=5",
+      "source": "みんかぶ",
+      "published": "2026-11-26T23:00:01+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [],
+      "summary": "三菱商事、ROE12％は通過点 持続的な利益成長と資本効率向上への戦略 投稿日時： 2026/11/27 08:00[ログミーファイナンス] みんかぶ",
+      "source_count": 1
+    },
     {
       "id": "ee3114dbde42e6ab",
       "title": "長瀬産業（8012）の「時価総額1兆円」は夢物語か？ 営業益585億円への大幅上方修正から逆算する株価2倍シナリオと、見落とせない3つの死角｜日本個別株デューデリジェンスセンター",
@@ -991,6 +1004,21 @@
         "海外"
       ],
       "summary": "海外赴任者数が多い企業ランキングTOP100！ 3位は三井物産､2位トヨタ自動車､では1位？ 3ページ目 | ライフ 東洋経済オンライン",
+      "source_count": 1
+    },
+    {
+      "id": "869725f3e2244df2",
+      "title": "海外赴任者数が多い企業ランキングTOP100！ 3位は三井物産､2位トヨタ自動車､では1位？",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TTWhtMjZPaXdpclhubGFneHQyVG5KaEh6Z3NnQy1aaW9Zelp4NHRDRjJIVWxFUzdOT2M5WU11OVFBQ3J0aXZpWjF1eVozcHJCZjdtREd1Tk5NbmNTb0VV?oc=5",
+      "source": "東洋経済オンライン",
+      "published": "2026-11-24T20:00:00+00:00",
+      "company_ids": [
+        "mitsui"
+      ],
+      "tags": [
+        "海外"
+      ],
+      "summary": "海外赴任者数が多い企業ランキングTOP100！ 3位は三井物産､2位トヨタ自動車､では1位？ 東洋経済オンライン",
       "source_count": 1
     },
     {
@@ -3664,6 +3692,20 @@
         "投資"
       ],
       "summary": "ＩＨＩ・伊藤忠商事などが参画、海洋無人機の社会実装計画が内閣府事業に採択 https://kabu-ir.com/",
+      "source_count": 1
+    },
+    {
+      "id": "eb2e168b2071ee0a",
+      "title": "【移転】2025年にミッドタウン八重洲へ、伊藤忠丸紅鉄鋼",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE40U01mWjlzcmY0V1Nfbjh2T0treUtWOENjZDdMOGJpN2lDVjh0VkFZSjJNa0xIUHVkd2x1OWFwLUw0cm0zMzJVeVRqWHQyYWhqN0xaR2pTTmctbWZON01reVVB?oc=5",
+      "source": "日経不動産マーケット情報",
+      "published": "2026-11-16T22:06:28+00:00",
+      "company_ids": [
+        "benichu",
+        "marubeni"
+      ],
+      "tags": [],
+      "summary": "【移転】2025年にミッドタウン八重洲へ、伊藤忠丸紅鉄鋼 日経不動産マーケット情報",
       "source_count": 1
     },
     {
@@ -6873,6 +6915,19 @@
       "source_count": 1
     },
     {
+      "id": "00adbdf6b038bd2e",
+      "title": "JFE商事、子会社のJFE商事鉄鋼建材とJFE商事鋼管管材を統合 社名を「JFE商事スチールクロス」に変更",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oQXp2dUM3UURGbUVQZXphUHRsMU1uTF9PN1JPQ0RnalF4UUNfQmxUUDZUSHNjMFUtRFNQbUxzaWJNLXBTOF9waFdTN1Q?oc=5",
+      "source": "マールオンライン",
+      "published": "2026-11-06T08:00:00+00:00",
+      "company_ids": [
+        "jfeshoji"
+      ],
+      "tags": [],
+      "summary": "JFE商事、子会社のJFE商事鉄鋼建材とJFE商事鋼管管材を統合 社名を「JFE商事スチールクロス」に変更 マールオンライン",
+      "source_count": 1
+    },
+    {
       "id": "818bf00c1afba9e9",
       "title": "株式会社シグマクシス・ホールディングスとの資本・業務提携について",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94ajFzMlFHblJ3TGdtSHVlQmRLRDg0WWN1SXJiOUEteGoyTXItZmdlQWlVYjVKb3dIUmpGcnRQTWdDYmZ4eVJTTU91WVJzZEh6MDNqUkhKakRTbWxncWQ0Q05Db0lyUQ?oc=5",
@@ -8420,6 +8475,23 @@
       "source_count": 1
     },
     {
+      "id": "1a5bd87e922f01db",
+      "title": "決算:三菱商事4年ぶり最高益、今期最終1.2兆円 自社株買い１兆円",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JVVBUaUFKRjVCTHZSTEJheTFSdXBRZldqOXdMRVFMTFhPZ3hUSVEzbVNaNXNXaEYySktBOERoRDhmZm80ZkxDY1dFQ3B3bGhjZ0RiNnNEME1nbGpOaHpHazFIWml0NXVBdlhoag?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-04T08:00:00+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "株主還元",
+        "業績予想",
+        "決算"
+      ],
+      "summary": "決算:三菱商事4年ぶり最高益、今期最終1.2兆円 自社株買い１兆円 日本経済新聞",
+      "source_count": 1
+    },
+    {
       "id": "827fe740dd75033d",
       "title": "大手商社5社増益 資源・エネルギー好調 三菱商事最高益更新見通し",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1icUVjeGhiR25oTF9SVmRTMzl4czMxWm04OHZJRlltNE9NV1RZMWozVWNoY2c1N0FyQ295OGZGSUtOOGgzenBlbDdJeEZHOVJBOHJMaXpYYlpIRWNTWnc?oc=5",
@@ -8759,83 +8831,6 @@
       "tags": [],
       "summary": "【アナリスト評価】豊田通商、レーティング中立を据置き、目標株価7,400円に引下げ（米系大手証券）(アイフィス株予報) Yahoo!ファイナンス",
       "source_count": 1
-    },
-    {
-      "id": "6ead3024326f1ad4",
-      "title": "三井物産の株価、下げ幅拡大 今期上方修正も売りに押される",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11SEdvWkU0dTF6aG5kTExKNnIxMVk1di0zaU5xaXRBMVV5TWRQSk8tRjJWd0VRTWtlUW5UUGF1dVVXX2NiNURGYkh6UC1sNVBjc0NHc1p4OGRVcmY1cUU0VnAyc3hiWTQwTXNuYg?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-04T05:27:40+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "業績予想"
-      ],
-      "summary": "三井物産の株価、下げ幅拡大 今期上方修正も売りに押される 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "6197e3a0a503bad8",
-      "title": "三菱商事、発行済み株式の約6％・1兆円を上限に自社株買い（ロイター）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKbU9ReU5qNWY2MTVZZnc5SFZjLVM1NTNNY1NCNkJJZzlqSEdCWUpabnFNNGZ2aElhSXJGM0FsZFVrWkd0UnVCa3lvZXp6WWNQNjdwaXJwSEdKeVM3ZUwwTGdVaFdoR3NwcUNGNnJiMU0zbDRaaGtHU0FUaWdPNDA?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-11-04T05:22:07+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "株主還元"
-      ],
-      "summary": "三菱商事、発行済み株式の約6％・1兆円を上限に自社株買い（ロイター） Yahoo!ニュース",
-      "source_count": 1
-    },
-    {
-      "id": "e636de9937b2a12a",
-      "title": "三菱商事、発行済み株式の約6％・1兆円を上限に自社株買い",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVWNpOHFwQ2Y5YXFia0lpN0xzWERwZXZtY010Zk51UUdnVFRGS0hpREljOWotSE9yZGxNWTZiYnFNYmNrR05wZ1NteFlLT2YwM1ZtUEotNkF6MzhHNEMwT1FFMXU0WF9WZEk1V255bHJWTWNodUhWVUpYUWdnUS1GemdB0gGHAUFVX3lxTE1sRVdKcl93ZVVFZjlvMW53R3VOa2o1S0FVSWpoU2VUWk84VDNRVHNFQ25ibXlSYnd3ZEVIMWxFZmU3VWhpSnMzWHUtQUJ4VFFtS2NnOU5UT183QWxKQk9jMFd3aU5idDlhcjZIaExTQ0RodFhuYlRQcThRbzlhdmxQSlJsTVdYcw?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-11-04T05:22:00+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "株主還元"
-      ],
-      "summary": "三菱商事、発行済み株式の約6％・1兆円を上限に自社株買い ｄメニューニュース",
-      "source_count": 2
-    },
-    {
-      "id": "8c72e0c8d66354ca",
-      "title": "三菱商事－後場プラス転換 4億2000万株・1兆円を上限に自社株買い 割合約6％(トレーダーズ・ウェブ)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPakhhWVliSHJLOGo5eGNFSnlPdUQtU01NZlZzR1lISVlURjVIYUF0ZVY4dTNCTVFZS25YU2U4OGJMdnh4WlZtTXloV2Rvc3RLdWctQ094ZnFPcnVaVkpqYVpDaHBLZ3J3YldrNWJvS28tdVpTUU9OdWNiN2V6dkJPTVRKbWE5bUk?oc=5",
-      "source": "Yahoo!ファイナンス",
-      "published": "2026-11-04T05:20:02+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "株主還元"
-      ],
-      "summary": "三菱商事－後場プラス転換 4億2000万株・1兆円を上限に自社株買い 割合約6％(トレーダーズ・ウェブ) Yahoo!ファイナンス",
-      "source_count": 1
-    },
-    {
-      "id": "06afbbc447d519fb",
-      "title": "三菱商事、過去最高の純利益1.2兆円へ上方修正 金属資源など上振れ",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mdUFjNE9wb1dlQlpUX2VROEh1WDNXSURQYXplTnctTmdSX0FYbEs0cmJyR1lJcDN5WVBxekVRNnBhZXlENVJCUzJ1QktOc1hpbGFFcTZxaEJ6bUJidW9taUFrd00yb1JCOGlsTi1n?oc=5",
-      "source": "Infoseek",
-      "published": "2026-11-04T05:18:27+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "業績予想",
-        "決算",
-        "資源"
-      ],
-      "summary": "三菱商事、過去最高の純利益1.2兆円へ上方修正 金属資源など上振れ Infoseek",
-      "source_count": 2
     }
   ]
 }
