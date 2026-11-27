@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T10:44:55.841160+00:00",
+  "updated_at": "2026-11-27T22:46:53.036133+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -92,6 +92,34 @@
     "就活"
   ],
   "articles": [
+    {
+      "id": "65d20af73dc80680",
+      "title": "社内炭素価格､「GX500」上位20社9割超が設定 豊田通商は3万円",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aWVNoN1ItVTJ0a090NUJQMm03UzZKTWs3NE1FSEtpeURXMU1FeUFham4ta1M4Mlc2ZUNJVzZ5aXNHQzFkaWpqSlliSlNhblFxNmF5MXp2UFVFM3hQNEZSZUVpY0hPemNkNGZxTA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-27T20:00:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "脱炭素"
+      ],
+      "summary": "社内炭素価格､「GX500」上位20社9割超が設定 豊田通商は3万円 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "d9ea83d9585a2ad4",
+      "title": "【シーホース三河 U15】「第16回豊田通商カップ 第8回愛知県 U15 バスケットボール選手権大会 2026」大会結果について",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UMGdRVHNfd2Zkb2gzU1R2RjhaSTBlZUF6eU9iWWt3eWRWVmJZUk5GRmYxZ0pwR2N3b292SE1WX01Wa0JpYlU5WldiVDZzanFuUmJEQi1xMFd2ZnAtRHFnc1JMcmxwY0c1?oc=5",
+      "source": "ニコニコニュース",
+      "published": "2026-11-27T19:30:19+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [],
+      "summary": "【シーホース三河 U15】「第16回豊田通商カップ 第8回愛知県 U15 バスケットボール選手権大会 2026」大会結果について ニコニコニュース",
+      "source_count": 2
+    },
     {
       "id": "1ad24a921b68ed73",
       "title": "11月決算で「上方修正×増配×自社株買い」の三冠達成！次の長瀬産業はどれだ 還元に本気の注目20銘柄",
@@ -339,6 +367,21 @@
       ],
       "tags": [],
       "summary": "三菱商事が示す「外部の声」と経営のつなげ方、一橋大・伊藤邦雄教授が読み解くCSEO設置の狙い JBpress",
+      "source_count": 1
+    },
+    {
+      "id": "b34d4471e8b5bf34",
+      "title": "【突進】ゼロから作る。伊藤忠流「新規事業」の育て方",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95dXVmVjhlY0kwLW4zdXloMGZmX0pkb3JZMEN1a0VDXzNTeGQweWY5YzFYTzJXa1hOQ2pmN3BmYzUyWXdhaGFlaGxGQ3hQZTR0V0Nj?oc=5",
+      "source": "NewsPicks",
+      "published": "2026-11-26T20:30:02+00:00",
+      "company_ids": [
+        "itochu"
+      ],
+      "tags": [
+        "新規事業"
+      ],
+      "summary": "【突進】ゼロから作る。伊藤忠流「新規事業」の育て方 NewsPicks",
       "source_count": 1
     },
     {
@@ -758,6 +801,7 @@
       "company_ids": [
         "itochu",
         "mitsubishi",
+        "mitsui",
         "toyotatsusho"
       ],
       "tags": [
@@ -1319,7 +1363,7 @@
         "DX"
       ],
       "summary": "ＡＩ秘書、中小企業に展開 伊藤忠系、自動で電話応対 静岡新聞DIGITAL",
-      "source_count": 2
+      "source_count": 3
     },
     {
       "id": "6215ea8f7d5530d0",
@@ -8778,53 +8822,6 @@
         "資源"
       ],
       "summary": "三菱商事、4年ぶり最高益に 資源やエネルギー価格上昇で上方修正 Infoseek",
-      "source_count": 2
-    },
-    {
-      "id": "dc6388dcb44dc1c3",
-      "title": "東京市場サマリー：日経平均大幅に3日続落 三菱商事が業績上方修正・自社株買い ＮＴＴは中間減益 日本電技は直近の７～９月期営業益減で後場下げ幅急拡大",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlTldMTUF5N0dQbWJNRW5wYzVXN2NGNHBCcnZqUFpmM25LMmg2WnRtWnh4X3drWFhUZXpySER4dG0telJBU3dFcWlFTHlueDlqSk9DLVN6U08wNVFpSmQ0YjByeFdBb1RCR1Q5MDFJSk9uRGdCUHZUTjVIOUdValU?oc=5",
-      "source": "Moomoo",
-      "published": "2026-11-04T06:57:15+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "株主還元",
-        "業績予想",
-        "決算"
-      ],
-      "summary": "東京市場サマリー：日経平均大幅に3日続落 三菱商事が業績上方修正・自社株買い ＮＴＴは中間減益 日本電技は直近の７～９月期営業益減で後場下げ幅急拡大 Moomoo",
-      "source_count": 1
-    },
-    {
-      "id": "1c92a536d713ee3a",
-      "title": "決算マイナス・インパクト銘柄 【東証プライム】引け後 … 住友商、京セラ、ＳＢＩ (11月2日発表分)",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5sSEttdkRhU3VQdGN1N0prTzNDZmU4MllkdTJRUDNISk1Nek1icHI3TlltUG1ERzZEeTZfM0kwTXIxZGlHdXc?oc=5",
-      "source": "みんかぶ",
-      "published": "2026-11-04T06:48:13+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "決算マイナス・インパクト銘柄 【東証プライム】引け後 … 住友商、京セラ、ＳＢＩ (11月2日発表分) みんかぶ",
-      "source_count": 1
-    },
-    {
-      "id": "5b6d0d7991f5ac64",
-      "title": "SCSKと住友商事、SDV車両の一括開発担う「SDVデジタルエンジニアリングサービス」提供へ",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mV2lDS29tRGtSLWI1cGloWmxtVlRLTjVTVkpIR2dYVmlHU1FLS3BNaWphdmdFTkVfWHR4ckhkUEFhakVRLTJ1Y2V1Y3l0ZzljME9YYzNkMkZ0LWd2bnpJ?oc=5",
-      "source": "千葉テレビ放送",
-      "published": "2026-11-04T06:35:06+00:00",
-      "company_ids": [
-        "sumitomo"
-      ],
-      "tags": [
-        "DX"
-      ],
-      "summary": "SCSKと住友商事、SDV車両の一括開発担う「SDVデジタルエンジニアリングサービス」提供へ 千葉テレビ放送",
       "source_count": 2
     }
   ]
