@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T03:47:17.051985+00:00",
+  "updated_at": "2026-11-28T10:40:50.462292+00:00",
   "companies": [
     {
       "id": "mitsubishi",
@@ -93,6 +93,38 @@
   ],
   "articles": [
     {
+      "id": "169b5f57ece47de5",
+      "title": "三菱商事がウズベクからタングステン調達 中央アジアの重要鉱物に力点",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EV2wzcW13ZUpXQ2Z0V2JTVmFCNF91ZGdSU3F4Z2N0S0FwZmI5U1BxN29xMzdET3RUNC1aeFhQbWlxbDFmUTRXMmhqODV2VlpZSDdTMjFJXzNCWllHekk1NnkzbEtaN08ybXlRMQ?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-28T08:15:17+00:00",
+      "company_ids": [
+        "mitsubishi"
+      ],
+      "tags": [
+        "海外"
+      ],
+      "summary": "三菱商事がウズベクからタングステン調達 中央アジアの重要鉱物に力点 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "43073bc7553cd421",
+      "title": "＜配当利回り約2.7％＞丸紅の年間配当金予想は115円→125円に引き上げ、11月の中間決算で通期の利益予想も上方修正",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBBem81RTVTTG5oTzl6d2xnWDRpaGlvR0JZZG9PWTlWcV95OU1UYUg0TWotMUgzWDVmZEJlUTRiX1V3SEZ4UVhNNHJ5Xzk?oc=5",
+      "source": "LIMO | くらしとお金の経済メディア",
+      "published": "2026-11-28T07:50:00+00:00",
+      "company_ids": [
+        "marubeni"
+      ],
+      "tags": [
+        "株主還元",
+        "業績予想",
+        "決算"
+      ],
+      "summary": "＜配当利回り約2.7％＞丸紅の年間配当金予想は115円→125円に引き上げ、11月の中間決算で通期の利益予想も上方修正 LIMO | くらしとお金の経済メディア",
+      "source_count": 1
+    },
+    {
       "id": "65d20af73dc80680",
       "title": "社内炭素価格､「GX500」上位20社9割超が設定 豊田通商は3万円",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aWVNoN1ItVTJ0a090NUJQMm03UzZKTWs3NE1FSEtpeURXMU1FeUFham4ta1M4Mlc2ZUNJVzZ5aXNHQzFkaWpqSlliSlNhblFxNmF5MXp2UFVFM3hQNEZSZUVpY0hPemNkNGZxTA?oc=5",
@@ -105,6 +137,21 @@
         "脱炭素"
       ],
       "summary": "社内炭素価格､「GX500」上位20社9割超が設定 豊田通商は3万円 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "1b01dc3519e78f44",
+      "title": "社内炭素価格､「GX500」上位企業の9割が設定 豊田通商は3万円",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aWVNoN1ItVTJ0a090NUJQMm03UzZKTWs3NE1FSEtpeURXMU1FeUFham4ta1M4Mlc2ZUNJVzZ5aXNHQzFkaWpqSlliSlNhblFxNmF5MXp2UFVFM3hQNEZSZUVpY0hPemNkNGZxTA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-11-27T20:00:00+00:00",
+      "company_ids": [
+        "toyotatsusho"
+      ],
+      "tags": [
+        "脱炭素"
+      ],
+      "summary": "社内炭素価格､「GX500」上位企業の9割が設定 豊田通商は3万円 日本経済新聞",
       "source_count": 1
     },
     {
@@ -466,6 +513,19 @@
         "脱炭素"
       ],
       "summary": "三井物産タイ法人社長「脱炭素に投資」 バンコクで政財界とイベント 日本経済新聞",
+      "source_count": 1
+    },
+    {
+      "id": "2023118d5ae88af9",
+      "title": "双日(株)【2768】：株つぶやき",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41ZHUyVlN6SXM5NG9lNE1GYmgwN2h2M1RucXlTcFB3Uk80X0ZKLTZjX2xscWpTNG9KSUNzNUFWWEVCdXJ5ZEx0YUN6dE5LSFpURVIwY0RCQ2c?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-11-26T15:55:39+00:00",
+      "company_ids": [
+        "sojitz"
+      ],
+      "tags": [],
+      "summary": "双日(株)【2768】：株つぶやき Yahoo!ファイナンス",
       "source_count": 1
     },
     {
@@ -8750,69 +8810,6 @@
         "資源"
       ],
       "summary": "三菱商事の「投資ファンド協業」始動 LNGカナダにブラックストーン 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "13130df5ee04821a",
-      "title": "決算:丸紅の純利益6300億円 27年3月期、資源好調で上振れ",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1na1k0enotRDhPLUZzbmlpN1ZRYjUyZ1dOZVoxNml4ZGRsbnF2Wk56aWhxTVo4X1BuUU1rSXFsbFJCOXZZTkZibEpjVzNJN3JaZ2Q1UjdORFN0TV9aWl9NOWliUlFOU09IbEhqMA?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-04T08:00:00+00:00",
-      "company_ids": [
-        "marubeni"
-      ],
-      "tags": [
-        "決算",
-        "資源"
-      ],
-      "summary": "決算:丸紅の純利益6300億円 27年3月期、資源好調で上振れ 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "004a1f1a19f916f9",
-      "title": "決算:三井物産の純利益1兆500億円、27年3月期に上振れ エネルギー好調",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LYTZXbVM2c0pXSXYycXdmbzhaZ29TRkFXWXU3TTJKV3NFMk4zekZCaFZUUlZPQUdaMEx3VFdNejJlY1FuXzVKb0daV2tsSDJrNTR5RC1UclkzeUJmX0VsVUFUNEdWMjV6TTJ4Tg?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-04T08:00:00+00:00",
-      "company_ids": [
-        "mitsui"
-      ],
-      "tags": [
-        "決算"
-      ],
-      "summary": "決算:三井物産の純利益1兆500億円、27年3月期に上振れ エネルギー好調 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "1a5bd87e922f01db",
-      "title": "決算:三菱商事4年ぶり最高益、今期最終1.2兆円 自社株買い１兆円",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JVVBUaUFKRjVCTHZSTEJheTFSdXBRZldqOXdMRVFMTFhPZ3hUSVEzbVNaNXNXaEYySktBOERoRDhmZm80ZkxDY1dFQ3B3bGhjZ0RiNnNEME1nbGpOaHpHazFIWml0NXVBdlhoag?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-11-04T08:00:00+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "株主還元",
-        "業績予想",
-        "決算"
-      ],
-      "summary": "決算:三菱商事4年ぶり最高益、今期最終1.2兆円 自社株買い１兆円 日本経済新聞",
-      "source_count": 1
-    },
-    {
-      "id": "a43be066ccc914b1",
-      "title": "三菱商、今期最終を9％上方修正・4期ぶり最高益更新へ",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wN0xZLWVHNFNPU21uV0tld0FINTlXa2oxdnhQdGVGdE05T3Z6VWZsRVFnQjI4STBEeV9UdmF2c3FBOE14X3pfMkZKcnF2a3A0YXc?oc=5",
-      "source": "株探",
-      "published": "2026-11-04T08:00:00+00:00",
-      "company_ids": [
-        "mitsubishi"
-      ],
-      "tags": [
-        "業績予想"
-      ],
-      "summary": "三菱商、今期最終を9％上方修正・4期ぶり最高益更新へ 株探",
       "source_count": 1
     }
   ]
